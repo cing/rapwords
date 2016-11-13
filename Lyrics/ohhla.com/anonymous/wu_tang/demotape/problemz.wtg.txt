@@ -1,0 +1,152 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan
+Album:  Wu-Tang Demo Tape *
+Song:   Problemz
+Typed by: Tha Masta
+
+* http://www.wutang-corp.com/media/downloads.php
+
+[woman] I'm sick doc, when can you help me?
+       My mind's thinkin bout shit I don't wanna think about
+[doc]   Pssh.. that's yo' problem
+
+[Chorus 4X: sample *singing*]
+Comfort me, you are this and that
+You are this and that
+
+[RZA]
+Yo, check out yo..
+I never listen to the things that my brother keeps tellin me
+Hittin up thoroughly cuz my dreams are deep felony
+Brothers on the beat have me high as I'm Brighton be
+My legend on the verge of convertin me
+Poppa be tellin me what I should be
+Grand dad talks up things that I could be
+Friends are finicky what I'm gonna be
+When no one ever asked me, what I wanna be
+A teenager house keep arresting me, big head and brothers keep testin me
+I don't understand, the way my bothers lovin me
+Outter world pushin me, inner world shoving me
+No tape out but my friends keep provokin me
+Commotion is constantly chokin me
+Havin nightmares with guilt that is hurtin me
+Tryin to avod this crab girl that is wantin me
+Somebody help me, I've gotta be free
+of the trouble of society, I have problems
+
+[Chorus 3X]
+
+[RZA]
+Now they got me out buggin, strung out on crack
+Be gettin discriminated because I'm black
+My house once was a mansion but now it's a shack
+My best friend talked about me, behind my back
+Things would change, I thought that at first, right?
+Time goes on, things got worst
+Poppa now drinking, and he hit me
+When I relayed it to my girl, she quit me
+Tryin to make a better way but it keeps holdin me
+Deadly bomb, now she is schoolin me
+My brother fightin me, neighbor dog bitin me
+What is goin down? No one is invitin me
+Be put into the parcel , it's not healin me
+Broke as sex and it's killin me
+I was a good citizen now I'm a leech
+Get some other girl to increase my grief
+My mom said that she better off without me
+No girl, no friends, who cares about me?
+Grand dad is mad, about to have a heart attack
+Grandma is worried, she may think I'm on crack
+I could collapse but I could feel myself
+Come to the conclusion, maybe I should kill myself
+You see what I'm going through?
+I have problems, what can I do?
+
+[Chorus 4X]
+
+[RZA]
+I go to sleep to keep my mind from my sorrow
+Hopin it'll be a new and better day tomorrow
+and as I sleep, I dream, rearrangin, changin all bad things
+The light is clear, my thoughts flushed loose
+Things that I do well I put it to use
+I rap, I write, I co' rock the mic
+I do things good cuz it's things that I like
+So I make the demo tape with my voice on track
+Took it to Melquan, he sent it back
+With a note attached sayin he admired me
+Made me a contract and then hired me
+Now I'm makin records, everybody praise me
+Do I get scooped man? It doesn't phaze me
+My rep is known all on the town
+I once was lost but now I'm found
+Put the pen to the fullest, brand new attitude
+To those who helped me, I give my gratitude
+Have a new girl, new friends, new ways
+Could pass the gun now I have a new thing
+It is true we all have problems
+Well reach deep down inside of yourself and you'll solve those problems...
+
+[Chorus to fade]
+
+[RZA]
+Divine Prince Master Rakeem Allah</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

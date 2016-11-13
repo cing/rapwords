@@ -1,0 +1,133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z                
+Album:  American Gangster
+Song:   American Gangster
+Typed by: ny4life33@yahoo.com
+
+[Intro]
+And you say New York City
+Uh-huh
+Put your hands together
+Young! Uh-huh
+Yeah
+Uh-huh
+Yes
+
+I'm from the 80's,
+Home of the heroine,
+Error of the hustlers, uh
+The world is my custy
+New Rich Porter
+The way I flip quarters
+Front on all these other rap artists, but me
+Momma was a mink wearer, Papa ran numbers
+So it's plain to see, where my whole plan come from
+American dream, I'm living the life still
+The way I shine is like a zillion dollar light bill
+Still I'm grinding, army jacket lining
+40 below timbs on, getting my M's on
+My best friends gone, I seen bad days
+Still find songs that I hear him on
+Getting my Mary J. Blige +Reminisce+ on
+I hear his voice in my mind, like, nigga live on
+So I get on that fly shit I been on
+Spin on corners in enzo with rims on
+But for info, puffin' on Endo-Nesia
+Give me amnesia
+I ease up, that right, I'm high nigga
+I want the sky,
+The world when I'm done
+I'm give it to my sons
+Let 'em live it up, split it up, switch it up, uh
+Sixes kit it up, man I did it up, done
+The rest of my belongings belong in the hall of fame, a list of hits next to all my names
+I came
+
+[Bridge]
+Uh-huh
+I want the sky baby
+I want the sky baby
+
+If the sky should fall
+And it all goes tomorrow, and they foreclose on the house and auction off all my cars
+Don't cry for me Argentina, I mobbed in the beamer
+Took trips abroad, got mobbed in Sardina
+In Ibiza I had pizza in the club
+Ladies know I'm that guy, they wanna piece of my love
+Now they wanna ya boy like Mike in his prime
+Billie Jean, the goddamn boy ain't mine
+And the Roc break up had the people losing hope
+Can't lie, they had Muhammad Hovi on the ropes
+Now I'm back in the go mode, back in the go-go's
+Throwing the diamond up, repping the logo
+Rose gold rose flow, I'm okay though
+What Don't kill me makes stronger than before so
+Here we go and I'm not domino
+When it all falls down, I'm like Kanye's jaw
+I might break but I don't fold, till I hold the sky in my hand
+Yeah that's my goal
+And then I bid you Freddy Adu
+Prodigal Child, y'all not ready for the fu-ture
+Then I disappear in the Bermuda Triangle
+My name will be viewed such
+Here's to the man that refused to give up
+I want the sky nigga, Chuuuuuuch</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

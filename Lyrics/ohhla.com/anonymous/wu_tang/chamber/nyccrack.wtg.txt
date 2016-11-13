@@ -1,0 +1,127 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan (RZA) f/ Thea Van Seijen
+Album:  Wu-Tang Chamber Music
+Song:   NYC Crack
+Typed by: Cno Evil
+
+[kung fu sample]
+Now, it's the master's turn though
+I'm betting in, well there's a show here
+
+[Intro: RZA]
+Watch your step, kid, watch your step, kid
+Watch your step, kid, watch your step, kid
+Watch your step, kid, watch your step, kid
+Watch your step, kid, watch your step, kid
+Watch your step, kid, watch your step, kid
+Watch your step, kid, watch your step
+Watch your step, kid, watch your step..
+Yo, yo, yo
+
+[RZA]
+We take your wizzes away, like we be called on
+Deep in space like the Millennium Falcon
+Ya'll be fools, scored like ancient Babylon
+Rabbits and turtles, all run the marathon
+Yup, ya'll paper chasing, ya'll human racing
+Who got the best basement?
+You got a 6SL, I got a SSL
+I score movies, make Supreme Clientele
+
+[Chorus: Thea Van Seijen (RZA)]
+Oh, here I am (my Wu-Tang slang is that New York City crack)
+No, can't get it near, I quit (my Wu-Tang slang is that New York City crack)
+All day, all night, what brings to you life
+For you in the world (my Wu-Tang slang is that New York City Crack)
+
+[RZA]
+Silly rabbits, trynna disrespect The Abbott
+Don't you know that we'll turn your cold body to maggots
+I got forty million records sold, some platinum, some gold
+Some we just put out to meet the tax code
+Your career will be shorter than the 21st of December
+Be one of those thousand rappers no one remembers
+While my name is carved on trophies, colleges recite my bars
+You can look up, and see my name up on the stars
+And when it comes down to that basic talent
+I got 20 little cousins that can meet your challenge
+Yo, stop and listen, and check this proposition
+Son, got lots of vision, plus lots of wisdom
+Hindsight, foresight, insight, out of sight
+Some try to imitate, but they are not alike
+They only piggy back, have a Digi Snack
+That Wu-Tang slang is that New York City crack
+
+[Chorus]
+
+[kung fu sample]
+We're just dealing, of a man
+Tough take before you
+A cryptic to your power
+The reason why we slept and spared your son's life
+Was to give you faith
+Thank you, man, thank you
+You fight well, the hand must reach to the sky
+Save the best for me, and have perfect breathing
+Good breath control, you know of these
+
+[Chorus]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

@@ -1,0 +1,154 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Blige, Mary J. f/ Notorious B.I.G, Puff Daddy
+Album:  What's The 411? - The Remixes
+Song:   What's The 411? (Remix)
+Typed by: dallas@gdi.net
+
+[Puff Daddy]
+Oh shit (what's that man)
+I don't know kid, I think it's a party going on
+Oh it's the remix
+Check it, yeah muthafuckas
+What we about to do right about now
+We gonna get kinda funky
+I am the Puff Daddy
+And I'm rolling with my man Biggie Smalls,
+Mary J. Blige and J-C from Jodeci
+And we about to do something new
+And we about to
+Check it, say what, say what
+
+CHORUS:
+[Biggie]
+Hey yo, what's the 411, hun
+(What's the 411, hun)
+I know you got it going on
+(Hey yo, I got it going on)
+
+[Biggie]
+As I sit back relax
+Steam a blunt, sip a Becks
+Think about the sexy singers that I wanna sex
+I'd probably go to jail 
+For fuckin Patti Labelle
+Ooh Regina Belle, she'd probably do me swell
+Jasmine Guy was fly
+Mariah Carey, kinda scary
+Wait a minute what about my honey Mary
+The jeans they fittin like a glove
+I had a crush on you since Real Love
+Hold your horses
+I'ma show ya who the boss of intercourse is
+Sex, I'm takin no losses
+Even groups like SWV and TLC
+Can't see B-I-G with telepathy
+The recipe, a picture hardcore with a gun
+Pimpin ain't easy but it's always fun
+When it comes to nuts, I bust'em one by one
+So what's the 4-1-1 hun
+
+CHORUS
+
+[Mary J. Blige]
+Yeah nigga, what makes you better than the next nigga
+Seen you last week in your black ass car, freak
+You try to play like Mr all of that
+But now you wanna come to me with some chit-chat
+I don't have no time for no wham-bam thank you mam
+Gas me up, get me drunk and hit, then you scram
+The same old shit you pulled last week on Pam
+I'm not having it, no I'm not having it
+You got to do a lot more of this, that how it be
+I'm Mary Blige and you just ain't running up in me
+I need a man who's looking out for some security
+So come correct with some respect, and then we'll see
+So if you with it, then rock the 7-digits
+And I might just give you a call (Damn)
+If you ain't with it then don't waste your time at all
+Biggie Smalls, and you don't stop
+
+All my love dreams that I've had
+And my dreams are very special
+All my life I've looked for you
+And you make the dream come true
+You make me another you
+Love like this is kind of special
+Things you seem to do devine
+This is ours to combine
+I know our love must make a begining
+Love is life and life is living
+
+[Puff Daddy]
+I like, the sexiest muthafucka
+And I want to bust the 411
+'94 is here
+We gonna have something new for you on this next album, man
+Yeah, we gonna have something new for your asses
+We going to keep it funky
+Yeah, it's a Bad Boy thing
+My man Raj on the remix tip
+Yeah, big shouts to the uptown crew
+Ugh, to all the people in the Bronx and nation
+Funk nation that is, that recorded the album
+My man Busta Rhymes, my man Grand Puba, check it
+Ugh, yeah, Flip Gray in the house
+My man Buttnaked, Tim Dawg, ugh</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

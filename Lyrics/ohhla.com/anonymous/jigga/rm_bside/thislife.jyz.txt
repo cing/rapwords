@@ -1,0 +1,150 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z
+Album:  The Black Gangsta soundtrack
+Song:   This Life Forever
+Typed by: TR1N1T@aol.com
+
+Uh-huh
+Blackhand Ent.
+Roc-a-Fella Records
+In association with the streets
+The Black Gangster
+In conjunction
+With everything official
+Yeah
+
+I ride throught the ghetto windows down halfway
+Halfway out of my mind music on 9, blasting Donny Hathaway
+Me and my niggas spending half the day
+Plotting, how we gon get this math with out getting balst away
+I wake up to the same problems after today
+Life is harsh, niggas gotta ?
+Right from the start they place me in the ghetto tender age of nine
+I tend to mine and to surrender to crime
+Wouldnt wish this on nobody like the end of like mine
+Ever since i was quite young a nigga been in divine
+Had to scratch for every plaque, rap aint even all its cracked up to be
+Niggas dont stack up to me
+Had to hustle in a world of trouble 
+trapped in, clostrophobic the only way out was rapping
+America dont understand it, the demographics i tapped in
+I'm the truest nigga to do this nigga and anything else is foolish
+Like those who stay high, under God's grey skies
+My lyrics is like Bible, made to save lives
+In the midst of all your misery nigga, stay fly
+Never let em see you frown, even smile when you down
+Shit, i floss on my off-days fuck what they all say
+Niggas cant stop me like rumors, i'm too strong 
+All-day
+Socks explode and sweatpants pockets is bulging
+Holding it down on the corner with my glock holding
+My spot is golden, drop the price on the coke and
+Drove the competition out and let the dough flow in
+The cops is closing in, i can do the time 
+But whats really on my mine, is there's no hoes in the pen
+I play the low and try and make it hard to find me
+Feds still tryna build a case since '93
+I told them, i'm retired but they like whatever
+You know them pigs dont wanna see you get your life together
+
+Chorus:
+I'm stuck in this life forever
+The more things change the more they stay the same
+Who am i to change the game?
+You gotta move quick like her-o-in and dope can
+The blocks hotter than its ever been
+
+
+Once again
+Hold the gun at eye level, i aint afraid of conflict
+I let the nine rip, nigga say "hi" to the devil
+I blind with the bezel, i'm in line with the ghetto
+What yall nigga afraid of my mind or the metal
+Niggas tryna subtract my life, my mathematics is precise
+I carry the nine, so fucking with me just aint the answer
+I cant lose when i was young i was like Fresh
+Poppa raised me to chess moves
+And though your gone i'm not bitter you left me prepared
+We got divided by the years, but i got it from here
+Dont sweat that, sounds bump from Marcy to Lefrak
+To that pocket in DC where my man caught his death at
+Over my years i've seen Rooks get tooken by the Knight
+Lose they Crown  by tryna defend a Queen
+Checkmate, in 4 moves the Bobby Fischer of rap
+??? in a time where we all move
+Lets face it either your dough chasin, or basing
+Lacing, cops got your face sprung like mason
+Careful, any infultration i'm leaving niggas 
+Leaving more than just information
+
+Chorus
+
+Uh
+Real shit
+The Black Gangsta
+Blackhand Ent.
+Roc a Fella
+Never interrupt this thing of ours
+The Black Ganagsa
+Jigga
+Hova
+Roll with me</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

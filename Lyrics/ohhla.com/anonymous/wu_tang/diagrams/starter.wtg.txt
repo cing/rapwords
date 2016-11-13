@@ -1,0 +1,149 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan f/ Streetlife, Sunny Valentine, Tash Mahogany
+Album:  8 Diagrams
+Song:   Starter
+Typed by: Tha Masta
+
+[Chorus: Sunny Valentine] + (Tash Mahogany)
+She's my number one gangsta chick (my starter) She's my number one starter chick
+She's my number one drafted pick, she's my number one line on the hit
+I only wanna see it (my starter) It's truly needed, When the ball drops...
+Anything she say, you know I'm gonna do (my starter)
+Watch out, watch out, when that ball drops...
+
+[Streetlife]
+You'se a starter, like Candace Parker
+Take flight like Skywalker, might wolf it on ya father
+Student Athlete, player of the week
+G.P.A. 4.0 and her game's complete
+Skintone buttercream, all defensive team
+Dreamgirl like Jennifer Hudson, you're my Queen
+To be, I'm ya King, keep ya under the wing
+Together we can capture the ring
+You the human highlight, body type, just right
+Hairdo stay tight, go hard ball all night
+All-star shine so bright
+Hall of famer, about to take the game to new heights
+You're my number one draft pick, McDonald classic
+No look dunks to the basket
+Yeah, yeah, that's mine, that's mine...
+
+[Chorus]
+
+[GZA]
+Blunt smoke, fifth hundred stroke
+I'm going nuts, full clip, shoot up her fat lips
+And round butt, catch Heat when I'm In Too Deep
+The answer beeps, she take dives on the busiest streets
+Whatever situation or the circumstances
+Outdoor, indoor, she's taking the chances
+Hotel, motel or Holiday Inn
+Overlooking that bible, she continued to sin
+Spread wide on the desk, paperwork all in a mess
+While the ceiling fan blowing her dress
+Ten minutes of jerking along with the slurping
+Her skirt hid her talent until I raised the curtains
+Showtime at the Apollo, she'll follow my lead
+Then get on her knees, then swallow her pride
+Strapped and ready to ride
+
+[Chorus]
+
+[Inspectah Deck]
+Yeah, that's my down bitch
+That's my down bitch, anything she do for her man
+If it's lying on the stand, fish frying in the pan
+She a Queen like Liz the third, wicked curves
+On her word, stay still, rocking linens and furs
+While she do it in the sack, jazz music in the back
+Flat blew a nigga back, act two, I'm into that
+Damn right, she the star of my team
+When we stepped on the strip, baby girl, we the heart of the scene
+Whether Brooklyn, Bronx, Manhattan or Queens
+Staten Island, she styling, if not, she's not seen
+Playboy status, every man's lust
+She acting all shy, but she likes handcuffs
+
+[U-God]
+I'm the first on the court, first to hit the dance floor
+The floss in this rap sport, what more can ya ask for?
+Let ya glass pour, Wu-Tang is here now
+All my Independent Women, time to let ya hair down
+Bottles popping, everything is fair ground
+Fresh legs, window shopping, can't help to stare it down
+You'se a starter cuz I chose ya first
+Baby, you'se a starter, where you throw that skirt
+Lady, you'se a starter, where ya hold it down
+Yeah, I'm Cold Blooded, then ya love my style
+This is rush hour traffic, first one to merk off
+It's like clockwork, first to get ya work off
+I'm the workhorse, Killa Bee performer
+Pro darter, starter, not a bench warmer, what?
+
+[Chorus]
+
+[Outro: kung fu sample]
+You've learned how to kill
+Every moved you've learned is trained to that end
+Yet, we wish to preserve life
+The first thing to learn, is that difference
+Then you can start training with us, from the beginning</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

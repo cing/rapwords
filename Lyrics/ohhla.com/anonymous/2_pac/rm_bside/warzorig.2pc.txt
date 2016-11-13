@@ -1,0 +1,128 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac f/ Outlawz Immortalz
+Album:  The Chronic 2000 (Unreleased)
+Song:   Secret of Warz (Original Version)
+Typed by: westbingmanson@gmail.com
+
+Verse 1 [Hussein Fatal]
+
+Let go my enemies, my heart beat, pump with the heat
+so I bust instead of waiting for you punks to squeeze
+see you all on my 3 pound rounds, since you conform
+bit the fact that Outlawz just kick down these doors
+bitch niggas be fouling out, hacking me with the wack rhymes
+grabing ya .9, shooting scared, tryin' to take mine
+I'm putting pressure on you niggas when I'm mobb
+deep bringing the heat to you dirty ass squad
+you can robb, point blank range, peek game
+from the pleasure, taminated criminal Hussein
+bitch nigga I try to project steps with the Tek
+murder next, and robb any nigga any set
+Hussein, the type of muthafucka dying with trey pounds
+ghetto type be drown, hollow points from the waist down
+
+[Chorus]
+
+We go to war bust if we must, plus
+handle our business if them jealous niggaz fuck with us
+We go to war bust if we must, plus
+handle our business when them jealous niggaz fuck with us
+
+Verse 2 [2Pac]
+
+Now, as I approach the scene, from smoking green, got my eyes close
+niggas I call 'em my foes, I make 'em die froze
+watch me make 'em bleed, makin' G's, Lord help me with it
+got me fakin' bitches of a meal ticket, help me get it
+see me in and pray for options, when the precious love stop
+niggas get to pistol poppin', then watch the body drop
+I'm a lethal weapon, watch me hit yo set, flash on
+blast on them bitch made niggas with my mask on
+do it for profit, plus I'm, lookin' for punks to bust on
+if you ain't screamin' WestSide, nigga get the fuck on
+I'm seeing demons hittin' weed, got me hearing screams
+scared to go to sleep, I bust the scene like a dope feen
+probably be punished for it, although you can't ignore it
+I live the life of a thug nigga, and die for it
+niggas past the clip and watch me bring 'em to the floor
+I got some shit that they ain't ready for, I got the secrets to war
+
+Chorus
+
+Verse 3 [Young Noble]
+
+Check the middle, represented, niggas is finished
+gettin' blood checks from cliniks, this thug shit is hence
+blowing through my system, you a victim, plus I twicked 'em
+fuck the whole world, it's us against them
+you got the heat?, pull it out, and cock the hand if you with it
+don't make no different since, with the 25 to Life sentence
+we already doing life on the street, like Al G
+niggas be heated when they walking the beat
+this shit flasy, makin' bad shakey niggas hazy, scared to face me
+knowing that the Outlawz be crazy
+put me up on game, put me up on a hustle
+once I flex my money musle, all the cheese gotta go
+movin' shit like a dalie, beatin' niggas like Rodney
+turn a killer like Kadafi if the new street is sobby
+
+Chorus: til fade</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

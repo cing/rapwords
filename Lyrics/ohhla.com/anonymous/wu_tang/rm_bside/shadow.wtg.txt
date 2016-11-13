@@ -1,0 +1,148 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan
+Album:  Ghost Dog Soundtrack
+Song:   Fast Shadow
+Typed by: Nature2QBC@aol.com
+
+[Method Man]
+I'm sayin, you-could-you could just come over top of that shit...
+Did I hear it?
+Nigga and bang your head, PUNK!!
+
+[Ol' Dirty Bastard] *in background repeating*
+SUCK A DICK!!! 6x 
+SUCK MY DICK!!!
+
+[Method Man]
+And it don't, it don't, it don't, it don't, it don't, it don't
+It don't, it don't, it don't, it don't stop!
+It all starts wit the pad and pen, shall we begin
+To burn bush in this rap session, once again
+On the run be the Black Stallion
+Now you fuckin wit Ticallion, hmmm
+Iron Lung, boy me can done, army of one, blaze yo' bun
+I'ma get you none, accept challenge AHH!
+Run a mile wit a racist, they iced it, I aced it
+Placed it, right up in their face till they faced it
+Hard to the dome like a chrome microphone
+I'm ba-ba-ba-ba-ba-bad to the bone to the bone
+Danger zone, that's my life and my song
+Keep it movin, hop along little doggies!
+
+[Ol' Dirty Bastard]
+Uh uh uh, FUCK YOU!!!
+Drive The Mack Cadillac
+Dark shade the window all sunny and black
+Pitch antenna back of the car
+Inside is a TV, even a bar
+Bulletproof down, safe and sound
+Chauffeur in the FRONT just to drive the Lexus all around
+Give ya, give ya, give ya body a ride, nice and warm inside
+Come to the Dirt Dog as the tummy rise
+*Laughs* Enter
+
+[RZA]
+Yo yo my Wu-Tang cliff'll make your atom split
+The power of my brain, you can't fathom it
+Whoever go against the will of the grain will get slain
+Don't EVER say thy God name in vain
+My third eye electronic dragonfly spiral observe
+Can record your words 
+And your lies and approach you
+And have my Dogs come and Ghost you
+When it comes to the bread son, the heat will toast you
+
+[U-God]
+Music makes me lose control
+This is not just rock and roll
+Hip hop digs right to the soul
+Music makes me lose control
+Wu-Tang, now we on a roll
+On a rise, now here we go
+Guaranteed to flip the show
+RZA beats is outta control
+Outta control, outta control, outta control
+Outta control, now here we go
+
+[Masta Killa]
+Yo who got that nigga gassed like he can't get skimasked
+Abducted from his doorstep
+Dufflebag his head for the price of nothin
+He's a glutton
+What I'm manifestin each day is a lesson
+Ya'll faggots, came to the School of the 36 Chambers
+Copied on papers of scholars that earn dollars
+We trendsetters in Wu leathers, trendsetters in Wu leathers, whatever
+
+Chorus [U-God] 2x
+Music makes me lose control
+This is not just rock and roll
+Hip hop digs right to the soul
+Music makes me lose control
+Wu-Tang, now we on a roll
+On a rise, now here we go *Skip next line on the second time of chorus*
+Music makes me lose control (2x) 
+
+Guaranteed to rip the show
+RZA beats is outta control
+Outta control, outta control, outta control
+Now here we go</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

@@ -1,0 +1,157 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Tupac Shakur ~ Outlawz
+Album:  The Rose Vol. 2 *
+Song:   When Ure Heart Turns Cold
+Typed by: compbuttons@hotmail.com
+
+* Poems written by Shakur as ~ interpreted by other artists
+
+[Spoken poem]
+When your heart turns cold
+It causes your soul to freeze
+Spreads through your spirit
+Like a ruthless, villain disease
+The walls that were once down
+Now stand firm and tall
+Safe from hate, love, pain, joy
+Till you feel nothing at all
+When your heart turns cold
+A baby's cry means nothing
+A dead corpse is trivial
+Mothers neglecting children is daily
+Lonliness becomes your routine friend
+Death seems like tranquility
+Sleeping is never pleasant if you even sleep at all
+We forgot our deals and turn off the reason
+Till the product is sold
+You don't understand how I behave
+Wait till your heart turns cold
+
+[Verse 1]
+Know my cold heart turns warm at the front door
+Love my family, love my Outlawz
+But when I step outside I feel my blood freezing
+Question if it's a blessing that 'm still breathing
+Sometimes I wonder if I'm better off dead
+They say God don't make mistakes but what if he did
+But what if he didn't
+So I'm supposed to be living this life that I'm living
+And feeling how I'm feeling
+Black rain shower, the pain builds character
+My heart turned cold, yeah I learned to be a scavenger
+Listen, no love received and no love given
+Don't blame us blame the hate that you gave the children
+
+[Verse 2]
+No remorse for life and y'all forced to fight
+In the event of my demise I hope God's the guiding light
+In hind's sight, I'm lost, misguided by lies and truths
+Confused bout what to do, refer to smoking, drinking brew
+We be the hearts of the heartless, riding few from the bunch
+Bosses have falled, bosses have caught you don't be the next one
+Sleeping never pleasant even if you sleeping at all
+The reason that I'm breathing is I'm an example for y'all
+
+[Hook]
+When your heart turns cold
+It causes your soul to freeze
+Spreads through your spirit like a deadly disease
+When your heart turns cold
+You feel nothing at all
+A baby's cry means nothing at al
+When your heart turns cold
+A dead corpse is trivial
+And death seems like tranquility
+When your heart turns cold
+I thank God above
+Through the pain, hate, joy, and love
+When your heart turns cold
+
+[Verse 3]
+Your soul is numb, your days are numbered (Cold)
+Your kids cold, get old and younger (Cold)
+Your lonliness becomes your only homie
+So your sorrow all alone is just for your eyes only (Yeah)
+The world against you and the odds are stacked (They stacked)
+Your pockets short and your girls a wreck (That bitch)
+Lose a piece of you survive all that
+Plus you young and you black, it's hard enough being that (Yeah)
+Your mom gone ain't nobody never cared (Yeah)
+You call your mom but nobody never there (Shit)
+Now it's on, you need a way up out of here
+You click on some be next shit
+
+[Verse 4]
+When your heart turn cold that's when the heat go off
+And the means die slow, that's how the streets show off
+Cemetaries filled with vicitms those with cold hearts
+Deep in the dark when the pistols spark
+My life one big movie of strife
+Scene after scene filled with nothing but sad dreams
+No wonder my heart pumps ice water
+Gotta live according to the lessons that life taught you
+Lonley is the road of a tortured soul
+Who only knows the roles of a heart turned cold
+Caught in the middle when the pistols blow
+That's how it go when your heart turns cold
+
+[Hook]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

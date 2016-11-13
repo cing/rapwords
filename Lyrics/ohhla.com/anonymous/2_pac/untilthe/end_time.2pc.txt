@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac *
+Album:  Until the End of Time *
+Song:   Until the End of Time
+Typed by: ja_rule@lowrider.com
+
+* - Chorus sung by RL on (Disc One), Richard Page on (Disc Two)
+
+[2Pac]
+Perhaps I was addicted to the dark side
+Somewhere inside my childhood witnessed my heart die
+And even though we both came from the same places
+The money and the fame made us all change places
+How could it be - through the misery that came to pass 
+The hard times make a true friend afraid to ask - for currency
+But you could run to me when you need and I'll never leave
+Honestly, someone to believe in, as you can see
+It's a small thang to a true, what could I do?
+Real homies help you get through
+And come to knew he'd do the same thang if he could
+Cause in the hood true homies make you feel good
+And half the times we be actin up call the cops
+Bringin a cease to the peace that was on my block
+It never stops, when my mama ask me will I change
+I tell her yeah, but it's clear I'll always be the same
+Until the end of time 
+
+[Chorus]
+So take, these broken wings
+I need your hands to come and heal me once again
+(Until the end of time)
+So I can fly away, until the end of time
+Until the end of time
+Until the end of time
+
+[2Pac]
+Please Lord forgive me for my life of sin
+My hard stare seem to scare all my sister's kids
+So you know, I don't hang around the house much
+This all night, money making got me outta touch, shit
+Ain't flashed a smile in a long while
+An unexpected birth worst of the ghetto childs
+My attitude got me walkin solo, ride out alone in my lo-lo
+Watchin the whole world move in slow-mo
+For quiet times disappear, listen to the ocean
+Smokin 'Ports, think my thoughts, then it's back to coastin
+Who can I trust in this cold world?
+My phony homey had a baby by my old girl
+But I ain't trippin I'm a player I ain't sweatin him
+I sex his sister, had her mumble like a Mexican
+His next of kin, no remorse it was meant to happen
+Besides rappin the only thing I did good was scrappin
+Until the end of time
+
+[Chorus] - 2X
+
+[2Pac]
+Now who's to say if I was right or wrong?
+To live my life as an Outlaw all along
+Remain strong in this planet full of player haters
+They conversate but Death Row full of demonstrators
+And in the end drinkin Heneessy made all my enemies envy me
+So cold when I flow eliminatin easily
+Falls to they knees, they plead for they right to breath
+While beggin me to keep the peace (haha)
+What I can see closer to achieve
+In times of danger don't freeze, time to be a G
+Follow my lead I'll supply everything you need
+An ounce of game and the trainin to make a G
+Remember me, as an outcast Outlaw
+Another album out, that's what I'm about, more
+Gettin raw 'til the day I see my casket
+Buried as a G while the whole world remembers me
+Until the end of time
+
+[Chorus]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

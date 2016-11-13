@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Kendrick Lamar f/ Pharrell Williams
+Album:  To Pimp a Butterfly
+Song:   Alright
+Typed by: kirenamloh@msn.com
+
+[Intro]
+Alls my life I has to fight, nigga!
+Alls my life I... Hard times like, "God!"
+Bad trips like, "God~!" Nazareth
+I'm fucked up, homie you fucked up
+But if God got us, then we gon' be alright
+
+[Chorus: Pharrell Williams]
+Nigga, we gon' be alright
+Nigga, we gon' be alright
+We gon' be alright
+Do you hear me? Do you feel me? We gon' be alright
+Nigga, we gon' be alright
+Huh? We gon' be alright
+Nigga, we gon' be alright
+Do you hear me? Do you feel me? We gon' be alright
+
+[Kendrick Lamar]
+Uh, and when I wake up
+I recognize you're lookin at me for the pay cut
+But homicide be lookin at you from the face down
+When Mac-11 even boom with the bass down - SCHEMIN!
+And let me tell you 'bout MY life
+Painkillers only put me in the twilight
+Where pretty pussy and Benjamin is the highlight
+Now tell my momma I love her but this what I like, Lord knows
+20 of 'em in my Chevy, tell 'em all to come and get me
+Reapin everything I sow, so my karma come
+And heaven, no preliminary hearing, so my record
+And my motherfuckin gang stands silence for the record, uih!
+Tell the world, I know it's too late
+Boys and girls, I think I've gone crazy
+Drown inside my vices all day
+Won't you please believe when I say
+
+[Pre-Chorus]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ]
+Wouldn't you know, we been hurt, been down before... nigga!
+When our pride was low, lookin at the world like, "Where do we go?"... nigga!
+And we HATE po-po, wanna kill us dead in the street for sure... nigga!
+I'm at the preacher's door, my knees gettin weak
+and my gun might blow, but we gon' be alright
+
+[Chorus]
+
+[Kendrick Lamar]
+What you want? You a house? You a car?
+Forty acres and a mule? A piano, a guitar?
+Anything, see, my name is Lucy, I'm your dog
+Motherfucker, you can LIVE at the mall
+I can see the evil, I can tell it, I know when it's illegal
+I don't think about it, I deposit every other zero
+Thinkin of my partner put the candy painted on the Regal
+Diggin in my pocket, ain't a profit big enough to feed you
+Everyday my logic, get another dollar just to keep you
+In the presence of your chico -- ah~!
+I don't talk about it, be about it, everyday I see cool
+If I got it then you know you got it, heaven, I can reach you
+Pet dog, pet dog, pet dog, my dog, that's all
+Pick back and chat, I trap the back for y'all
+I rap, I black on track and rest assured
+My rights, my wrongs I write 'til I'm right with God
+
+[Pre-Chorus + Chorus]
+
+[Outro]
+I keep my head up high
+I cross my heart and hope to die
+Lovin me is complicated, too afraid a lot of changes
+I'm alright and you're a favorite, dark nights in my prayers
+
+{"I remembered you was conflicted, misusing your influence
+  Sometimes I did the same, abusing my power full of resentment
+  Resentment that turned into a deep depression
+  Found myself screamin in the hotel room
+  I didn't wanna self-destruct, the evils of Lucy was all around me
+  ...So I went runnin' for answers"}</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

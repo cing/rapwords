@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Kendrick Lamar f/ Javonte
+Album:  Overly Dedicated
+Song:   Opposites Attract (Tomorrow, W/O Her)
+Typed by: newos_crib_is@hotmail.com
+
+{*female crying*}
+
+[Kendrick Lamar]
+Uh, yeah *3X*
+Uh
+We hurt people that love us, love people that hurt us
+Hurt people that love us, love people...
+I'm inspired, so get inspired
+
+And so he said, why you gotta be so kind-hearted?
+Why you couldn't be a con-artist? Why you couldn't
+Why you couldn't be mischievous or just a lil' devious
+the moment that we first started?
+Why you never ask for nothing, just a lil' time?
+Why you let me use yours cause I don't got mines?
+Why you always lift me up when I'm completely giving up?
+Or when niggas holler what's up, you give a dry response?
+Why you giving me your last, knowing you ain't got it?
+Why you always buy me something when you going shopping?
+Why you tell me that you love me? Why you always thinking of me?
+Want my company rather than going club hopping
+Why you treating my momma like she your momma too?
+Why you making promises that you'll forever do?
+Whatever just to make me happy, wanting us to have a family
+These are exactly the reasons why I cheat on you, sometimes
+
+[Chorus: Kendrick Lamar] + (Javonte)
+We hurt people that love us, love people that hurt us
+Hurt people that love us, love people that hurt us
+Hurt people that love us, love people that hurt us
+Hurt people that love us, love people that hurt us
+(Sometimes I, sometimes I feel we share
+ nothing in common, it ain't fair
+ But where do we seem to fall?
+ Where do we seem to fall?
+ Tender love and care, once upon a time
+ Once upon a time, we was there)
+
+[Kendrick Lamar]
+And so she said, why you gotta be so mean to me?
+Why you don't know what you mean to me?
+Why you always playing games? Why I feel like you ashamed
+out in public, curse me out and make a scenery?
+Why you got other bitches rolling their eyes at me?
+Why text messages popping up saying hi daddy?
+Why you treat me like I'm nothing? Why you always at a function?
+I be wanting to go out but you don't never ask me
+Why you slip and say her name when we having sex?
+Why you always assuming that I still love my ex?
+Every time we get into it, I'm the one that's feeling stupid
+You don't need me, you gon' leave me, that's your favorite threat
+Why you never know how it feel to be lonely?
+Why I feel I'm the last option after your homies?
+Why you always gotta know that I will never let you go
+even though you get violent and put your hands on me? Sometimes
+
+[Chorus]
+
+[Outro: Lamont Carey "She Says She Loves Me"]
+She says she loves me, she says she loves me
+so she clings to me even when I want to be left alone
+But she's beautiful
+Like sometimes when I have things on my mind, she's the perfect person to listen
+and she only gives advice, she says when I give her a cue
+She says she loves me
+Like when I wake up in the morning
+she's sitting on the edge of the bed with a plate of food, wanting to feed me
+She says she needs me, she says she loves me
+Or like when I'm stepping out of the shower
+she's standing there with the towel, wanting to, wanting to dry me off
+She says, she says she loves me
+So instead of admitting that she has made another mistake
+she says, she says she loves me
+And I don't know about love</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

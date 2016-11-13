@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Aesop Rock
+Album:  The Impossible Kid
+Song:   Lazy Eye
+Typed by: AZ Lyrics
+
+(Super fresh)
+
+My spirit animal comes with a pretzel bun
+Troll of the treadmill
+Record on the Kessel Run (allegedly)
+Edgy from elevensies to megabucks
+Techies with the treble down
+This is how we level up
+Dead meat, time travel, pressure, and disease
+Ass ushered out of two fingers pecking at the keys
+The coping mechanism in his LMNOPs
+Went from healthy to unhealthy to a hell he never leaves
+Cineplex jesus, curse at the curly fries
+Mullin' over Chuck D, telling me, "Diversify"
+I'm at the SuperCuts supin' up the wardrobe
+Forecast looking like Ganesh on four phones
+"Hello, hello, hello, hello"
+Base camp, space camp
+Bass in your face-fuck, brace for the rain dance
+Back in the back of the classroom
+After a magical nap in a vacuum
+
+Act natural, whatever that means for ya
+Whatever that means for ya
+Whatever that
+Ah (Fresh)
+
+Before climbing douchebag mountain, I was skate or die
+Started eatin' kale and came to terms with my lazy eye
+Puttin' on the yoga lady, cuttin' off the cable guy
+Whistle while you're waiting for your condition to stabilize
+AV cables everywhere, every piece of vinyl scratched
+Mentholated tiger balm, Aleve with the arthritis cap
+Irons in the niacin, iron choir riot masked
+Unabashed privacy expanding into simulcast
+40 winks, never the same adventure
+Refreshing with a sing-a-long of stexicism ever
+In the end, gotta wonder if it's even worth the effort
+No stairways into heaven, you can step into the Escher
+Some people have mistaken my allegiance for a weakness
+It fucked me up for eons, I wish there was a theist
+The type that fake his death then forget he faked his death
+Show up on TV, in the crowd at the AVNs, like...
+
+Act natural, whatever that means for ya
+Whatever that
+(Fresh)
+
+Sometimes I feel my heart putrefying inside my body
+From diary of the dark to piety in the ponzi
+On my better days and then mingle and walk off into the poppy
+On my worst, work is overshadowed by the monty
+Had to buy some clothes that fit me
+And pretend I like agave
+With a promise to his congress not to compromise the motley in him
+Maybe I should kinda sorta move to Mars
+I'm feeling kinda done, too many moving parts
+The piss poor vision is forty percent floaters
+The kitchen is a chorus of glorious leftovers
+The friends you confessed all the dark shit to
+Would weaponize the information before we could send roses
+And they want a little pearl in how he got to where we at
+I can't remember where I am, I feel it's probably a trap
+Balk with the lawless, cough in his notes
+Walk on even when the walls hug his coat
+
+Oh and act natural, whatever that means for ya
+Whatever that means for ya
+Whatever that means for ya
+(Fresh)</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

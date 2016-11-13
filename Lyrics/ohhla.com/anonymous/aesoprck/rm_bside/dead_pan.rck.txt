@@ -1,0 +1,133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Aesop Rock
+Album:  Definitive Jux Presents 2
+Song:   Dead Pan
+Typed by: Supermanman77@hotmail.com
+
+This be the dawning of the age of dead water
+Stitchin every b-boy fragment
+Somebody live enough to bust through the belly with a fist up
+This is a right now generation murdered by the fan base
+This is adored by the writers-Dead water
+With a still force activated
+No I'm not feelin alright
+
+Formed by the village of badness and bad karma
+Punched by the stagnant water gate threw the fickle back
+But by the window's still three nickels in a piggy bank
+Caught her with her head up funny stomach from the hunger pains
+Flashed automatic b-boy with big visions
+In a matchbox apartment adjacent a crooked starship
+Who better nation a million's the only remedy
+Nine dizzy planets with a bullet riding centerpiece
+Take Me Through The Gates
+I'm bout as sick of burning find the hottest slacker in a visionary costume
+Con artist kamikaze conduct
+Warm for a second to the minute he whored herself to disaster
+I recognize the cankers by the mechanical stagger
+As opposed to the skip of big brother bad slapper
+Theologies who need to keep the cookies caffeinated
+like a mad hatter that'll sleep now, ask after
+Calibrate the happy scale when he's soakin
+wet with a mouthful of dead ideas and see if it tipped zero
+Stripped ego, tall stories of broad glory
+ I'll be god while you're still living life on a full 40
+Or maybe I'll be gramacin, homes poor, broke and lonely
+Hidden by my billygoat beard and cardboard monstrosity
+I drink a bad glass of gumption
+Not bad meaning bad, but bad meaning disgusting
+Wildchild activater activate sludge enough to dungeon for a accolade and wild ones
+I committed wild murder, went through the city
+with a wild merger, woke up in a wildstyle burner
+Space case, boom box, hate tapes, no lemonade breaks (sweat), no cheddar in labor days
+Right now, im here to break a point of big system plus my screen
+I was never cursed in a russmeyer bixon
+Spit sob stories to confront my dick addictions
+Of the dirty basement at the graves of Salem witches
+Driving my stake through the face of painstaking business (checkmate)
+But I scream Misery (better breath take)
+Out of sleep, lifted up lobotomy, little Jackie paper
+and a magic dragon sack of dirty shrubbery
+I'll be the ugliest version of paranoia
+kingpin set in motion by the secondhand pressure
+Some get excited when the sun folds under
+Some get excited when the summer hits the pavement
+Some get excited when the bullet hits bone and a board
+I'll escape through the train yard and sleep till it's broken
+
+[same old]
+
+This be the settling of debt of warm water
+A mobile b-boy function
+Somebody mad enough to cut apart the curtain with a fist up
+This is the dagger in the 88 magnificent memorial
+This is the heater to a movement-dead water
+When I broke fifth and got sparks
+No I'm not feelin alright
+
+This be the windshear dodgin dead water
+Solitary b-boy wonder
+Somebody fresh enough to reinvent the court with a fist up
+This is the funky outline around a classic breakbeat
+This is an agitated moment-dead water
+With a burnt future, beaten, ugly
+No I'm not feelin' alright</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

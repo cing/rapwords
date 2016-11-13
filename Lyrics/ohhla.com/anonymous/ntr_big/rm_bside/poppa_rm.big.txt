@@ -1,0 +1,147 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Notorious B.I.G. f/ Jermaine Dupri
+Album:  Big Poppa 12"
+Song:   Big Poppa (Jermaine Dupri Remix)
+Typed by: OHHLA Webmaster DJ Flash
+
+Verse One:
+
+To all the ladies in the place with style and grace
+Allow me to lace these lyrical dooches in your bushes
+Who rock grooves and make moves with all the mommies
+The back of the club, sippin' Moet is where you'll find me
+The back of the club, mackin hoes, my crew's behind me
+Mad question askin', blunt passin, music blastin'
+But I just can't quit
+Cause one of these honies Biggie got to creep with
+Sleep with, keep the ep a secret why not?
+Why blow up my spot cause we both got hot
+Now check it, I got more Mck than Craig and in the bed
+Believe me sweetie I got enough to feed the needy
+No need to be greedy, I got mad friends with Benzes
+C'Notes by the layers, true fuckin players
+Jump in the Rover and come over 
+tell your friends jump in thje GS3, I got the chronic by the tree
+
+Chorus:
+
+[ I love it when you call me big pop-pa] x3
+Throw your hands in the air, if youse a tru playa
+To the honies gettin money playin niggas like dummies
+If you gun up in your waist, don't shoot up the place
+Cause I see some ladies tonite who should be havin my ba-by,
+baybee, uh
+
+Verse Two:
+
+Straight up honey really i'm asking
+Most of these niggas think they me mackin', but they be acting
+Who they attractin' with that line
+"What's your name, what's your sign?"
+Soon as he buy that wine, I just creep up from behind
+And ask you what your interest are, who you be wit?
+Things to make you smile, what number to dial
+You gon' be here for a while, I'm gon' call my crew
+You go call your crew
+We can rendezvous at the bar around two
+or three o' clock, Lil Ceas pull the truck up out the parking lot
+Roll the blunts cause he like to spark a lot
+So we can steam on the way to the telly go fill my belly
+A T-bone steak, cheese eggs, and Welches grape
+Conversate for a few, cause in a few, we gon' do
+What we came to do, ain't that right boo( truuuue)
+Forget the telly, we just go to the crib
+And watch a MOOVAE
+In the JUCUZAE, BAY-BAY
+
+Chorus
+
+Verse Three
+
+[Jermaine Dupri]
+How does a true playa live?
+[B.I.G.]
+Nigga, Versace down
+Donna Karan, Diamonds glarin'
+Niggaz starin'
+Now I got my pants draggin
+In the Benz wagon, Raggin' sippin' D.P.
+On my way to D.C.
+The biggest willies
+Smokin' phillies
+Tying skunk together
+Junior M.A.F.I.A. forever
+Thuggin to say youngin and you knows that
+I step in where the Mo and the Hoes at, BABY 
+Niggaz know the better on the Coogi sweater
+Butter leather , chrome beretta see
+You know who that nigga be
+
+Outro: Jermaine Dupri
+
+Shit you ain't know, ha ha, That's the stride for ninety-five Baby
+Straight up playerlistic mentality
+You just do your thing, Cause i'm definintley gone do mine
+And we gon' hook up a lil later and do thing you never heard of
+Can you feel me?
+
+Chorus</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

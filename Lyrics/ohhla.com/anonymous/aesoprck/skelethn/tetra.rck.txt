@@ -1,0 +1,138 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Aesop Rock
+Album:  Skelethon
+Song:   Tetra
+Typed by: AZ Lyrics
+
+Don't fool with his cool
+
+I turn a staff to a snake and back, evade crack
+Shake a 5150 in shades and a fake stache
+Dirtbike made of 5 worse bikes, uphill
+Tabletop frames on dutch tilt, crush kill
+MakerBot coin-op arcade punk
+Talkin' arcane science, dark age pulp
+Four eyes card face, bark Aes iron on [?]
+Pork rinds orange age, Jarred brains die alone
+No Mulligans, crow bars bird cage
+Cold, colonize Mars on Earth day
+And surface from the cellar door like worms into the petrichor
+Messenger, better get a vessel for a Tetris score
+Zilch, cowabunga homies call me "press ignore"
+Devastating energy exploding off his Tesla coil
+Farm baited breath and tempermental tremors
+That taught a man to wave with 10 percent of his fingers
+And I never lost tic tac toe to a live chicken
+For the footage, I'm off cam dynamite fishin'
+For diamondback rattles in his holy grail
+Evoke colony collapse via gross betrayal
+3 wolf moon shirt, two shoes one sock
+Wore the same hoodie everyday like Mumm-Ra
+Buh-dum-bum, follow the regenerated rebel flesh [?]
+Out of sorts, out of water, suicidal tetra fish
+Who stood by the conviction in his we should be together less forevermore
+Before we are the severed heads of civil war
+And basing [?] radio ricochet off the silver foil
+Trash can fire looking for a kill to grill or spoil
+Quickly, purveyors of fine hijinks
+I know, this is why we can't have nice things
+I prefer to skip the pleasantries
+Flip the diner table, dip in time for final jeopardy
+
+No shit
+Oh and don't fool with his cool
+Ma, can we get a pool?
+... Is that a no?
+
+Okay, magpies, Hoarders, and allied forces
+Who lick zig-zags being dragged by horses
+Transcribe stories in patterns of pins dropping
+Skinned boars and exaggerated limb-lopping
+Slow Mozart, no I've never heard a knocking
+Might've burst in on it, splits or skin popping [?]
+Opt out, sober on the eve of no saints day
+Locate and aim for the token propane tank
+Bang! Followed from a pulling of hair
+To a homecoming sullied by a skull on a spear
+It spun a human resources issue to public affair
+Reciprocity is a pestilent compulsion to bear
+And ultimately unfulfilling, concurrently that rigid upper lipping grudge or crippling [?]
+The wonder twins are bitching
+Armchair hater, I wouldn't piss on your coffin
+But when I see your picture I draw dicks on it
+The ozone breakaway tux
+Holds chicken wire ribs and paper mache guts
+Pipe cleaner mustache, fork hands, google eyes
+Macaroni gas face, no plan to humanize
+You are now rockin' with the worst
+Nothing up his sleeve, nothing here is what it seems
+Paranormal weather, mysteriously disappearing bees
+Not to mention the collateral delirium it breeds
+Jeez, forgive him and he dicey past
+He from a tiny town called Deaths Icy Grasp
+And he don't get out much but when he do it's beetlemania
+Do not be asleep at the feet of his feelers radius
+Too charitable, offerin' the average joe some real estate
+Between the big mouth billy bass and jackalope
+Cozy in a moment of bliss
+Snatch the food off your plate, snatch a goat off a bridge
+No shit</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

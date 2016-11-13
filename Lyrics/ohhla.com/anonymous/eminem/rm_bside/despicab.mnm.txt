@@ -1,0 +1,114 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Eminem
+Album:  Despicable 12"
+Song:   Despicable
+Typed by: Nickolye16@aol.com 
+
+  {*beat from Drake's "Over" plays*}
+
+[Eminem]
+Uhh, uhh, haha
+Nah, fuck an intro man, let's just go
+
+I come around like what goes around, what goes up must come down
+Anyone who comes up must go down, might as well go for the gusto now
+Better not let up, better not let them breathe, last shot give it all you got
+Try to turn me down bitch get fucked with a volume knob, fuck all you snobs!
+Hoes I hope all you rot
+Two bottles of Lubriderm and a box of condoms, is that all you brought?
+And you want a ménage-à-trois you twats?
+Fuck that, I'd rather turn this club to a bar room brawl
+Get rowdy as Roethlisberger in a bathroom stall, like a leech stuck in a vacuum y'all
+Ain't nothin but a whole lot of suckin goin on in rap, yeah but I'm home
+Bad to the bone, back in the zone, let him alone, you don't wanna go eggin him on
+It'll never be my chair that you own - crown so tight that it cuts off 
+circulation to the brain, no oxygen, other words there's no "air" to the throne
+When I die so does hip-hop, Hitchcock better shit bitch ass doc, got it Ziploc'd
+in a bag, you fags ain't been able to fade me since Kid Rock had a high top
+Keep bloggin while I'm mind-bogglin, I zone like I'm in the twilight dog get off
+my bone, this is my mic doggone it, I like hoggin it
+Flow so wet I'ma take this beat tobogganin, I'm water-loggin it
+I'm soggin it, pull your verse out the beat and stomp on it
+Suplexin it on cement, like I'm on some "Straight Outta Compton" shit
+Take this dick and chomp on it, I'm so bad I can bitch-slap a back-handed compliment
+Jackass eat a donkey dick, the game I just about conquered it
+Like Donkey Kong I'm bonkers bitch, I'm the king of this honkey shit
+I reign supreme in this honkey shit, no sense screamin and arguin
+Makes no difference whether a Benz or Bentley or a Beamer's the car you in!
+  {*beat changes to Lloyd Banks' "Beamer, Benz, or Bentley"*}
+You think you ball well I'll palm it, I'll throw up bars when I vomit
+Boy I throw down in the kitchen, might hit your mom with my omelet
+But you got egg on your face, now watch me drop an atomic
+I should be strapped to the chest of a kamikaze bitch I'm as
+bat shit as Ozzy, it's obvious you can tell right off the bat
+No pun intended but come any closer I'll bite off your head!
+Tryin to give me the finger's kinda like givin a spider the web
+I'm just gonna spin it and try to use it to my advantage
+I catch a fly in that bitch, you think you fly you just food
+I give as much of a flyin fuck as that Superman dude
+Guess I just do what you can't do, I'll make you look stupid and bamboozled
+Confused as usual and you can get ripped, she can open a can too
+But you better hope you can handle the heat or stay the fuck out of hell's kitchen
+I came to cock-block, like a square fuckin male chicken
+Yeah, it's Shady slut, the rest can suck on a big one
+Cause I'm as despicable, as Daffy Duck when I'm spittin
+Ha ha, "Recovery"</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

@@ -1,0 +1,160 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac
+Album:  Best of 2Pac Pt. 2 - Life
+Song:   Dopefiend's Diner
+Typed by: exlax_max@hotmail.com
+
+[Verse 1]
+Late night coolin' with my homies
+drinkin' Hennessey and cold brew
+After smokin', stopped in Oakland
+got the munchies for some soul food
+So we stopped to get a bite to eat
+at the local bar-b-q
+It's just another boring Monday
+and there's nothing else to do
+Now as we stepped out of the car
+I heard someone behind me fighting
+So I turn to look and find out
+what's the cause of this excitement
+The brother was a dopefiend
+and the other was a dopeman
+and the dope man had an AK
+said he'll spray and he's not jokin'
+Well it seems to be the dopefiend
+owed the dope man for his product
+And he swore if he did not pay
+he would end up getting shot up
+Now I could not walk away
+cause I got caught up in the scene
+Wondering what would happen to this
+poor and helpless fiend
+Well my homie, Michael Cooley
+said let's go and make our order
+What's the use in watchin' two men
+stand out here fight over quarters
+While I walked inside the diner
+and all the Dope Fiends waived to me
+Heard the sound of several gun shots
+and I ran outside to see... (What's Going On?)
+
+[Chorus]
+Another gun shot rings (What's Going On?)
+Another siren sings (What's Going On?)
+Another mother cries (Yo what's Going On?)
+Cause another innocent died (Yo what's Going On?)
+
+Another gun shot rings (What's Going On?)
+Another siren sings (What's Going On?)
+Another mother cries (Yo what's Going On?)
+Cause another innocent died
+
+[Verse 2]
+All the people in the diner
+ran outside to see the big show
+It was just another party
+for them to see just who they would know
+but for me I held concern
+I wanted to see the outcome
+Would the mother see her son tonight
+or would she live her life without one?
+I made it to the streets I
+almost cried right on the spot
+Not only had the fiend died
+but a small girl had been shot
+My heart could take no more
+I felt a tear roll down my face
+That was daddy's bullet
+but she took it in his place
+
+[Chorus]
+
+[Verse 3]
+Tried to make my way through the crowd
+so I could go help the baby
+She could barely speak
+but she whispered
+Mister could you please save me
+So I screamed out, someone help me
+but I dont think they could hear
+and if they did, they didn't care
+Oh how I hated everyone there
+The baby lie here dying
+and I wondered what could I do
+The camera men and newspapers had come
+to get their interviews
+To them it's just a story
+and they can't see the tragedy
+To them it doesn't matter
+cause it ain't it wasn't their family
+I don't think I'll be back
+cause it'll never be the same here
+So I wipe away the tears
+and leave the scene the way I came here
+Though some people say it's crazy
+and the food could have been finer
+I'll never forget, never forget the night
+at Dopefiend's Diner
+
+[Chorus]
+
+Do, do, do, do, do, do, do, do... (Repeats until song fades out)</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

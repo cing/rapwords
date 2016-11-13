@@ -1,0 +1,133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac, The Assassin
+Album:  3 Beam Circus (Compilation)
+Song:   Real Bad Boyz
+Typed by: smofty@onemain.com
+
+Thug Life! Comin' str8 out the West Coast,
+Real Boy Killaz!
+2Pac with the Assassin! And we ridin' for the West Side!
+
+Bad Boy, Bad Boy whatcha gonna do?
+Whatcha gonna do when we comin' at you??
+Bad Boy, Bad Boy whatcha gonna do?
+Whatcha gonna do when we comin' at you??
+Bad Boy, Bad Boy whatcha gonna do?
+Whatcha gonna do when we comin' at you??
+Bad Boy, Bad Boy whatcha gonna do?
+Whatcha gonna do when we comin' at you??
+
+[2Pac]
+I got these bustaz on my block, and they after me
+Runnin' round tellin' these niggaz, how they goin' capture me.
+It's gettin' krazy, it's hard to make my mind up
+Now should I bucm em' down and put my .9 up?
+Ya see, I ain't a Bad Boy, jus' a boy that had it bad
+I graduated frum .22's to .357 mags.
+Runnin' on these marks for they stash and I ain't askin
+Givin' up or get the blastin'.
+The penitentiary don't scare me
+A str8 thug nigga...hoes say they'll take care of me.
+And tell me who the fuck you goin' find?
+Rough enough to tell these bitch niggaz this is mine
+Now busta meet my .9!
+20 role on the grind, I'm sick about mine and uhh
+Ain't nutin' wrong wit' gettin' high.
+A hustlin' ass nigga from the projects
+I'm makin' loot, screamin' Thug Life, nigga when I shoot.
+They made me a (badboy!)
+
+(hook)
+Bad Boys can't stop Thug Life, westside when we ride, one time!
+Bad Boys can't stop Thug Life, we gotsta keep on thuggin'!
+Bad Boys can't stop Thug Life, westside when we ride, one time!
+Bad Boys can't stop Thug Life, we gotsta keep on thuggin'!
+
+Fuck Bad Boy!
+
+[the Assassin]
+I'm screamin' wet side ridah when when we and in a hoo ride
+Suicide til the day we die, gettin' high!
+Frum the Bay to LA, drinkin' Tanqueray and da Alize
+When we stay on the blocks, slangin' rocks, runnin' frum cops.
+When we runnin', we comin', and gunnin' and you get done and
+In the city wit' no pity, down wit' Thug Life, we doin' it live!
+Everytime we side on you trick made bitches.
+Packin' a .45, recognize the game in yo' set
+Betta jet when I get you wet, wit' intention a' do or die
+Homicide, genocide to the other side
+When we glide wit' my nigga Pac we bustin' em niggaz
+On the block wit' Gangsta-D back up me you real OG
+Comin' up outta the 7 Trees.
+Strick .9 to the LHD
+We claimin' to bring we make em fiend
+For the fact we havin' em stack on the map
+For the city of Sac al the way to the Jo' when we stroll
+Poppin the mos, outta killa California, str8 loc westcoast!
+
+(hook)
+Bad Boys can't stop Thug Life, westside when we ride, one time!
+Bad Boys can't stop Thug Life, we gotsta keep on thuggin'!
+Bad Boys can't stop Thug Life, westside when we ride, one time!
+Bad Boys can't stop Thug Life, we gotsta keep on thuggin'!
+
+Hahahaha!</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

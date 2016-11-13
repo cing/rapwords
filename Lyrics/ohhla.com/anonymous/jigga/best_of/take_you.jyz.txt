@@ -1,0 +1,132 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z & R. Kelly
+Album:  The Best of Both Worlds
+Song:   Take You Home With Me a.k.a. Body
+Typed by: OHHLA Webmaster DJ Flash
+
+[Jay-Z]
+Uh, uhh uhh, Kel's
+Young, M, X, tra, money, let's go
+
+[Chorus 2X: R. Kelly] + (Girl)
+Girl you know you got a body-adi-adi (do you like it?)
+Where you get your little body-adi-adi (do you want it?)
+Girl I wanna freak your body-adi-adi (what you want it?)
+I just wanna take you home with me
+
+[Jay-Z]
+She get it from her momma..
+You can't tie a sweater over that ass, or hide it in pajamas
+We lay back, blowin ganja
+DVD, she make it hard to watch a flat TV - WHOA
+I crept up behind her
+Mami threw it like a quarterback, I caught that like Rice
+I call mami Montana, bandana
+Tied her hands up - this is gangsta love
+Threw on a rap CD, we gangsta fucked
+This ain't R&B smooth, I ain't a R&B dude
+Poured a glass of Army, got mami in the mood
+Then she stripped for me like the "Moulin Rouge"
+I think I might wife her
+Y'know, powder blue Roc-a-Wear suit, white Nike her
+Add mami to the cypher
+R.O.C. for life cuz, the gang motherfucker
+
+[Chorus]
+
+[R. Kelly]
+I make ya hotter than the next bitch - no need
+for you to ever sweat the next bitch - with speed
+I make the next bitch see the exit - indeed
+Gotta know you're ver-ily respected - by me
+You get the keys to the Lexus - but no drive
+You get your own 2002, she through ridin
+Keep yo' ass tighter than Versace
+That's why you gotta watch yo' friends
+You gotta watch me, they connivin shit
+See I just wanna freak your body-adi-adi
+I know you don't do this for everybody-adi
+But everybody ain't as horny as me
+And your body's - callin, me...
+
+[Chorus]
+
+[Jay-Z]
+Uhh, yeah
+Mami shot through the pad with the Mark Jacobs bag
+The thick stitched seam and her favorite ass jeans
+Y'all know the first date wearers
+to make objects bigger than they appear like a rearview mirror
+Oh her shoe game is real
+She gave 'em the Christian Libountins(?) with the four inch heels
+But honestly my favorite type of gear
+is a scrungy for her hair and LaPearla underwear, clear?
+
+[R. Kelly]
+Girl I hear you callin, let's stop stallin
+Do what we came to do
+Girl I hear you callin, let's stop stallin
+Baby I want you, yeah
+
+[Chorus]
+
+(TrackMasters)</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

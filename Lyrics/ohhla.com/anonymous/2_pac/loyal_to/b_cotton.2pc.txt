@@ -1,0 +1,154 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2pac f/ Eminem, Kastro, Young Noble (Outlawz)
+Album:  Loyal to the Game
+Song:   Black Cotton
+Typed by: ohojanggoon@hanmail.net *
+
+* send corrections to the typist
+
+[Intro: 2Pac]
+Black Cotton
+Black Cotton
+Black Cotton - A symbol for unrewarded struggle
+Time for a little gospel tail
+Ghetto gospel that is- listen
+Robbin' Black Cotton in God's eyes
+Speak
+
+[Verse One: 2Pac]
+Black Cotton
+Steady stressin' Smith and Wessons count my blessin's
+Class is in session the worst question is the first question
+Why do we work like slaves sweatin' blades to an early grave
+Never got paid but still we slave (In the nine tre')
+Answer that then answer this too-
+Loves gonna get ya you know it's true life's a bitch true
+You best to backtrack and try to act black and live
+Not to be phony and positive but why be negative?
+What's the matter G? Black cat got your tongue
+Fat track gotcha sprung now your hung (Do ya feel me?)
+Dum dum diddy is it me?
+Attempt to reach each and every brother on the streets
+If not peace then at least let's get a piece
+I'm tired of seeing bodies on the streets- deceased
+Lookin' through my highschool yearbook
+Reminiscin' of the tears as the years took
+One homie, two homie, three homies - POOF
+We used to have troops but now there's no more youth to shoot
+God come save the misbegotten
+Lost ghetto souls of Black Cotton (In God's eyes)
+
+[Chorus: Eminem]
+Nobody don't care
+(No matter how hard I try/Look to the sky/--?)
+Nobody don't care
+(Seems like my dreams/Drowned in by screams/No answer to my questions)
+Nobody don't care
+(Feels like I'm pressed/Why do I stress?/It's like I'm being tested)
+Nobody don't care
+(Seems like my prayers/Vanish to thin air/Please answer my questions)
+Nobody don't care
+
+[Kastro: Verse Two]
+In the belly of the beast I'm bubbling up
+Running out of luck, about to self destruct
+Old heads say live your life like such
+Your sure to catch her witcha one day boy
+I wouldn't listen to 'em
+Your power movement was cool
+But it ain't fix nothin'
+So I just go with what I know
+I don't trust none
+Look what the 80's did
+To what's Bebe's kids
+And now we grown up
+Nobody ain't own us yet
+
+[Young Noble: Verse Three]
+Black cotton, I'm plottin' --
+I'm workin' without a profit
+They shacklin' all my homies
+I'm hurtin' but keep the mind
+??
+certainly we survive with Outlaw Ridas
+What's the reward for a strugala
+If the lord lovin' us then why they hate to see us comin' up
+Runnin up, Gun cocked like nasty gloves
+If you ain't got a penny, mind the glove
+No love
+Waitin' for my 40 acas and a blunt to blaze
+Biblicle times good hearts with milita minds
+Black Cotton - I'm hoppin' over enemy lines
+Black Cotton - I ain't stoppin' till they givin me mine
+Black Cotton
+
+[Chorus repeat 2x]
+
+Nobody don't care
+(No matter how hard I try/Look to the sky/--?)
+Nobody don't care
+(Seems like my dreams/Drowned in by screams/No answer to my questions)
+Nobody don't care
+(Feels like I'm pressed/Why do I stress?/It's like I'm being tested)
+Nobody don't care
+(Seems like my prayers/Vanish to thin air/Please answer my questions)
+Nobody don't care</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

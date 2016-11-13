@@ -1,0 +1,122 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan f/ Junior Reid
+Album:  The W
+Song:   Jah World
+Typed by: wukillerb@hotmail.com
+
+[Junior Reid]
+Him speaketh in tongues into the hearts of all flesh
+Yeah stanyoi
+Whoi
+
+[Ghostface Killah]
+Oh God, I beg for forgiveness
+So help me Lord, yes I beg for forgiveness
+Deep in my heart, please, I'm crying for forgiveness
+Allah U Akbar, I fall to my knees for forgiveness
+Branded by the steel iron, bullets flying
+Ladies being hit through wickedness, I'm losing my grip
+I thought we lived by the books, The Bible, Koran
+We pick cotton, my back is still hot and dark and
+They threw burners in our babies' faces
+Pale hands that looked scary touched our bodies in the strangest places
+Sweat from the white man's head
+Fell on our daughters as she cried, giving white man head, almighty
+Alrighty, niggaz is screwing
+God won't you tell me why these ho niggaz is screwing?
+I'm sorry father, sacrifice me, leave me wife
+Sacrifice me twice, so my kids can see paradise...
+
+[Junior Reid]
+So we heed our god king sellasie I, jah rastafari
+who is seated in zion and reigneth in all
+In the hearts of all flesh
+Whoa wow
+Let my task oh jah with them that strive with me
+Fight against them Whoa wow that fight against me
+Whoa wow
+Take hold thy shield and rock and stand up for my health
+Oh jah, oh jah, only you can comfort me
+La la la, la la la la la, la la la la
+La la la whoi stand out
+
+[RZA]
+Curse to the wicked snakes who try to snatch the truth away
+Cursed be the ones who try to take our youth away
+Peace to the black, the brown, the red, yellow, and white seed
+We don't discriminate man over color/creed
+They tried to snatch up our beats, son, and steal our culture
+and German Catholics, whitewashing Roman sculptures
+How dare you try to deny Allah's intelligence?
+Kidnap the truth, and destroying the black evidence
+
+[Junior Reid]
+Glory be to the father
+Glory be to the son (Glory be to the holy one)
+Glory be to the holy one
+The holder of creation whoi
+As jah was in the beginning is now and forever shall be
+Jah world
+Jah world without end whoi
+So we heed our god king sellassie I, jahova god, jah rastafari
+Who is seated in zion and reigneth in the hearts of
+In the hearts of all flesh whoi</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

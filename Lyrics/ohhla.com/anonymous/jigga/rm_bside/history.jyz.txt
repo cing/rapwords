@@ -1,0 +1,144 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z
+Album:  History (Single) *
+Song:   History
+Typed by: michael_w515@hotmail.com 
+
+* cut from retail release of "The Blueprint 3"
+
+[Chorus] (Jay-Z)
+Now that all the smoke is gone (lighta)
+And the battle's finally won (gimme a lighta)
+Victory is finally ours (lightas up)
+(lightas up) History so long so long
+so long, so long
+
+In search of victory, she keeps saluting me
+If only we can be together momentarily
+We can make love, and make history
+Why won't you visit me, until she visit me
+I'll be stuck with her sister, her name is defeat
+She gives me agony, so much agony
+She brings me so much pain, so much misery
+Like missing your last shot, and falling to your knees
+As the crowd screams, for the other team
+I practiced so hard for this moment victory don't leave
+I know what this means, I'm stuck in this routine
+Whole new different day, the same old thing
+All I got is dreams, nobody else can see
+Nobody else believes, nobody else but me
+Where are you victory, I need you desperately
+Not just for the moment, to make history
+
+[Chorus] (Jay-Z)
+Now that all the smoke is gone (lighta)
+And the battle's finally won (lightas)
+Victory is finally ours (yeah)
+History so long so long (yeah)
+(yeah) So long, so long
+
+So now I'm flirting with death 
+Hustling like a G while victory wasn't watching took chances repeatedly
+As a teenage boy, before acne, before I got proactive I couldn't face she
+I just threw on my hoody, and headed to the street
+I swear I met success we lived together shortly
+Now success was like lust, she's good to the touch
+She's good for the moment but she's never enough
+Everybodys had her, she’s nothing like V
+But success is all I got, unfortunately
+But I'm burning down the block, hoping in and out of V
+But something tells me, there is much more to see
+Before I get killed, cause I can't get robbed
+So before me, success and death ménage
+I gotta get lost, I gotta find V
+We gotta be together, to make history
+
+[Chorus] (Jay-Z)
+Now that all the smoke is gone (lighter sup)
+And the battle finally won (lighter up)
+Victory is finally ours (lighters up)
+History so long so long
+So long, so long
+
+Now victory is mine, taste so sweet
+She's my trophy wife, your coming with me
+We'll have a baby, who stutters repeatedly
+We'll name him history, he'll repeat after me
+He's my legacy, son of my hard work
+Future of my past, that'll explain who I'll be
+Rank me amongst the greats, either one two or three
+If I ain't number one, then I've failed you victory
+Ain't in it for the fame, that dies within weeks
+Ain't in it for the money, can take it when you leave
+I want to be remembered, long after you breathe
+Long after I'm gone, long after I breathe
+I leave all I am, in the hands of history
+That's my last will, testimony
+This is much more than a song, It's a baby shower 
+I've been waiting for this hour, history of ours
+
+[Chorus x2]
+Now that all the smoke is gone
+And the battle's finally won 
+Victory is finally ours
+History so long so long
+so long, so long</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

@@ -1,0 +1,143 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z f/ Foxy Brown
+Album:  Vol. 2... Hard Knock Life
+Song:   Paper Chase
+Typed by: OHHLA Webmaster DJ Flash
+
+[Foxy Brown]
+Uhh, uhh, uh-huh
+Uhh (paper chase)
+Bonnie n Clyde
+Y'all motherfuckers know how it's goin down
+(gotta get that paper y'all)
+That's right, uhh
+(Uh-huh uh, yeah, Roc-a-Fella, yeah
+ Paper chase y'all, paper chase WHAT? Uh)
+
+Greyhound bitch, stay down bitch
+Bout to set up shop with Jay, round this bitch
+Half a brick of yea, bout to lay down this bitch
+(til November?)  Nah, I'm here to like slay down this bitch
+What you think?  I don't wanna have to spray down this bitch
+Call my whole team, from around the way down this bitch
+I'm tryin to stay down this bitch, play down this bitch
+Had a sound, so my nigga Jay drown the six
+Roll the windows down and, weight round this bitch
+But there's a couple things 'fore it's OK round this bitch
+Gotta talk to the natives, let em know I'm here 
+for all to get the paydays, first I line up all the haters
+I got jobs for ya, drop stars for ya
+More arms than Green Bay's Brett Favre for ya
+Money providentials hope that's not a problem for ya
+If so, Jigga be here, day after tomorrow for ya (That's right!)
+
+Chorus: Foxy, Jay-Z
+
+[F]	Gotta get that paper dog
+[F]	Gotta touch that, love that, paper dog, uhh!
+[J]	Gotta get that paper dog
+[J]	Gotta have that grab that paper dog!
+[F]	Gotta get that paper dog
+[F]	Gotta spend that, bend that, split that, get that
+[J]	Gotta get that paper dog
+[J]	When I needs that, G stack, tell me where the weed's at?
+
+[Jay-Z]
+I got my two guns, I came to scoop ones
+A down ass bitch and she down to click
+Got a nice little hooptie that I get around with
+And my plan is, not to leave this town til I'm rich
+Gotta find a nigga sellin all them ounces and shit
+Tell them get down with the click or get found in a ditch
+See I drop down and strip, I turn around and spit
+Not to hit em, just to let em know the sound of shit
+Return later that evening in the club with Fox
+And I got the snub nosed for those that love to box
+I'm in search of them young niggaz that hug the block
+all day, til it's like gray outside
+Shoot dice talkin shit all day outside
+And even when it's hot, they outside
+Let em know, how it's gon' go, Bonnie n Clyde
+And aiyyo, you will want me on your side
+
+Chorus
+
+[Jay-Z]
+Yo, yeah, I got that stress and I got it the best
+I ain't got it to give but I got it to test
+And if you wanna get down, all you gotta invest
+is your time, I gotta move this in a, week or less
+For the next couple of days I brought her all I posess
+The Rolex, necklaces with the VVS
+Twin to drive in the passenger with a TV rest
+For my top draft picks I cop the new GS
+Now all the little soldiers wanna roll with my team
+Cause I ain't sold em a dream, I just showed em the cream
+Picked em up in the afternoons and told em some things
+You know the regular shit you do when you moldin them teens
+Yo, never lay your head where you holdin them things
+From family, to your business, nothing goes in between
+Never feared no man, put four in his Beem
+Drop your gun then, blow the scene, ya heard me?
+
+Chorus
+</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

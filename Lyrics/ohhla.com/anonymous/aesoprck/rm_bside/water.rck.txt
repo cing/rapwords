@@ -1,0 +1,148 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Aesop Rock
+Album:  Euphony - Atoms Family
+Song:   Water
+Typed by: princepaul@hawaii.rr.com, jr788@nyu.edu
+
+[Aesop Rock]
+The water ain't safe, the land's made of mortar
+I hug a half empty glass my dignity's trying to corner
+I'm trying to see the future in a tea cup and a saucer
+But I rather be drinking coffee with my cigarette foster
+Can a run-away buckle the cloud-nine fantasy filter 
+To force the brutal truth of daily marketplace wars through the roof?
+I mean, I stood beneath the icicles that bleed under the awning
+And magically mastered the great absorbing of spirit falling
+But I'm sick I've plowed these fields a thousand times over
+Sold botanical research studies to farmers with whole quarters
+And when science proposes to art besides that peaceful sea
+I'll be that cat with a ring on a pillow shouting finally
+Take a number, the apple seeds raineth upon your slumber
+A hundred thousand freaks on parade for the village hunter
+My every whim acted upon has gone loopy
+But I play a game called let's prepare barnacle city for the end-all noosings
+I split the radius of go-getter bellies, reconnaissance
+Sleeping fossil genie bottle optimist freeze
+Run for the fountain but the fountain is a desert optical tease
+Tummy full of sand running man impossible stop
+There's a wing in my gut and I'm all dust
+Surfing the urban Ididaride, certainly flushed
+Now one in the hand is worth two atop the tallest cedar
+But what lies inside my heart is off the motherfucking meter
+
+[Chorus]
+See the Water ain't safe no more
+"I'm just trying to build my self to act as a truly better man damn"
+See the water ain't safe no more
+"Nah nah the water ain't safe no more"
+I'm just trying to be a solid oak tree for every child to carve its name across
+"The water ain't safe no more"
+I'm just trying to be the dream of ever peasant the hurricane can offer
+"I'm just trying to be some body I can talk to in the morning with a smile"
+The Water ain't safe no more..
+
+[Verse Two]
+And I've always been a 40 night chronologic hostage
+Rusted hook in the lip of the monarch
+Wingless Anime
+I don't play in the man race cycle
+Hope floater
+Gloating inside carnal indifference till doom cops a slot 
+And potent quotas
+I'm 20 something pumping acrylic tomorrow sideways
+Blazing passage with a map tattooed on the back of the classless
+Now tip-toe across a lost cause
+Because a lost cause found
+Don't mean you found a cause
+That means you found a lost cause
+Ok now I've been here for role playing
+Slaying my here and now
+To benefit consumption for my peers steering the plow
+And it's incredible
+Handy jackets turn numerals to sentinels
+But bad apples ain't sweet 
+And cretins acts ain't that memorable
+I'm Mozart with a focus on the tide
+Hiding the inconsistencies of man behind water and wine
+I wear a tiger striped ego and bilbo act my progression
+Where the kindlings formulated through the flesh of the oppressors
+Now, God had a flask I can prove it
+You really think the 13 loops that used honor 
+Spawned me a sober unit? check potion
+Addressed the ghost inside my TV with a ruler
+Adhered to the back bone, stone pusher
+Here ten thousand hackers deep in the movement
+That's 20,000 crucial ruby heels clicking in unison
+It's beautiful, truly beautiful
+I keep a stick inside my hand
+And carve my name inside every wall of the falling hologram
+
+[Chorus]
+See the Water ain't safe no more
+"I'm just trying to build my self to act as a truly better man damn"
+See the water ain't safe no more
+"Nah nah the water ain't safe no more"
+I'm just trying to be a solid oak tree for every child to carve its name across
+"The water ain't safe no more"
+I'm just trying to be the dream of ever peasant the hurricane can offer
+"I'm just trying to be some body I can talk to in the morning with a smile"
+The Water ain't safe no more...</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

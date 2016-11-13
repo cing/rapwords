@@ -1,0 +1,125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z
+Album:  Kingdom Come
+Song:   I Made It
+Typed by: garenbingham104@hotmail.com *
+
+* send corrections to the typist
+
+I told you Ms. Carter... here we are
+
+(Mama I made it)
+You know how I do it like the doc do it I fly through it
+That's how I operate (Mama I made it)
+Ghetto like the grease when you getting ya hairbraided
+Sweeter than ya Sister kool-aid is
+Hooray!!  It's the underdog now my feet
+On the desk I'm the Presidential favorite
+Can't believe I got away with
+My earliest stages to being on stages
+Having my way with the world Congratulations !!
+Your baby boy's a made man I'm a hold the fam down like three generations
+I'm talking when spaceships are around and ya great-great grands
+Reminiscing bout the foundation you gave em
+For repairing my relationship with my pops before he passed
+All I ask is you raise your glass in this celebration
+Toast to the most beautiful girl in the world
+My inspiration thanks for the information
+
+[Chorus]
+Mama I made it... Mama I made it
+
+Out in BK where
+It aint everyday that you make it out
+Be on top of yachts waving
+I remember you saving for the light bill paid the rent with the light bill
+Now our crib dark as a basement
+Had to lock up the phone when you wasn't home
+We was communicating like the money you made wasn't basic
+Our cable was basic no HBO WHT just Ralph Mcdames on the station
+I aggravated you for Atari and Colico vision pin stripe Lee's
+When the first day of school came in
+I was ok with not having everything
+long as Saturdays you had the commodores playing
+The expression on your face was priceless
+Still with me till this day baby girl I won't erase it
+I go to my grave with the memory of the sacrifice you made
+You deserve a standing ovation
+
+[Chorus]
+
+Now your lil ms. Fit make sure everyday is Christmas write out your wish list
+6's wrist is glistening you don't even like jewels
+But you could get missing anyway you like to
+Where the waters light blue anything you order
+Sign it to your nice room leave a extra tip ma be extra nice to em
+Ceo of carter foundation Wow!!!
+I know pop looking down I know Carlique somewhere up in the clouds like
+Go get em grandma make me proud
+Didn't have a man in the house so you made one
+So I act like your husband and I'm only your son
+I told you one day I'd get you a home
+I didn't know it could possibly be in Rome
+Told me don't wait on nobody get your own
+So with me myself and my microphone I made it
+
+[Chorus] </pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

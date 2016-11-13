@@ -1,0 +1,143 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z f/ Beanie Sigel, Lil' Mo, Memphis Bleek
+Album:  The Dynasty Roc La Familia
+Song:   Parking Lot Pimpin'
+Typed by: OHHLA Webmaster DJ Flash
+
+[Jay-Z]
+Yeh, it's that knock right here
+You fuck around not have the right speakers in your system
+your shit be soundin like this {*funny sounds*}
+
+Big thangs, thick chains, ain't shit changed
+Get brain in the four-dot-six Range
+Shit mayn, switch lanes
+Every town I hit you switch lames, bitch flip big 'caine
+
+I givin 'em whiplash when I'm whippin the whip fast
+Which one?  Pick one nigga, I got a six stashed
+Continental T's, no tense like I got a thick stab
+Big cigar, old money, when I drop it it's so funny
+Six-four switches, slam doors on 6's
+Big trucks when I wanna fuck and it's time to get ass
+I turn automobiles to hotels on wheels
+I got money for a room it's just the fact that I'm trill
+Bitches love when I cruise up the boulevard
+They have contests to guess which car I'ma pull out the yard
+They know I, come for dolo and pull off with a broad
+Spin away, spend a day tryin to pull menage
+Just mackin this gorgeous; sunlight hit the ice it's flawless
+Run lights like I'm the king of New York, I'm lawless
+Bitches, they wanna hang like plaques in the office
+Cause I push black Porsches, Benz's and Jaguars-es
+When the rag's off it, gat on my lap, I'm that cautious
+Never trust grimy-ass New Yorkers
+'Specially when you're sittin on 20's they get nauseous
+Standin in the Azure with white Air Forces
+
+[Chorus: Lil' Mo]
+You can catch me in the parkin lot
+Hollerin at bitches, parkin lot pimpin'
+Everyday we be off the chains
+Workin with grain, sittin on them thangs
+Tryin to find out where dem dollars at (dollars at)
+So when I holla at you, holla back (holla back)
+Everyday we be off the chains
+Ain't nuttin different, parkin lot pimpin'
+
+[Beanie Sigel]
+Holla at me mami!  Sigel..
+
+You can catch Mac in the parkin lot, pimpin crazy
+S-5, Navy 'Cedes, sittin on 80
+That's four dubs, not S-4 dub
+Stash box, push +Hot Wheel+ like +Matchbox+
+Bitches wanna push my world, they flash box
+160, push my wheel, mash cops
+Cause 160 took my wheel to cash drop
+Run 60, you Big Will, match cop
+Lookin through the rearview and Mac was wylin
+New driver, screwdriver, the cracked steering column
+Pushin somethin stolen, blastin, picture me rollin
+Baghdad, couldn't picture me ??
+Now the truth different, Mac come through Coupe roof missin
+I'm the truth til my fuckin roof missin
+Mac stay stuck in the Coupe to school pigeons
+Feathers gettin plucked in the truck from loose chickens, listen
+
+[Chorus]
+
+[Memphis Bleek]
+Yo, aiyyo I dip dip dive, what can I say?
+I can't fit 'em all inside the Escalade
+So I called up, murder to further my parkin lot pimpin
+Told 'em get the Impala so I can start dippin
+Lay back, seat recline, they notice the hand
+Car movin slow, driven by the invisible man
+Everything on the dash, digital and
+I got a fast stashbox don't make me spit at you man
+In the parkin lot, where I spark a lot
+I come to show my new feet, slide off with a few freaks
+Bleek, turn up the beats..
+.. turn up the heat then we burn up the streets, bitch!
+
+[Chorus 2X]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

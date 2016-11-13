@@ -1,0 +1,134 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan
+Album:  8 Diagrams
+Song:   16th Chamber (ODB Special) *
+Typed by: Tha Masta, OHHLA Webmaster DJ Flash
+
+* international bonus track
+
+[Intro: Method Man]
+16th Chamber, temple number five
+
+[Method Man]
+Somebody said it's on, if it is then I'll be set
+To blow a nigga up, with my Five Fingers of Death
+I bring it to his whole damn fam, understand
+If he frontin, on any man down with the Clan
+I be comin, for that headpiece you can't cope
+For my brother, I even kill a Pope, word to mother
+Serial, killa, style from the Isle of Stat
+My peoples are you with me where you at?
+Shit's gettin deep in here, I mean like thick
+Niggaz lookin all in my face like they want dick
+It's about to hit the fan, hit the flo'
+That's all I can stands, and I can't stands no mo'
+What is it?  Niggaz think they bigga
+Because they got the finga on the trigga of a biscuit
+They don't know I'm wicked, when I start to kick it
+With the raw sound, wash it down with a Mystic
+Better yet a Snapple, nigga want the juice
+But he don't want the hassle
+Thought they trying to overthrow the castle
+Better yet the temple, I'm comin to your town
+Black down, the rental, car, the pistol
+YAH! If you don't want a burn from glock
+Then beware, I buck shots, meaning what, the buck stops
+Here, no more dough will be made
+Unless it's being made by who... the 1-6-Ooh
+
+[Interlude: Raekwon] + (Method Man)
+Chamber four (1-6-Ooh) Chamber four
+Temple number nine, temple number nine
+
+[Ol' Dirty Bastard]
+I'm the original G-O-D
+Making young ladies scream is my specialty
+when I go ooh-wah, ooh-wah, ooh-wah, girls wanna get hype
+From the funky fresh music that was stereotyped
+When I kill, that ol' mad rugged flow
+Not sayin Ason, is like a duck of disco
+Or a disco duck, I'm strictly hip hop
+Yo, Ason, what's up? I can't stop...
+Wu-Tanging, flipping the script and
+You could test my skills, but niggaz must be trippin
+Coked up from sniffin, you're the one who's riffin
+I'm not Opie, save that old shit for Andy Griffith
+You start to flip, now ya slip, cuz you're slippin
+While you sleep I be the God on point, like Scottie Pippen
+As I, jump on stage, cold flip a rip a show
+Strip or rip a hoe, ready like Bo
+Jackson while I'm still taxin, I'm maxin
+Relaxin, sittin backs and, laying tracks and
+Again and again when I rock this jam
+I wanna see 'em up in the air, throw up your hand
+Introducin, the one-man band
+A child that's wild, now with the style, couldn't stand
+Niggaz wanna jump, then stepped, to the center
+Of the rhyme inventor, MC tormentor
+You get jacked and slapped, across the MC map
+I laugh at ya ass, on a horse shack
+Come on through I black and blue your whole crew
+Then I get rudie with the Hong Kong Phooey
+The Ol' Dirty Bastard, MC killer
+Money maker, Brooklyn, Shaolin style
+That I lay down like tile
+Gotta hit you up, one blaow, so you better come down...</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

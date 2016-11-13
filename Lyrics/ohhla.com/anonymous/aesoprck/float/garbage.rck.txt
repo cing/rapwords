@@ -1,0 +1,132 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Aesop Rock
+Album:  Float
+Song:   Garbage
+Typed by: fatderek@gmail.com
+
+Wing of wax? Or wing of gold leaf? Choose one
+Float or plummet 20,000 cold leagues
+My nourishment's provided in the summer
+So I wonder how y'all chasing dreams when what's tangible still outruns you!
+Hail dirty doll immaculate performance
+Warm as the march of a billion torches forward to burn what I'm born in
+Cut and paste alertness to current settings provided quick
+Shimmy the pirate ship mass, spot the island, sound the siren
+And about face
+Let's salute the embraced pertinent generals
+Who turned innocent hermits to burning spectacles
+Flirtin' with a serpent working overtime, drain the battery
+Siphon the poison to flood his majesty's hatchery
+I was riding on a yellow bus to where the brush thickens
+And it ain't exactly plush pickings
+I'd rather take the time to burn every last bridge
+I've ever crossed beneath the sun
+Then live my life knowing you may one day follow me over one
+Snake bite, breath to heavy to hold
+Caught up in the wake of the red witch trying to swim it
+Ran for the snake of dead eliques stripped of idyllic image
+Steal a sloppy earth meal
+Feed my pottery wheel to model colossal vision
+Thrill, trucking with a bucket of pennies
+I'm 'a drag my sneakers through the dirt like alligator bellies 'til the cloud burst
+Honor and a loud thirst submersed in a trap
+Little drummer boy vs. thunderclap
+
+[CHORUS]
+In a city of garbage trying to reap the harvest
+Adaptation is the trap in which the artist meets the forest
+Swing you're little ax, or be an oak tree if you can
+Either way, adapt to circumstance or play your final hand
+
+You don't know enigma
+An attempt to bury the hatchet rendered me victim of deviltry
+Plus wounded like stigmatics
+Something's huffing hazardous
+I smell an inch of difference in this morning's pollution pistons
+And how the loose ends drifted
+My sour patch institution slipped in amidst the invaders and pardon my tone
+But this garden's grown fucking acres since my last visit
+Itching to count the layers in the blizzard
+'Til that chapter where my family inserts the dagger and twisted
+It's a carnival
+Have you any sweets for my weary kin? It's a carnival
+Have you any feed for my cheery grin? It's a carnival
+Welcome, play our games, you'll never win
+Cuz it's that carnival where every freak show spectacle's your friend
+And I'm a ghostly galleon tossed upon cloudy seas
+Anti-freeze to glacier, cook in a look of fiery nature
+It's the ceiling feeling to heavy to bliss the I-beams for a fraction more
+Collapsed and left 'I'm sorry' tacked to you door
+Pitching my back to hell's kitchen
+Back burner murder machinery released regardless of the pardons
+Hitching my life to the lease of one minstrel
+Sick of same window different visual
+Same agnostic hostage different ritual
+Plague, cooperative super colony clash
+I heard you got a dust collection, lemmme see it
+I duel as underdog vs. forced adaptation to the marvels of the now
+Since then, my knuckles haven't once dragged on the ground
+
+CHORUS
+
+[OUTRO]
+The ritual goes, same window different visual</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

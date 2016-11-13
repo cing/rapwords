@@ -1,0 +1,140 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan
+Album:  The W
+Song:   Hollow Bones
+Typed by: chmoor@mindspring.com
+
+[Raekwon]
+High potency top, smoke a bag of black
+And feel the vibe, wanna be wise 
+We, form on a rising corner mean five
+Laws in disguise, throw on your slides
+Young niggas racist, smokers is basic
+We seen the eyes, laying up playing the cut
+What, stay in the truck, something told me duck
+Folding me up, my shoulders struck
+Out of luck, fuck the potters up
+Fell on a daze like a Golotta snuff
+Niggas tried to body me up
+I'm in the lobby bleeding
+Niggas in the witness office probably eating
+And sprinting and beefing, when they heard the shots
+Called the precinct and seen barber nieces beasting
+Niggas shot Shalar features and shocked her was a Elisis, 
+Bent the spinal cordless creatures
+I'm gagging and flagging a cab down
+Guess who in the Benz wagon, dragging my sound down
+Macking it was Dale Breedy the greedy
+Caniving ass snake genie
+Cop with a bikini will murder charge and benini
+I'm feeling wheezy and the drain from the cheeba
+Grieving ain't even looking decent
+Seeing police niggas reaching
+
+That splash against my hollow bones
+That rocks my...
+
+[Inspectah Deck]
+Fleeing the crime scene speeding
+Beefing leaving behind cream
+Not even peeping that I was leaking
+Won't see the precinct just got a recent case beaten
+Still jakes are creeping
+Don't blow ya spot, stay the weekend
+Keep the ruger peeling who's squealing
+Few knew the dealings
+Keep the steel concealed in
+Cause we got no time for feelings
+Eyes on the building guards are on the corners illing
+Million dollar block villain plotting on a killing
+Feel like, a superhero talking like a true Deniro
+They boost his ego path and broke down
+Reduced to zero
+Cops feel we poors hoping I'll reveal my source, source
+
+That splash against my hollow bones
+That rocks my soul
+Oh oh, oh oh
+
+[Ghostface]
+Outside the check cashing, flashing
+Dipped in fashion
+Five cherry-faced fagots tried to cash in
+They keep laughing, Ghost you get ya face bashed in
+Who gave you these priveledges son? why you maxing?
+And we..
+Feigning to take those move slow
+I'm hearing how you broke Rob's nose
+And I heard you keep a banging hammer
+Golden brass diamonds embroideries
+That was stolen that you haven't reported g
+Make very little noise, my shit hiccup
+Don't make this big stick up bigger
+Me and the boys I thought for a second then chose
+Rather than froze
+Had the jim star on my hand
+Yo what the fuck yo! that's when I ripped Timothy
+Snatch and dip john like imbaggable
+Had the mini axe tool, faxed him
+Shots rang off, bing, boggle-de-dum
+
+That splash against my hollow bones  </pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

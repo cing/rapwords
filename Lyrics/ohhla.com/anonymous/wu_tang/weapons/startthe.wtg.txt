@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan (Raekwon the Chef, RZA)
+Album:  Legendary Weapons
+Song:   Start the Show
+Typed by: OHHLA Webmaster DJ Flash
+
+[Intro: kung-fu movie samples]
+For money, I assassinate
+Today, I have an opponent that's worthy
+Now killing me
+You won't find that so easy
+
+[Chorus]
+Clap your hands
+Let's start the show, c'mon!
+Let's go
+One, two, three, four
+Said o!h! Clap your hands
+Uhh, let's start the show
+C'mon, c'mon
+I said one, two, three, four
+
+[Verse One: Raekwon the Chef]
+Revolutionary gangster, the will to kill
+Everything up, my roots is steel
+Do it big time, march through the desert and shine
+Let the C's live free while we open the minds
+of every black man, white man, no color, my writing hand
+is like dynamite, I fight for land
+Blood stains yo, gettin money affect the plan
+We travel to Beijing and end up in Japan
+Hoods everywhere, bring the goods and gear
+And teach them how to hold mics and grow them beards
+Then stop, check my brothers and my sisters in Africa
+We know that's theirs, yes, we been actin up
+Bush fucked the world up, and left our soldiers
+out in Iraq, bless them with roses
+Foes try to approach, we roast them goats
+We terrorize the city while forgettin the quotes
+
+[Chorus]
+
+[Verse Two: RZA]
+They tryin to take us back to Reaganomics with atomic bombs
+on Islamic countries to stop them from being Islamic
+But Islam is a way of life, Islam is the way of Christ
+Islam means peace, the beast must pay a price
+for his wickedness, politics is the trickiest
+business on this planet, the bandits are the slipperiest
+snakes who ever slithered, you ever stop to consider
+who's pulling these strings, from Napoleon to Hitler?
+Is there an unseen hand with the unseen plan?
+The unclean man from the unclean land
+Desire to kill the righteous dumbs down the brightest
+Give his life in this world that seem so lifeless
+Put a price on things, that are priceless
+Convince us that meanness is stronger than the niceness
+Who really has the power - is is theirs, is it ours?
+Is it a democracy, or the morning prowlers?
+Do we have a press or President?
+Is it a test or a testament? Pest or pestilence?
+Who got the evidence?
+Who got the common sense? Stop all the negligence
+
+[Chorus]
+
+[Raekwon the Chef]
+I oversee the world
+You taught me that, basically
+I'm moldin rap to be more than I can see
+Chef, Senator of Thoughts
+Democratic cats
+Saved by the judge
+The flavor, that was brought about that day
+Steaks come out, raw
+
+[Chorus]
+
+[Outro]
+"WU, TANG!" {*16X to fade*}</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

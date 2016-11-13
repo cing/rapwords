@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z f/ Gwen Dickey
+Album:  Wishing on a Star (Import Single)
+Song:   Wishing on a Star
+Typed by: agent_frog@hotmail.com, I3omb1st@aol.com
+
+[Chorus: Gwen Dickey]
+I'm wishing on a star to follow where you are
+I'm wishing on a dream to follow what it means
+
+[Jay-Z]
+Uh huh-uh-huh, yea
+Jigga
+Trackmasters, yea
+Ride
+Take it back, let's take it back, uh-huh
+
+[Verse 1: Jay-Z]
+Check, you can catch me on top now (top down), playin a club
+Throwin a shot down, tryin to stay above
+Ground, another ground-breakin day in the club
+Surrounded by my own thoughts, playin a cut
+Reminiscin' on days I ain't have a pot to piss in
+No watches to glisten, no V's with hot systems
+Missin my homies that passed right in front of my eyes
+Due to the fast life we told wonderful lies
+On how we would live forever, time proved us wrong
+Had to get ourselves together and move it along
+Had dreams of being Big niggas, Jig niggas
+Drivin the hottest cars, movin out with our moms and I'm
+
+[Chorus: Gwen Dickey]
+Wishing on a star to follow where you are
+I'm wishing on a dream to follow what it means
+
+[Verse 2: Jay-Z]
+Was interrupted by this chicken that I used to cluck wit
+Back in the days when I was movin much shit, "What up chick?"
+Maintainin, it's the same old thang
+A little stress, a little bullshit, ain't too much changed
+I see you kept it movin, you see I kept improving
+She nodded her head in agreement
+Remember when I used to walk up and down the cement, puttin it down
+Knew the +Streets+ was +Watchin+, stay hooded down
+Just to earn a rep, but what good is it now?
+She said "Damn I just stopped to say Hi.... Bye"
+I was too deep for you from day one
+Thats why we never had relations, continued in my own zone
+
+[Chorus: Gwen Dickey]
+I'm wishing on a star to follow where you are
+I'm wishing on a dream to follow what it means
+And I wish on all the rainbows that I see
+I wish on all the people who really dream
+And I'm wishing on tomorrow praying it will come
+And I'm wishing on all the loving we've ever done
+
+[Verse 3: Jay-Z]
+We used to play tap-tap for rap tracks
+Run, catch, and kiss in the back park until it got dark
+Wanted to be like the older males, sneak and drink old champ-ale
+Dangerous games we played on the third rail
+Fiend for the summer breeze
+Hopped out the Lee's Dungarees
+Into the Hawaiian shorts, relying on sports
+To take us away from here, but I cut too much
+So I had a plan B used to rhyme with a brush
+In the mirror
+My sinners used to back me up
+Like Doug E. Fresh and Ricky D., Eric, Mickey and Me
+All my niggas is you with me, each of ya'll
+Let's reach for the stars now...  Jigga!
+
+[Chorus: Gwen Dickey]
+I'm wishing on a star to follow where you are
+I'm wishing on a dream to follow what it means
+And I wish on all the rainbows that I see
+I wish on all the people who really dream
+And I'm wishing on tomorrow praying it will come
+And I'm wishing on all the loving we've ever done</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

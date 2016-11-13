@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac f/ Big Syke, Spice 1
+Album:  R U Still Down? (Remember Me)
+Song:   I'm Losin It
+Typed by: OHHLA Webmaster DJ Flash
+
+Straight out the motherfucking bay
+Here we go
+
+[2Pac]
+Lord help me, save me, Mama keep praying
+For a young motherfucker trying to duck an early grave
+In the city where ya can't tell the snakes from the fakes
+Fakes from the phonies, enemies of homies
+Around the corner there's another nigga waiting to jack
+He don't know I got a glock 'til his ass get shot
+Like a motherfucking thug disease
+Craving beats like they motherfucking drugs to me, hey
+What's up with bitches trying to screw me? Do me cause I did a movie
+Throw the pussy to me but before they never knew me
+Rather die then let ya play me for a, buster
+And with my glock I'm a plotting ass rotten motherfucker, huh
+Don't let the movie fool ya, let me school ya
+Screaming Thug Life nigga when I do ya
+I'm going crazy, getting dizzy
+And then I suffacate a motherfucking breather bring me back
+I'm telling ya I'm losing it
+
+[Chorus]
+Said I'm losing my mind
+Losing my mind
+[ X4 ]
+
+[Big Syke]
+I'm going crazy, niggas can't fade me
+On the real I kill when I step to ya fucking grill
+So let me kick it let me flip it let me get wicked
+I'm not a buster from the hood selling wolf tickets
+I hang with G's flipping keys and smoking weed
+I get the cash and dash and never learn to read
+So fuck a bitch fuck a hoe and I let ya know
+Because they come and go like the wind blows
+What am I giving how I'm living what I'm giving up
+You can take my life and I don't give a fuck
+Cause I'm the trouble most coming from the west coast
+Where the niggas is banging 'til the overdose
+Killers and murderers, psychos and lunatics
+Nobody knows what makes my mind click
+Is it the demons, screaming inside of me?
+Hell no it's just the Thug Life mentallity
+I'm going crazy shit don't phase me
+I'm living like a thug 'til six niggas carry me
+Death is on the trigga so pull it
+I can't take it no more, nigga, I'm losing it
+
+[Chorus]
+
+[Spice 1]
+Shit was talking to me, my gat screamed fire
+The bullet told me shoot that motherfucker he's a lier
+I talked to me 3-80 like a bitch on a stroll
+When my niggas try to ????
+Nigga, I can't get fucked in this game I'm a psychopath
+My AK told me to shove him up some niggas ass
+I'm having long conversations with Mr. Millometer
+He's one of my best friends bitch ass nigga eater
+And Miss Mossburg love it in the back trunk
+You know that old school bitch she like to get it funked
+And spitting motherfuckers by the seems
+My grand daddy Mr. AR-15
+By the evil motherfucker
+Talked me into taking over a dope turf and shooting cluckers
+Said he was my only family
+Shoot straight, and please don't jam me
+Got in a fight at the club my gat started talking
+Told me to shut the fuck up and let him do the talking
+I woke up and it was sick to see the guts hang
+I'm going nuts man
+Shit was talking to me
+
+[Chorus] to fade
+
+</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

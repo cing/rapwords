@@ -1,0 +1,128 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan f/ Isaac Hayes
+Album:  The W
+Song:   I Can't Go to Sleep
+Typed by: OHHLA Webmaster DJ Flash
+
+[Ghostface Killah]
+Technique is ill son, watch how I spill one
+Peace to Biggie Tupac Big L and Big Pun
+Havoc on the streets of Staten, snitches
+House niggaz children watch as they produce the same pattern
+Somebody raped our women, murdered our babies
+Hit us with the cracks and guns in the early 80's
+FOR THOSE THAT MURDERED ME SHALL STAND BEFORE GOD
+TO FALL AT THE HANDS OF FATE, THEN OUT COMES THE ROD
+Bring it back, bring it back, bring it back,
+bring it back, bring it back.. {*record run backwards*}
+
+What the fuck is goin on?  I can't go to sleep
+Feds jumpin out they jeeps, I can't go to sleep
+Babies with flies on the cheeks, it's hard to go to sleep
+Ish bowled two sixes twice, I couldn't go to sleep
+Aiyyo we deep in the stairs, we carry (?) guns
+(?) got, hit up with the big shit, bam-bam
+Stop at the cheeba spot, then pass the leak spot
+So past y'all niggaz again, you took a cheap shot
+Not knowin FUCKIN WITH ME, you get your meat chopped
+YOU THOUGHT WE FELL ON OUR FACE?  YOU NEED TO BE STOPPED
+CALL ON THE CHARIOTS, CALL ON AN AMBULANCE
+YOU BETTER SMILE MY NIGGA, YOU ON CANDID CAM
+Gangsta broad, these be the laws, walk with big balls
+Nigga motherfuckin eunuch, I even take which was yours
+I'm the nigga that made you man
+When your rap wasn't doin well, I'm the nigga that gave you a hand!
+
+[Isaac Hayes]
+Don't kill your brother, learn to love each other
+Don't get mad.. cause it ain't that bad
+Look at who you are.. you've come so far
+It's in your hands, just be a man
+Get the jelly out your spine!
+Cobwebs, out of your mind
+
+[RZA]
+I can't go to sleep, I can't shut my eyes
+They shot the father at his mom's building seven times
+They shot Malcolm in the chest front of his little seeds
+Jesse watched, as they shot King on the balcony
+Exported Marcus, Garvey cause he tried to spark us
+with the knowledge of ourselves, and our forefathers
+Ohh Jacqueline you heard the rifle shots cracklin
+Her husband head in her hair, you tried to put it back in
+AMERICA'S WATCHIN, BLOOD STAINED INK BLOTCHES
+MEDGAR TOOK ONE TO THE SKULL FOR INTERGRATING COLLEGE
+WHAT'S THE SCIENCE?  SOMEBODY?  THIS IS TRICK KNOWLEDGE
+THEY TRY TO KEEP US ENSLAVED AND STILL SCRAPE FOR DOLLARS
+Walkin through Park Hill, drunk as a +FUCK+
+Lookin around like, these +DEVILS+, I'm ready to break this world down
+They got me trapped up in a metal gate, just stressed out with hate
+And just, give me no time to relax, and use my mind to meditate
+What should I do?  Grab a blunt or a brew?
+Grab a two-two and run out there AND PUT THIS FUCKIN VIOLENCE IN YOU?
+I can't go to sleep, I can't shut 'em son.. I..
+
+[Isaac Hayes - overlapping RZA at the end]
+Don't let the game make you lose your head
+You should be callin the shots instead
+The power is in your hands..
+Stop all this cryin, and be a man</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

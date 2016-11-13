@@ -1,0 +1,159 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Eminem
+Album:  Infinite
+Song:   Backstabber
+Typed by: i3omb1st@aol.com
+
+[Police voice]
+Attention all units, attention all units
+We have an All Points Bulletin out on a man with green hair
+I repeat, we have an APB on a man with green hair
+He's armed with a knife, I repeat, he's armed with a knife
+Proceed with caution, watch your back fella's 
+He could be coming at your girlfriend next
+
+[Verse 1]
+There's a joker on the loose from the psychiatric ward
+His face is up on the bulletin board with a reward
+He'll stab you with a sword don't be fooled by his charm
+He's probably armed with intent to do bodily harm
+Ring the alarm, look for a man with green hair
+Check at your girl's house, he was last seen there
+He's has a mean stare but usually crack's jokes
+Good luck on your mission and guard your backs folks
+
+[Chorus]
+I make you think you're a best friend then
+Why I oughta
+Hit a bitch snake from the back, I make you think you're a best friend then
+Why I oughta
+Stay away from him he ain't no good!
+
+[Verse 2]
+We got the walkie-talkies to keep us all informed
+Suited up head to toe in detective uniforms
+Our unit storms in, we split the ghetto in sectors
+Locking down every block and put up metal detectors
+Protectors and be sure that you stand close
+Watch each others backs and guard your command post
+And most of all be advised that he's wise
+He could be disguised as one of your very own guys
+
+[Chorus]
+
+[Verse 3]
+I'm on a solo mission to find him personally
+To settle the score and beat then him mercifully
+For what he first did to me
+It's sure to be the last
+Following footprints with a magnifying glass
+To drag his lying ass back to his padded cell
+I'm mad as hell, on the trail of the tattle tail
+I heard a yell the voice sounded familiar
+"Give me your girlfriend or I'm gonna kill ya"
+
+[Chorus]
+
+[Verse 4]
+I followed the voice that led down a flight of steps
+Sneezing at dust, and swinging at the spider-webs
+Inside the depths of his basement
+I taste lint in my mouth, then the lights in the place… went!
+I saw my life flash in front of my eyes
+I felt a butcher knife slash at one of my thighs
+None of my guys knew where I'm at I was doomed
+Then I remembered the flashlight in my costume
+
+[Chorus]
+
+[Verse 5]
+Dealing with backstabber's there was one thing I learned
+They're only powerful when you got your back turned
+I yearned for the day that we finally met again
+So I can give him a taste of his own medicine
+He shed his skin, then he promised to come clean
+I took his butcher knife and jabbed it into his spleen
+Cut him at the seam then dragged the fella home
+Beating him over the head with the telephone
+
+[Police voice]
+Attention all cars, attention all cars
+Unit 313 has apprehended the suspect
+He's going back to the crazy home, I repeat
+He's going back to the crazy home, job well done!
+
+[Outro]
+I make you think you're a best friend then
+Why I oughta
+Hit a bitch snake from the back, I make you think you're a best friend then
+Why I oughta
+Stay away from him he ain't no good!
+I make you think you're a best friend then
+Why I oughta
+Hit a bitch snake from the back, I make you think you're a best friend then
+Why I oughta
+Stay away from him he ain't no good!
+I make you think you're a best friend then
+Why I oughta
+Hit a bitch snake from the back, I make you think you're a best friend then
+Why I oughta
+Stay away from him he ain't no good!</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

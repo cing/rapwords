@@ -1,0 +1,129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Aesop Rock
+Album:  Skelethon
+Song:   Fryerstarter
+Typed by: AZ Lyrics
+
+Let me put you up on Bob's donuts
+Controller of the warm deep fryer that charms cobras
+Mostly it was aggravated ulcers over goat's legs
+Will they go for maple, custard, buttermilk or wolfs bane?
+Hm, late after your cinderella pulsate and crash I was rotating casts
+Picture if you will a witching hour on week night in the trenches
+Where paranoia dead-ends in a bright florescent heaven
+With sprinkles
+I know right yum
+Whether tummy ache or fever
+Keep the funnel cake I'm honey glaze in vitro
+In the company of similar believers
+Sleepless, who hear the walls breath and foam at the facial features
+Now the yeast, a phoenix in the partially hydrogenated
+Equal parts flower, faith, healing
+Might replace your previously nominated jesus
+But only if you privy to the following secret of all secrets
+
+Shh, every night at 12 they would march out from the back
+With a tray of raw dough for the pool of hot fat
+Show up around 1 never get your god back
+If you're just tuning in, walk into the light
+
+I boil oil too, not for scarfing
+For CCs of japanese innovation that screech into free parking
+Purple heart and 2nd chin that beseech him to squeeze the carbs into the motherboard
+You can chew the eucharist in cruller form
+Locally a seedy danish underworld is bustling where jelly's not a celebrated it's a puppet string
+Pluck, nose for canola
+5 cow stomachs like a mime with a rope going nowhere
+Fast, right hand of god on my shoulder, crows feet swollen, dopey
+Combing apple fritters over with folk of opposing cultures
+Baby sitter cop thief reverend, body glitter, botched c-section, bronze teeth
+Each progressively more sequestered
+Yet if threatened will defend the rasin bread as codefendants
+Some lose religion or view it as superstition
+You can tell a friend if you are down to kill them
+
+Shh, every night at 12 they would march out from the back
+With a tray of raw dough for the pool of hot fat
+Show up around 1 never get your god back
+If you're just tuning in, walk into the light
+
+The fat boys are back, foam fingers over open arms
+To feverishly reclaim their stomachs from golden jars
+And stagger through the pulse of the gulch on a builder's dividends
+Hiding high behind his guilty powdered-sugar fingerprints
+Seething eventide fever, sidewalk feeling a little dicey
+I'm snake-eye straight to the cakes icing
+Might, fortune-teller up your favorite paper tiger stripe
+Great, grace invaders, the first-name basis patron haters
+Who compromise the pilot lights and flavors
+Silent night, holy night, invite the pious out the pagan
+Midnight kitchen doors un-caging the enablers like butchers in bloody aprons
+Can I get a fucking amen?
+AMEN, hazelnut raiders of the lost, navigate consecutive pastries like stations of the cross
+No name no dayjob
+Know the folk where it virgin mary toast by the loaf
+Thanks bob
+
+Shh, every night at 12 they would march out from the back
+With a tray of raw dough for the pool of hot fat
+Show up around 1 never get your god back
+If you're just tuning in, walk into the light</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

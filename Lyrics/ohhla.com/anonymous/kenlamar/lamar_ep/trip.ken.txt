@@ -1,0 +1,144 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Kendrick Lamar
+Album:  Kendrick Lamar EP
+Song:   Trip
+Typed by: newos_crib_is@hotmail.com
+
+"Boarding completed
+ I'd like to welcome you aboard flight number F2B3
+ Our scheduled flying time will be four hours and twenty minutes
+ and we will be cruising at an altitude of thirty-three-thousand feet
+ At this time we would like to acquaint you with some of the features
+ Relax and breathe normally"
+
+[Kendrick Lamar]
+Uh, coming down like I'm uphill
+Hogging both lanes better than a bus will
+She tell me that my head bigger than a bus wheel
+But it don't matter cause she still gon' let me fuck still
+I mix a little bit of Kendrick with some L.A. weather
+then step out like Chicago in its finest era
+You niggas begging for attention, doing extra-extra
+Downgrading yourself, you get an F for effort
+Ha-ha, I let the world know
+I chose to keep to myself and let the world go
+And if you don't like a nigga, then let your girl know
+So she can be curious on Twitter looking me up
+I'm laid back with a bad one, you ain't never had one
+Ass so fat that it tipped over the Aston
+Speeding on the 1-0-5 till the fucking badge come
+Hello to my wittiness, I'm Cadillac's grandson
+
+[Chorus]
+And I'm a trip
+Ever since an understudy man I've always been a trip
+Mama tell me that she love me but she know her son a trip
+Baby open up your ears, you ain't heard it like this
+Sounwave drop the beat, I lock the flow down
+Now all the way to the moon we bout to go now
+I got enough of the mojo to go around
+So pack your bags and tell him you going out of town
+cause I'm a trip
+
+[Kendrick Lamar]
+Landing on another runway, fly with me
+or die tryna fly, a shot-down Frisbee
+Shout out to Black Hippy, nigga we on
+like we never been off, straight shots of Patron
+I'm give y'all the business to give y'all some business
+Pussy ain't shit, I can give y'all some bitches
+Clean off her sports bra, she clean off my dishes
+then wear off the Kangols, hood rats, I hate those
+And she know what this is, hey lil' mama
+Seen your pretty ass around the way lil' mama
+But why you always in somebody face lil' mama?
+Embarrassing yourself, get off the stage +Lil Mama+
+Nigga, I gotta be that nigga
+If I ain't, I gotta be that nigga
+Curtesy of Paula's oldest son, pay homage
+or pay attention, open your eyes and hear knowledge
+
+[Chorus]
+
+[Kendrick Lamar]
+Gi-give me that, gi-gi-give me that
+That's how I get at 'em when I look at a shoe rack
+Penny for thoughts, mine start at a few racks
+So I can live on a hill just off a few raps
+I want to live in a space that none of y'all can visit
+That might be outer space, the Jupiter district
+I quadruple my vision
+If you don't see it then you're dead with your eyes open
+I've seen bullets hit the wheel, left his ride smoking
+on some Compton shit
+Somebody that'll ride or die, that's a Compton bitch
+You see my city is the city of Lamar
+It'll take twenty years 'fore a nigga see them all
+The swap meet dumping, the sawed-off pumping
+The tree for the low, don't you know, Paul Bunyan
+I'm on cloud nine, I can see rain coming
+So if I'm out my mind, people don't say nothing
+
+[Chorus]
+
+"How was your flight Mr. Lamar?
+ Good, hope to see you next time"</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

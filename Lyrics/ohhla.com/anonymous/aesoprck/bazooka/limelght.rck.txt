@@ -1,0 +1,155 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Aesop Rock f/ Camp Lo
+Album:  Bazooka Tooth
+Song:   Limelighters
+Typed by: ondra@bbarak.cz *
+
+* send corrections to the typist
+
+[Aesop Rock]
+Pain cave uno
+Smokin' a broken Blue Note
+Tar pit escape artist carcass, linger in the blue doze
+Rose radio Lazarus via linear bark screaming
+"I'm back to kill the video star and I'm double parked"
+
+[Sonny Cheeba]
+You can kite this or yet maybe baby you won't
+Corvette, green Mercedes, steady one hundred four
+When I'm stuntin', simply stunnin', funkin' with twenty monkeys
+They can be like "I'm talkin' about WE"
+Slap that orangutan, drop her on her knees
+Please be very cautious, the funkin' makes me nauseous
+Hate the Bogota, the target it ain't off it's...right here
+And the volume's on three
+
+[Geechi Suede]
+See, we keep the black plastic stuck in the elastics
+Even Chevy's heavy hallows lift you higher, legend has it
+White crows crossing broken bridges
+double deucy clickin' but the round never runnin' out
+Pounds of your blood just comin' out
+
+[Chorus]
+We Limelighters
+Up until the uglier unplug me
+We limelighters
+Kill it now, fade to black comfortably
+Spark the dynomite till the limelight's gone
+As far as I can see the limelight stays on
+And on and on and on
+The limelight stays on and on and on
+The limelight stays on and on and on
+The limelight
+So we got something built if we all die tonight
+
+[Sonny Cheeba]
+She piss champagne and shit caviar
+Don't watch the stars, the stars ain't fallin
+Any sight of glimmer...Lo
+Shimmering king, spring, they're tremb-ling
+
+[Aesop Rock]
+OK, the web (web) spread (spread) from Brooklynites to born in barn kittens
+Who's gimpy half step hid behind Noah's Arc systems
+Inconspicuously clustered with the boas, sharks and pigeons
+Like Zoo York won't clock them rusted crutches up mopping the ship deck
+Texas hold 'em pocket ace investment
+Totem altimeter tiki torch it
+Freak abort, fold or hold a cold cell in peak enforcement fortress
+That's a sheep corpse who under penumbra turned tail like a sea horse
+
+[Geechi Suede]
+We got that...permanent ink, that's stainin' the paper
+Murderer's drink steamin' my soul, I'm breathing green vapors
+We them last of them falcons that's soarin' beyond your altitude
+Please show us some gratitude, we're carvin' your grave for you
+
+[Chorus]
+
+[Aesop Rock]
+16 D batteries (back it up)
+See the halflings flee the Shire before he tore open the packaging
+Plus, minus, in proper Panasonic alignment
+Pseudo Pliskins O.D. on kick drums
+Snake, escape THAT environment
+
+[Geechi Suede]
+Wave that colt .44
+Bolts of ligtning with Travolta grease
+Strip your skeleton, it's swelterin' inside Miami Heat
+Your fishnet and red vette are sizzling
+Shoot through chocolate city
+Wonder Woman went whistling
+Freeze, presidential sleaze with Egyptian cuts
+Valentine Ave., Jack Daniels out of them plastic cups
+Winter white pinstripe lookin' Hugo
+Poison Ivy out the windpipe blowin' the crucial
+
+[Sonny Cheeba]
+First they line up
+We'll divide them
+SUEDE get the roscoe, then design 'em
+AESOP Rock box, drop the hot rod getaway car
+And head up the rock highway
+
+[Chorus]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

@@ -1,0 +1,138 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan
+Album:  Wu-Tang Forever
+Song:   Cash Still Rules/Scary Hours
+Typed by: OHHLA Webmaster DJ Flash
+
+[Raekwon]
+Shake them niggaz
+Scary hours no money out, smash the Guinness Stout
+Play the outfield, Lucille, switched cracks on shields
+She's a rich fiend, sacrifice her fam, shift them niggaz
+to Queens, Guess jeans she charged thirty-five beans
+Hit the cell phone, regulate with well known tone
+A Wally kingpin, who also slam and strike edition
+Whattup, Corleone smoke the bone Tone phone me
+Whattup he tried to slang there, address him with chrome only
+Grady with the gray beard, transport for him
+Rockin Nike at?  Rastafarianburg, pipin that
+Switchin Benzes, ten carat nigga with gold lenses
+Frontin like he's sittin on a lump he's sittin on junk
+You wanna pull a heist, draw guns and robberies
+You wanna rock rep, step in yellow Wallabies
+Names arraigned, the century fox, little glocks
+Them niggaz with stocks, wail on your blocks
+Rich lifestyle, spoiled like an ordinary white child
+But right now, Son is still shine, shed light now
+Breakdown, liquidate God, fuck it grab the nickel plate
+Spencer for Hire, tension when we mention Dryer
+He's a slave cop, behave pop
+Blue suits who bay stop us blow that cat
+at the Purple Haze spot
+
+[Method Man]
+I remember stickin fiends at the one-six-ooh
+when we was starvin, duckin five-oh, payin em dues
+Times is hard in the slums I'm from, they got us barred in
+We warrin and cage dodgin, rippin and robbin
+Got the NARC sabotagin, slippin cracks in
+your camoflougin, now you snitchin on the squadron
+That's somethin niggaz can't pardon
+City overrun by young gun with bad intention, and Wu-Wear garment
+So I see no need to mention, the potency
+of a sting from a killa bee, kickin the battery
+out the back of them wisecracks
+Distorted for your get high you hijack
+These friendly skies ain't for you, they for me and mine
+This the year of the grimy nigga, ragtime
+Keep these niggaz on the run, peep my Clan emblem
+Iron Lung ain't got to tell you where it's comin from
+
+Catch us swimmin with these sharks now, you rap villains
+(I feel the same way you niggaz feelin)
+We feel the same way you feelin, let it be known (let it be known)
+*together* What the blood clot you niggaz dealin, you crash dummies
+           Cash rules, still don't nuttin move but the money
+
+[Ghostface]
+Aiyyo strongarm that kid right there with wavy hair
+Billy Johnson, snatched him out his whip in Times Square
+Took his Pumas, nameplate, dude lost weight
+Summer eighty-eight, started a fight, that can't wait
+Ask Dorothy, same kid pussy up in Marsey
+Blazin that Tad Rossi, up in the Marquis
+He lost like a hundred ounces, Jake rushed his houses
+Had him on the porch, ass no trousers
+This souped up, individual stuck, the new stuff
+Same kid cryin on the stand with Judge Cuffner
+Kissed him with art num it's three to nine style
+Before he left he flashin his face like Denzel
+Richard Dale took his Beaver, off the wall pullin his whip
+Mussy dropped and split his wig with the heater
+His shape-up was all fucked up, as he had me laughin
+God you see how he was laid out, in the grass
+with dirt in his mouth, Slim woke him up told him he wild out
+Blood leakin from his teeth he smiled like he gunned out
+Big bolo, stackin his shit financed a Volvo
+He copped his shit from a small, coffeeshop in SoHo
+He still pussy, he sell his dust up on the Lower East
+Posin like he rappin out...</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

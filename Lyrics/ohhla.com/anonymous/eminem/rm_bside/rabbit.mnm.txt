@@ -1,0 +1,137 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Eminem
+Album:  8 Mile Soundtrack
+Song:   Rabbit Run
+Typed by: OHHLA Webmaster DJ Flash
+
+[Eminem]
+Some days I just wanna up and call it quits
+I feel like I'm surrounded by a wall of bricks
+Every time I go to get up I just fall in pits
+My life's like one great big ball of shit
+If I could just, put it all into all I spit
+Instead of always tryin to swallow it
+Instead of starin at this wall and shit
+While I sit writer's block, sick of all this shit
+Can't call it, shit
+All I know is I'm about to hit the wall
+if I have to see another one of mom's alcholic fits
+This is it, last straw, that's all, that's it
+I ain't dealin with another fuckin politic
+I'm like a skillet bubblin until it filters up
+I'm about to kill it, I can feel it buildin up
+Blow this building up, I've concealed enough
+My cup, runneth over, I done filled it up
+The pen explodes and busts, ink spills my guts
+You think, all I do is stand here and feel my nuts?
+Well I'ma show you what, you gon' feel my rush
+You don't feel it, then it must be too real to touch
+Peal the dutch, I'm about to tear shit up
+Goosebumps yea, I'ma make your hair sit up
+Yea sit up, I'ma tell you who I be
+I'ma make you hate me, cause you ain't me
+You wait, it ain't too late to finally see
+what you closed-minded fucks were too blind to see
+Whoever finds me is gonna get a finder's fee
+out this world, ain't no one out there mind as me
+You need piece of mind? Here's a piece of mine
+All I need's a line
+But sometimes I don't always find the words to rhyme
+to express how I'm really feelin at that time
+Yea sometimes sometimes sometimes
+It's just sometimes, it's always me
+How dark can these hallways be?
+The clock strikes midnight, one-two, then half past three
+This half-assed rhyme with this half-assed piece of paper
+{*rip*} I'm desperate at my desk
+If I can just get the rest of the shit off my chest again
+Stuck in a slump, can't think of nothin
+Fuck I'm stumped, but wait, here comes somethin
+{*crumples paper*} Nope, it's not good enough, scribble it out
+New pad, crinkle it up, and throw the shit out
+I'm fizzlin now, thought I figured it out
+Ball's in my court, but I'm scared to dribble it out
+I'm afraid, but why am I afraid?
+Why am I a slave to this trade?
+Signed out of spit to the grave
+Real enough to rile you up
+Want me to flip it I can rip it any style you want
+I'm a switch hitter bitch, Jimmy Smits ain't a quitter
+I'ma sit until I get enough in me to finally hit a
+fuckin boilin point, put some oil in your joints
+Flip the coin bitch, come get destroyed
+An MC's worst dream, I make 'em tense
+They hate me, see me and shake like a chainlink fence
+By the looks of 'em, you would swear their jaws was comin
+By the screams of 'em, you would swear I'm sawin someone
+By the way they're runnin, you would swear the law was comin
+It's now or never and tonight is all or nothin
+Momma Jimmy keeps leavin on us, he said he'd be back
+He pinky promised, I don't think he's honest
+I'll be back baby, I just gotta beat this clock
+Fuck this clock, I'ma make 'em eat this watch
+Don't believe me watch, I'ma win this race
+And I'ma come back and rub my shit in your face, bitch
+I found my nitch, you gon' hear my voice
+'Til you sick of it, you ain't gonna have a choice
+If I gotta scream 'til I have half a lung
+If I had half a chance I'd grab it - Rabbit, run</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

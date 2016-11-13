@@ -1,0 +1,147 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac f/ Shock G
+Album:  Death Row's Greatest Hits
+Song:   I Get Around (Remix)
+Typed by: OHHLA.com
+
+[2PAC]
+Back to get wrecked
+All respect to those who break they neck to keep they hoes in check
+‘Cause, oh, they sweat a brother majorly
+And I don’t know why, your girl keeps pagin’ me
+To tell me that she needs me, cries when she leaves me
+And every time she sees me, she squeeze me, lady, take it easy
+Hate to sound sleazy, but tease me
+I don’t want it if it’s that easy
+Hey, yo, bust it, baby got a problem sayin’ bye-bye
+Just another hazard of a fly guy
+You ask why, don’t matter, my pockets got fatter
+Now everybody’s lookin’ for the, ladder
+And ain’t no need in bein’ greedy, you wanna see me
+Dial that beeper number, baby, when you need me
+And I’ll be there in a, jiffy
+Don’t be picky, just be happy with this, quickie
+When will you learn, you can’t tie me down
+Baby doll, check it out, I Get Around
+
+Chorus:
+
+I Get Around
+2Pacalypse Now don’t stop for hoes
+I Get Around
+
+[2PAC]
+
+--Why ain’t I call you, please-- 
+Fingertips on the hips as I tip, gotta get a tight grip
+Don’t slip, loose lips sank ships
+It’s a trip, I love it when she licks her lips, see me jockin’
+Put a little twist in her hips, ‘cause I’m watchin’
+Conversations on the phone ‘till the break of dawn
+Now we all alone, why the lights on?
+Turn ‘em off, time to set it off, get you wet and soft
+Somethin’s on your mind, let it off
+You don’t know me, you just met me, you won’t let me
+Well if I couldn’t have it, silly rabbit, why you sweat me?
+It’s a lot a real G’s doin’ time
+‘Cause a groupie bit the truth and told a lie
+You picked the wrong guy, baby if your too fly
+You need to hit the door, search for a new guy
+‘Cause I only got one night in town, break out, or be clowned
+Baby doll, are you down? I Get Around
+
+Chorus:
+
+I Get Around
+The Underground just don’t stop for hoes
+I Get Around
+Still down with the Underground
+I Get Around
+
+--Hey, yo Shock, let them hoes know--
+
+[Shock G]
+
+Now you can see from my everyday fits, I ain’t rich
+So cease and assist with them tricks
+I’m just another black man, caught up in the mix
+Tryin’ to make a dollar out of fifteen cents
+Just ‘cause I’m a freak, don’t mean that we could hit the sheets
+Baby, I can see, that you don’t recognize me
+I’m Shock G, the one who put the satin on your panties
+Never knew a hooker that could share me
+I Get Around
+
+[2PAC]
+
+Round and round, the town we go
+But the Underground just don’t stop for hoes
+What do you know, another young bro makin’ dough
+But the po-po won’t let me go
+Tryin’ to do my show, but other young bros wanna throw
+Time to hit the door, grab a hoe
+Don’t forget my dough, and if the promo say no
+Let him meet my 4-4, I’m from the ‘O’
+And yo, I Get Around
+
+[Chorus]
+</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

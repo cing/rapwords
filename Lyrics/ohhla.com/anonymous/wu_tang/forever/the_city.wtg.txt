@@ -1,0 +1,138 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan
+Album:  Wu-Tang Forever
+Song:   The City
+Typed by: OHHLA Webmaster DJ Flash
+
+[unknown conversation which carries over from the last track]
+That's black?
+        Whattup God?
+Aiyyo Shorty got beef with that nigga?  Word?
+{*blam, blam blam*} Oh shit!!!  Yo!
+        Hold the fuck up
+
+Aiyyo yo, eight niggaz down (just enough)
+Fuckin around with my sound (ci-ty)
+Yo, bring backup (ci-ty)
+Fuckin with me, and mine
+Murderous
+
+[Inspectah Deck]
+Check it, yo
+The world is shifty, we livin just enough for the city
+The rough witty killa bee sting just like the jiggy
+My Family Stone, foes attempt to gradually clone
+Label them my anus and the casualty's home
+And closed coffin, Wu stormin like the light brigade
+ride the wave like Frankie Avalon
+As I decipher AIDS crime pays
+The law's long arm be tryin to strong arm
+Walkin timebombs before I bomb firearm
+The chalm smoker, I hit the dread with a poster
+He toke with his own love and expose the black toaster
+Composer was shook
+I took your bad looks for joke get your back broke
+Deep throat this murder I wrote
+The antidote be seekin like a buried treasure
+By every measure lethally inject your whole sector
+Wanted dead or alive
+Rebel I escapes across the desert sand
+leavin no footprints to trace
+Keep a war face, in your place
+Conceal the baby knives on the North breaks
+I still shine in shady times
+
+Yeah, yo
+We livin just enough (livin just enough)
+Just enough (in the ci-ty)
+Just enough, for the ci-ty
+
+Yo, in the jungle
+I make moves like Iron Monkey
+Plots to bump me off D.O.T. be on the hunt for me
+We stay hungry, for money drugs and guns
+Ones who fake get caught in the crossfire for crumbs
+Know the science be my Goddess
+The facts tell gats sell like sex and violence
+And break the project silence, a vision
+This is way beyond four corners, escape this mental prison
+Before we're all goners, now embrace the world
+for the world war is ocean bomber
+Visionary soldier comma
+My code of honor, mind still start from the drama
+Trauma sent the victim, witness them run, scream in horror
+Military chopper come gun down the slum
+The outcome do or die Son it's bound to come
+Mentally aware I see truth within the square
+The future's here catch me on computer software
+Warfare's inevitable, Rebel I hold several government official
+Issue thirty-eight specials, that step through
+Like Nat Turner create a spectacle
+I may die in the scuffle but I'm takin forty devils
+
+We livin just enough
+Just enough
+Just enough
+For the ci-ty
+
+Killa Beez, stingin MC's-AH
+Yeahhh, Wu!</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

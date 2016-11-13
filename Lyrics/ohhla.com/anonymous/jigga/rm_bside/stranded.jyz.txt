@@ -1,0 +1,131 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z f/ Rihanna
+Album:  Hope For Haiti Now (Compilation)
+Song:   Stranded (Haiti Mon Amour)
+Typed by: AZ Lyrics
+
+[Jay-Z - Chorus]
+When the sky falls and the Earth quakes
+We gon put this back together
+We won't break
+[repeat]
+
+[Jay-Z]
+Sa Pa Sé, my Port-Au-Princes
+My Haitian Gods and all of my Princesses
+Our condolences as you fightin' against this
+We're right by your side as we tryin' to make sense of this
+Heavenly father help us see through these problems
+And for those that left, accept them into your garden
+So here's my theory, the country's already starvin'
+So we sacrificed many to shed light on all of them
+God please pardon, I speak from the heart
+It's the only way I see this tragedy befall on them
+So lets get involved with them, hand to hand with them
+Arm to arm with them til' they get strong again,
+When the sky falls...
+
+[Rihanna - Chorus]
+Can't wait until tomorrow
+Haiti, Mon Amour
+Haiti, Mon Amour
+Not gonna leave you stranded, alone, alone
+oh no
+
+[Chorus]
+
+[Jay-Z]
+Learn from the past, New Orleans was flooded
+So we know we just can't rely on the government
+We under the rubble again, here we go rumbling when
+When we gon catch a break, my friend lost his mother and then
+And then, Carline lost her uncles and them
+Buried with no caskets, they just put covers on them
+And the tears fall, and we fight back
+Story ain't done, it can't end like that
+Nah not like this, tomorrow's survivors gonna carry on your name
+You live on inside us, your memory's alive with us
+You inspired us, to rebuild this country, you just guide us
+
+[Chorus]
+
+[not Jay-Z]
+It's not the angels that are on their way
+It's not the bells of Santa Trinite
+The people waiting, positions vacant
+For hands to help, not just to pray
+
+[Chorus]
+
+[French singing]
+Haïti va s'élever
+Tu vas te relever
+Nous nous éléverons
+Ensemble ensemble ensemble
+
+(not gonna leave you stranded...)
+
+[Jay-Z]
+We gon put this back together we won't break
+We gon put this back together we won't break
+We gon put this back together we won't break
+We gon put this back together we won't break</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

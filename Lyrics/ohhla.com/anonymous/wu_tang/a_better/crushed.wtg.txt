@@ -1,0 +1,112 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan
+Album:  A Better Tomorrow
+Song:   Crushed Egos
+Typed by: AZ Lyrics
+
+[Intro: Kung-Fu Sample]
+You've practiced 20 years? You must be extremely good then
+Perhaps, you'll try with me
+
+[Verse 1: Raekwon]
+Come and taste my seasonin', Chef, the cooking that is marvelous
+Back with a stove, makin' your mouth water, you starve for this
+Exclusive sneakers with hard denim, heavyweight
+A neighbor illustrated Alex Haley with paper
+Waves spinnin' like the Titanic, come take a float on
+Silky like King Henry, the [?]
+Restaurants with skeleton keys, it's big business
+Well groomed and elegant posture is real dapper
+Status is gigantic, culture's alpaca
+Meetings in the Vatican, drinkin' scotch with the Muscle Milk
+Praises go to Ason, the dynasty Mr. Russell built
+Feed me royal shottas with Glocks, clean 'em with GT Oil
+China dolls from Bangkok, we bang 'em, train 'em and make 'em loyal
+Trees stank, she come kiss the top of my Yves Saint
+Wise-Universal Tang when I bang
+Grizzly with the big bank, it's 5 stars, y'all, when I call rank
+
+[Chorus x2]
+Egos are somethin' that the Wu-Tang crush
+These stupid jealous niggas, y'all 'bout to get rust
+This ashes to ashes to dust to dust
+These derelict MC's cannot fuck with us, Lord
+
+[Verse 2: Raekwon]
+Rifles out, bear like the Russian
+Octagon tuggin' silk drawers frontin', while her head stuntin'
+[?] flood the garage
+Man the goats launchin' charge cards from Africa
+Catch me in the hookah lodge
+Brains linked, twisted [?], say the seeds bang
+Coffee pots with graveyard rings, flippin' Gs
+Yankee hoodlum on the top of the charts
+Dart throwers, they're sharks
+Everybody wanna know when my gun barks
+
+[Bridge: RZA]
+Non-athletic anti-semetic synthetic rappers get no credit
+Pathetic septic lines, incompetent styles not embedded
+Wu-Tang slang bangs in your brain, this is not genetic, prophetic
+Unadulterated talent while y'all talk that bullshit rhetoric
+
+[Chorus]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

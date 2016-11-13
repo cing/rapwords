@@ -1,0 +1,136 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z
+Album:  The Blueprint 3
+Song:   Thank You
+Typed by: Cedmaster3K
+
+[Intro: Jay-Z]
+Thank you, thank you very much for comin' out this evening..
+Thank you, thank you, thank you, you're far too kind
+Hold your applause, this is your song not mines...
+
+[Jay-Z]
+Thank you, thank you, thank you - please hold your applause
+Fore I just applied logic keys, keys open doors
+Now I'm balcony, Opera, Black Tux, binocular
+Black luxe, stop it, I shouldn't be so popular
+Name keep poppin' up, face keep poppin' up
+On the tube I'm just watchin' Pacquaio box 'em up
+How would I know HBO would get a shot of us?
+Sittin' so close that we almost got snot on us
+Please don't bow in my presence, how am I a legend?
+I just got ten #1 albums, maybe now eleven
+More hits than a Now 11
+That is no reason to treat me like I'm somehow from outta heaven
+Heaven knows that I've made my mistakes
+Thank God, what a guy as I say my grace
+Who woulda thought by making birds migrate
+For the winter I be fly all summer might I say
+
+[Chorus: Jay-Z]
+Thank you, thank you, thank you - you're far too kind
+Hold your applause - this is your song, not mines
+Thank you, thank you, thank you - you're far too kind
+Do me a favor: don't do me no favors, I'll handle mine
+
+[Jay-Z]
+Hovi baby.. we are really high, really high tonight
+We tip the waiter a hundred dollars to keep the ice cold, alright
+We the last guys to keep the wise guys code alive
+If I can't live by my word then I'd much rather die
+No no don't thank me, this is just how my suit is stitched
+I'm cut from a different cloth, I'm just who the shoe fits
++For the Color of Money+ like a Tom Cruise flick
+'Cept I put eight balls in corners without usin' pool sticks
+Beautiful music when champagne flutes click, ay
+Beautiful women sippin' through rouge lips, ay
+Dangers approaches we're like "wait, who's this?"
+Let us save you some trouble son, what size suit you is?
+This way after the Ruger shoots through a few clips
+You can lay in your casket just as you is
+We appreciate the target practices
+We'll be sure to send flower baskets, kid
+
+[Chorus]
+
+[Jay-Z]
+I was gonna kill a couple rappers, but they did it to themselves
+I was goin' do it with the flow, but they did it with their sales
+I was goin' 9/11 'em, but they didn't need the help
+And they did a good job them boys is talented as hell
+Cause not only did they brick they put a building up as well
+They ran a plane into that building and when that building fell
+Ran to the crash site with no masks and inhaled
+Toxins deep inside their lungs until both of them was filled
+Blew a cloud out like a L into a jar then took a smell {*inhales*}
+Cause they heard that second hand smoke kills {*exhales*}
+Niggas thought they was ill found out they was, EWW
+And it's like you knew exactly how I wanted you to feel
+
+[Chorus]
+
+[Outro: Jay-Z]
+We are really high, really high tonight, no
+We are really high, really high tonight, haha
+We are really high, really high tonight, heh
+We are really high, really high tonight
+Lucky Lefty, kiss the wife goodnight for me, hehehe</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

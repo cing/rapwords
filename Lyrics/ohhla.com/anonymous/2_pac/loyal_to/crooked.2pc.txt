@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac
+Album:  Loyal to the Game
+Song:   Crooked Nigga Too
+Typed by: OHHLA Webmaster DJ Flash
+
+  Yo 'Pac
+That's right, hehehe
+  Yo, I heard you got beat up by the police
+  Got a big fat lawsuit and everything
+Yeah..
+  Niggaz just wanna know
+  if you still gon' be on some crooked-ass nigga shit
+
+[2Pac]
+Please tell me what's a nigga to do, and it's true
+Ain't nuttin new, so I do, what I can to get through
+Now first they had me trapped and now I'm pissed
+A loaded AK-47 lay under my head so I don't trip
+One motherfucker from the Underground
+And Big Stretch buckin niggaz if they fuck around
+Yo why I got beef with police?
+Ain't that a bitch that motherfuckers got a beef with me
+They make it hard for me to sleep
+I wake up at the slightest peep, and my sheets are 3 feet deep
+I guess it's hard for you to see
+But now I'm pointin the finger at police
+instead of them motherfuckers blamin me
+I got the right to bear a pistol
+And when the punk motherfuckers get to trippin I got shit too
+And maybe then you'll see the truth
+But until then, I gotta do what I do
+and stay a crooked nigga too
+
+[Chorus: 2Pac]
+It's all up to you; but until then I gotta do what I do
+and stay a crooked nigga too
+And maybe then you'll see the truth; but until then
+I gotta do what I do and stay a crooked nigga too
+It's all up to you; but until then I gotta do what I do
+and stay a crooked nigga too
+And maybe then you'll see the truth; OOOH!
+You can't fuck with the crew, of crooked nigga too
+
+[2Pac]
+Y'know you really can't say that ya blame niggaz
+Fuck bein tame, set aflame, time to aim triggers
+2Pac'll spark a revolution, fuck the Constitution
+I want my bucks for restitution
+This time you got a bigger problem
+Time to face the niggaz from South Central, Oakland, Brooklyn and Harlem
+And we ain't shootin at each other (fuck no!)
+That's my motherfuckin brother, so Dave Duke, run for cover
+And all the bitches from the Klan
+Come feel the wrath of a black man that doesn't smoke crack and
+I don't drink St. Ides (fuck that!)
+Genuine Draft, ganja ganja, and my fuckin tec-9
+They know they scared to see us sober
+(ahhhhhhh) Cobra, and niggaz'll take the world over
+It's all up to you (up to you)
+Blame the Korean.. (fuck that) or be a crooked nigga too
+
+[Chorus]
+
+[2Pac]
+Pardon me?  Play like Jasmine Guy and try me
+I'll be damned if I die, come look at the rage in my eyes G
+They got my homies in a jail cell
+And it's the Rebel and the Devil, and one of us is goin to Hell
+I got the whole place covered, with loc'd out brothers
+And nuttin but love for each other
+So motherfucker make a motion
+I give a fuck, slice you up, and throw your ass in the ocean
+Temperatures drop; see it's cool to shoot a nigga
+but they hate it when we pop the cops
+That's when they gettin petrol
+You better watch your step or you'll be left on death row
+But I learn to look ahead of me
+Stay strapped watch your back keep your eyes on the enemy
+We blowin up precincts and OOOH
+You can't fuck with the crew, of crooked nigga too
+
+[Chorus]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

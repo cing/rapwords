@@ -1,0 +1,115 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z
+Album:  Reasonable Doubt
+Song:   Politics as Usual
+Typed by: OHHLA Webmaster DJ Flash
+
+You know how we do, Roc-a-Fella... forever... You can catch me
+skatin through your town puttin it down y'all relatin
+No waitin I'll make your block infrared hot I'm like Satan
+Y'all feel a nigga's struggle, y'all think a nigga love to
+hustle behind the wheel, tryin to escape my trouble
+kids stop they greetin me, I'm talkin sweet to keys
+Cursin the very God, that bought this wreath to be
+My life is, based on sacrifices, jewels like ices
+and fools that think I slip, you fuck around
+you get your guys hit, they built me to be filthy
+on some I-do-or-die shit, for real
+The price of leather's got me, deeper than ever and
+just think, winter's here, I'm tryin to feel mink nig-ga
+
+Politics as us-ual... I took my
+Frito to Tito in the district, blessed me with some
+VS somethins I can live with, stop frontin
+And for the dough I raise, gotta get shit appraised
+No disrespect to you, make sure you word is true
+I'm takin wages down in Vegas just in case Tyson
+have a major night off, that's clean money, the tax write-off
+You ain't seen money in your life, when it
+comes to this cheese y'all like Three Blind Mice
+A smokin bro, who pump Willie Ike spokes
+The furthest you Chiles been is the Pocanos
+My portfolio reads: leads to Don Corleone, nigga please
+Ten year feleon, heavy on the wrist, our face used
+with the diamond blooded Jesus and blind your face
+youse for life... sharight, Jigga, I keep it tight nig-ga
+
+Politics as us-ual...
+You feel my triumph never, feel my pain I'm lyin
+Low in the leather Zion, the best that's ever came
+The game changes like, my mind just ain't right
+We 'gwan get this dough, I guess it ain't your night
+Suckin me in like a vacumn, I remember
+tellin my family I'll be back soon, that was December
+Eighty-five and, Jay-Z rise ten years later
+got me wise still can't break my underworld ties
+I wear black a lot, in the Ac', act a lot
+Got matchin VCR's, a huge Magnavox
+to nitch, green like spinach pop wines that's vintage
+It's a lot of big money in my sentence
+Hittin towards a mil', lip a, written I kill like that
+chick faked me one-two cat, yeah, I do dat
+Ain't no stoppin the champagne from poppin
+the drawers from droppin, the law from watchin, I hate em
+
+Politics as us-ual
+</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

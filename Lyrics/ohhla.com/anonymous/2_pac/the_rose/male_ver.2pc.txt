@@ -1,0 +1,128 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Tupac Shakur ~ Mos Def
+Album:  The Rose That Grew From Concrete Vol. 1 *
+Song:   Can U C the Pride in the Panther (Male Version)
+Typed by: OHHLA Webmaster DJ Flash
+
+* Poems written by Shakur as ~ interpreted by other artists
+
+[Mos Def]
+It's said that every revolutionary act is a act of love
+And this is an act of love
+All power to the people
+
+I said the P is for power, the A for action
+The N-T because now is the time to get it done
+See the H is for heart, and the E for effect
+The R hold it down at the end for respect
+Who am I?  A panther
+Who am I?  A panther
+What I got I got SOUL, what I got I got LOVE
+What I got I got PRIDE, what I wanna be FREE
+Raise your hands in the air if you feel like me
+
+[Mos Def w/ group emphasizing]
+Who am I?  A panther
+Who am I?  A panther
+What I got I got SOUL, what I got I got LOVE
+What I got I got PRIDE, what I wanna be FREE
+Raise your hands in the air if you feel like me
+
+[Mos Def]
+Can you see the pride of the panther
+as he glows in splendor and grace?
+Topling obstacles placed
+in the way of the progression of his race
+Can you see the pride in the panther
+as she nurtures her young, all alone?
+The seed must grow, regardless
+of the fact that it's planted, in stone
+Can't you see the pride of the panthers
+as they unify, as one?
+The flower blooms, with brilliance
+and outshines the rays of the sun
+Outshines, like the sun
+Shines out, like the sun
+Shines bright, like the sun
+Brings light, like the sun
+
+[Mos Def w/ group emphasizing]
+P is for power, the A for action
+The N-T because now is the time to get it done
+See the H is for heart, and the E for effect
+The R hold it down at the end for respect
+Who am I?  A panther
+Who am I?  A panther
+What I got I got SOUL, what I got I got LOVE
+What I got I got PRIDE, what I wanna be FREE
+Raise your hands in the air if you feel like me
+Who am I?  A panther
+Who am I?  A panther
+What I got I got SOUL, what I got I got LOVE
+What I got I got PRIDE, what I wanna be FREE
+Raise your hands in the air if you feel like me
+
+[Mos Def]
+This song is dedicated to all those who live and die for the struggle
+Panthers, children of the Panthers, or all those, who strive for
+free minds, free souls, free bodies.. for freedom
+And love.. love.. love is the engine to the revolution</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

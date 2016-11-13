@@ -1,0 +1,140 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z
+Album:  The Blueprint
+Song:   Izzo (H.O.V.A.)
+Typed by: deephunk@aol.com
+
+Ladies and gentlemen let's put our hands together for the astonishing
+
+(*girls singing*)
+H to the izz-O, V to the izz-A...
+
+[Jay-Z]
+Welcome ladies and gentlemen to the 8th wonder of the world
+The flow of the century.. oh it's timeless.. HOV'!
+Thanks for comin out tonight
+You coulda been anywhere in the world, but you're here with me
+I appreciate that.. uuunnnh..
+
+H to the izz-O, V to the izz-A
+Fo' shizzle my nizzle used to dribble down in VA
+Was hurtin 'em in the home of the Terrapins; got it dirt cheap for them
+Plus if they was short with cheese I would work with them
+Brought in weed, got rid of that dirt for them
+Wasn't born hustlers, I was birthin 'em
+H to the izz-O, V to the izz-A
+Fo' sheezy my neezy keep my arms so freezy
+Can't leave rap alone the game needs me
+Haters want me clapped and chromed it ain't easy
+Cops wanna knock me, D.A. wanna box me in
+But somehow, I beat them charges like Rocky
+H to the izz-O, V to the izz-A
+Not guilty, he who does not feel me
+is not real to me, therefore he doesn't exist
+So poof -- vamoose, son of a bitch!
+
+[Chorus]
+  H to the izz-O, V to the izz-A
+Fo' shizzle my nizzle used to dribble down in VA
+  H to the izz-O, V to the izz-A
+That's the anthem get'cha damn hands up
+  H to the izz-O, V to the izz-A
+Not guilty y'all got to feel me
+  H to the izz-O, V to the izz-A
+That's the anthem get'cha damn hands UP!
+
+[Jay-Z]
+Holla at me...
+I do this for my culture
+To let 'em know what a nigga look like, when a nigga in a roaster
+Show 'em how to move in a room full of vultures
+Industry shady it need to be taken over
+Label owners hate me I'm raisin the status quo up
+I'm overchargin niggaz for what they did to the Cold Crush
+Pay us like you owe us for all the years that you hoed us
+We can talk, but money talks so talk mo' bucks
+
+[Chorus]
+
+[Jay-Z]
+Yeah...
+Hov' is back, life stories told through rap
+Niggaz actin like I sold you crack
+Like I told you sell drugs; no, Hov' did that
+so hopefully you won't have to go through that
+I was raised in the pro-jects, roaches and rats
+Smokers out back, sellin they mama's sofa
+Lookouts on the corner, focused on the ave
+Ladies in the window, focused on the kinfolk
+Me under a lamp post, why I got my hand closed?
+Cracks in my palm, watchin the long arm of the law
+So you know I seen it all before
+I seen hoop dreams deflate like a true fiend's weight
+To try and to fail, the two things I hate
+Succeed in this rap game, the two things that's great
+H to the izz-O, V to the izz-A
+What else can I say about dude, I gets bu-sy
+
+[Chorus]
+
+(*girls singing*)
+H to the izz-O, V to the izz-A... (*repeat 4X to fade*)</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

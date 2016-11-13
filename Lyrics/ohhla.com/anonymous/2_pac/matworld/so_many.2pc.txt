@@ -1,0 +1,137 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac
+Album:  Me Against the World
+Song:   So Many Tears
+Typed by: OHHLA Webmaster DJ Flash
+
+I shall not fear no man but God
+Though I walk through the valley of death
+I shed so many tears (if I should die before I wake)
+Please God walk with me (grab a nigga and take me to Heaven)
+
+Back in elementary, I thrived on misery
+Left me alone I grew up amongst a dyin breed
+Inside my mind couldn't find a place to rest
+until I got that Thug Life tatted on my chest
+Tell me can you feel me? I'm not livin in the past, you wanna last
+Be tha first to blast, remember Kato
+No longer with us he's deceased
+Call on the sirens, seen him murdered in the streets
+Now rest in peace
+Is there heaven for a G?  Remember me
+So many homies in the cemetery, shed so many tears
+
+Ahh, I suffered through the years, and shed so many tears..
+Lord, I lost so many peers, and shed so many tears
+
+Now that I'm strugglin in this business, by any means
+Label me greedy gettin green, but seldom seen
+And fuck the world cause I'm cursed, I'm havin visions
+of leavin here in a hearse, God can you feel me?
+Take me away from all the pressure, and all the pain
+Show me some happiness again, I'm goin blind
+I spend my time in this cell, ain't livin well
+I know my destiny is Hell, where did I fail?
+My life is in denial, and when I die, 
+baptized in eternal fire I'll shed so many tears
+
+Lord, I suffered through the years, and shed so many tears..
+Lord, I lost so many peers, and shed so many tears
+
+Now I'm lost and I'm weary, so many tears
+I'm suicidal, so don't stand near me
+My every move is a calculated step, to bring me closer
+to embrace an early death, now there's nothin left
+There was no mercy on the streets, I couldn't rest
+I'm barely standin, bout to go to pieces, screamin peace
+And though my soul was deleted, I couldn't see it
+I had my mind full of demons tryin to break free
+They planted seeds and they hatched, sparkin the flame
+inside my brain like a match, such a dirty game
+No memories, just a misery
+Paintin a picture of my enemies killin me, in my sleep
+Will I survive til the mo'nin, to see the sun
+Please Lord forgive me for my sins, cause here I come...
+
+Lord, I suffered through the years (God) and shed so many tears..
+God, I lost so many peers, and shed so many tears
+
+Lord knows I.. tried, been a witness to homicide
+Seen drivebys takin lives, little kids die
+Wonder why as I walk by
+Broken-hearted as I glance at the chalk line, gettin high
+This ain't the life for me, I wanna change
+But ain't no future right for me, I'm stuck in the game
+I'm trapped inside a maze
+See this Tanqueray influenced me to gettin crazy
+Disillusioned lately, I've been really wantin babies
+so I could see a part of me that wasn't always shady
+Don't trust my lady, cause she's a product of this poison
+I'm hearin noises, think she fuckin all my boys, can't take no more
+I'm fallin to the floor; beggin for the Lord to let me in
+to Heaven's door -- shed so many tears
+(Dear God, please let me in)
+
+Lord, I've lost so many years, and shed so many tears..
+I lost so many peers, and shed so many tears
+Lord, I suffered through the years, and shed so many tears..
+God, I lost so many peers, and shed so many tears</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

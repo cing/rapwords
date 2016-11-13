@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z f/ Memphis Bleek, Sauce Money
+Album:  I Got the Hook-Up! soundtrack
+Song:   What the Game Made Me
+Typed by: OHHLA Webmaster DJ Flash
+
+Yeah
+
+Intro/Chorus: Jay-Z
+
+I'm what the game made me
+Not what the fame made me
+No amount of money can change me
+I'm what you lames can't be
+Live nigga what?  Live as fuck
+(repeat 2X)
+
+Verse One: Jay-Z
+
+Check, live from the 7-1-8
+Either respect the flow or learn your lesson from your weight
+I'm wishin arthritis on all writers who, Knock My Hustle
+How can y'all understand the struggle?
+It's hard to live, when you got greedy niggaz in the mix
+Knowin I outclass three-E niggaz in the six
+So I outblast til it's empty clips
+And I outlast niggaz, survival of the fit
+One life, I gotta make sure it's done right
+Cause them yet to have a conversation bout reincarnation
+Ball out, until I fall out
+Stick thick chicks, try to tear they wall out
+Hard to think about your future with, nothin to gain
+Hard to concentrate on school with stomach pain
+Life's harsh, I know y'all runnin from 'caine
+but it'll only catch you and track you down
+With no deal, who you gonna rap to now?
+Start your own record company, that's profound
+Live niggaz gonna rumble when you back from the war
+Jive niggaz gonna crumble and fall
+
+Chorus
+
+Verse Two: Memphis Bleek
+
+Aiyyo whether in the Pinto, or rollin in the six
+I come through cocky, holdin my dick
+I never switch shit, cause that's some bitch shit
+I get the Bisquick take it to the district
+cause I could never get rich, and switch my style
+I just cop a little hurt, to the mercantile
+I'm tryin to get it though, rhymin with this six digit flow
+Gettin fly is the minimal, holdin somethin is the principal
+Respect this young nigga that's, holdin the torch
+Preachin shit like the crack game, don't take shorts
+Throw it down it's a bet, nigga roll hard
+til you got somethin icey, round your neck
+In this concrete jungle get rich or remain humble
+Never speak the biz, at worst I might mumble
+Niggaz test it I spit guns, angrily
+Til all that remains is me
+
+Chorus (by Memphis Bleek instead of Jay-Z)
+
+Verse Three: Sauce Money
+
+I went from no dough to show dough to money to blow
+From umm, hoe I don't know, to get deez
+Never, "Excuse me miss," bitch please, never try to provoke
+Same disrespectful cat I was when I was broke
+Ain't nuttin changed baby but the different faces I stop
+or maybe some of the places I shop
+Now that I run through tracks like cleets with a Air
+for some of the hottest beats, still catch me eatin at Pete's
+Fuck the foul cat who screamed out and threatened my life
+It's all good, here I come kid, dead to the hood
+til I'm in the dirt, foul cats like termites
+come out of the woodworks, if they think you stack paper
+Dead niggaz react later while the cancer spread
+Teach a team how to scheme before they answer lead
+You know me, I used to shoot hoops in the park, ain't nothin changed
+except now I push Coupe's in the dark
+
+Chorus (Sauce Money instead of Jay-Z)</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

@@ -1,0 +1,144 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z
+Album:  The Blueprint 2: The Gift & the Curse
+Song:   A Ballad for the Fallen Soldier
+Typed by: chuteboxe2k2@yahoo.com.au
+
+[Jay-Z]
+This here's a ballad for all the fallen soldiers
+I'ma bout ta show you how a hustlers life
+(this is life man) and a soldier's life, parallel
+And the one thing they got in common is pain
+(forget about me for a second)
+Picture split screen
+On one side we got a hustler getting ready for the block (human beings)
+Other side you got the soldier getting ready for boot camp (soldiers)
+They're both at war (this is life)
+Stay with us
+
+[Chorus]
+Did you ever notice, before you think, life goes fast
+So don't you worry, about what you see, it will pass
+
+[Verse 1]
+You lost him mama, the war's callin him
+Feel it's his duty to fall in line with all of them
+He's a soldier
+Rose through the ranks as the head of your household
+Now its time to provide bank, like he's supposed ta
+Now just remember while he's going to November
+There's part of him growing up
+His shirts soaks up your tears as he holds ya
+Your heart beatin so fast speeding his pulse up
+Yeah I know it sucks, Life aint a rosebud
+A couple of speed bumps, you gotta take your lumps
+Off to boot camp, the worlds facing terror
+Bin Laden been happenin in Manhattan
+Crack was anthrax back then, back when
+Police was Al'Qaeda to black men
+While I was out there hustling sinning with no religion
+He was off the wall killing for a living
+
+[Chorus]
+
+[Verse 2]
+Days turn to nights, nights turn to years
+Years turn to, "How the fuck we make it in here?"
+My barracks average couple fights a day
+Get you locked in a hole wont see the light of day
+And I feel like I'm just writing my life away
+I never thought shit could end up quite this way
+There's a war going on outside no man is safe from
+I'm here for the good fight only the fakes run
+I'm here for the purple heart, if I cant take one
+For my team or my siblings whats my reason for living?
+I love my niggaz more then anything else
+This war's about my family, me needin the wealth
+You dont understand how useless as men we felt
+Till you become a 5 star general
+Shout out to my niggaz that's locked in jail
+P.O.W.'s thats still in the war for real
+
+[Chorus]
+
+Your baby boy is getting grown
+So your baby boy is moving on
+I've gotta chase (gotta chase it)
+If I'm gonna make it (gonna make it)
+Your baby boy is getting grown
+So your baby boy is moving on
+I'm gonna make it
+Even if I gotta take it (gotta take it)
+
+[Verse 3]
+Mama said pray your sons becoming a man
+This wars taxin to 'em like Uncle Sam
+He ain't gon' always make the right choice, understand
+Every choice that he make he makes it for his fam
+It's death before dishonor
+And if hes gone you should honor his memory
+Don't cry we all gonna die eventually
+But if he's locked in the penetentiary send him some energy
+They all winners to me
+(What's up kid?)
+
+[Chorus]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

@@ -1,0 +1,147 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Kendrick Lamar
+Album:  XXL: 2011's Freshman Class: The Mixtape (Compilation)
+Song:   Outrageous
+Typed by: newos_crib_is@hotmail.com
+
+[Kendrick Lamar]
+Mic check, Ali
+The mic don't sound right
+
+[Chorus 1: Kendrick Lamar]
+Even the shooters can get shot, get shot quick
+Even a shooter can get shot (Ali, get it right)
+Even the shooters can get shot, get shot quick
+Even a shooter can get shot
+
+[Kendrick Lamar]
+Uhh, tell 'em I got plenty arson to sell 'em
+Heat by the fleet, displaying it very seldom-
+ly, I write till I ignite my cerebellum
+Close to the +pen+ like I had three felons
+Come from a city where niggas show no remorse
+and a corpse is just another homi' taking it's course
+Of course my dream was to play in the final four
+till twelfth grade came and I was only five-four
+So now I'm a graduate looking to get hired
+My pops knew a security job, he inquired
+But ignorance is bliss, that's what I was told
+I stopped, dropped and rolled when somebody yelled fired
+Now there goes another black boy unemployed
+with a lot of free time, which means he's vulnerable
+to run into a lot of crime, I wrote it in my rhymes
+and when I left the porch this is what I realised
+
+[Chorus 2: Kendrick Lamar] + (uncredited female)
+Even the shooters can get shot, get shot quick
+Even a shooter can get shot {yeah, yeah, yeah}
+Even the shooters can get shot, get shot quick
+Even a shooter can get shot {yeah, yeah, yeah, so what's up?}
+(These streets ain't none to play with
+ It could get outrageous
+ Got burners, .45s and gauges
+ That could really get outrageous)
+
+[Kendrick Lamar]
+So I'm thinking to myself, what's next?
+My security job only got me like two checks
+My pops disappointed, told me I'm fucking up
+Irresponsible and I needed some growing up
+I told him I would go back, knowing I wouldn't go back
+Working a nine-to-five is something I couldn't stomach
+Surrounded by the violence, all the goons and the goblins
+With ninety-nine problems I still kept it one-hundred
+These streets can be rather manipulating
+Especially when you're black and just turned eighteen
+So what's a kid to do, when you're fresh out of school
+and the negatives of the world constantly following you?
+Not to mention a local henchman, Compton sheriffs all like terrorists
+Osama with badges that talk arrogant
+That boy fifteen fifteen and he holding a .45
+Thirty years apart, thirty years before he realised
+
+[Chorus 2]
+
+[Kendrick Lamar]
+Uhh, soon as the beat drop
+I bet some heat pop, on a block close to you
+Like a relative, you sipping Belvedere
+while these niggas planning to rob Mr. Belvedere, yeah
+I'm a good kid tryna stay righteous as Martin Luther
+But it seems like all my friends eventually become shooters
+And niggas banking on you is something that you'll get used to
+You can either fight back or run home and grab your Ruger
+Whatever you do, just make sure that you willing to do it
+Being too indecisive can get you killed inside your Buick
+cause you stopped at the light, five minutes from midnight
+with no tinted windows, that nigga surely had shot through it
+You tell me you listening, but you don't hear the music
+Call you Billy Hoyle when turmoil was near
+This is the realest right here, when I lost my very first job
+My pops said "why?", I said I couldn't aim for the sky
+Cause even shooters can get shot, get shot
+
+[uncredited female]
+These streets ain't none to play with
+It could get outrageous
+Got burners, .45s and gauges
+That could really get outrageous</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

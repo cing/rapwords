@@ -1,0 +1,143 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Tupac Shakur ~ Boot Camp Click
+Album:  The Rose Vol. 2 *
+Song:   Where There Is A Will...
+Typed by: compbuttons@hotmail.com
+
+* Poems written by Shakur as ~ interpreted by other artists
+
+Where there is a will there is a way
+Search and discover a better day
+Where a positive heart is all you need
+To rise from beyond and succeed
+And young minds grow and respect each other based on their deeds
+And not their color
+Look and them and say as I say
+Where there is a will there is a way
+
+[Verse 1]
+I don't know why the caged bird sings
+But as long as Thug Life in my veins I be doin' my thing
+These blocks raised me to hustle for change
+I learned the hard way without pain there is no gain
+My life experience is trapped on page
+My thoughts in my brain release when I be rappin' on stage
+I'm like a prophet of rage with a glock and a guage
+I bang for my gang, won't hesitate to cock it and blaze
+Some years in this game can teach ya some things
+I've seen many try and fail but the strong remain
+My uncle Boo been locked away since I signed my name
+And I opened to family and friends for fortune and fame
+I'm dedicatin' every song that I sing
+In appreciation of loved ones from here to the grave
+And I know this shit ain't easy but ya help me to maintain
+Struggle continues, where there is a will there is a way
+
+[Chorus x2]
+He said
+Where there is a will there is a way
+To search and discover, find a better day
+Where a positive heart is all you need
+To rise beyond and succeed
+
+[Verse 2]
+I let my heart in the pen speak
+I just guide the words and let 'em touch who they reach
+They even fall upon the ears of the deaf
+But you can read it in Braile or come to me in the flush
+I'm authentic, I fire back if I'm fired on
+But I'm human I bleed if my skin gets torn
+And I was born within a Gemini astrology
+I'm in the hood and boys see the two sides of me
+That's why he said where there's a will there's a way
+Ya have to think about tomorrow if ya livin' today
+No one's worthless the girl with no father
+Lookin' for love from any man that will bother
+She takes the money and she whispers his name
+Like the paper and the tears gon' wash away all that pain
+Yeah, it's sad but that's how it goes down
+So keep ya head up and smile for me now
+
+[Chorus x2]
+
+[Verse 3]
+Just get ya click together and ya chips together
+When y'all sit together and ya shit together, never
+Let no man show ya no hand and no plan
+That didn't show his home card, no fam
+Where there's a will there's a way
+And the jungle is a maze
+When they rumble it's the strays that be duckin' like hey
+I ain't tryin' to go to bed in the same night
+Ricochet shots cover my head in the same sights
+All I see so, all be is doin' this, pursuin'
+The same dream to make cream
+And the same fiends I pass by I ask why
+Get the answer smoke cancer and slide
+I look up in the sky give praise for everyday
+That I'm sure to get paid like the sun give rays
+Listen, it's hard enough to get a job but
+It's harder to help us, hype, hustle, and tight the squad
+
+[Chorus x4]
+
+[Ad-libs to fade]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

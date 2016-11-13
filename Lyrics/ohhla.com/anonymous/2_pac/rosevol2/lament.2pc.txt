@@ -1,0 +1,123 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Tupac Shakur ~ Celina
+Album:  The Rose Vol. 2 *
+Song:   The Eternal Lament
+Typed by: compbuttons@hotmail.com
+
+[Celina speaking]
+Yo this Celina (Ooh)
+With a C (Yeah)
+Pac you saved me when I was fifteen
+Without even being here
+Now I'm twenty-two and I'm still here (Ooh, ooh)
+This one's for you, uh huh (Yeah) yeah
+
+[Verse 1 - Celina]
+Let me take a minute to re-check myself
+I been going through a lot and I been praying for some help
+I feel the fire burning deep in my chest
+Cuz you passed the torch and I know that I've been blessed
+With ability, I can do what I do
+I can't complain cuz I got a new attitude
+If you change the game I can change it too
+I did enough chilling now I'm making my moves
+
+[Chorus]
+Thank you to the ones who made this for me
+I'm trying to be everything you want me
+And when I'm done no matter what or where I been
+You know I'm down to do it all again
+Put my mind to the depths of my soul
+I yearn to achieve all my goals
+And all my time will be spent
+On the ones I miss, I will lament
+
+[Verse 2 - Celina]
+All the things you taught me made me who I am
+I here my people talking about the things that need to change
+For this new generation but nobody's taking action
+We can't keep fighting and forever struggling
+But you were the one, you left the to's
+And now it's time for us to, to bring a new
+You could've saved the world but you did saved your girl
+Yes you did and I am here to let you know that I thank you, thank you
+
+[Chorus x2]
+
+[Celina speaking]
+I will miss you forever
+No one will ever take your place
+For the ones I miss, eternally
+I will lament
+
+[Verse 3 - Celina]
+I know that I've been blessed with ability, I can do what I do
+I can't complain cuz I got a new attitude
+If you change the game I can change it too
+I did enough chilling now I'm making my moves
+
+[Chorus]
+
+[Celina to fade]
+I yearn to achieve all my goals
+And I yearn to achieve to all my goals
+Yeah, oh</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

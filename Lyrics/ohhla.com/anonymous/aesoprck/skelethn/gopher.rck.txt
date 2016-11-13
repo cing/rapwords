@@ -1,0 +1,112 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Aesop Rock
+Album:  Skelethon
+Song:   Gopher Guts
+Typed by: AZ Lyrics
+
+Greasy Grimy Gopher Guts; Poolside; 0 for 1 and don't forget spoons twice
+Lukewarm folgers; mold on his moonpie
+Rooms in his home that dissipate into fruit flies
+Suicide lane wide load ride looting in the wake of an amicable marooning
+My duty go from moving in packs to sharing food with a cat. [To Moms:] "it's me, I accidentally sawed a woman in half."
+She said "I'll keep you in my prayers, " I said "I need to hide a body, " she said "ok honey, talk to you on Friday."
+Apparently we share a common plasma so the growing disconnection doesn't matter. according to the blood-and-water chapter. weird
+Who wrote the blood-and-water chapter anyway? probably some surly dad; only child, 30 cats.
+Looking for a way to reconnect with an averted past.
+Except it doesn't always work like that
+Today I pulled three baby snakes out of moss and dirt; where the wild strawberry vines toss and turn;
+I told them "you will grow to be something inventive and electric; you are healthy, you are special, you are present." then I let them go
+
+Oh
+
+You were sitting at the gate awaiting spirits and provisions
+I was privy to a headache over pirouetting innards
+In the mirror sweating pictures; who's there: simian or lizard?
+As it were there is a disappearing difference
+In ambition and material;
+Antiquated gentleman outlaws reduced to a ferris wheel of vitriol
+Move as a godless heathen; black gums, tooth gone, bootleg 'Yukon Cornelius'
+I'm a... that's better, here we here we go. disenchanted face printed on a zero-dollar bill
+Got a little plot of land where authority isn't recognized, contraband keeping the core of his Hyde Jekyll-ized
+Check! nevermind a misanthrope vying for affection to the wretched sound of mysticism dying
+It is something he must handle on his own; the wind blown way, wanna win? don't play
+Today I pulled three green frogs out of leaf and bark where the grape vines climb a convenient barn;
+I told them "you will grow to be something tenacious and exalted; you are mighty, you are gracious, you are lauded." then I let them go
+
+Oh
+
+I have been completely unable to maintain any semblance of relationship on any level
+I have been a bastard to the people who have actively attempted to deliver me from peril
+I have been acutely undeserving of the ear that listen up and lip that kissed me on the temple
+I have been accustomed to a stubborn disposition that admits it wish it's history disassembled
+I have been a hypocrite in sermonizing tolerance while skimming for a ministry to pretzel
+I have been unfairly resentful of those I wish that acted different when the bidding was essential
+I have been a terrible communicator prone to isolation over sympathy for devils
+I have been my own worst enemy since the very genesis of rebels
+Today I pulled three ghost crabs out of rock and sand, where the low tide showcased a promised land.
+I told them "you will grow to be something dynamic and impressive; you are patient you are gallant you are festive."
+Then I let them go
+
+Oh
+
+(On and on and on and on...)
+</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

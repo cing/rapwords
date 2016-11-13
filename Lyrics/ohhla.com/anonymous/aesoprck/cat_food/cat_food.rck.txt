@@ -1,0 +1,156 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Aesop Rock
+Album:  Cat Food EP
+Song:   Cat Food
+Typed by: AZ Lyrics
+
+[Verse 1]
+At night I wear a wolf's head on my regular head
+Considering a regular character sketch
+Food hoarder, communes with the flora
+Computes in cahoots with beauty and brute force
+I've got a brand new normal at a thirty in New York, plus
+Years at the fire pulling portions out of corn husks
+Never mind time on the short bus
+Terrifying errant knights thwarting any motherfucking fork tongued-sport
+Agita flashing the hind molars, though his body less a weapon more a bag of lipomas
+Over medium, treat skin-tags like scratch-offs
+Rap like black-ops, rappers like lap dogs
+He got the rad moves, catty alpha rat-proof (wait)
+Twenty-sided die at the crap-shoot (wait)
+Looking for a black hole to casually collapse through
+Try aisle nine by the cat food
+There it is
+Ooh wee, do we roast in a bilge
+when the skinny from afar is "Thar be gold in them hills"
+Time better let a couple truths decay
+or somebody going to rue the day
+Check, check, check
+
+[Chorus 1]
+Catch 'em on the lam
+(I ain't joking)
+No maps, no muster point
+(Nah, I ain't joking)
+I put a pebble on a tomb
+(I ain't joking)
+Makin bath tub meth
+I'm joking
+Here we go
+
+[Verse 2]
+The whip got a tongue and teeth
+Too tough, two blood-shot eyes with a Tungston bleep
+When any putrefying arrow wants your lungs in reach
+I field a vessel going zero to the fuck y'all think
+And when your function fails I'm on an undisclosed island
+Stroking exotic animals, open up rocket science
+Leaning a jewellers loupe over a stolen sock 'o diamonds
+Palm-made products a portrait of modern triumph, try us
+Back at the battering ram post-haste
+Cro-mags, wait till this Saturday plant grow legs
+All you hear is intermittent code names
+Ricochet around the geometry of a closed space
+Unfrozen part of his new J.O
+Face of divine evil, heart of Camu Tao
+Some people find the daylight to be oddly alluring
+I was in the dark, dodging and burning
+
+[Chorus 2]
+Maybe cause I look like an ugly doll
+(I ain't joking)
+Pack a wallop in the wheelhouse
+(Nah, I ain't joking)
+Leave brass tacks everywhere
+(I ain't joking)
+I own many many homes
+I'm joking
+Here we go
+
+[Verse 3]
+All hog to we know costume
+Black hoodie you can set your watch to
+Tall drink, depths like an air raid
+Radically detach with purveyors of the hair-brain
+Down with the ship go a dozen fried wild links
+Upperway, upper-case tri-state style kings
+Get pie-faced, sent home tied to the sinewaves
+Lights off, spine on sideways
+Riding down the block, scooping Bobby in a boogie-down
+Tome told me tell 'em "Hello, 7: 30 noodle-town"
+Cool 'em down, global domination over salt bake
+Situation commanding a broke dude cosplay
+You don't want a meeting on an off-day trading horror stories from the hollows
+The summary is as follows:
+"These hate those and this thinks, that's absurd"
+Yip yap, y'all cats and birds
+
+[Chorus 3]
+Meow meow meow meow meow
+(I ain't joking)
+Talking rubes on the radio
+(Nah, I ain't joking)
+Uh, suckers never play me
+(I ain't joking)
+I found Jimmy Hoffa's body
+I'm joking
+Here we go</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

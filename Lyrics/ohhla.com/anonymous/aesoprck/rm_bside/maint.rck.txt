@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Aesop Rock
+Album:  Coma 12"
+Song:   Maintenance
+Typed by: Nature2QBC@aol.com
+
+[Aesop Rock]
+Count that for me...thanks
+
+[Robotic voice] 4x
+One, two, one, two, three, four
+
+[Aesop Rock]
+Well any asshole with a book of matches can light a fire fresh
+Make that sucker burn for days, I'll be impressed
+Circlin past the culture's bigot, procreation baked in advanceable
+Then ball and scurry up the grass to roll his marbles off the anthill
+I know gerth and nature but recognize absentee ballot
+And sappy ballads couldn't fill the void
+This game's in the giant Tugboat Complex and HE'S ANNOYED!
+(No one's asking you to feel the narc, brother!)
+Hmm, it's fashion
+I'll find my own bullies to shake a finger wrapped in
+Realigned mine knives in divine justice
+Plus this uncontrollable laugh with those ample waves of brain finally crash
+Brimstone clone with legs and dim poems
+Ten little Zen crafts
+Things cooperate like paper dog participants litigans
+Picket well or ride or burner style clinic
+Acid with the basics
+P-H imbalance to burn the malice martyrs spaceless
+Then fabricate daytrips
+I want to be the halo that jumps off the brain
+Of the genius who decided some pictures deserved frames
+(God and I are on a first name basis)
+Yeah I call him God, he calls me Jesus
+When I lost my religion, he fell to pieces
+Blade, dragon, up hell's creek
+Interrupting a devil pagent
+Starfighter settling to madness
+I keep my ghoul spirit concealed
+Until the warriors return to the Coney Isle Wonder Wheel
+
+[Chorus] 4x
+My momma told me there'd be days like this
+Days like this, days like this, days like this (yes she did)
+
+[Robotic voice] 4x
+One, two, one, two, three, four
+
+[Aesop Rock]
+Okay, tell me who you chill with and I'll tell you who you are
+I walk a mile with a leash attached to your freak seminar
+It's a modern sensation on the boulevard of maintenance
+To sweep your broken hopes under the rugs then hug the playpen
+This revolution pushing through the loose pins and a strait jacket
+A maverick classed in a bunk category
+They had him parallel with a tattered glory division
+(I could devil drink dreams out of thermos)
+Yeah, with a whiskey afterburn
+It's like, nine o'clock wake (I'm up) spit obscentities
+My girl ties on my cape, smoke a bone then work my dental tree
+The clear day's laced with a classic mother nature thunderchaser set
+That got my papergrain's wings wet
+Voyeurist amendments lack expansive coverage in the syllabus
+I dance with shuckles while you man the keyhole grilling code
+I've done my chores according to God's schedule
+With coffee holding the wheel and nicotine working the pedals
+Metal edge kings that tends to rapel the pebble
+Kettle screaching out the operetta
+I live to autograph the iron curtain with doveback feather pens
+Spurting magma, cursing television urns to burn until my Cleopatra
+Minor (Major) dispersed slap on the wrist
+For the tennants lacking the arms to harbor the rarity of thick friendship
+Stuck with a "Yes sir"
+Change of fatigue to ankle
+Each beneath the angle
+I'ma call home until the rock meets the angels
+
+Chorus 4x
+
+[Robotic voice] *repeat to fade*
+One, two, one, two, three, four</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

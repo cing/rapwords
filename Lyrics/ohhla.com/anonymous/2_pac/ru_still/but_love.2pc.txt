@@ -1,0 +1,148 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac
+Album:  R U Still Down? (Remember Me)/I Get Around 12"
+Song:   Nothin But Love
+Typed by: OHHLA Webmaster DJ Flash
+
+[2Pac]
+Straight outta Oakland, California where we spark it on ya
+Give a shout out to my partners in the darkest corners
+I remember drinkin Hennesey, smokin weed
+Fantasize about the things we'd grow to be
+Had a partner named Snoop, loved to clown a stank
+Smoke a pound a day, commenced to down a drank
+Shooting craps in the alley til they chased us off
+Pour a little for my homies but don't waste it all
+Oooohweee, who popped that coochie best?
+On my tattooed chest is where the hoochies rest
+Having house parties in a crowded spot
+And you can tell it's hot, they talk loud a lot
+Everybody wanna dance when the slow jam come
+Lookin dumb, cause you waitin for your chance to hump
+Straight grindin, everybody havin fun
+And it's cool til a fool pull a loaded gun
+Cause another dude kicked his Bacardi over
+He had to act a fool now the party's over
+Gun shots rang like it's thunder
+And everybody bum rushing and I'm rushing to get a number
+Says she got a man but she's lying
+Why? I seen her talking to this other guy and..
+he's a dealer so you know she gonna sweat him
+I ain't trippin I just hope he get em, I got nuttin but love
+
+[Chorus: repeat 4X]
+[singers] Ain't got nuttin but love for ya
+   [2Pac] I'm down for yours, nuttin but love
+
+[2Pac]
+I love to go back, to the block I got my game from
+And pay respect to the place that I came from
+Cause uh, old man still drinkin, his breath still stinkin
+He'd love to tell ya what he's thinkin
+But I can't diss him he's my elder
+He been livin here longer what that tell ya?
+And little girls playin double dutch
+Still blush, cause she don't get in trouble much
+It's uhh, ponytails and barrettes
+I gotta make it back home, before the sun decides to set
+And little boys playin stick ball, quick y'all
+Get out the street before they hit y'all
+And as I reminisce, I think about my ghetto bliss
+And wonder how we came to this
+I help an old lady across the street, the cost is free
+I can't take what she offers me
+And this is how the world could be
+This is how the world should be
+Feels good to be back on the streets
+Cause I know they got love for me, nuttin but love
+
+[Chorus]
+
+[2Pac]
+When I was young I used to want to be a dealer see
+Cause the gold and cars they appealed to me
+I saw our brothers getting rich slangin crack to folks
+And the square's getting big for these sack of dope
+Started thinking bout a plan to get paid myself
+So I made myself, raised myself
+Til the dealer on the block told me, "That ain't cool
+You ain't meant to slang crack, you a rapper fool"
+I got my game about women from a prostitute
+And way back used to rap on the block for loot
+I tryed to make my way legit, haha
+But it was hard, cause rhymes don't pay the rent
+And uhh, it was funny how I copped out
+I couldn't make it in school, so finally I dropped out
+My family on welfare
+I'm steady thinking, since don't nobody else care
+I'm out here on my own
+At least in jail I have a meal and I wouldn't be alone
+I'm feelin like a waste, tears rollin down my face
+Cause my life is filled with hate
+Until I looked around me
+I saw nothing but family, straight up down for me
+Panthers, Pimps, Pushers and Thugs
+Hey yo, that's my family tree, I got nuttin but love
+
+[Chorus] - repeat for a while w/o 2Pac
+Oaktown -- [singers] ain't got nuttin but love for ya
+                     ain't got nuttin but love for ya (*repeat to fade*)</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

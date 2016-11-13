@@ -1,0 +1,132 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Tupac Shakur (Strictly Dope)
+Album:  The Lost Tapes
+Song:   Minnie the Moocher
+Typed by: dalyricalmaster@tupac.com
+
+(2Pac)
+I know this girl and her name is Minnie
+Livin' in the projects didn't own a penny
+Met her at a school dance so I took a chance
+Walked her to the parkin' lot for a little romance
+Got to my car, put the key in the ignition
+turned on the slow jams, I was on a mission
+I was catchin' wild things like the chicken pox
+I was "J" and knockin' boots right down the socks
+She was freaky and wild, oh man could I call it?
+But when I dropped her off, she had stole my wallet
+I couldn't quite believe that why a hoocher-coocher?
+But that was my first experience with MINNIE THE MOOCHER!!
+
+(2Pac)
+Minnie the Moocher was a legend on the block I'm from
+A dream girl to many brothers, but true to none
+Her reputation was enormous - a real go getter
+And once a brother met her, he wanted to get with her
+Maybe it was her smile, her personality or
+the way she shook her shimmy or the clothes she wore
+But whatever it was, Minnie the Moocher was an expert
+Real heart-breaker, but never get hurt
+She had this boyfriend, his name was Diamond
+helpin' Minnie out with the little social climbin'
+Met with Politicians, peace to many others
+Suddenly and instantly, they became her lovers
+She took the power that they possessed
+And Minnie did it all without gettin' undressed
+Minnie dissed Diamond sayin' that he could not live with her
+But he wanted payment for the things he did for her
+He grabbed the gun sittin' on the nightstand
+Minnie held the bullets, put the pistol in her right hand
+She was a legend to everyone who knew her
+That's is my memory of Minnie the Moocher
+
+(Ray Tyson)
+Minnie had a boyfriend, a gambler
+Addicted to poker, an alcoholic, a basshead, crack smoker
+He took her to Harlem, and all around Chinatown
+He bought some bass, a pipe a tape of hard-rap sounds
+She was an addict, tired of the static and poverty
+Sick of the same ghetto misery
+See, Minnie was a young kid lookin' for excitement
+Smokey was a hoodlum, headin' for inditement
+Then one day their relationship stopped
+when Smokey was killed by the M-I-C-Cops
+Minnie was hurt, lost without a clue
+To her, there was no chance of gettin' somebody new
+So she walked home sadly, as bad as it seems
+She cried herself to sleep to find the man of her dreams
+
+(Ray Tyson)
+She had dreams and schemes about the King of Sweden
+He gave her things that this girl was much needin'
+A plush house made of gold and steel
+A diamond car with a platt in the wheel
+Now you might think this is a lot of stuff
+But to Minnie this was not enough
+He bought a stable, full of thorough-bred race horses
+His meal she ate was a dozen courses
+She had a fortune in nickels and dimes
+And she sat around and counted it a billion times
+She had bank, yeah Minnie was clockin'
+Had every sucker in the neighborhood JOCKIN'!!
+She would walk by tryin' all to wink her eye
+Then she dissin', with zero reply</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

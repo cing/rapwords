@@ -1,0 +1,131 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan (Inspectah Deck, U-God) f/ Tre Williams
+Album:  Legendary Weapons
+Song:   Never Feel This Pain
+Typed by: OHHLA Webmaster DJ Flash
+
+[Inspectah Deck]
+Born with the struggle, used to hustle for crumbs
+Fillin blunts in the building front thuggin for ones
+Full clips, fly dicks, down somethin to pump
+Whole cliques fly whips, dimes nothin to son
+City boy on the corner, I was so involved
+So the drama I embraced it with open arms
+Was tryin to shake the pain, hopin I could break the chains
+Every day the same, who am I to make a change?
+Will my niggaz risk it all just to play the game?
+And the young'uns goin through it tryin to play the same
+Through the rain, through the fire, handcuffed by desire
+Sent to your son, forgive me for the sins that I've done
+
+[Chorus: Tre Williams]
+My life, my pain lasts forever
+Nothin in these streets makes it better
+My life, my pain lasts forever
+Nothin in these streets makes it better
+And so I live on
+
+[U-God]
+Sittin here thinkin drinkin got a, lot on my mind
+Is my, life shrinkin am I, caught in the times
+It's a, quarter to nine and I'm, grabbin my 9
+I had dreams I just, wanted to rhyme
+Climb my ways out these whack-ass ghettos
+I signed my name on the line with the devil
+Still in my prime weight but lost minds are settled
+Pots on the stove, move grandma's kettle
+Late for my job, he thinks he's a star
+She hates her husband, she says I'm a slob
+Mixed feelins she ain't gettin involved
+Battle of the sexes, the planet's off its axis
+The IRS God damn I owe these taxes
+The truth hurts, but I can take it
+It's a long time comin, but I can make it
+No mistakin, the cream is back
+
+[Chorus]
+
+[Inspectah Deck]
+I'm standin on my own two
+I got my niggaz, true niggaz, real niggaz~!
+Stop the wheel really? You only feel me
+if you walk the same road, talk the same code
+Still dwellin in the hell and find the time to make a home
+The few who escape will try to find a safer zone
+I ain't waitin for Obama, never doubted him, I'm proud of him
+He real, he'll spend a couple million in the housing then
+seein is believin, my vision is blurred
+Cause I ain't seein nothin I heard, really nothin but words
+The bottom line I'm still stuck to the curb
+Sky high but it wasn't the sherm, really nuttin but herbs
+I risk it all for the cause
+Even if it's war with the law won't pause
+I can't won't don't stop, I ain't got an off switch
+Dyin tryin to live it just to get a small part of it
+My squad is sick, type that you don't want problems with
+Rollin like 70 Mack trucks, what's stoppin it?
+
+[Chorus] w/ ad libs
+
+[Outro: Tre Williams]
+Ohhhhh! Ohhhhhh said I live
+I live, I live, oohhhhhhhwhoahhhhhhh</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

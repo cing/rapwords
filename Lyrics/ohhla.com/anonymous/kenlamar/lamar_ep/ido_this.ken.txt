@@ -1,0 +1,146 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Kendrick Lamar f/ Jay Rock
+Album:  Kendrick Lamar EP
+Song:   I Do This
+Typed by: newos_crib_is@hotmail.com
+
+[Chorus 1: Kendrick Lamar]
+The homies say I'm the truest
+The bitches think I'm the cutest
+The definition what cool is
+Boy, I thought you knew this
+Bitch I do this
+
+[Kendrick Lamar]
+Uh, I used to to wanna by like Michael Jordan
+Figured that I'd hit the NBA and make a fortune
+Thank God for these rap recordings
+I can ball like him on every verse and chorus
+5-0-1s, Louis letterman jacket
+Little brother only five, momma put him on my taxes
+You know that Compton ghetto shit
+that every Section 8 tenant is familiar with? Ooh wee
+They say he something like the seventies, but I'm from '87
+With a thousand dimes, you got eighty sevens
+Gourmet sneakers, hair nappy
+Fucking all my high school teachers, that was '05 bro
+And I don't like 'em if the ass thin
+And I don't wife 'em if a nigga is her best friend
+The fuck I look like?
+A billion bucks, and that's why
+
+[Chorus 2: Kendrick Lamar]
+The homies say I'm the truest
+The bitches think I'm the cutest
+The definition what cool is
+Boy, I thought you knew this
+Bitch I do this
+Bitch I do this
+Bitch I do this
+The definition what cool is
+Boy, I thought you knew this
+Bitch I do this
+
+[Kendrick Lamar]
+She looking at the car like she wanna fuck it
+She looking at the wrist like she wanna fuck it
+Hating on her girlfriend just so I can fuck it
+She say she on birth control, no I don't trust it, hoe
+Uh, so give me fifty feet champ
+Run until I got a bunion and my feet cramp
+I'm in the hot spot, I know they seats damp
+And I don't need your cosign, that's a cheap stamp
+You Nix Check Cashing
+I'm GT crashing, 1-0-5 off ramp
+Ay, that lil' nigga got it going on
+G5, going-going-going gone
+Cloud nine mind state
+I drop a record, then I raise the crime rate
+Killing this shit, where's your funeral tie?
+A-B-C-D-E-F-G, fuck, skip to Y
+
+[Chorus 2]
+
+[Jay Rock]
+She looking at the car like she wanna fuck it
+She looking at the wrist like she wanna fuck it
+Hating on her girlfriend just so I can fuck it
+Say she on birth control, no I don't trust it
+Aooow~! First off, I'm a rider bitch
+Put them twenty-sixes on a Silverado bitch
+I keep my bitch with a finer bitch
+Snap my fingers, she'll go and find a bitch
+Tell them fuck boys that I do this
+Got the best product round town, Frank Lucas
+Confuse 'em like a Rubix cube when I roll up
+Okay, Subway bread like some cold cuts
+And I drop cold cuts, bitches go crazy
+Wild like a Haitian, I should set up shop in Haiti
+Fuck you, pay me, paper over pussy nigga
+When I drop, you ain't getting paper nor pussy nigga
+
+[Kendrick Lamar]
+Bitch I do this
+Bitch I do this
+The definition what cool is
+Boy, I thought you knew this
+Bitch I do this</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

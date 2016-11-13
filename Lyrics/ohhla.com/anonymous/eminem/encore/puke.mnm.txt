@@ -1,0 +1,123 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Eminem
+Album:  Encore
+Song:   Puke
+Typed by: younggunna917@yahoo.com {with help from liner notes}
+
+{*puking sounds*}
+
+[Eminem]
+There I go.. thinkin of you again
+
+[Chorus]
+You, don't, know, how, sick, you, make, me
+You make me fuckin sick to my stomach
+Every time I think of you, I puke!
+You, must, just, not, know-oh-oh-oh-oh-oh-ohh
+You may not think you do, but you do
+Every time I think of you, I puke!
+
+[Verse 1]
+I was gonna take the time to sit down and write you a little poem
+But off of the dome would probably be a little more
+More suitable, for this type of song - whoa
+I got a million reasons off the top of my head that I can think of
+Sixteen bars just ain't enough to put some ink ta
+So fuck it I'ma start right here, I'll just be briefer
+Bout to rattle off some of the reasons
+I knew I shouldn't go and get another tattoo
+of you on my arm, but what do I go and do?
+I go and get another one, now I got two, ooo-ooo-ooo-ooo-ooo-ooh
+I'm sittin here, with your name on my skin
+I can't believe I went and did this stupid shit again
+My next girlfriend, now her name's gotta be Kim, shiii-iii-iii-iit
+If you only knew, how much I hated you
+For every motherfuckin thing you've ever put us through
+Then I wouldn't be standin here cryin over you, booo-ooo-ooo-ooo-hoo
+
+[Chorus]
+
+[Verse 2]
+I was gonna take the time to sit down and write you a little letter
+But I thought a song would probably be a little better
+Instead of a letter, that you'd probably just shred up - yeah
+I stumbled on your picture yesterday and it made me stop and think of
+How much of a waste it'd be for me to put some ink ta
+A stupid piece'a - paper I'd rather let you see how
+much I fuckin hate you in a freestyle
+You're a fuckin cokehead slut I hope you fuckin die
+I hope you get to hell and Satan sticks a needle in your eye
+I hate your fuckin guts you fuckin slut I hope you die, die-ie-ie-ie-ie-ie-ie!
+But please don't get me wrong - I'm not bitter I'm mad
+It's not that I still love you, it's not cause I want you back
+It's just that when I think of you it makes me wanna yak, aaa-aaa-aaaak
+But when else can I do, I haven't got a clue
+Now I guess I just move on I have no choice but to
+But every time I think of you, now all I wanna do, is puuu-uuu-uuuke!
+
+[Chorus]
+
+{*puking sounds*}
+
+[Eminem]
+God damn...
+Fuckin bitch</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

@@ -1,0 +1,119 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac
+Album:  Loyal to the Game
+Song:   Thug 4 Life
+Typed by: OHHLA Webmaster DJ Flash
+
+Hahaha, right
+Thug for life nigga
+Can't you read the signs?
+
+[2Pac]
+Mobbin like a motherfucker, stuck, can you picture
+middle finger out the window gettin fucked off, liquor
+Get loaded, can't control it
+Nigga pass me the blunt and let me roll it
+You get the bozack to the hoe-stack, that's fo' sho' black
+So be a mack and keep ya dough fat
+And tell me what does it take to be a G?
+I started with a co-down, soon bounced to a ki'
+You gotta watch your back, stay strapped, be alert
+Started as a young motherfucker doin dirt
+And now I'm in the rap game, like the crack game, I got enemies
+Can't pretend to see my friends are not my enemies
+And even thug motherfuckers wanna have fun
+Stuck in, buckin my motherfuckin Magnum
+What does it take to be a G?
+Silence is a must, violence is a plus, bust
+shots at my adversaries, them niggaz scurry
+Pick a spot to be buried cause I'll be buckin in a fuckin hurry
+
+[Chorus: repeat 3X]
+Thug for life, high 'til I die
+When them stupid-ass bitches ask why, tell 'em
+
+[2Pac]
+Game, thicker than most of these tricks
+I got my mind on makin money but you stuck on these fake, bitches
+And jealous motherfuckers can't see
+That's it's the thing that cost, these stupid bitches pass the pussy free
+So tell me why you sweat a motherfucker like me
+A young nigga tryin to hustle up some G's
+You pussy-ass playa hatin hoes
+Freakin down on niggaz, jumpin around at the shows
+And you the first motherfucker to jump
+to the trunk when it's time for funk, little trick-ass punk
+Thug motherfuckers don't die
+We get high and we multiply, motherfucker
+Give a holla to my niggaz in the Bay
+I'm livin in L.A., still clutchin on my AK
+
+[Chorus]
+
+[Chorus]
+
+[2Pac]
+Thug for life, beotch!
+Yeah nigga, thug life, from now until for motherfuckin forever
+Have knots in this motherfucker
+Yeah
+</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

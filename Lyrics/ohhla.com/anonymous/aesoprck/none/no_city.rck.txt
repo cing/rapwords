@@ -1,0 +1,145 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Aesop Rock
+Album:  None Shall Pass
+Song:   No City
+Typed by: storrisi45@hotmail.com, domermakesbeats@gmail.com
+
+[sample]
+For want of a nail the shoe was lost
+For want of a shoe the horse was lost
+For want of a horse the rider was lost
+For want of a rider the battle was lost
+For want of a battle the kingdom was lost
+And all for the want of a horseshoe..
+
+There is a hole in front of the shovel
+Shovel in front of the brawn
+Six billion gorillas for whom the graves yawn
+Each within his mulish days to choose his tool of trade
+Dueling blades that cued a cruel charade and fuel the flames
+Few would clue the crew into the civil
+Skip the food and land like you the man
+who flew the coop over the pitbulls
+Dash back, flashin and compassionate nanopolice that
+Sat beneath an avalanche of jagged inadequacies
+And I was "Stop the Violence" more than I was Pontious Pilot
+Cops and robbers riot by the five's obnoxious sirens
+And Aes is gullible you figure, "all man equal no brainer"
+Take it his friends and neighbors didn't cater
+Mom springs the babies through a very churchy 80's
+Sunday mornings reinforce the waiting game to Hades
+Any brazen but apparently infernal-bound now
+For when a man of cloth recite his wrongs he wouldn't bow down
+The punishment should fit the reasons you must punish him
+Never puncture skin or pull the colored rugs from under them
+Two opposing mother ships shall not employ the gunners deck
+'Cause brotherhoods of public good do not employ the unctuous
+And you. observe and have the givetheth disproportionate
+To the taketh away decide to maketh his day (do it)
+All the stubborn odium glowin a coal holster
+To where he coulda stood easily in the tub jugglin toasters
+
+[Chorus]
+No mountain too high
+No city too far
+No coma too night
+No city tomorrow
+No fire too live
+No city too charged
+No treaty too signed
+No city too guard
+
+I picked the phone up with a grown-up mode approach
+Skin crawlin off the (drawer) and now I claw the awkward tone-em
+I'd known it wasn't roses
+But hoped it was less corrosive
+Coastin to the focus of the grossest diagnosis
+Like homes, the barnacles that chew upon the flesh of man
+Have clued into the suitor was capital to a beggar's hand
+And uncomfortably.  sung a stubborn legacy of gluttony
+With carnivores that burrow like hunters into the blood in meat - umm, what?
+Chinny chin-up and the city picked this
+in a pent-up letter numbed the spitting stigma
+Along came a spider, sold a (regs) to any buyer
+Now to shoot a ringer back with six legs wider than the driver
+If you make no friends on the way to the top rung
+There is no secret handshake club I do not give a fuck
+But know the cancers make the olive branches obviously standard
+So when they extend from the yachts and mansions drop your canons
+All kings hang em for the cliffs side drip dry
+Will he clip the zipline or slip for his final dip dive?
+If he live will he survive the milligrams of middle-ground
+They pump into the pin-stripped pentagrams over Tinsel-town
+Or kill a man who trickled down the city with his scissors out
+Or sickles, dipped in military hells, bells and whistles
+Riders to the east, not a wild tribes
+Thank you for the peace on earth and mercy miles high
+
+[Chorus]
+No mountain to high
+No city too far
+No coma too night
+No city tomorrow
+No fire too live
+No city too charged
+No treaty too signed
+No city too guard</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

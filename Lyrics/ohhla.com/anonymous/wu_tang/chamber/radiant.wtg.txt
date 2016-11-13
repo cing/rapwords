@@ -1,0 +1,128 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan (Raekwon) f/ Cormega, Sean Price
+Album:  Wu-Tang Chamber Music
+Song:   Radiant Jewels
+Typed by: Cno Evil
+
+[Intro: Raekwon]
+Chef... let's do it...
+
+[Raekwon]
+Criminal kingpins, gangstas and cheap friends
+Actors, vixens, niggas put your kicks in
+Blood money when we hawking, ackward gun that go around curves
+Bullets braze niggas with coffin, yo
+Watch how to rhyme with hammers, I got two mens
+That don't speak English, shooting game's bananas
+Down in Spain, my bangles, clusty, checking my swings
+Trillians on, yo, cuffing my jeans
+Broad day, yo, body another, my microphone is like
+Blow 'caine, one, pull the trees, you love us, yo
+So killers be cool, pimps, read rules
+When a grown man is rapping, it's Ill Street Blues
+Striving, nigga, with one side
+Don't go against totally rent shit, nigga, baby gonna die
+Yeah, bank robbers armored up, gear like the boys in Heat
+DeNiro told one soul to keep quiet
+
+[Interlude: Cormega]
+Aiyo, word to mother
+Ya'll niggas better bring ya selfs son, word
+
+[Cormega]
+When Pun was packing a mack in back of the Acura
+I was dealing in them buildings, it wasn't no cameras
+The witness savages, snitching was hazardous, now it isin't
+Shit is embarrasing, fuck a flow, this is a lyrical aquaduct
+Sink or swim for what I'm hearing you bagging up
+Lyte like the MC, I'm 'paper thin', you tripping
+I'm taking trips, your eyes don't lie, take a glimpse
+Into my life, you see me blazing clips, with the green to make it rich
+With a team that'll scrape the Knicks, and a v that's crazy quick
+I came to wear my Yankee fitted, represent for greatness
+It's lyrical elevation, causing mental stimulation
+If I'm getting too deep, I give you a minute to take in
+My jewels radiant, like a view of the Caymans
+And thinking you seeing me, who you playing with?
+Cor, Mega, raw forever
+Fell back, pause, fell off? Never
+
+[Interlude: Sean Price]
+P! Shaolin, what up?
+
+[Sean Price]
+Aiyo, listen giraffe neck niggas, I blast techs
+Alejandro, came through with the Mexican Aztecs
+Rap smack niggas on a whole different aspect
+Homey, owe me dough, that's how we fucked up his last check
+Three train Saratoga, train stop, nigga been
+Metro part with the plan, make major figures
+Foul flagrant, two shots, give me the ball back
+You got shot, get off my ball sack
+You not hot, give me a call back, niggas is all wack
+Super doopa stupid, get drugs and I fall back
+P, ain't a problem that the God can't handle
+I set it off First Blood, Sean John Rambo
+Whoooo, as you can see, I'm focused
+Boot Camp for life, fuck the G.I. Joe shit
+Boot Camp is an Army, better yet a Navy
+Marine Air Force Ones, nigga, the shit's crazy, don't play me</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

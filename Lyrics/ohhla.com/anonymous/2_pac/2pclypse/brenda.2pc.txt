@@ -1,0 +1,119 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac
+Album:  2Pacalypse Now
+Song:   Brenda's Got a Baby
+Typed by: OHHLA.com
+
+Brenda's got a Baby
+Brenda's got a Baby
+
+I hear Brenda's got a baby
+Well, Brenda's barely got a brain
+A damn shame
+Tha girl can hardly spell her name
+(That's not her problem, that's up to Brenda's family)
+Well let me show ya how it affects the whole community
+Now Brenda never really knew her moms
+and her dad was a junky puttin death into his arm
+It's sad, cause I bet Brenda doesn't even know
+Just cause your in the ghetto doesn't mean ya can't grow
+But oh, that's a thought, my own revelation
+Do whatever it takes to resist the temptation
+Brenda got herself a boyfriend
+Her boyfriend was her cousin, now lets watch the joy end
+She tried to hide her pregnancy, from her family
+Who didn't really care to see, or give a damn if she
+Went out and had a church of kids
+As long as when tha check came they got first dibs
+Now Brendas belly is gettin bigger
+But no one seems ta notice any change in her figure
+She's 12 years old and she's having a baby
+In love with a molester who's sexing her crazy
+And yet she thinks that he'll be with her forever
+And dreams of a world with tha two of them are together, whatever
+He left her and she had tha baby solo
+She had it on the bathroom floor and didn't know so
+She didn't know, what ta throw away and what to keep
+She wrapped the baby up and threw him in the trash heep
+I guess she thought she'd get away, wouldn't hear the cries
+She didn't realize how much tha the little baby had her eyes
+Now tha babys in the trash heep balling
+Momma can't help her, but it hurts to hear her calling
+Brenda wants ta run away, momma say, you makin' me lose pay
+The social workers here everyday
+Now Brenda's gotta make her own way
+Can't go to her family, they won't let her stay
+No money no babysitter, she couldn't keep a job
+She tried ta sell crack, but end up getting robbed
+So now what's next, there ain't nothin left ta sell
+So she sees sex as a way of leavin hell
+It's payin tha rent, so she really can't complain
+Prostitute, found slain, and Brenda's her name, she's got a baby
+
+Baaaaaaaaby
+
+(don't you know she's got a baby)
+(don't you know she's got a baby)
+(don't you know she's got a baby)
+(don't you know she's got a baby)
+(don't you know she's got a baby)
+(don't you know she's got a baby)</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

@@ -1,0 +1,178 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac f/ Lil' Scrappy, Nutso, Yaki Kadafi
+Album:  Pac's Life
+Song:   Don't Sleep
+Typed by: big_chiefer2@yahoo.com
+
+[2Pac]
+Ahhh shit hahaha
+
+When I enter the first zone
+Worst known mic holder
+My Hummer roll up
+Evacuating strapped soldiers
+Inside strategy
+Manifestin' military styles
+Casually try da g
+When niggas battle me
+My prophesied prediction
+Switch and move positions
+Separated from his gun and bitch
+And watch 'em start snitchin'
+I keep spittin' still stupid niggas fail to listen
+I personify this thug livin'
+Hell or prison
+My ammunition varies
+My voice carries
+Watch me invite the whole world
+Me and the mob gettin' married
+It seems all the fine screams pierce the dark
+This is expected
+A trick bitch where is your heart
+You mark
+Watch niggas fall when I call they name
+We outlaws hold your head niggas all the same
+Except some who want more out of life than stress
+We still thuggin' 'til its none left
+Don't sleep
+
+[Chorus] (2x)
+We gon' ride
+Keep my pistol on my side
+Always creep wit' the nine when I ride (when I ride)
+Don't sleep
+Blowin' pine
+Always hustlin' on the grind
+Cause I gotta get mine all the time (all the time)
+Don't sleep
+
+[Nutso]
+Dumpin' on motherfuckers at random
+Rapidly
+Wit' accuracy
+They shouldn't talk bad to me
+It had to be
+A motherfuckin' murder
+I'm glad to be
+A nigga that did the murder
+So sad to see
+Another motherfucker floatin'
+In plastic reef
+Sleep wit' his head wide open (head smokin')
+Rapid release
+Keep the police coastin'
+Casualties
+Warrant in deep east Oakland (doors wide open)
+Yolk the nigga off the asphalt
+Drove off to the hills
+Positioned him on his knees and blew the back off
+Death with the lex ruger
+Death to ya
+Niggas cry when the bullets fly
+Kill and execute 'em
+
+[Yaki Kadafi]
+I blast first 'til they body me
+Like my guns in variety
+Runnin' wit' the real big willies you silly punks try to be
+But front
+Doin' my walk by's rollin' a blunt
+Hand on my nuts in a getaway car full of stunts
+Addicted to my nine
+Movin' like crime through time
+Poppin' niggas like pimples
+Nigga nothin' simple 'bout mine
+Etch-a-sketchin'
+Dumpin' on all you punks at intersections
+Day in and day out
+Ain't no easy way outs or easy exits
+Don't sleep
+
+[Chorus] (2x)
+
+[Lil' Scrappy]
+G's up
+A-Town
+
+When I hit the street
+All I can see is the grind
+Blood sweat and tears when I bust my rhyme
+Yeah I un- for my folk like I load my nine
+And when I let loose
+Then no crew standin' but mine
+I gives a damn 'bout lame nigga actin' schiesty
+Same one knew I was in jail and didn't write me
+Wanna fight me then come find me
+What eva you do shawty you betta think wisely
+You might see me wit' a stack in the trap (Aye)
+I use my thoughts and pen
+Similar to a saran wrap
+A lil' lame nigga I'll neva be
+Yeah I'ma keep it g
+I'm from the Three and Scrap will neva sleep
+Aye
+
+[Chorus] (2x)
+
+Don't Sleep
+
+Don't Sleep</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

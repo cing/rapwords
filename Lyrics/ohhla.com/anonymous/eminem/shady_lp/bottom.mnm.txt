@@ -1,0 +1,133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Eminem
+Album:  Slim Shady LP
+Song:   Rock Bottom
+Typed by: darnoc20@aol.com
+
+Aiyyo!  
+This song is dedicated - to all the happy people
+All the happy people - who have real nice lives
+And who have no idea what it's like, to be broke as fuck
+
+[Verse One]
+I feel like I'm walkin a tight rope, without a circus net
+Poppin percocet, I'm a nervous wreck
+I deserve respect; but I work and sweat for this worthless check
+I'm bout to burst this tech at somebody to reverse this debt
+Minimum wage got my adrenaline caged
+Full of venom and rage, 'specially when I'm engaged
+and my daughter's down to her last diaper, it's got my ass hyper
+I pray that God answers, maybe I'll ask nicer
+Watchin ballers while they flossin in they Pathfinders
+These overnight stars becomin autograph signers
+We all long to blow up and leave the past behind us
+Along with the small fry's and average half pinters
+But playa haters turnin bitch like they have vaginas
+Cause we see them dollar signs and let the cash blind us
+Money'll brainwash you and leave yo' ass mindless
+when snakes slither in the grass spineless
+
+[Chorus: repeat 2X]
+That's Rock Bottom - when this life makes you mad enough to kill
+That's Rock Bottom - when you want somethin bad enough to steal
+That's Rock Bottom - when you feel like you've had it up to here
+Cause you mad enough to scream but you sad enough to tear
+
+[Verse Two]
+My life is full of empty promises and broken dreams
+I'm hopin things look up; but there ain't no job openings
+I feel discouraged, hungry and malnourished
+Living in this house with no furnace, unfurnished
+And I'm sick of workin dead end jobs with lame pay
+And I'm tired of being hired and fired the same day
+But fuck it, if you know the rules to the game play
+Cause when we die we know we all going the same way
+Cause it's cool to be player, but it sucks to be the fan
+When all you need is bucks to be the man, plus a luxury sedan
+I'm comfortable and roomy in a six
+But they threw me in the mix with all these gloomy lunatics
+who walk around depressed, and smoke a pound of sess a day
+And yesterday went by so quick it seems like it was just today
+My daughter wants to throw the ball but I'm too stressed to play
+Live half my life and throw the rest away
+
+[Chorus]
+
+[Verse Three]
+There's people that love me, and people that hate me
+But it's the evil that made me this backstabbin deceitful and shady
+I want the money, the women, the fortune and fame
+if it means I end up burnin in hell scorchin in flames
+if it means I'm stealin your checkbook and forgin your name
+This lifetime bliss for eternal torture and pain
+Cause right now, I feel like just hit the rock bottom
+I got problems - now everybody on my blocks got 'em
+I'm screamin like them two cops when Tupac shot 'em
+Holdin two glocks, hope your doors got new locks on 'em
+My daughter's feet ain't got no shoes or socks on 'em
+And them rings you wearin look like they got a few rocks on 'em
+And while you flauntin 'em I could be takin 'em to shops to pawn 'em
+I got a couple of rings and a brand new watch, you want 'em?
+Cause I ain't never went gold off one song
+I'm runnin up on someone's lawn with guns drawn
+
+[Chorus]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

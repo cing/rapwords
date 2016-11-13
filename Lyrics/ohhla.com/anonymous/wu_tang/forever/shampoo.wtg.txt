@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan
+Album:  Wu-Tang Forever
+Song:   Black Shampoo
+Typed by: OHHLA Webmaster DJ Flash
+
+[U-God]
+Hard days of work
+You had a hard day at work baby
+I want you to sit down, relax
+While I soak you in my mentals
+Backrub style, watch this, yo, yo
+Massage, peppermint oil, shampoo and pears
+Cinnamin, aloe, natural for you hair
+Soak lavender soap, coconut conditioning
+Honey lather, blood flowing, love listening
+Motion lotion, breeze, over the ocean
+Lovers, bath crystals, lovers sponge scrubbers
+Hot milk bath, steam shower rubbin
+Diesel splash, long lovin in your oven
+Bake it off, break it off 'til it gets soft
+Passion fruit, pussy cat, want to touch it off
+In and out, fragrance patience, Hershey's Kisses, Guinness Stout
+Stress reliever soak your feet, air them out
+Brain message, think about pink
+Stress relieving, no dishes in the sink
+Upper lower, left, right, neck don't play
+Back rub, Calgon, take me away
+Waterfall beads, streams, plush and lavish
+Comfort me through all the damn madness
+Night breeze at sea, sipping tea
+You and your queen melodies, and trees, 85 degrees
+Jet skis breeze...
+Sprinkle water on chocolate, butter scotch flowers
+Vapor action, tropical sunshower
+Baby powder, relax, feel for an hour
+Sand suntan, snuggled up snug
+Snowey days, fireplace, oriental rug
+Thugs, lay on the couch, pull it out, perfect balance
+Chemical stimuli, two tokes off the chalace
+Complete silence, what surround us
+Whats the finest, wrapped in cold sheets
+Vanilla apple heat, flutes play jazz music, puffy pillow suites
+Breakfast in bed, early morning sun treats
+Sunset level, suprise sunrise, sail
+Lay on the couch, while I clip your toenails
+Dreams of peaches and cream steam secret spells
+Soft spoken gospel, Barry White acapell
+Violin, good medicine, sound swell
+Sunshine life, love right without the hell
+Taste sugar, quiet storm, seasick
+Slowdance drink, like nights over Egypt
+Having, stabbing, calm chilling now we rolling
+Company, ice cream licking now we holding
+Gentle force, warm tingle of the golden
+Open loose, ice cubes, kiss your belly
+Alcohol, palm trees, peanut butter jelly
+Almond twirl, fantastic melodies
+Soon, taste these spoons
+Wiping me with toon, fly wine, quiet storm
+Now it's high noon, raspberry spices
+Cherry breath, drink from the mountain, sip the very best
+Sounds of the shore, every winter is a war
+Paradise life, recipe now pour
+Musicness, model, gentle mental
+Wash away your sorrow, Fantasy Island
+Put the message in the bottle
+Carry you through, the threshold, do my duty
+Happy ending, go to rest Sleeping Beauty
+Yo, this is that body shop shit
+Love love slam
+Edible underwear, champagne, bubble bath
+Have your snack on that ass that
+Know what I mean?
+Massaging these melodies
+Put that gangsta shit on the shelf
+Blow winds, blow, through your hair
+Sea breeze sticks and shit
+Right right
+
+[Method Man]
+When your around boo
+Come and chop this mother fucking beat you stank-ass trick</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

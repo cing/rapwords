@@ -1,0 +1,132 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac
+Album:  Until the End of Time (Disc One)
+Song:   Everything They Owe
+Typed by: OHHLA Webmaster DJ Flash
+
+Imagine if we could go back
+Actually talk to the motherfuckers that persevered (hehehe)
+I mean the first motherfuckers that came in the slave ships
+(Hey, excuse me, excuse me) Y'know? (Look)
+
+[2Pac]
+We back for everything you owe, no longer oppressed
+cause now we overthrow those that placed us in this rotten mess
+But let's agree on strategy and pick out enemies right
+Who stands accused of the abuse my own, kind do right
+Pardon, not disregardin what you thinkin but you musta been the ship 
+cause once I rip your whole shit is sinkin
+Supreme ideology, you claim to hold
+Claimin that we all drug dealers with empty souls
+That used to tempt me to roll, commit to violence
+In the midst of an act of war, witnesses left silent
+Shatter, black talon style, thoughts I throw
+It remains in your brain then of course it grows
+Maybe, even your babies can produce and rise
+Picture a life where black babies can survive past five
+But we must have hope, quotin the reverand from the pulpit
+Refuse to turn the other cheek we must defeat the evil culprit
+Lace me with words of destruction and I'll explode
+but supply me with the will to survive, and watch the world grow
+This ain't bout talkin bout problems, I bring solutions
+Where's the restitution, stipulated through the constitution
+You violated, now I'm back to haunt your nights
+Listen to the screams, of the lives you sacrificed
+And in case you don't know, ghetto born black seeds still grow
+We comin back, for everything you owe
+
+[Chorus: sung]
+I'm comin collectin the shit that belong to me
+Motherfuckers are runnin and duckin
+I'm a crazy nigga on a mission wit a bad mentality
+Armed with missiles guns grenades
+Pull out the pin, free I'm comin
+
+[2Pac over Chorus]
+How do you plead Mr. Shakur, how do you plead?
+  How do I plead?
+Yes sir, how do you plead?
+  Shit, you know how I plead
+C'mon!!
+  Psssh
+
+[2Pac]
+Not guilty on the grounds of insanity it was them or me
+Bustin at my innocent family, say they lookin for ki's
+I was home alone, blind to the prelude
+Bust in, talkin bout, "Where is the quaaludes?" What you say fool?
+Where in the hell is the search warrant?
+No feedback is what he uttered, before he screamed "Nigga motherfucker"
+Dropped me to my knees I proceed to bleed
+Sufferin a rain of blows to my hands and knees
+Will I survive, is God watchin?
+I grab his gat and bust in self-defense, my only option, God damn
+Now they got me goin to the county jail
+And my family can't pay this outrageous bail
+Try to offer me a deal, they told me if I squeal
+move me, and my people, to a mansion in Brazil
+Not me, so this is how it ends, no friends
+I'll be stressed and they just, reposessed my Benz
+Told the judge it was self-defense, he won't listen
+So I'm bumpin this in federal prison, givin everything I owe
+
+[Chorus] - 2X</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

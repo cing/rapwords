@@ -1,0 +1,143 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z
+Album:  Magna Carta... Holy Grail
+Song:   Nickels & Dimes
+Typed by: Nickolye16@aol.com 
+
+[Chorus: sample of "Nikels and Dimes" by Gonjasufi]
+Nickels and dimes (nickels and dimes)
+Sticks to my mind (sticks to my mind)
+I'm on my way (I'm on my way)
+You have my friends (you have my friends)
+
+[Jay-Z]
+Uhh, got a thing for nickel-plated nines and pretty dimes
+Mac-11 I squeeze like lemon limes
+Squirt, obey your thirst, fashion lines
+'tween beauty and beast, I +Walk the Line+
+Uh, Johnny Cash, I'm a real G
+I cut myself today to see if I still bleed
+... Success is so sublime
+Gotta do that time to time so I don't lose my mind
+Somethin 'bout the struggle so divine
+This sort of love is hard to define
+When you scratchin for every nickel and dime
+Got me itchin to do this shit for my mom
+Uh, do this shit for my town
+Leave the door open hopin they kick it down
+Purest form of givin is anonymous, to anonymous
+We gon' make it there, I promise this
+
+[Chorus]
+
+[Jay-Z]
+Uhh, sometimes I feel, survivor's guilt
+I gave some money to this guy, he got high as hell
+Now I'm part of the problem, far as I could tell
+Did I do it for him, or do it for myself?
+Can't lie to myself, I love my niggaz more than my own blood
+I'd die for my niggaz and I love my cub
+Hope that's not fucked up
+I got a problem with the hand-outs; uh, I took the man route
+I'll give an opportunity though, that's the plan now
+No guilt in givin, clear a nigga conscience out
+No guilt in receivin, everything within reason
+Can't see it takin food out my little monster's mouth
+That'll drive me +Gaga+, run up in your momma's house
+Uh, two nickels, one dime
+Manslaughter charges, the lawyer, knocked it down
+Uh, I'm just tryin to find common ground
+'fore Mr. Belafonte come and chop a nigga down
+Mr. Day-O, major fail
+Respect these young'ins boy, it's my time now
+Hublot homie, two-door homie
+You don't know all the shit I do for the homies
+... Nickels and dimes
+
+[Chorus]
+
+[Interlude: sample of "Nikels and Dimes" by Gonjasufi]
+It all depends...
+How the story is...
+Nickels and dimes (nickels and dimes)
+Tickles my mind
+
+[Jay-Z]
+Uh, pardon my hubris, uh, Stanley Kubrick
+With +Eyes Wide Shut+, I could cook up two bricks
+Turn nickels to dimes, turn dimes to quarters
+Turn wives from daughters, oh I'm clear as water
+And just for clarity, my presence is charity
+My flow is a gift, philanthropist
+Uh, e'rybody 'round me rich, or will be
+Baby boy I promise you this, or kill me
+And when a nigga go as the old adage go
+You die rich or you die a disgrace so just let me grow
+Uhh, watch me cook, throw no looks
+like Magic in his prime when Kareem sky hooked
+Yeah, y'all not +Worthy+
+Sometimes I feel like, y'all don't deserve me, my flow unearthly
+The greatest form of givin is anonymous, to anonymous
+So here y'all go, I promise this
+
+[Chorus] - 2X
+</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

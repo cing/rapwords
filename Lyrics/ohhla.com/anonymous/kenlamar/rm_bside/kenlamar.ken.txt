@@ -1,0 +1,132 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Kendrick Lamar
+Album:  Kendrick Lamar (S)
+Song:   Kendrick Lamar *
+Typed by: newos_crib_is@hotmail.com
+
+* an easy place to locate this track is the fan-made compilation "Compton State of Mind"
+
+[Kendrick Lamar]
+I can tell you what it is, I can tell you what it isn't
+No more K. Dot, my mother had named me Kendrick
+Fuck a stage name, that's the name that I was given
+The only thing that I can identify within this bidness
+I'm just a good kid from Compton that want to rap
+Weighing my options, pick up a Bible or a strap?
+I never killed a man, never sold any crack
+All I ever did was try to keep my city on the map
+But this monkey on my back, y'all don't want me to win
+I'm tryna follow dreams, you want me to follow trends
+So just to get a dollar, will I sell my soul?
+I look the Devil in the eye and tell him, hell no
+They say anything worth having is worth the wait
+Well I want the world, tell me how long that takes
+There's no time like now, I can cut my patience/patients short
+or give 'em some more gowns, I don't even want the crown
+I just want a peace of mind, and nigga, when I get it
+you won't get a piece of mine, won't you mind your own bidness?
+A rich nigga buy anything you sell him
+A broke nigga believe anything that you tell him
+Well I'm a broke nigga
+But still I wouldn't listen to you even if your hand was on a Bible quote, nigga
+Pfttuh
+
+See I was brought up different
+Whatever that my pops said, for sure I'd listen
+You said you did dirt, but I can't dig it
+It don't concern you if you wasn't born in it
+Oh-no-oh-oh
+I swear we got to fast-forward...
+
+Before time flies by
+My new sound for '0-10 is, why lie?
+And if you ain't trying to win, then why try?
+Now you can low-ball or give me high five
+This is I nigga, look into my eye
+Nigga, I am Kendrick... Lamar
+Nigga, my name is Kendrick... Lamar
+I said my name is Kendrick... Lamar
+I changed the name cause I was tired of being like y'all
+Now finally I'm ready to tell the world who I are, pfttuh
+
+And that used to be a hell of a task
+Now I'm ahead of my class, so go ahead and harass
+my character like it don't carry a
+confidence that can marry a Halle Berry or Angelina with no cash
+I'm bout to cash in my thoughts
+Give you a compass, then tell you get lost
+What I'm bout to accomplish is something that you can't fathom
+Once the 'Eves' come, they quick to stare 'Adam'/at him
+Hoping I don't take they bitch, but I'm on some other shit
+When I'm done, I'm tryna run the government
+They are big dreams
+Transition from a rapper to a human being, you can't 'school' a dean
+I be tutoring artist-es, leave 'em with no audience
+All cause they all oversaw it, my God
+Y'all be out partying, I be stealing your audience
+All because who I are, Lamar
+
+But my first name, it gotta be Kendrick... Lamar
+Nigga, my name is Kendrick... Lamar
+I changed the name cause I was tired of being like y'all
+Now finally I'm ready to tell the world who I are, now let's go
+But we can't go... backwards</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

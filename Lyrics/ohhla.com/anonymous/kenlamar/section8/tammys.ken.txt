@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Kendrick Lamar
+Album:  #Section80
+Song:   Tammy's Song (Her Evils)
+Typed by: newos_crib_is@hotmail.com
+
+"Don't judge me"
+
+[Kendrick Lamar]
+I know this girl, she a real good girl, and she be low-key
+Looking like a star with a real nice car, a Mercedes key
+And she got a nigga, and she love this nigga, well at least I think
+Every time we bark she pay us no mind, in the middle of the street
+She be like
+
+[Chorus 1] * {Each chorus is an interpretation of the chorus from "Down 4 My Niggas" by Snoop Dogg}
+Fuck them other niggas cause I'm down for my nigga
+Fuck them other niggas cause I'm down for my nigga
+Fuck them other niggas, I'll ride for my nigga
+I'll die for my nigga, fuck them other...
+
+[Kendrick Lamar]
+Until one day he wasn't acting right, in the middle of the night
+she checked his phone, Erica, right? When he plead the fifth
+Man, it was on, matter of fact she gone, matter of fact Tyrone
+was on speed dial, so when she got home, it was going down
+She go
+
+[Chorus 2]
+Fuck that other nigga when she tired of her nigga
+Fuck that other nigga when she tired of her nigga
+Fuck that other nigga when she tired of her nigga
+Sick of lies from her nigga, fuck that other...
+
+[Kendrick Lamar]
+I know this girl, she a real hood girl, and she with the shit
+Keep her hair tied up, big bamboos, Mike Jordan kicks
+with that big butt, but when I try holla, she gon' resist
+In her man she trust, so when I walk by her, she be screaming this
+She be like
+
+[Chorus 1]
+
+[Kendrick Lamar]
+Until one day he wasn't acting right, in the middle of the night
+she checked his pockets, found condoms by Magnum, and the moment
+they was acknowledged, she popped his eye, then ran outside
+Then started driving on the passenger side, homeboy was smiling
+She go
+
+[Chorus 2]
+
+[Kendrick Lamar]
+And so these girls, these vulnerable girls, took they men up
+Put 'em in they world, they vulnerable world, and just like that it was
+only getting-got they feelings hurt, tell me how that sound?
+They got fed up with the biggest question mark, they curious now
+Cause when women get sick of men, they think of a big helping hand
+to lend each other, uncover emotions when lights dim
+So when she telling her to come over, it will be alright
+The minute she hit the block and turn left, she be turning dyke
+They go
+
+[Chorus 3]
+Fuck with other bitches when they tired of these niggas {*laughter*}
+Fuck with other bitches when they tired of these niggas
+Fuck with other bitches on the side cause these niggas
+... 
+
+[Kendrick Lamar]
+Tammy's song</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

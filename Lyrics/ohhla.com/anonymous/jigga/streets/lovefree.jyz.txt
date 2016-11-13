@@ -1,0 +1,133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Rell f/ Jay-Z
+Album:  Streets is Watching soundtrack
+Song:   Love For Free
+Typed by: OHHLA Webmaster DJ Flash
+
+[Jay-Z]
+Uh huh uh, ji ji
+Roc-a-Fella y'all
+Jigga, Rell, nine-eight edition
+This is Roc-a-Fella for life, this is Roc-a-Fella for life
+This is Roc-a-Fella for life, this is Roc-a-Fella for life
+
+I play my parts with the honies hard
+It's gotten even worse now that the money's washed
+Like a letter y'all, the nine-eight find me straight
+Good health, can't complain about my financial state
+What else?  I guess tomorrow knows
+I run through chicks like borrowed clothes
+I'm the type of nigga your father oppose, never test Jay
+You follow the code, ese, on my best day
+I'm like God with a blow, bless me
+
+[Rell]
+Baby, why are you chasing that man?
+Knowing that he can't, love you like I can
+I guess you'd rather chase, instead of feeling
+what's real inside, I got to thinking
+And I hope you realize (all this love for free)
+(Better come and get it soon) Hurry hurryahahyyy
+(Please, don't take too long) I want your love babe
+(Before it's all gone, I just wanna put you on)
+The apple of my eye, sweet cherry surprise
+Let me up inside, of your body tonight
+There's so much that we can do
+and I'll do you, know how much I wanna
+taste your lovin, so good (all this love for free)
+(Better come and get it soon) Hurry baby
+(Please, don't take too long) Cause I want your love
+(Before it's all gone, I just wanna put you on)
+(Hurry hurry hurry, hurry baby cause I can't wait)
+(Hurry hurry hurry, cause later on might be too late)
+Gotta hurry (Hurry hurry hurry, tell me whatcha gonna do)
+(Hurry hurry hurry, there's too many dimes for me to choose)
+Baby you got me (got me goin)
+Goin round in circles (tell me why)
+And I can't explain whyaayiyyy (I need your love)
+Can't get enough of your love
+
+[Jay-Z]
+Yea yea yea
+In the SL with Rell, music at a high decimal
+Mami frontin, touchin buttons like she spec-ial
+cause she sex well, in the best tell, rapper filla cartel
+Excel-ing like Hyundai, Sunday to Sunday
+it's for the nachoes, come out the clothes
+And baby girl if it's Hammer time, then hide your toes
+The game cold like, five below, but once inside the show
+we to' it down; about that money, we throw it around
+So when the ice hit the sun rays, run for shade
+Game's over, we didn't come to play
+The fuck y'all thinking??
+
+[Rell]
+Round and round in circles
+(Tell me why) I can't explain why
+(I need your love) Can't get enough of your love
+Baby I've got all this love (all this love for free)
+(Better come and get it soon) Baby baby baby
+(Please don't take too long) I want your love babe
+(Before it's all gone, I just wanna put you on)
+Can you feel me growing baby
+(All this love for free... better come and get it soon...)
+Let me keep it going...</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

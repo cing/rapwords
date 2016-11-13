@@ -1,0 +1,117 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Eminem & Royce Da 5'9"
+Album:  Eminem & Kool Kid Mixtape
+Song:   Kool Kid Freestyle
+Typed by: timm2014@hotmail.com
+
+[Eminem]
+I'll leave your blueprints covered in shoe prints
+Poppin' Nuprin
+Neighborhood nuisance
+Murder your family for two cent
+Makin' your crew tense
+Brain's too dense
+Leave the mic with two dents
+Fresher than a whole mouth full of chewed mints
+Givin' you rude hints
+Cause if you're wack I'm gonna tell ya
+I got the issue where they diss in next month's Source I'm gonna mail ya
+You're a failure
+You're style's staler than a bowl of hardened rice
+Scared and sliced
+I flunked kinder garden twice
+But you ain't hard and nice
+And you sure ain't servin' no bids
+Sayin' you did is like seein' a damn virgin with kids
+Creepin' like a phantom
+Holdin' my dick like the +Player's Anthem+
+Holdin' this microphone for ransom
+Bitches ask me why do I talk nasty?
+Grab an ass of every trashy whore that walks past me
+My crew's on drugs, lookin' like zombies
+Smokin' bomb trees
+Racin' police and dodge ?
+
+[Royce Da 5'9"]
+Lock, cock and explode
+Way beyond bitin' a nigga
+Get hungry, disconnect my jaw and swallow you whole
+I'm probably gonna blow
+Go to hell holdin' a mil
+Street smart, under educated, over skilled
+I'm tight to the vest
+You wanna rip me off? Then try
+I fight to the death, who wanna piss me off, then die?
+Curse niggas that try, I'm the first nigga to bust
+You the second nigga to pull, and the first nigga to die
+How dare you think that you gleam like the rest of my team
+You a bitch, you like a chip off a berget in my ring
+Stick to my words, so I don't threaten niggas no more
+If I make you a promise, then it's safe to say that it's honest
+My guns is tired from being fired
+While yours sits on the shelf
+I'm like a song concept in itself
+Totin' my weapon, burnin' your vest
+In '99, wack niggas learn from the best and hope to be second
+Nigga
+Kool Kid nigga
+What?</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

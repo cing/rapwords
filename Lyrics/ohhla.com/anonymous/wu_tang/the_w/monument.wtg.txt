@@ -1,0 +1,125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan f/ Busta Rhymes
+Album:  The W
+Song:   The Monument
+Typed by: OHHLA Webmaster DJ Flash
+
+[Busta Rhymes]
+Yeah, yeah yeah now, what the fuck now?
+Flipmode Wu-Tang shit, what the fuck now?
+Yeah yeah yeah..
+Historical and monumental shit
+What the fuck now?  Yeah, yeah, yeah
+
+Straight smack a nigga right in the face like this was handball
+Or make a mural out his face up on a damn wall
+Niggaz play hard and shit; if you know what's best for you
+y'all niggaz better safeguard your shit
+Even though we rep brass knuckle rap
+Fuck with street geniuses and bowlegged chicks who walk with a gap
+Street niggaz now the corporate boss
+Still go to y'all resteraunt for steamed fish and Irish moss
+And y-yo, the way we do it and you see how my shit bomb
+Your whole show wack and I'ma cancel your sitcom
+Fuck a nigga broad 'til she tired and real calm
+You ain't knowin my name tattoed on your bitch arm
+The way we blow SHIT is a shame
+Casually bust my gun and celebrate bustin a cork on the champagne
+Wrote you with a whole new approach that lead a whole team of niggaz
+Y'all should know I only ball like a coach, NOW!
+
+[Raekwon the Chef]
+Check out the light fixture, freak lines like white bitches
+Let the mic lines - hang that slang is ridiculous
+Emperor of warlords, big gun only fuck with sawed-offs
+That's my specialty, more to bust
+Shot out my bed parrot keep it gangster Lord
+I analyze your work those that got merked were not established
+Texture look classy, arm baby 2000 raspberry
+S-5, blowin through Asbury
+Soon to own steakhouses, glowin like makeover thousand
+Them them niggaz, robbin from Pinkhouse's
+Show and prove, knockin off cab drivers
+God, sodomize money, ring two hundred thousand
+See the color of the carved out Wu emblem
+Baby, it's all designers, tailor-made Wu gooses
+Limousine, automatic new uzi's in 'em yo
+Relax, cousin just cruise through, jewels with him
+
+[GZA]
+Move up the block, giant box blast my song
+Non-stop strictly hip-hop, march on
+Doo-rag hang long, metal tape is high-bias
+Graphics, captured with the colorful, iris
+I zoom in, while the listeners tune in
+Some assumin they paid dues and joined the union
+Lost nigga couldn't rumble in this wild jungle
+Quick to crumble, type to be on the stand and fumble
+Divine Master, threw on the track that made 'em bleed
+He produce at unattainable rains of top speed
+This powerful magnet, that left 'em stagnant
+was unlikely in cameras in larger fragments
+Un-filled rifle, scout sniper, shots precise
+Starlight scope, with the night vision device
+Splendid marksman, that'll shoot the one off the dice
+Split a grain of rice, in one shot we kill 'em twice
+{*GUNBLAST*}</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

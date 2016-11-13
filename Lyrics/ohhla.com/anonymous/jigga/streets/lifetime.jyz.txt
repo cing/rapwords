@@ -1,0 +1,129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z
+Album:  Streets is Watching soundtrack
+Song:   In My Lifetime (Remix)
+Typed by: OHHLA Webmaster DJ Flash
+
+[Jay-Z]
+It's the thought of a ride that make my eyes wide, I'm caught up
+I'm trying to make, all of my dreams materialize, so I sorta
+say my goodbyes to the straight and narrow
+I found a new route, you bout to see my life change
+I make the means justify the ends, I make the cream
+materialize keys to a Benz, and so I'm rollin
+For now, holdin down the fort, who's controllin?
+The ground's gotta blow em, yep, y'all shoulda told em
+Uhh, my first felony's approachin, copped my first key
+Took a freeze, now I'm frozen
+I bought a black Mac, I'm outta control
+Losin bankrolls on blackjack, you gotta know
+it always crossed my mind that Feds be tappin the lines like Gregory Hines
+Still on the phone discussin my biz like it could never be mines
+I know the price, know the risk, know the wrongs, and the rights
+Still my blood flows ice, it's just my life
+
+Chorus:
+
+What's the meaning, what's the meaning of life?
+	*scratched "In my lifetime"*
+What's the meaning, what's the meaning of life?
+        *scratched "In my lifetime"*
+
+[Jay-Z]
+I'm like the bass with the ass, splashin cold cash
+The Big Willie get you chilly when I pass, brrrrrr
+Is it, just a mirage all these girls thankin God
+Is this, world my world, am I the star of stars?
+Baby pimped out, I'm gettin too large and smokin cigars
+All chicks is hollerin bout chica, the whole city's buzzin
+wasn't checkin for me a dozen or so, months ago
+Now I'm all they know, I'm a person
+Lettin the Cristal's breathe at the Barnacle Bar
+Under my sleeve, vernacular, 50 G's
+I'm talkin big cheese, you gotta be down to dig these, uhh
+Give me a rush like you wouldn't believe, my head's about to bust
+Acceleratin what drives me, hope I don't gotta die
+to see, see I can't lie to me
+I know the price, know the risk, know the wrongs and the rights
+Still my blood flows ice, it's just my life
+
+Chorus 2X
+
+[Jay-Z]
+Uhh, from the beginning see we never seen the ending
+Running up in all the women, all the linen, all the jewels, huh
+We sported Pele's, gold diamonds and Pirelli's
+Sports cars, the good life'll give you a belly but that's cool
+as I, zone in the Al Capone, watch me
+cause the Medusa's head on Versace turned me to stone
+Now my poems just ain't poems, they bloody, when I recite em
+Bones get disconnected like the phones
+Now, I'm a hardened criminal with game
+Like the Garden, all my penpals life controlled by the warden
+Still the drill makes me blind to the fact
+I could do real time, I'm a prisoner, of my crimes
+Know the price, know the risk, know the wrongs and the rights
+Now I'm, incarcerate for my life
+
+Chorus 5X to fade
+
+</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Eminem
+Album:  The Eminem Show
+Song:   Hailie's Song
+Typed by: OHHLA Webmaster DJ Flash {with help from liner notes}
+
+Yo, I can't sing - I feel like singing
+I want to fuckin sing
+Cause I'm happy - yeah, I'm happy, haha!
+I got my baby back
+Yo, check it out...
+
+[Eminem - singing]
+Somedays I sit, starin out the window
+Watchin this world pass me by
+Sometimes I think, there's nothin to live for
+I almost break down and cry
+Sometimes I think I'm crazy; I'm crazy, oh so crazy!!
+Why am I here? Am I just wastin my time?!
+But then I see my baby, suddenly I'm not crazy!!
+It all makes sense when I look into her eyes
+
+[Chorus One]
+Cause sometimes it feels like the world's on my shoulders
+Everyone's leanin on me
+Cause sometimes it feels like the world's almost over
+But then she comes back to me
+
+[Eminem - singing]
+My baby girl, keeps gettin older
+I watch her grow up with pride
+People make jokes, cause they don't understand me
+They just don't see my real side
+I act like shit don't phase me; inside it drives me crazy!!
+My insecurities could eat me alive
+But then I see my baby, suddenly I'm not crazy!!
+It all makes sense when I look into her eyes
+
+[Chorus One]
+
+[Eminem - rapping]
+Man if I could sing, I'd keep singin this song to my daughter
+If I could hit the notes, I'd blow somethin as long as my father
+to show her how I feel about her, how proud I am that I got her
+God, I'm a daddy, I'm so glad that her mom didn't {want her}
+Now you probably get this picture from my public persona
+that I'ma pistol packin drug addict who bags on his mama
+But I wanna to just take this time out to be perfectly honest
+cause there's a lot of shit I keep bottled that hurts deep inside of my soul
+And just know that I grow colder the older I grow
+This boulder on my shoulder gets heavy and harder to hold
+and this load is like the weight of the world, and I think my neck is breakin
+Should I just give up or try to live up to these expectations?
+Now look, I love my daughter more than life in itself
+but I got a wife that's determined to make my life livin hell
+But I handle it well, given the circumstances I'm dealt
+So many chances, man, it's too bad, coulda had someone else
+But the years that I've wasted is nothin to the tears that I've tasted
+So here's what I'm facin - three felonies, six years of probation
+I've went to jail for this woman, I've been to bat for this woman
+I've taken bats to people's backs, bent over backwards for this woman
+Man, I should have seen it comin, what'd I stick my penis up in?
+Wouldn't have ripped the pre-nup up if I'da seen what she was fuckin
+But fuck it, it's over, there's no more reason to cry no more
+I got my baby, baby the only lady that I adore, Hailie
+So sayonara, try tommorrow, nice to know ya
+Our baby's traveled back to the arms of her rightful owner
+And suddenly it seems like my shoulder blades have just shifted
+It's like the greatest gift you can get, the weight has been lifted
+
+[Chorus Two]
+And now it don't feel like the world's on my shoulders
+Everyone's leanin on me
+Cause my baby knows that her daddy's a soldier
+Nothing can take her from me
+
+[Eminem]
+Wooo! Told you I can't sing
+Oh well, I tried
+Hailie, remember when I said, if you ever need anything
+Daddy would be right there? Guess what?
+Daddy's here, and I ain't going nowhere baby
+I love you {*smooch*}</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

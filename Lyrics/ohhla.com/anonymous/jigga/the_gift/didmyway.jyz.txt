@@ -1,0 +1,137 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z f/ Paul Anka
+Album:  The Blueprint 2: The Gift & the Curse
+Song:   I Did it My Way
+Typed by: OHHLA Webmaster DJ Flash
+
+[singing: Paul Anka] + (Jay-Z)
+Now, the end is near (Can you believe this shit Guru?)
+So I face (I'm from the hood man) the final curtain
+(No the REAL hood the hood, not the RAP hood)
+(The REAL hood, like three pair of pants)
+My friends, I'll say it clear (pair of sneakers)
+(My moms is bustin her ass) State my case
+(Nigga I'm goin to Japan tomorrow!) Which I'm certain
+(You understand what I'm sayin?  Can you believe that?)
+I lived a life that's full (They have people, waitin)
+(at the airport like five days like I'm a Beatle or somethin)
+(That's really somethin!) And I travelled each, and every highway
+(Seen the best of the best, the worst of the worst) and more
+Much more than this (still here) I did it myyyyyy wayyyyyyy
+Let's try this one
+
+[Jay-Z] + (singer)
+Uhh, yeah... gangsta nigga!
+Put my hustle down, tore the game up nigga
+Took your high score down, put my name up nigga
+Tore the doors down 'til the Hall of Fame is Jigga
+I did it my way (and more.. much more than this)
+That's right, it's a beautiful thing man!
+(I did it myyyyyy wayyyyyyy) I did it my way -- Hovi baby!
+
+Momma's youngest and strongest, survived summers like saunas
+Mastered a corner like Deion in his uniform
+Pop hurtin assertive, flirted with death
+Damn near murdered before my first album hit the shelf
+Grandma's favorite, she could not understand
+how there's people in the world who wouldn't want me as a neighbor
+Has to explain to her, you think these folks want me in the penthouse
+as a reminder that I make top paper?
+Black entrepeneur, nobody did us no favors
+Nobody gave us shit, we made us
+The Rap Pack, I'm Sinatra, Dame's Sam Davis
+Big's the smart one on the low like Dean Martin
+We came in this game, not beggin niggaz pardon
+Demandin y'all respect, hand over a check
+And while y'all at it, hand over the jet
+We the reason they ain't hand over Def Jam so quick
+They new every year I was droppin new product
+I was raisin the stock up, while buildin the Roc up
+But that's alright, cause they knew they had to see us
+When it was time for us to re-up, make us multi-million-ires
+Je-je-jeah!
+
+(And more, much more than this; I did it myyyyyy wayyyyyyy)
+
+Jeah!  "In My Lifetime"
+I caught smaller cases, but I had capital
+Hypocritic system let me right back at you
+You better hope a rich rapper never attacks you
+Not even that scratches you, 'specially if you black dude
+They don't give a shit unless the accused just happen to rap
+And they can look good by paintin him as bad news
+Cause in my past, I seen dudes get half of they views
+exposed to the curb and nobody said a word
+So imagine how disturbed I was
+When I seen how big they made my fight scene at the club
+Let me explain exactly how this shit was
+This nigga Un yo I scratched him, he went home without an aspirin
+But it's cool cause he's back friends, and half-inning is over
+It's in the past and I'm glad, now I'm back to bein Hova
+Me back with the chaffeur, laid back
+Helicopter seat, feat inclined, shit feelin like a sofa
+Helicopter meet me, Teta Vero(?) take me over
+somewhere peaceful for the weekend now it's back to speakin of vultures
+So the next time that page six approaches us
+Here's a quote from Jay, nigga I did it my - way
+
+(And more, much more than this; I did it myyyyyy wayyyyyyy)</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

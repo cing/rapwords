@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z
+Album:  The Blueprint
+Song:   Hola' Hovito
+Typed by: OHHLA Webmaster DJ Flash
+
+[Jay-Z]
+(J) uhh (A) uh-uh (Y) uh uh-uh
+Ah ch-ch ah, ch-ah, ah uh-uh
+Ah ch-ch ah, ch-ah, ah uh-uh
+It's that hop I'm talkin bout right here Timbo!
+
+I can't be stopped when it hop like this family, uhh!
+(Uno, dos, tres, cuatro!)
+
+They say hola' hovito
+That's what they sayin when I roll up with my people
+My music bangin like - them vatos locos got rap in a chokehold
+And I won't surrender it with, beats by Timbaland
+Calle-te la boca, my baby
+All I wanna, do is, stroke ya all crazy
+My, dick game is vicious, insane at bitches
+Mami keep comin back cause mami came vicious
+Catch Hov' in the drop, nasty thang lane switchin
+Once you turn your neck for a sec your dame's missin
+Bujando, bujando, the cops is comin
+Got that rap patrol behind yo, get to runnin
+I'm unstoppable Hov', untoppable flows
+I'm the compadre, the Sinatra of my day
+Ol' Blue Eyes my nigga, I did it my way
+If y'all not rollin with Hov' then hit the highway
+
+[Chorus] *
+(Hola' hovito!) Yeah, yeah (Hola' hovito!)
+Yeah that's what they sayin when that music get to bangin
+Put it down for my PEO-PLE!
+(Hola' hovito! Hola' hovito!)
+Yeah that's what they sayin when that music get to bangin
+Put it down for my PEO-PLE!
+
+* an extra "yeah" before the 5th line first time, 2nd line second,
+  and the 5th line the third time
+
+[Jay-Z]
+Yeah, yeah, yeah
+Yeah naw I don't fuck around, stay on my J.O.
+Hov' been about that dough since I was a day old
+Oh, push perrico if I need to for the rule of evil
+Was born in the belly that's the way the streets breed you
+One life to live - notice you get no sequel
+So I truly got to live this like my last movie
+Six oohie, jewels drippin, big toolie
+I ball for real, y'all niggaz is Sam Bowie
+And with the third pick - I made the earth sick
+M.J., hem Jay, fade away perfect
+I rhyme sicker than every rhyme spitter
+Every crime nigga that rhyme or touch a mic because my mind's quicker
+I'm a eighty-eighter, nine-six to "Reasonable Doubt"
+Temper short, don't take much to squeeze you out
+Yeah you shinin but the only thing you're leavin out
+You're a candle in the sun - that shit don't even out
+
+[Chorus]
+
+[Jay-Z]
+Hold up; naw muh'fuckers - y'all muh'fuckers
+better run to the post office and get a job muh'fuckers
+or starve muh'fuckers, cause Jay's been the only one
+eatin thus far sub-par muh'fuckers
+Naw even though y'all hate I love y'all muh'fuckers
+"Friend or Foe," y'all all my muh'fuckers
+If you haven't heard, I'm Michael Magic and Bird
+all rolled in one - cause none got more flows than Young
+Plus got more flows to come
+And if I ain't better than Big, I'm the closest one
+So move over - hoes, choose Hova
+My food for though so hot it give you dudes ulcers
+Rovers, roasters, poseurs
+gettin it in with me, livin like they supposed tah
+Watches, chain, front row at the game
+Sold out arena, all screamin my name, c'mon
+
+[Chorus]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

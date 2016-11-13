@@ -1,0 +1,145 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan
+Album:  Iron Flag
+Song:   Radioactive (Four Assassins)
+Typed by: OHHLA Webmaster DJ Flash
+
+"You will be punished (Wu-Tang style)
+ for all your evil deeds. (Wu-Tang style)
+ Be warned - you will suffer.. (Wu-Tang style)
+ .. justice!" (Wu-Tang style)
+
+[GZA]
+Slept on this hazardous enterprise
+Hit from the back, from a long range attack in disguise
+Week self-captivity became months
+Those who were holdin it down they hold a pump
+Do we delay the conflict and prolong the suffer?
+Got a mass of starvin niggaz wanna eat supper
+Unfair corruptions lead to abductions
+Creatin wider circles of destructions
+So we attack, with the pen and blaze in
+From the terrifyin to the fascinating
+Quick to slay a narrow minded nigga that's hasty to give credit
+Full of hostile overtones mixed with wack edits
+They heavily defended airfields
+But they bodies rot behind punctured steels
+When I greeted you, you didn't hear a piece of my voice?
+Oh that water was my liquid of choice
+Forensic couldn't tell it, it was nine tons of steel pellet
+Powerful projection, noise is deafening
+Carrier battle groups, that's threatening
+Higher level bombing, plus
+The shipment in hand known as alarming, bells ring loud
+In the same crucial manner but different style
+
+(Wu-Tang style, Wu-Tang style!)
+
+[Raekwon the Chef]
+Yeah..
+Aiyyo once again, all blunts again
+Yo the real remain silent, any type of violence I'm in
+Allah's helpful most, innovative raps
+that brought wealth through, shot out the belch too
+We holdin, automatic semis with sick lines
+Run up, body niggaz, break down shoddy niggaz
+Styles so sharp, state of the art
+Greater the mark, flyest creator sprayed layin darts
+Flowin like water, "Apocalypse Now"
+Gun out blaow, wow the shit's wild when you short us
+Runnin through parkin lots, don't get caught
+Let off, bark your shots, we outta here, off the blocks
+
+[Method Man]
+It ain't all to the good, muh'fuckers hatin in the hood
+Gotta a hundred wolves waitin in the woods
+for the Clan's forthcomin
+I miss you in the game a court summons
+And fugitives of rap caught runnin, y'all get locked up
+E'rything was wack 'til we popped up
+And got it on and poppin like Orville Reddenbacher
+Potnah, you ain't got no wins in mi casa
+Wu-Tang got ya, like every ghetto got a Tasha
+Request lines are now open, you see these MC's chokin
+and thinkin, "What's that SHIT they be smokin?"
+I'm so focused, simple chronic halitosis
+Keep my shit funky when I spit this braggadocious
+{*hach, spit*} Y'all niggaz got some fuckin nerve
+to critic what I write, that's my muh'fuckin word
+Blah blah blah, like N'Sync
+Kiss that ass "Bye Bye Bye" knahmsayin?  I ain't playin
+
+[Masta Killa]
+Many shall come, few chose to stay exact
+Track after track I'm fightin for survival
+Before me I see hills and mountains they sway
+The words gotta move and the crowd's like the ocean
+I walk water holdin y'all suspended with the vocal
+What's the total people that came to see the Gods?
+I gave thought talent, construct my best poetry
+Potentcy, high-level content
+Side effect may cause a tec to eject, many places
+All ages streets to cages, split faces
+Shoutin nuff love to the peeps from Miami
+We live from Pulaski and spread glassy
+
+{*cut and scratch: "Wu-Tang style"*}</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

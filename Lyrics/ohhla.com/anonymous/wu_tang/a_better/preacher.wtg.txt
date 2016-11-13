@@ -1,0 +1,129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan
+Album:  A Better Tomorrow
+Song:   Preacher's Daughter
+Typed by: AZ Lyrics
+
+[Chorus x2]
+The only girl that could ever please me
+Was the daughter of a preacher man
+
+[Verse 1: Method Man]
+Yo, pa, I got a lady, I'm 'bout to make her my baby
+Might even make a baby, the thesis makin' her crazy
+She know my style wavy, I'm circlin' her Mercedes
+Father, father was a preacher, I'm almost certain he hates me
+But he ain't gotta date me and look, his baby is grown
+And she decides on her own who resides on the throne
+I'm her king, she my queen, we keep it right in the zone
+And she understands the fact that I'm even right when I'm wrong
+When she was prayin' in church, I was playin' in dirt
+That's 100, I admit that we both was playin' at first
+When opposites attract, I ain't always sayin' it works
+I'm just sayin' ain't no use in me strayin', that make it worse
+It's Wu-Tang, baby, my crew bang
+And she's the preacher's daughter, I just call her my boo thang
+And we tighter than shoestrings, or 10 grand in rubber bands
+Man, sometimes I tell your parents just don't understand
+
+[Verse 2: Masta Killa] + (RZA)
+No. yo, you mean Pastor Brown's daughter?
+The preacher, the rich slave-maker of the poorer?
+I used to see her Sundays comin' from church
+We used to kick it at her window when her pops at work
+Yo, her parents didn't play
+She couldn't even come out to play on a school day
+Thought she was gonna give me some on April Fool's day
+(But no, no way) nah, (no, no-no, no-no, no-no way)
+
+[Verse 3: Cappadonna]
+The preacher's daughter, she an illegitimate child
+She know the word, but she be runnin' in them streets foul
+She married to a man, but she's crushin' his brother now
+See her in the market place loud and boisterous
+With tight spandex on, chokin' her oysters
+She a seductress in the form of a goddess
+Never virtuous or modest, poison the part is
+Breakin' the vessel, turn brother against brother
+Man, that's how she molest you
+That's why the preacher man prolly a mess too
+Cause the fruit that she devourin' is evil
+Never sin around righteous people
+Black widow, preacher's daughter comin' to eat you
+
+[Chorus x4]
+
+[Verse 4: Ghostface Killah]
+I met her on the bus stop with black eyes
+That's why she said she don't fuck with black guys
+I cleaned her up, fed her all my wisdom
+Her father spit the gospel but she never caught the vision
+Brutal ass whoopins, always facin' these evictions
+So she only fuck with thugs that'll wind up in the system
+Them greasy bastards quick to squeeze a ratchet
+Never knew the science of virtue, Ecclesiastes
+Like, a time for peace, a time for war
+A time to laugh though, she never felt God before
+Eternal love that'll pop like a kernel, this is grown folk talk
+Between me and her, it don't concern you
+
+[Chorus x4]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

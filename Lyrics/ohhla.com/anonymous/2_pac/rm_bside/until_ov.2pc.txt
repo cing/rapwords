@@ -1,0 +1,140 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac f/ 6.9.
+Album:  Until the End of Time CD Maxi Single
+Song:   Until the End of Time (Original Version)
+Typed by: westbingmanson@gmail.com
+
+[Verse One: 2Pac]
+Perhaps I was addicted to tha dark side
+Some where inside my childhood I missed my heart die
+And even though we both came from tha same places
+Tha money and tha fame made us all change places
+Could it be through tha misery
+That can't get past the hard times
+Made a true friend afraid to ask my currency
+But you could run to me when you need it
+I'll never leave honestly someone to believe in
+As you can see this is our thang through and true
+What can I do real homies help you get through
+And comin' new he'd do tha same thang if he could
+Cuz in tha hood true homies make you feel good
+And happy times we be actin' up call tha cops
+Bringin' tha cease to tha peace that was on my block
+It never stop, when my mama ask me will I change
+I tell her yeah but it's clear I'll always be tha same
+Until tha end of time
+
+[Chorus: 6.9.]
+What's in me, that's got me actin' so crazy?
+Don't be afraid, keep hopin' for a better day
+
+[Verse Two: 2Pac]
+Please Lord forgive me for my life of sin
+My hard stare seem to scare all my sister's kids
+So you know I don't hang around tha house much
+Diss all night money makin' got me outta touch, shit
+Ain't flashed a smile in a long while
+An unexpected birth worst of tha ghetto childs
+My attitude got me walkin' solo
+Ride out alone in my low-low
+Watchin' tha whole world move in slow mo
+For quite times and steer fearless to tha ocean
+Smokin' ports think my thoughts
+Then it's back to coastin'
+Who can I trust in this cold world
+My phony homie had a baby by my own girl
+But I ain't trippin' I'm a playa
+I ain't sweatin' him
+I sex his sister had her mo' good like a Mexican
+His next of kin
+No immores it was meant to happen
+Besides rappin' tha only thing I did good was scrappin'
+Until tha end of time
+
+[Chorus: 6.9.]
+What's in me, that's got me actin' so crazy?
+Don't be afraid, keep hopin' for a better day
+
+[Verse Three: 2Pac]
+Now who's to say if I was right or wrong?
+Till in my life,
+As an Outlaw all alone
+Remain strong in this planet full of playa hataz
+They conversate but Death Row full of demonstrators
+And in tha end drinkin' henassy made all my enemies envy me
+So go when I flow illuminatin' easily
+Falls to they knees, they plead for they right to breath
+While beggin' me to keep tha peace haha
+Well I can see close into achieve
+In times of danger don't freeze time to be a chief
+Follow my lead I supply everything you need
+An ounce of game and tha trainin' to make a G'
+Remember me?
+As an Outcast Outlaw
+Another album out that's what I'm about
+More, gettin' raw 'till tha day I see my casket
+Buried as a G' while tha whole world remembers me
+Until the end of time
+
+[Chorus: 6.9.]
+What's in me, that's got me actin' so crazy?
+Don't be afraid, keep hopin' for a better day</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

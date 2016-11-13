@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan f/ Killa Sin
+Album:  Legendary Weapons
+Song:   Drunk Tongue
+Typed by: OHHLA Webmaster DJ Flash
+
+[Intro: kung-fu movie samples]
+I don't give a damn!
+I'll kill anyone in my way
+
+[Killa Sin]
+Homicide city shit {*2X*}
+Yeah yeah, homicide, yo
+You see the neck lit, fist glisten, chain drippin, lane shiftin
+Riding dirty dirty, got that thang, know I stay grippin
+Facin life with it or without it bitch it's same difference
+Lames drippin if it's day or night, I'ma bang with it
+Situation's sickenin niggaz broke, and they cain't fix it
+Dough is all I know so if you slip it, then I cain't miss it
+Ain't mention Sin and broke niggaz, in the same sentence
+Got the game twisted, mayne listen, say pimpin
+what you pushin? Product pumpin like a piston hardly gettin by
+Or probably gettin high off what you pitchin, while we sittin fly
+Tryin to keep it simplified, movin like we Semper Fi
+My niggaz is born to ride, y'all niggaz get sent to die
+All you do is mention I, general exemplify
+Sin City been gritty, ten city enterprise
+About to make it twenty-five, utilize my witty mind
+to improvise my goal to reach the, all-time city high
+You don't want the semi flyin nine at your Hemi fine
+All you gotta do is send me mine, you got plenty time
+Mad cause my ones up, and scared cause my guns bust
+God's mind is divine, I'll shine on you dumb fucks
+Sin never dumbstruck, dram'n on the dump pumps
+Hit any man in the face they're like, sanitation dump trucks
+Dodge magnum chunks up, big enough to slug thugs out
+The bubble butts hop off the cots to play double dutch
+Glock in a double clutch, you don't want no trouble trust
+Rug cutter you're jugular, promise you your blood'll gush
+Dead smack in front of us get clapped dead you front on us
+Your back ledge, you rats feds can't front like you one of us
+Stack +Bread+ like +Wonder+ from the winter 'til the summer come
+Upgrade to made, that's when the Benzs and the Hummers come
+I ain't want no Hummer stunt, ask how I stack well like Maxwell
+Nigga tryin do a little some'n some'n</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

@@ -1,0 +1,145 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan
+Album:  Wu-Tang Forever
+Song:   Visionz
+Typed by: OHHLA Webmaster DJ Flash
+
+[Method Man]
+Apocalypse Now
+Mind over matter next batter be Tical
+Put it on a platter how much uncut
+raw shit we dealin wit, murder track what
+Slang killin it, touched
+You feelin it, in your bloodstream
+deadly venemous elixir
+Hammer like Sledge that be Sister
+All and together now, follow me, the Mista
+Meth Candyman, farewell to the flesh
+Death come, in the scripture, two-thousand one
+Bring the rap arma-gedde-on, let it be known
+When you walk up in this Dead Zone
+wit all that wack shit, now you know
+you dead wrong, one thousand lashes
+
+[Raekwon the Chef]
+Detonate that, pussy Massengil rap cleanse that
+The kids rank, snatch collars off, while ridin off
+Float boat big boys, Oakland A's stashed away blades
+Ventilation let the sharks, ani-maze
+Somethin sheist like, seven butcher knives, rollin Rover style
+twice, finger itchy like lice hair fell out somethin
+to conquer, stomp ya like that cat Blanca
+Toy Tonka truck ten carat on ya monsta
+Ring Rocky like fuck switch sides like water rides
+The DAT bubble life preserve the other guys
+Now FUCK Y'ALL act wilda
+The style wilda than a praying mantis
+Chillin like *long inhale*
+
+[Masta Killa]
+As my brothers and I reign rebellious, changin
+the courses of time, devils no longer exist
+as God Cypher Divine, all minds one no question
+Now check it...
+Perhaps we can go through Lessons
+Or might SHOT me a pussy protestin
+Comin with that lip professin, you must take
+Allah for fool, where's his Jewel
+Was he usin Mathematics as a tool?
+Tell me, the struggle is God and I came to build
+Shit is so real, inside you distilled
+Back in the form of mist
+You wishin you did the Knowledge before speakin
+Seekin, where you went wrong
+And why would I bring you such physical harm?
+
+[Inspectah Deck]
+Yo, mind arson, my squadren, surround the Sound-Garden
+Guns for hire plus you under fire and a target
+Sniper in the cypher, I, Pied Piper
+Move the housing by the thousand, I watched out the Chrysler
+Bombs strike ya like the mighty Thor, blast the door
+Recite a page like a tidal wave, past the shore
+Two pulls, I'm wild like mechanical bulls
+Pack a full house, it's girls night out, pull a hairful
+Heavenly laced, stimulation make you feel slow paced
+I motivate and await my sober state
+
+[Ghostface Killah]
+Magnificent, heavenly the God stay bent
+Five Percent Range whippin soul controller of the lynch
+Mackin phone rings, Stephen King trauma down at Danzine
+My mood swings, suplexed off the rope, magazine
+Coconut jewels, wore no color shoe, knife annual
+Moses lost his sandal, hidin the manual
+Blow the vandal buggin off of Bon Jovi hits
+Grammer lo-ve, famous murder weapon was a trophy
+Seize posin in Oshkosh, guzzle cries
+Sabotage massage rap bandit at large
+Wolverine Carnation Milk, Wu denim jeans
+Thurston Howell the Third kid's back on the scene
+Call it chopped meat, cause every word is choppy
+My logic crunch all crows to death, Kobiyashi couldn't stop me
+Gettin caught up in my world, Haagen-Daaz world
+Backflip and then twirl, cave your whole world in
+*gun blast*
+</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

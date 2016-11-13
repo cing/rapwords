@@ -1,0 +1,133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Eminem f/ Rihanna
+Album:  Recovery
+Song:   Love the Way You Lie
+Typed by: Nickolye16@aol.com 
+
+[Chorus: Rihanna]
+Just gonna stand there and watch me burn
+Well that's alright because I like the way it hurts
+Just gonna stand there and hear me cry
+Well that's alright because I love the way you lie
+I love the way you lie..
+
+[Eminem]
+I can't tell you what it really is, I can only tell you what it feels like
+And right now there's a steel knife, in my windpipe
+I can't breathe but I still fight, while I can fight
+As long as the wrong feels right, it's like I'm in flight
+High off her love, drunk from her hate, it's like I'm huffin paint
+And I love her the more I suffer, I suffocate
+And right before I'm about to drown, she resuscitates
+me, she fuckin hates me, and I love it, wait!
+Where you goin? "I'm leavin you!" No you ain't!
+Come back, we're runnin right back, here we go a-gain
+It's so insane, cause when it's goin good it's goin great
+I'm Superman with the wind at his back, she's Lois Lane
+But when it's bad it's awful, I feel so ashamed
+I snapped, who's that dude? I don't even know his name
+I laid hands on her, I'll never stoop so low again
+I guess I don't know my own strength
+
+[Chorus] + "I love the way you lie"
+
+[Eminem]
+You ever love somebody so much, you can barely breathe when you're wit 'em
+You meet, and neither one of you, even know what hit 'em
+Got that warm fuzzy feelin, yeah them chills used to get 'em
+Now you're gettin fuckin sick of lookin at 'em?
+You swore you'd never hit 'em - never do nothin to hurt 'em
+Now you're in each other's face spewin venom in your words when you spit 'em
+You push, pull each other's hair, scratch, claw, bit 'em
+Throw 'em down, pin 'em, so lost in them moments when you're in 'em
+It's the rage that took over, it controls ya
+both, so they say you're best to go your separate ways, guess that they don't know ya
+Cause today, that was yesterday, yesterday is over
+It's a different day, sound like broken records playin over
+But you promised her, next time you'll show restraint
+You don't get another chance, life is no Nintendo game
+But you lied again; now you get to watch her leave out the window
+Guess that's why they call it window pane/pain
+
+[Chorus] + "I love the way you lie"
+
+[Eminem]
+Now I know we said things, did things, that we didn't mean
+Then we fall back into the same patterns, same routine
+But your temper's just as bad as mine is, you're the same as me
+When it comes to love you're just as blinded, baby please
+come back, it wasn't you, baby it was me
+Maybe our relationship isn't as crazy as it seems
+Maybe that's what happens when a tornado meets a volcano
+All I know is I love you too much, to walk away though
+Come inside, pick up your bags off the sidewalk
+Don't you hear sincerity, in my voice when I talk?
+Told you this is my fault, look me in the eyeball
+Next time I'm pissed I'll aim my fist, at the drywall
+Next time, there won't be no next time
+I apologize even though I know it's lies, I'm tired
+of the games, I just want her back, I know I'm a liar
+If she ever tries to fuckin leave again, I'ma tie her
+to the bed and set this house on fire
+I'm just gonna
+
+[Chorus] + "I love the way you lie"</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

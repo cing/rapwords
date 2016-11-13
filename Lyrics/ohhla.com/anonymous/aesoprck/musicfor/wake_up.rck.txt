@@ -1,0 +1,128 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Aesop Rock f/ Percee P
+Album:  Music for Earthworms
+Song:   Wake Up Call
+Typed by: scott_rodkey@hotmail.com
+
+[Aesop Rock]
+Wake up, wake up
+Ayo Percee P, it's time to wake these kids up
+
+[Percee P]
+Word up Aesop Rock, they'd better take their fingers off
+pause and hit record
+
+[Aesop Rock]
+Is you fat cats or lab rats?
+Trails to my steppin got em sweatin flashbacks
+I played a part of minesweeper, plunking sneakers in my sunken city
+Defunct, and apparently examinin' famine, I'm a
+Volatile strobe while your blind spot swallows the globe
+Sing to the track and think back
+When I was a boy I employed styles exhausted
+By every lost child at present
+Normally I drill pillars of normalcy
+You're cordially invited to accompany me
+In rotation of the tables to label the opposition
+As I choose, refusing to evolve with the cold
+Rapidly dissolved my involvement in a solvent of soul and roll back
+Brain trip the Beta weights trap for the slaughter
+Like livestock infected with anthrax
+On my call a pack or clan snaps, collapsed was the mandatory maze
+On the fluids ???? and glory days
+Desire on the opposite circuit and glorious days
+Is glorious hazes of gray spun through my array of operation
+Slave to idiot box revalations
+And wrapped tightly in a practice with my colleagues and slackers
+20,000 league nappers and the swelling increases
+Once the mortar hit the pestal your whole vessel fell to pieces
+And I laughed, I laughed for me and my Starving art family
+I laughed tangibly, your failures ampin me to vamp fresh
+My mic stabs white flags and drag trembling
+Devil skin-wearers through the terrors of compliance
+Once the day turns night, senoritas suck the woody like termites
+And wonder how they got labeled dick-hungry damsels in distress
+The all new and improved poetically portable Aesop Rock
+Available in stores with my, highly suggested parental discretion
+99 brilliant new dimentions
+
+[Percee P]
+I'm not your average man bragging, toe or hand tagging
+50 grand bagging, pants sagging, trigger nigga on the bandwagon
+Huh, I know this nigga named Rickey his girl Nikki want to get with me
+Says "Stick me just a quickie, lick me and leave a hickie"
+I stick instead of tricking bread in this chickenheads
+One look and said I ain't shit in bed, she must be licking lead
+You'd better let your gods recognize the Rhyme Inspector hides
+And never sweat them lies about me haters check your eyes
+One verse, lung burst, as I done first
+Guns, slums, hearse don't stun Perce, where I'm from's worse (sucker)
+My new cuts are hot, bodies chewed up a lot
+Then flew up the block to a cipher, blew up the spot
+Stacks of rhymes, ain't a match for mines, tracks and shine
+Leave you back in time in a ?beeler? still ain't at my prime
+I'm a stab your face in, trial and shit is wild
+I turn the dial, niggas stealing my style
+I should file for reparations
+
+	"Aesop Rock" "Percee P" *scratched til fade*
+</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

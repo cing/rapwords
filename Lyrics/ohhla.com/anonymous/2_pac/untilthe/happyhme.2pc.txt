@@ -1,0 +1,155 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac
+Album:  Until the End of Time (Disc One)
+Song:   Happy Home
+Typed by: OHHLA Webmaster DJ Flash
+
+Home man.. hey.. let's turn this house into a happy home
+This for all the homeboys that couldn't get they happy home
+Let's turn this house into a happy home
+Long as one of us got it, some of us got it
+Let's turn this house into a happy home
+You know how that is, stay down for mine
+Outlaw.. look
+
+[2Pac]
+Now we've been kickin it for quite some time
+Remained beside me through my trials in this life of crime
+We divorced so many times I forgot to count
+I never hit you, not a coward, rather leave your house
+Remember back in December when we was tight?
+Sippin Alize and Cristal, whylin every night - in my bedroom!
+Promised that I commit to you soon
+Tongue-kissed me every time you seen me step inside a room
+Straight out the hood
+We promised to be good to each other, plus I love you
+So I know you gon' make a good mother
+Just try to understand if I change at times
+it's only cause I never owned anything that's mine
+So I'm tryin you can stay with my momma but keep the drama to a low
+Never call the police, I never call you bitch and ho
+We were all born hungry in this world alone
+Finally moved out my mom's house, and got a happy home
+
+[Chorus]
+Ha..ppy.. home.. 
+(let's turn this house into a happy home)
+Ha..ppy.. home.. 
+(finally made it out my mom's house, got a happy home)
+Ha..ppy.. home.. 
+(turn this house into a happy home)
+Ha..ppy.. home.. 
+
+[2Pac]
+Goin through hard times, ghetto child of mine
+I wonder if you have to suffer for your father's crimes
+To be honest it's a hard road
+Just keep your faith in God, knowin you'll get scarred though
+Look at him walkin and talkin, a lil' child with my eyes and mouth
+Father watch over lil' seeds, help me guide them out
+Had to change my whole lifestyle, married my baby's momma
+Made her my wife now, I'm tryin hard y'all
+Maybe in time I'll be a better man
+Watchin the older couples, handle it like veterans
+Show me the meaning of forever and together we rise
+If it would help our child grow, then together we'd die
+Why - question my love, it's so easy to see
+Without my family all I'm left with is a shadow of me
+After all the arguments, and the nights alone
+Now it's time to live the good life, inside a happy home
+
+[Chorus]
+Ha..ppy.. home.. 
+(turn this house into a happy home)
+Ha..ppy.. home.. 
+(finally got to live the good life, inside a happy home)
+Ha..ppy.. home.. 
+(turn this house into a happy home)
+Ha..ppy.. home.. 
+
+[2Pac]
+Happy home
+
+[singers]
+All these problems got me goin
+We got a family, of our own
+I just wanna happy home
+(turn this house into a happy home)
+No man's made to stand alone
+I promise I won't do you wrong
+I just want a happy home
+(finally made it out my mom's house, got a happy home)
+
+[Chorus]
+Ha..ppy.. home.. 
+(turn this house into a happy home)
+Ha..ppy.. home.. 
+(finally got to live the good life, inside a happy home)
+Ha..ppy.. home.. 
+(turn this house into a happy home)
+Ha..ppy.. home.. 
+(finally made it out my mom's house, got a happy home)
+
+[2Pac]
+Hey, haha, turn this house into a happy home
+Long as one of us got it, some of us got it
+Turn this house into a happy home</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Tupac Shakur ~ Black Ice
+Album:  The Rose Vol. 2 *
+Song:   Intro
+Typed by: compbuttons@hotmail.com
+
+* Poems written by Shakur as ~ interpreted by other artists
+
+What's in ya hand nigga, y'all listenin'
+Do you understand nigga revolution, what's ya plan nigga {*gunshot*}
+Since my transition I've been misquoted, disrespected, turnin' over in my grave
+Watchin' y'all behave as if I should be proud or something
+The I hear you speak my name like I had a devine strides or something
+But relgions are seldom followed and all those sould back slide easy
+My life is tarnished so the whole world sees me as a menace
+But I implement that hate for me with love for y'all
+I look from above for y'all but I can't find my soldiers
+Who's holdin' the weight of the world on they shoulders since I left
+Who caught my last breath as I exhaled
+Derailed from the tracks, who's ridin'
+Make sure they don't destroy the art form
+If they can stop me they can stop thirty more emcees before they even born
+So I sacrifice the longevity in life
+To make sure you got the message the way you needed it
+Existence turns into a lesson to be taught
+told, confessed, to be heard and heeded this
+Kids walkin' these dirty roads and it's your job to pave it
+You see niggas dyin' cuz of what you sayin'
+Don't matter if you ain't kill 'em
+If you ain't do shit to save 'em you in the way nigga
+Save the day nigga or stopy playin' with 'em
+I been yellin' and screamin' from my grave for ten years now
+But y'all don't hear me though
+Which one of you niggas is gonna step up and say, Pac I got you
+GOD DAMN IT WHO SHOT YOU!?</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

@@ -1,0 +1,121 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac
+Album:  Loyal to the Game
+Song:   Ghetto Gospel
+Typed by: OHHLA Webmaster DJ Flash
+
+[2Pac]
+Uhh.. hit 'em with a little ghetto gospel
+
+[Chorus: samples from "Indian Sunset" by Elton John]
+Those who wiiiiish to follow me (my ghetto gospel)
+I welcome with my haaaaaaaaaands
+And the red sun sinks at last, into the hills of gold
+And peace to this young warrior, without the sound of guns
+
+[Verse One]
+If I could recollect before my hood days
+I sit and reminisce, thinkin of bliss on the good days
+I stop and stare at the younger, my heart goes to 'em
+They tested with stress that they under
+And nowadays things change
+Everyone's ashamed of the youth cause the truth look, strange
+And for me it's reversed
+We left 'em a world that's cursed, and it - hurts
+Cause any day they'll push the button
+And all come in like Malcolm X or Bobby Hutton died for nuttin
+Don't it make you get teary, the world looks dreary
+When you wipe yo' eyes see it clearly
+There's no need for you to FEAR me
+If you take your time and HEAR me, maybe you can learn to CHEER me
+It ain't about black or white cause we human
+I hope we see the light before it's ruined, my ghetto gospel
+
+[Chorus]
+
+[Verse Two]
+Tell me do you see that old lady, ain't it sad
+Livin out of bags, plus is glad for the little things she, has
+And over there there's a lady, crack got her crazy
+Guess who's givin birth to a, baby?
+I don't trip and let it fade me
+From out of the fryin pan, we jump into another form of slavery
+Even now I get discouraged
+Wonder if they take it all back, will I still keep the - courage?
+I refuse to be a role model
+I set goals, take control, drink out my own bottles
+I make mistakes, but learn from every one
+And when it's said and done, I bet this brother be a better one
+If I upset you don't stress, never forget
+That God isn't finished with me yet
+I feel his hand on my brain
+When I write rhymes I go blind and let the Lord do his, thang
+But am I less holy?
+Cause I chose to puff a blunt, and drink a beer with my homies
+Before we find world peace
+We gotta find peace an' end the war in the streets, my ghetto gospel
+
+[Chorus]
+
+[2Pac]
+Lord can you hear me speak? ..
+The pain and strife of bein hellbound</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

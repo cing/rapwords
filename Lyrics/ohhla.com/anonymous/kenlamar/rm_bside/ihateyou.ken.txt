@@ -1,0 +1,144 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Kendrick Lamar
+Album:  I Hate You (S)
+Song:   I Hate You
+Typed by: newos_crib_is@hotmail.com
+
+[Kendrick Lamar]
+September 22nd, 2009
+Kendrick Lamar, to... to...
+
+Let me start off this letter saying I don't like you
+Scared of you, but I will fight you
+I stare at the ceiling and think about you
+Curiosity killing me, thinking of when I'ma meet you
+You introduced yourself to so many others, mothers, sisters and brothers
+Children and babies, drive me crazy, I wonder
+why you love people that love people that do right?
+Is it rocket science to you, or is it just your type?
+One of my biggest fears
+is waking up four in the morning and gotta hear you met one of my peers
+Or maybe a family member that you thought was cool
+Or maybe a person that I'll never meet cause of you
+You, son of a bitch, and I wish you never existed
+And I swear I'd blow your brains out if you paid me a visit
+But that's not realistic, cause you'll never write
+But I'ma still send this letter off, P.O. Box
+and when you get it
+
+[Chorus]
+Please take it personal
+Please take it personal
+Please take it personal
+because it's personal
+
+[Kendrick Lamar]
+Let me continue this letter saying I don't like you
+I'm scared of you, but I will fight you
+Should be ashamed of the moves you make
+The pain you bring, the sorrow and the hearts you break
+Every day you remind me that you're always there
+cause every time I come around, someone's getting shot down
+And all I say is a prayer, so help me Lord
+Then the Lord talk back, I can't help you boy
+That's fucked up, my luck's fucked, was cursed before birth
+and what's fucked up, I gotta live my life with the hurt
+of knowing that you're everlasting, dwelling upon the masses
+of the earth, fatal assassins snatch your bodies
+Probably, on my notepad as I write
+Why the fuck you wanna take my life?
+Sooner or later, I'm tired and weary and my gray hairs are not in my favor
+So when I write on this paper, it's real talk, so
+
+[Chorus]
+
+[Kendrick Lamar as 'Death'] *screwed vocals*
+Let me start off this letter saying I don't like you too
+and the reason why we haven't met because I've been busy dude
+But ever since grade school I watched your every move
+You slipped up a few times
+I gave you a pass, so don't say I ain't sympathetic
+But you can bet it, your curiosity, I'ma dead it
+Everybody wanna know why I act this way
+Let's just say, I had a bad day
+Matter of fact everyday, gotta take it out on somebody
+and you could probably find me wherever the wolves parade
+I was born to be a killjoy, I'm a old brat
+conceived by Adam and Eve, so who you mad at?
+Not me, see me, I'm just doing my job
+and you ducking me is mos def an odd
+So why send this letter as if I never knew you?
+I'd rather knock on your door and just give it to you
+
+[Ab-Soul talking]
+It's everywhere, the streets, the corners
+The coroners, the morgues
+Cemeteries, hospitals
+Heard about 'em when I was little
+Tomorrow's not promised
+Cause any day he can be knocking at your front door
+War, genocide, homicide
+Suicide, all coincide
+Signed and sealed by the living
+Make it, don't take it
+
+[Chorus]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

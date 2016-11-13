@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z f/ Pain In Da Ass
+Album:  Vol. 3... Life and Times of S. Carter
+Song:   Hova Song (Intro)
+Typed by: OHHLA Webmaster DJ Flash
+
+[Jay-Z]
+Yeah, I know you just ripped the packaging off your CD
+If you like me you readin the credits right now
+If you in your car, I don't care if it's winter
+I want you to put all your windows down
+Zone out, buckle up, let's go
+
+Hello it's Hova; that's right young'un the wait is over
+The new millineum is upon us, the album is here
+Before we get into the shit, let's get a few things clear
+Rappers with no relation:
+there's "Seven Degrees of Seperation" and I'm Kevin Bacon
+This is the murderer's version
+Jigga the shit, even when he rhyme in third person
+Hova the God, I should be rappin with turban
+Haters can't disturb him, waiters can't serve him
+Mike Jordan of rap - outside J workin
+Now watch how quickly I drop 50
+I don't like playin, niggaz can't stick me
+Niggaz can not jam me, niggaz can't get me
+Slimmy at the Rucka wanna leave and spend with me
+I consistantly take em out the park like Ken Griffey
+Do you believe?  It's Hova the God
+
+[Pain In Da Ass]
+Makes you think about the people in your life
+Then I think about BIG; what'd he say if he was here
+He'd say, "Jay, what's it about?  What's life about?
+If you don't go through as a man's a man"
+He'd say, "Suck it up, take the fall, do the time 
+that's what makes you who you are, makes you what you are"
+How many years you been around this thing of ours?
+Commision, 125 years
+What's it about?
+It's about rules, parameters
+You take the beatin for the friend you don't lay down
+you don't betray who you are, what you are
+You gotta remember guys like Taj, Chill, Ran, Emory
+They don't roar, they don't rap
+You know why?  That's the rules, you don't break them
+You was born to be somethin I wasn't even supposed to be.. humble
+Okaay so you humble me now, what you got?
+You got a war, you got global war 
+You got a worldwide crime syndicate now
+There's no rules, there's no parameters, there's no feelings
+There's no feelings for this game
+So.. five ten years from now
+You're gonna wish there was American Commision
+Five ten years from now...
+They're gonna miss Jay-Z
+Oahhhkayyyyy, I'm reloaded!!!!!</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

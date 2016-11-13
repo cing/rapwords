@@ -1,0 +1,140 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z
+Album:  The Black Album
+Song:   Moment of Clarity
+Typed by: OHHLA Webmaster DJ Flash
+
+Woo!  Geah, geah (Young), geah
+Uhh, turn the music up, turn the lights down
+I'm in my zone
+
+[Chorus]
+Thank God for grantin me this moment of clarity
+This moment of honesty - the world'll feel my truths
+All through my +Hard Knock Lifetime+, +A Gift and a Curse+
+I gave you +Volume+ after +Volume+ of my work
+So you can feel my truths
+I built the +Dynasty+ by bein one of the realist niggaz out
+Way beyond the +Reasonable Doubt+ - y'all can't fill my shoes
+From my +Blueprint+ beginnin to that +Black Album+ endin
+Listen close you'll hear what I'm about
+Nigga, feel my truths
+
+[Verse One]
+Pop died, didn't cry, didn't know him that well
+Between him doin heroin and me doin crack sales
+With that in the eggshell, standin at the tabernacle
+Rather the church, pretendin to be hurt, wouldn't work
+So a smirk was all on my face
+Like damn, that man's face is just like my face
+So pop, I forgive you for all the shit that I lived through
+It wasn't all your fault, homey you got caught
+Into the same game I fought, that Uncle Ray lost
+My big brothers and so many others I saw
+I'm just glad we got to see each other
+Talk and re-meet each other
+Save a place in heaven 'til the next time we meet forever!
+
+[Chorus]
+
+[Verse Two]
+Music business hate me cause the industry ain't make me
+Hustlers and boosters embrace me and the music I be makin
+I dumbed down for my audience to double my dollars
+They criticized me for it yet they all yell "HOLLA!"
+If skills sold, truth be told, I'd probably be
+lyrically, Talib Kweli
+Truthfully I wanna rhyme like Common Sense
+But I did five mill' - I ain't been rhymin like Common since
+When your cents got that much in common
+And you been hustlin since, your inception
+Fuck perception go with what makes sense
+Since I know what I'm up against
+We as rappers must decide what's most impor-tant
+And I can't help the poor if I'm one of them
+So I got rich and gave back, to me that's the win/win
+So next time you see the homey and his rims spin
+Just know my mind is workin just like them...
+... rims, that is
+
+[Chorus]
+
+[Verse Three]
+My homey Sig' was on a tear where no tears should fall
+Cause he was on the block where no squares get off
+See in my inner circle all we do is ball
+'Til we all got triangles on our wall
+Ain't just rappin for the plat-i-num, y'all record
+I recall, cause I really been there before
+Four scores and seven years ago prepared the flow
+Prepared for war, I should fear no man
+You don't hear me though
+These words ain't just 'pared to go
+In one ear, out the other ear, no!  Yo
+My balls and my word is alls I have
+Whatchu gon' do to me nigga, scars or scab?
+Whatchu gon' box me homey?  I can dodge a jab
+Three shots couldn't touch me, thank God for dat
+I'm strong enough to carry Biggie Smalls on my back
+And the whole BK, nigga holla back
+
+[Chorus]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

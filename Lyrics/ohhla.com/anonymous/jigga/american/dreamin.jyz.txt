@@ -1,0 +1,161 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z
+Album:  American Gangster
+Song:   American Dreamin'
+Typed by: OHHLA Webmaster DJ Flash
+
+[samples of "Soon I'll Be Loving You Again" by Marvin Gaye]
+Dreamed of you this morning
+Then came the dawn, and
+I thought you were here with me
+If youuuuu could only see
+How much I love you
+That's all, that's all baby
+
+[repeat 3X in background]
+Oh no-oh, I never gave up no way
+
+[samples]
+I never, felt that before
+I never, felt that before
+I never, felt that before
+But there's always; that's all, that's all baby
+
+[Jay-Z]
+This is the shit you dream about with the homie steamin out
+Back-to-back, backin them Beemers out
+Seems as our, plans to get a grand
+Then go off to college, didn't pan or even out
+We need it now, we need a town
+We need a place to pitch, we need a mound
+For now, I'm just a lazy boy
+Big dreaming in my La-Z-Boy
+In the clouds of smoke, been playin this Marvin
+Mama forgive me, should be thinkin 'bout Harvard
+But that's too far away, niggaz are starvin
+Ain't nuttin wrong with my aim, just gotta change the target
+I got, dreams of baggin sni-dow, the size of pil-lows
+I see pies everytime my eyes cli-dose
+I see rides, sixes, I gotta get those
+Life's a bitch, I hope to not make her a widow
+
+[repeat 3X in background]
+Oh no-oh, I never gave up no way
+
+[Chorus: samples] + (Jay-Z)
+I never, felt that before (American dreamin)
+I never, felt that before (Just American dreamin)
+I never, felt that before (American dreamin)
+But there's always; that's all, that's all
+
+[Jay-Z]
+Uh, uhhhh~!
+Now see the life's right there, and it seems right there
+It's not quite near, and it's not like we're
+professionals, movin the decimals
+Know where to cop? Nah! Got a connect? No
+Who in the F knows how to be successful
+Need a "Personal Jesus," I'm in Depeche Mode
+They say its celestial, its all in the stars
+Like Tony LaRussa on how you play your Cards
+Cause y'all ain't fuckin with me! The ironies are
+At all costs bet on before he was boss
+Now let's start, on your mark
+Get set, let's go, get out the car
+Goin in circles it's a vicious cycle
+This is a crash course, this ain't high school
+Wake up Muttley, you're dreamin again
+Your own reality show, the season begins
+
+[repeat 3X in background]
+Oh no-oh, I never gave up no way
+
+[Chorus]
+
+[Jay-Z]
+Step one in this process, scramble up in your projects
+And head to the heights where big coke is processed
+You gotta convince 'em that you're not from the precinct
+Please speak slow cause he no speaky no english
+If he takes a likin after a couple of trips
+and your money is straight, he's gon' give you consignment
+You're now in a game where only time can tell
+Survive the droughts, I wish you well - hold up
+Survive the droughts? I wish you well?
+How sick am I? I wish you health
+I wish you wheels, I wish you wealth
+I wish you insight so you could see for yourself
+You could see the signs when the jackers is schemin
+And the cops is comin, you could read they mind
+You could see from behind, you could redefine
+the game as we know it, one dream at a time
+I'm American dreamin
+
+[repeat 3X in background]
+Oh no-oh, I never gave up no way
+
+[Chorus]
+
+[Jay-Z]
+American dreamin
+
+{*instrumental continues for another 1:02*}</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

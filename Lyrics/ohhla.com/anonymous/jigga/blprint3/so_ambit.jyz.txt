@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z f/ Pharrell 
+Album:  The Blueprint 3
+Song:   So Ambitious
+Typed by: Cedmaster3K
+
+[Intro: Pharrell]
+Yeah.. 3 in the morning, on the Westside highway, top down baby
+Yeah, the motivation for me (fuck y'all!)
+was them tellin' me what I couldn't be, oh well
+Hey! Hey! Ohh! Hey! Hey!
+Hey! Hey! (Y'all gotta here this shit!)
+Hey! Hey!
+
+[Jay-Z]
+Blueprint 3 shit... this the Blueprint baby
+Uh, yeah.. ay, this a, special dedication (thank y'all)
+I wanna thank you for the fuel, no really thank you
+... Hehehe
+
+I felt so inspired by what my teacher said
+Said I'd either be dead or be a reefer head
+Now sure if that's how adults should speak to kids
+Especially when the only thing I did was speak in class - I'll teach his ass
+Even betters what my uncle did
+I popped my demo tape in, started to beat my head
+Peaked out my eye, see if he was beatin' his
+He might as well say "beat it kid, he's on the list!"
+It's like I'm searchin' for kicks like a sneaker head
+He gon keep pushin' me until I reach the ledge
+And when I reach the ledge I'll tell 'em all to eat a dick
+Take a leap of faith and let my eagle wings spread, spread, spread
+
+[Chorus: Pharrell]
+The motivation for me 
+
+was them tellin' me what I could not be, oh well
+Hey! Hey!
+I'm so ambitious (hey!) I might hit two sisters (hey!)
+Hey I'm on a mission (hey!) No matter what the conditions (hey!)
+Forget the personal issues (hey!) when you been what I been through (hey!)
+Hey if you believe it (then be) then you could conceive it (you see?)
+Yeah, yeah, yeah
+
+[Jay-Z]
+I had to lace up my boots even harder
+Father is too far away to father; further-more all the 
+kids either, smoke reefer or either 
+move white; there's few writers in my cypher
+So they made light of, my type of
+dreams seem dumb, they said "wise up!"
+How many guys-a, you see makin it from here?
+The world don't like us, is that not clear? Alright but
+I'm different, I can't base what I'm gon' be
+offa what everybody isn't, they don't listen
+Just whisperin behind my back
+No vision, lack of ambition, so whack!
+
+[Chorus]
+
+[Jay-Z]
+Had a couple of meetings, no offers yet
+Maybe I ain't good enough for these offices
+Back to the drawin' board, duckin' officers
+It's all good cause the streets is A&R'in' this
+So with or without, any of your involvement
+We comin' for all of this, respect my conglomerate
+I went from pauper to the President
+Every deal I made set precedent
+Niggas thought I'd fall without old buddy
+Oh buddy, what I do is make more money
+Dear Teacher, your probably somewhere near a speaker
+I'm ballin' outta control, can you hear my sneakers
+Fuck y'all~!
+
+[Chorus] - minus last bar line
+
+[Pharrell]
+The motivation for me
+was them tellin' me what I could not be</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

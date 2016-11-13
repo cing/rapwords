@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac f/ Ron Isley *
+Album:  Loyal to the Game
+Song:   Po Nigga Blues (Scott Storch Remix)
+Typed by: OHHLA Webmaster DJ Flash
+
+* Ron Isley harmonizes throughout but sings no real lyrics
+
+(Scott, Storch) Hey!
+
+[Chorus: 2Pac]
+Why'd you slang crack?  I had to
+Why'd you slang crack?  Cause I had to
+Why'd you slang crack?  Cause I had to
+A nigga gotta pay the fuckin rent
+
+[2Pac]
+Crazy, I gotta work with what'chu gave me
+You claimin I'm a criminal and you the one that made me
+They got me trapped in this slavery
+Now I'm lost in this holocaust headin for my grave G
+I told Sam he could fuck the war
+And got a busted jaw for sayin fuck the law
+And if you wonder why I'm mad check the record
+What's a nigga gotta do to get respected?
+Sometimes I think I'm gettin tested
+And if I don't say yes a nigga's quick to get arrested
+That's the reason I stay testin
+I keep a vest on my chest in case the cops are gettin restless
+Walkin around, ready to light shit up
+But since my life is fucked, some say I'm slightly nuts
+Buck buck is the sound as I move up
+Other niggaz pay attention when a fool bust, huh
+They make a nigga be a killer; I used to be a dealer
+but they wanted to see who's realer
+Now them same motherfuckers wanna murder me
+And I wonder if the Lord ever heard of me, huh
+I need loot, so I'm doin what I do
+And don't say shit until you walked in my shoes
+There was no other destiny to choose
+I had nuttin left to lose, so I'm singin nigga blues
+
+[Chorus]
+
+[2Pac]
+Poppa need brand new shoes, but what the fuck can a nigga do?
+My little boy gotta eat too
+So why must I sock a fella
+Just to live large like Rockefeller?
+And did you ever stop to think
+I'm old enough to go to war, but I ain't old enough to drink
+Cops wanna hit me with the book, huh
+And you're hooked on my "I Don't Give a Fuck" look
+Make your rules, I'ma break 'em
+No matter how much you make 'em, you show me bacon I'm take 'em
+So don't you ever tempt me
+I'm a fool for mine nigga and my pockets stay empty
+To my brothers in the barrio
+You're livin worse than the niggaz in the ghetto so
+I give a fuck about your language or complexion
+You got love from the niggaz in my section
+You got problems with the punk police?
+Don't run from the chumps, get the pump from me
+We ain't free, I'll be damned if I play the trick
+for a blonde-haired, blue-eyed, caucausian bitch
+Down with my homeboy Rich, huh
+Fuck a snitch and a groupie-ass bitch
+And the nigga with a cellular phone, leave his baby at home
+so he can go out and bone, huh
+And you wonder why we blazin niggaz
+Cause you punks havin babies can't raise the niggaz
+And they down to be fuck-ups too
+Drinkin forties of brew, huh, singin nigga blues
+
+[New Chorus - repeat 3X]
+Why'd you slang crack?  Cause I had to
+Why'd you slang crack?  Cause I had to
+Why'd you slang crack?  Cause I had to
+Now I'm headin for the motherfuckin pen
+
+[Ron Isley ad libs to fade]
+</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac
+Album:  2Pacalypse Now
+Song:   Rebel of the Underground
+Typed by: OHHLA Webmaster DJ Flash
+
+Rebel.. rebel..    REBEL
+Rebel.. rebel..
+
+[2Pac]
+They just can't stand the reign, or the occasional pain
+from a man like me, who goes against the grain
+Sometimes I do it in vain, so with a little bass and treble
+Hey Mister!  It's time for me to explain that I'm the rebel
+Cold as the devil
+Straight from the underground, the rebel, a lower level
+They came to see the maniac psychopath
+The critics heard of me, and the aftermath
+I don't give a damn and it shows
+And when I do a stage show I wear street clothes
+So they all know me
+The lyrical lunatic, the maniac emcee
+I give a shout out to your homies
+And maybe then, the critics'll leave your boy alone, G
+On the streets or on TV
+It just don't pay to be, a truth tellin MC
+They won't be happy till I'm banned
+The most dangerous weapon: an educated black man
+So point blank in your face, pump up the bass
+and join the human race
+I throw peace to the Bay
+Cause from the Jungle to Oaktown, they backin me up all the way
+You know you gotta love the sound
+It's from the rebel -- the rebel of the underground
+
+Rebel he's a rebel, rebel of the underground (4X)
+
+[2Pac]
+Now I'm face to face with the devils
+Cause they breedin more rebels than the whole damn ghetto
+And police brutality
+shit it put you in the nip and call it technicality
+So you reap what you sow
+So reap the wrath of the rebel, jackin em up once mo'
+Now the fox is in the henhouse, creepin up on your daughter
+While you sleep I got her sneakin out
+Tupac ain't nuttin nice
+I'll be nuttin how I wanna, and doin what I'm gonna
+Now I'm up to no good
+The mastermind of mischief movin more than most could
+So sit and slip into the sound
+Peep the rebel -- the rebel of the underground
+
+Rebel he's a rebel, rebel of the underground (4X)
+
+[2Pac]
+They say they hate me, they wanna hold me down
+I guess they scared of the rebel -- the rebel of the underground
+But I never let it get me
+I just make another record bout the punks tryin to sweat me
+In fact, they tryin to keep me out
+Try to censor what I say
+cause they don't like what I'm talkin bout
+So what's wrong with the media today?
+Got brothers sellin out cause they greedy to get paid
+But me, I'm comin from the soul
+And if it don't go gold, my story still gettin told
+And that way they can't stop me
+And if it sells a couple of copies, the punks'll try to copy
+It's sloppy, don't even try to
+I'm a slave to the rhythm, and I'm about to fly through
+So yo to the people in the ghetto
+When ya hear the bass flow, go ahead and let go
+Now everybody wanna gangbang
+They talkin street slang, but the punks still can't hang
+They makin records bout violence 
+But when it comes to the real, some brothers go silent
+It kinda make you wanna think about
+that ya gotta do some sellin out, just to get your record out
+But 2Pacalpyse is straight down
+So feel the wrath of the rebel -- the rebel of the underground
+
+Tupac is a rebel, rebel of the underground (8X)</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

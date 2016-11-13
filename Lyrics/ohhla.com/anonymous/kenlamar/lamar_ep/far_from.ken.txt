@@ -1,0 +1,125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Kendrick Lamar f/ Schoolboy Q
+Album:  Kendrick Lamar EP
+Song:   Far From Here
+Typed by: newos_crib_is@hotmail.com
+
+[Kendrick Lamar - singing]
+A nigga so goddamn stressed out
+I feel like fuck everything right now
+See I've been broke too long, can't find a job to save my life
+But I'll be damned if I give 'em a handout
+See my pride is one thing I will not put aside
+I'm too proud to beg, I'm sorry Left Eye
+If I don't make it in life, motherfucker I tried
+What? Uh
+
+[Chorus 1: Kendrick Lamar]
+You ever feel like nobody never understands you but you?
+Not your momma, your poppa, only person is you
+Not your brother, your sister, the only person is you
+You ever feel like nobody never understands you but you?
+Nobody, nobody but you
+So it feels like, like it's only you
+
+[Chorus 2: Kendrick Lamar]
+So I'm feeling like I want to, I want to
+I want to, I want to go so far from here
+Very, very far from here
+I need to, I need to
+I need to, I need to go so far from here
+Very, very far from here
+
+[Kendrick Lamar - singing]
+It seems like, you can't win for losing
+Whatever you're doing turns out to be "what-are-you-doing?"
+Sitting pursuing, but your time will soon come
+Nobody knows the position that you in
+But it's a million people out there that's going through the same thing
+That feeling, hard to explain
+When you just, just want to get away
+Something like
+
+[Chorus 1]
+
+[Chorus 2]
+
+[Schoolboy Q]
+Away from it all
+Take me out of Hell where only Heaven can visit
+The smartest astronomers, they won't even see my vision
+I'm stuck on the studio couch, now I'm thinking bout my daughter
+Times is getting harder, another beat is slaughtered
+Just press record or, seems like I need a mill' to keep my shit in order
+instead of problem solving
+From my hat to my shoes, spirit laced with pride
+Set some shit aside to help me wipe my teary eyes
+Reaching for the skies, pissing on a cloud
+Shitting on a bird's head, higher than a dread
+as I fly through the galaxy, pain and the agony
+Nothing is surrounding me, living my life
+Though it's better to write
+Configuring my style to the streets, bring dark to the light
+So how you feel? My nigga, I keep it real
+A Schoolboy soon to be star, Mr. Lamar
+
+[Chorus 2]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

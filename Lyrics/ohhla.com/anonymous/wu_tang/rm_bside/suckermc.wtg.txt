@@ -1,0 +1,149 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan
+Album:  In The Beginning
+Song:   Sucker MC's *
+
+* mail corrections to beatnik@sprynet.com
+* This is the Wu-Tang Clan's cover version of Run-D.M.C.'s "Sucker MC's"
+
+[ODB]
+Daddy's home, your daddy's home to stay
+
+[Meth]
+Yo, yo, yo, yo, yo same time same channel
+Nasty vandals too hot to fucking handle
+Bring the ruckus to all you knotty head fuckas
+Shit's like Hammer Time, niggas can't touch us
+
+[RZA]
+Straight up and down Wu-Tang forever
+Come tougher than DJ ?'s leather
+Make a better tomorrow 
+Condition your atmosphere, air like feathers
+The fire come, transmit vire come
+The higher sire come, we burn your wire
+Wu-Tang be number one...
+
+[Meth & RZA]
+Four years ago a friend of mine
+Asked me to say some MC rhymes
+So I said this rhyme I'm about to say
+The rhyme was Meth and it went this way
+
+Yo, we took a test to become an MC
+All the withers in the crowd got amazed at me
+God threw me inside his Cadillac
+The chaffuer drove off and we never came back
+
+Meth cut the record down to the bone
+And now I rock solid chrome microphones
+Now we signing autographs, with cheers and laughs
+Champagne, caviar, and bubblebaths, but see...
+
+That's the life that I lead, you sucka MC, we G-O-D
+Take that and move back, or catch a heartattack
+Because there's nothing in the world the gods could ever lack
+
+I chill at the party in my b-boy stance
+Walk, cap low, 45 in my pants
+Fly like a dove, that come from up above
+My nigga's Iron Lung but you can stay one love
+
+It's just a one two three a three a two one
+Throw your blunts in the air for the god Iron Lung
+Blow them right in your face with the bass
+You messed up, come in first place, the real rap taste
+
+First come, first serve basis
+Coolin out boo, take you to the def places
+One of a kind for you people's delight
+And to you sucker MC, you know it ain't right
+Bet you bite all your life, cheat on your wife
+Run in a gun fight with nuthin but a knife
+Bangin with your boy, slingin with the crew
+And everybody know what you've been through
+It's the one two three three two one
+Throw your blunts in the air for your dunn Iron Lung
+Smoke in your place with the highs and the bass
+Come in first place in the real rap race
+Go uptown, buy a bag of brown
+You sucker MC, a sad face clown
+Gettin OD ready to rock crowds steady
+You drive a big car get your gas from Getti
+
+[ODB]
+I'm ODB in the place to be
+Didn't go to St. John's University
+In the streets of Brooklyn I aquired the knowledge
+A Law of Mathematics that's higher than college
+I'm fly on skins that I gets in Queens
+She love filthy swine and my collard greens
+I'm dressed to kill, you know our style
+Cause niggas don't know that Dirty Dogg fly
+
+If you wanna see me baby come, you know Dirty Dog is number one
+X2
+
+I wrote this song about the (?)
+You gotta know where to start when the beats play
+X2
+</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

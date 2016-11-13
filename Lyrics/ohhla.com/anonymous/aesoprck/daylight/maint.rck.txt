@@ -1,0 +1,111 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Aesop Rock
+Album:  Daylight EP
+Song:   Maintenance
+Typed by: hwarner967@hotmail.com
+
+[Verse 1]
+Well, any asshole with a book of matches can light a fire fresh
+make that sucker burn for days I'll be impressed
+Surfing to bash the coach of bigot procreation baked in fanciful
+Then scurry up the grass to roll his marbles off the anthill
+I know girth and good nature but recognize absentee ballots
+And sappy ballads couldn't fill the void
+It's James and the giant tugboat complex and he's annoyed
+No one's asking you to build an ark brother, it's fashion
+I'll find my own bullies to shake a finger at and then realign mine eyes in divine justice
+Plus this uncontrollable laugh when those amber waves of grain finally crash
+Brimstone, cloned with legs and dim poets, 10 little Zen crafts
+Finks cooperate like paper doll participant litigants picket well
+Around a burner style clinic, acid for the basics
+Ph imbalance to burn the malice martyrs faceless, then fabricate daytrips
+I wanna be the halo that jumps off the brain of the genius who decided
+Some pictures deserve frames, God and I are on first name basis
+Yeah I call him "God" he calls me "Jesus"
+When I lost my religion he fell to pieces, blame, dragon
+Up hell's creek interrupting a devil pageant, Star fighter settle into madness
+I keep my ghoul spirit concealed until the warriors return to Coney Isle Wonder Wheel
+
+[Chorus]
+My mama told me there'd be days like this, days like this, days like this
+days like this...
+
+[Verse 2]
+Tell me who you chill with and I'll tell you who you are
+I walk a mile with a leash attached to your freak seminar, it's a modern sensation
+On the boulevards of maintenance to sweep your broken hopes under the rug
+Then hug the playpen, it's revolution pushing through the loose pins of the
+straight-jacketed maverick classed in a bunk category
+They had him parallel with a tattered glory division
+A.k.a. them who drink dreams out a thermos with a whiskey afterburn
+It's like, 9 o'clock wake spit obscenities my girl ties on my cape
+Smoke a bone then work my deviltry, the clear day's laced with a classic
+Mother nature thunder chaser set that got my paper crane's wings wet
+Voyeurist amendments lacked expansive coverage in the syllabus
+I dance for chuckles while you man the keyhole grilling post, that's fine
+I done my chores according to God's schedule with coffee holding the wheel
+And nicotine working the pedals, Metal edged cadence that tends to repel the bevel
+Kettle screeching out the operative, I live to autograph the iron curtain
+With doves backfeather pen spurting magma, cursed television earns the burdens
+Of my Cleopatra, minor, major, disperse slap on the wrist for the tenants lacking arms
+To harbor the rarity of thick friendship, sunk with a "yes sir" chained to fatigued ankle
+Leagues beneath the angle I'm a call home till the rock meets the angels</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

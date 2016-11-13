@@ -1,0 +1,138 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan (Raekwon) f/ Kool G. Rap, M.O.P.
+Album:  Wu-Tang Chamber Music
+Song:   Ill Figures
+Typed by: Cno Evil
+
+[Intro: Raekwon]
+When I write my lyrics, it's like, it's like
+I want my shit to be phat, I want people to be able to understand
+Yo, Anybody can rhyme, youknowhatimsaying
+But it's what you saying that makes a person know about you
+Knowhatimsaying, you know the type of person you is
+So it's like really, I'm just more of just
+Being a street narrator (aiyo, what up, famo?)
+
+[Raekwon]
+Reefer lit, love hip hop, the gangstas got me like the broccoli
+Brooklyn baby cooling at a swat meet
+Real niggas wanna meet me, ladies wanna eat me
+Money clean Mercedes claim, baby, beat me
+Love getting dressed up, sweats and techs
+Ride around the hood, good, getting Gotti respect
+Hand is golden, an OG rolling and holding, yo
+Fresh kicks, soft leather, pockets is swollen
+Let my jam hit your tape deck, it's straight up, and made up
+For every real nigga with his gun on him, hate up
+Flying through the city nights, new flights
+Blue ice, hundred thousand in a Nike bag, license
+Drug shop, I'm sorry, Atari in the Ferrari
+Next see the Lex A Shallah, La Tam'pa
+Eating yo, all of us, scamma gangstas
+You know we honor, tip the kangol, cooling in the brown vengos
+
+[kung fu sample]
+I have never, giving up on a mission
+That's against my honor
+
+[Lil' Fame]
+Duke let me warn you, my niggas crip up
+Them young boys'll run up on you, shoot your whip up
+Brooklyn, nigga, beg for you life
+And my Staten Island homeys lay your ass down on Glaciers of Ice
+Sidewalk executives, live the street life consecutive
+We built for this, go for your gun
+My prospective is, another day in the life, of money and drugs
+Big hammers and slugs, can get ugly as fuck
+
+[Billy Danze]
+From the chest to your man Danze, ey
+Staten Island, said what up, yo, ey
+The homey ODB said what up, though, ey
+We got the Chef on deck as if you didn't know
+It's sharp as fuck, Wu, that's what up
+Pack it up, wanna rap, wanna rock, what up?
+Wanna pop, get up, fuck around and get your block hit up
+Bring your team and we'll box 'em up
+Think M.O.P. is not what up
+
+[kung fu sample]
+It seems I'm a bit late here
+Don't worry, these men are all gonna die
+
+[Kool G. Rap]
+See from the side where it slum at, dum at, rum at
+Cognac, combat, contact, contrast
+Crom's packing out like Beyonce back
+She bang out a song like the Fonz back
+Bigger things, bring the slangs, slicker than the sharpest pen
+Nigga here, combat, sweet dick Willie T, Rudy Ray Moore game
+Woodgrain all in the board reigns, before rain flooded
+Like storm drains, boss man, bundling raw 'caine
+Fours bang, neighborhood war games
+Get your weight up, you looking anarexic
+Posted on the block proper with the hammer vested
+Bitch came with empty hands, that's the hand she left with
+Thirsty ass with the water and it sounded desperate
+Break a white an hour, based it forty grand invested
+Live within the third rail, you know the man electric
+Shit was like the third world, until I handle metrics, that next shit</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

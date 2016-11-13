@@ -1,0 +1,140 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Aesop Rock
+Album:  Float
+Song:   Commencement at the Obedience Academy
+Typed by: yamomsucks@aol.com
+
+Verse One:
+
+The harvest appeared less plentiful than last season
+I imagine sloppy seed handling avoke the stroke of tardy planting
+And the crops we'd have harnessed in mid November
+It only brushed the blossom bracket then soon sacrificed
+Lives to icicle jackets when the frosted
+I sunk to find the walk beneath the mosses
+Where the planted tunnel pass after the rains have run their courses
+But alas the portraits of these frosted corpses tortured in the grass
+Off of distorts or pour the one tall glass and nauseous
+And I'm asking you, why's this spy supply hiding in strangers
+When they know atop the food chains I could spot biters for acres
+Now be gracious, these minstools turn a bully's psycho civil
+By dissolving the candy coated image down to the pixels
+Yelp bringing the self-stop freedom brigade investors
+And the studies connecting one hit wonders with dust collectors
+Puts it down, and it's down beneath your sappy sing alongs
+So stick it further down where the daunted decide which ring I'm on
+Nova yell just took positions and advance march
+Parts playing a scheme parking the rain in my canteen now I'm like
+Point I guess I could spare a splash for a couple of heads
+Counterpoint during my famine I never got broke your bread
+Well equation of intrigue, yes, yes, let me fed sit for a bit
+These 'tensils need soaking before I hand out token
+"Shut the fuck up" drama like Kabuki with a heart of dirt
+Skull fucked cross bones hence my birth it hurts
+
+Chorus:
+
+Must not sleep must warn others
+Trust blocks creep where the dust storm hovers
+I milk my habitat for almost everything I want
+Sometimes I take it all and still can't feel this pitfall in my gut
+And I'm like must not sleep must warn others
+Trust blocks creep where the dust storm hovers
+I'm trying to walk on top of sunshine
+But it's ridiculous at times that's why I tore 'em with this warning
+
+Verse Two:
+
+Wanting the glory of our advance fire ants to water beetles
+Free masons adjacent debasing on pins and needles
+Pupil turned pedagogue benedicts into my dream
+Beam in a billion bottle rockets off the golden mezzanine
+I pluck the pedals off a classic blood rose one at a time
+Gripping the stem and right invite the thorns to dig up in my lifeline
+A metaphor for nighttime, ante up the slight cost of exhaustion
+To salute the moon of our paradise lost and you're a spectator
+Stringent, inch by sacred inch shoveling colon in my earthworm soul
+Borough up through the dirt with bloody digit lick my knuckles clean
+Noting the corporate clusters holding hands round the abode of the dam
+And what's your poison? Starlight and amaze her with a nicotine chaser
+Sip it clean savor the taste then sit and dream later
+The ollage pay their back upon they hinges twenty miles
+Across the glassy eye window of one less to passes by
+Now I'm six foot four with a sick flow walk up just to recline
+With no free time, the alarm storms at nine
+My daytime's on some, yes sir, okay sir, right away sir
+Sir do you mind if I breathe sir oh you do? Well excuse me sir fuck you
+I breathe slow, I'm running with these fantastic amalgams
+Painting casket bound careers to pierce gunning with classic albums
+Security's the javelin, catch it; labor
+Clocked in at seven six and haven't clocked out ever since
+
+Chorus:
+
+Must not sleep must warn others
+Trust blocks creep where the dust storm hovers
+I milk my habitat for almost everything I want
+Sometimes I take it all and still can't feel this pitfall in my gut
+And I'm like must not sleep must warn others
+Trust blocks creep where the dust storm hovers
+I'm trying to walk on top of sunshine
+But it's ridiculous at times that's why I tore 'em with this warning</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

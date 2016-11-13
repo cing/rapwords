@@ -1,0 +1,129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac
+Album:  R U Still Down? (Remember Me)
+Song:   I'm Gettin Money
+Typed by: OHHLA Webmaster DJ Flash
+
+Get money nigga
+Yeah - aw yeah
+Dedicate this one to all the hustlers
+that get up every motherfuckin mornin and put they work in
+I see you - I see you boy
+
+I'm up before sunrise first to hit the block
+Lil' bad motherfucker with a pocket full of rocks
+Learned to throw them thangs, get my skinny lil' ass kicked
+Niggaz laughed, til the first motherfucker got blas-ted
+I put the nigga in his casket
+and now they covering the bastard in plastic
+I smoke blunts on the regular fuck when it counts
+Tryin to make a million dollars out a quarter ounce
+Gettin ghost on the five-oh, fuck them hoes
+Got a forty-five screamin out surviv-al
+Hey nigga can I lay low, cook some ya-yo
+and holla five-oj when I say so
+Don't wanna go to the pen, I'm hittin fences
+NARC's on a nigga back missin me by inches
+And they say how do you survive, weighin one-fifty-five
+in the city where the little niggaz die
+Tell mama don't cry, cause even if they kill me
+They can never take the life of a real G
+
+I'm gettin money (4x)
+
+Still on parole and I'm the first nigga servin
+Pour some liquor on the curb, for my homies that deserve it
+If I wanna make a million, gotta stay dealin
+Kinda boomin round the way, think today I make a killin
+Dressin down like I'm dirty, but only on the block
+just a clever disguise, to keep me runnin from the cops
+Gettin high I think I'll die if I don't get no ends
+I'm in a bucket but I'm ridin it like it's a Benz
+I hit the strip I let my music buck
+drinkin liquor and I'm lookin for a bitch to fuck
+Rather die makin money, than live poor and legal
+as I slang another ounce, I wish it was a kilo
+I need money in a major way
+Time to fuck my girl, she gettin paid today, ha hah ha
+I live Thug Life and let the money come to me
+Cause they can never take the game from a young G
+
+I'm gettin money (4X)
+
+Damned if I don't, and damned if a nigga do
+Now watch a young motherfucker pull the trigger too
+RAISE UP, and don't let them see ya cry
+Dry your eyes, young nigga time for do or die
+I pack a pistol in my pocket, ready on my Glock
+Ain't no time for a nigga to even cock shit
+I done seen a motherfucker peep pain
+at point blank range cause he slept on the game
+Ain't a damn thing changed, they shakin the dice
+Now roll em if you can't stand pain better hold em
+Cause ain't no tellin what ya might roll
+You might fold catch AIDS from a slight cold
+You better live ya life to the fullest
+Be quick to kill a bull got a pistol motherfucker better pull it
+And even if they kill me
+They can never take the life of a young G
+
+I'm gettin money (5X)</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan
+Album:  Def Jam's Rush Hour Soundtrack
+Song:   And You Don't Stop
+Typed by: janis@betatesters.com
+
+[Ol' Dirty Bastard]
+Yeah, now we're gonna give a shout out, knowumsayin'?
+Def Jam, knowumsayin'?
+Niggas like Method Man, Redman
+Say all the artists here, knowumsayin'?
+Bacon Lot, knowumsayin'?
+I don't need no introductions, Cat
+Whuuuuut
+
+I'm sittin' in my west, I'm analyzin' thoughts
+I'm sippin' off a quart that I just had bought
+I'm thinkin' of the moment, things soar in that head
+I feel assurin' durin', also glad
+Yes, feel assured by knowin' I won
+Cuz there's no one who can fuck wit A-Sun
+I'm not bein' pushy but I'm born to boss
+You need A-Sun, oh yes, well of course
+Don't see the riot, everyone keeps quiet
+If you don't believe nigga, get hyper and try it
+Yes it is me, a total fresh MC
+Yo, I'm born to be, MC history
+Rhyming on time because that's the deal
+You're only as fresh as your ass feel
+Other MC's, you are bound to fall
+Cuz your real world is not a world at all
+
+1 - [Street] 
+	Drunken Master, styles causin' street disaster
+	Blaze cut faster than a fairy slasher
+	Tai-chi, Kung Fu fighting, ODB hands quick as lightenin'
+	Techique too deadly
+	Iron fist blew the pawn, switch styles like lay long
+	Let's get it on, heavy chow broke, it's not 'bout
+	Shadow boxin', better punch, you need oxegen, try again
+	When you catch the second wind, I'll break you in
+
+[Masta Killa]
+Approach the mic slow, it's about to blow
+One foot crow crane, anti-chain movement
+Restore the ming, some take this thing for joke
+Serious men deep in thought, misunderstood, held the fork
+He's too defensive, too mean, you didn't, now it's a scene
+These cats over here got glock holdin' him down
+These niggas scheming, I'm seeing everything
+Ten steps ahead, on the wall smokin' my
+Agent high told best friend of the wine
+
+[Method Man]
+Still drunk offa cheap wine
+Holdin' front lines, niggas wanna front, fine
+Fuck wit me and mine, rain on your sunshine
+Swine nigga's come as hard as a pork rind
+Can you dig it? Only five percent live it
+While the rest of you fake niggas try to get it
+Now fuck around
+
+Repeat 1
+
+[Ol' Dirty Bastard]
+Down wit the All In Together Now Crew
+The GZA, the RZA, me of course too
+The thing I'm analyzing is strickly Hip Hop
+That's what's made, well made is on my workshop
+You was unable plus earn advance
+Just to touch the untouchable kip hop dance
+They're sayin' of the utmost, truly I'm the utmost
+Have you ever caught the hip hop holy ghost
+Man, I mean really, that shit is mad hype
+Especially when you find yourself rhymin' over mics
+I became a wrecker through my amplifier
+Break it down base, treble through my dancer
+That's one new dance, it's to my Black Magic music
+It's not classic, arabic, or basic
+It's strickly thickly, dirty and districkly
+If not don't you pick me and forget me
+
+Repeat 1</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

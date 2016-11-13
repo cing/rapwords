@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Eminem
+Album:  Encore
+Song:   Crazy in Love
+Typed by: datsippiguh24@yahoo.com {with help from liner notes}
+
+[sample from "Crazy on You" by Heart]
+Tell myself that I was doing alright
+There's nothing left to do tonight
+But go crazy on you.. crazy on you!
+Let me go crazy, crazy on youuuuuuuuuu-ohhhhhh
+
+[Verse 1]
+Can't you see what you do to me baby?
+You make me crazy, you make me act like a maniac
+I'm like a lunatic, you make me sick
+You're truly the only one who can do this to me
+You just make me get so crazy
+I go schizo, I get so insane I just go schizophrenic
+One minute I want to slit your throat, the next I wanted sex
+You make me crazy, the way we act like two maniacs in the sack
+We fuck like two jackrabbits and maybe that's a bad habit
+Cause the next day we're right back at it
+In the same exact pattern
+What the fuck is the matter with us?
+We can't figure out if it's lust
+or it's love which that is attractin us to each other
+They say that every man grows up to marry his own mother
+Which would explain why you're such a motherfuckin bitch
+but I stay and still stick it out with you
+even though I just hit you today
+But you deserve it you hit me first and provoked me to choke you
+Just cause I came home late last night crawled in bed and I woke you
+But if there's one thing about you that I admire it's baby
+Because you stay with me, maybe, because you're as crazy as I am
+Cause when I look at you I can see an angel in your eyes
+But if I look deeper inside I see your freakish little side
+Like a devil in disguise, you're always full of surprises
+Always pullin devices out your personal vibrators and dildos
+You fucked yourself so much you barely feel those anymore
+You're only 24 but you're plenty more ma-ture
+than those other little hoes who just act like little girls
+Like they're in middle school still you're crazy sexy cool, chillin
+You play your position you never step out of line
+Even though I stay in your business you've always kept out of mine
+I wonder what's on your mind, sometimes they say love is blind
+Maybe that's why the first time I dotted your eye you ain't see the sign
+
+[Chorus]
+
+[Eminem - over first two lines of Chorus]
+Or maybe you did, maybe you like me and stuff
+Maybe cause we're crazy in loooove
+
+[Eminem]
+You are the ink to my paper, what my pen is to my pad
+The moral, the very fiber, the whole substance to my rap
+You are my reason for being, the meaning of my existence
+If it wasn't for you I would never be able to spit this
+as intense as I do and the irony is you rely on me
+as much as I rely on you to inspire me like you do
+You provide me the lighter fluid, the fuel to my fire
+You're my entire supply - gas, the match, and igniter
+The only way that I am able to stay so stable is you're the legs to my table
+If you were to break I'd fall on my face
+But I'm always gonna make you feel I don't need you as much
+as I really need you so you don't use it to your advantage
+But you're essential to me you're the air I breathe I believe
+if you ever leave me I'd probably have no reason to be
+You are the Kim to my Marshall you're the Slim to my Shady
+The Dre to my Eminem, the Elaina to my Hailie
+You are the words that I'm lookin for when I'm tryin to describe
+how I feel inside and the right one just won't come to my mind
+You're like the pillar that props me up, the beam that supports me
+The bitch who never took half, the wife who never divorced me
+You're like the root to my evil, you let my devil come out me
+You let me beat the shit out you before you beat the shit out me
+
+[Chorus]
+
+[Eminem - over first two lines of Chorus]
+And no matter how much, too much is never enough
+Maybe cause we're crazy in loooove</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

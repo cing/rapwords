@@ -1,0 +1,138 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z
+Album:  American Gangster
+Song:   Roc Boys (And the Winner Is)...
+Typed by: bomberfromdabean@aim.com
+
+And the winner is Hov... my man. SPEECH!
+
+First of all I wanna thank my connect
+The most important person with all due respect
+Thanks to duffle bag, the brown paper bag
+The Nike shoe box for holding all this cash
+Boys in blue who put greed before the badge
+The first pusher whoever made the stash
+The Roc Boys in the building tonight (hey!)
+Oh what a feeling I'm feeling life (hey!)
+Thanks to the lames, niggas with bad aim
+Thanks to a little change I tore you out the game
+Bullet wounds will stop your bafoonery
+Thanks to the pastor rapping at your eulogy
+To Lil Kim and them, you know the women friend
+Who, carry the work cross state for a gentlemen
+Yeah, thanks to all the hustlers
+And most importantly you, the customer
+
+Chorus: Jay-z [Kanye West]
+The Roc Boys in the building tonight
+Oh what a feeling, I'm feeling life
+You don't even gotta bring ya paper out
+We the dope boys of the year, drinks is on the house
+[We in the house, hou-, hou-]
+The Roc Boys in the building tonight
+Look at how I'm chilling, I'm killing this ice
+You don't even gotta bring ya purses out
+We the dope boys of the year, drinks is on the house
+[We in the house, hou-, hou-]
+[We in the house, hou-, hou-, HEY]
+
+Let ya hair down baby, I just hit a score
+Pick any place on the planet, pick a shore
+Take what the Forbes figure, then figure more
+Cause they forgot to account what I did with the raw
+Pick a time, lets pick apart some stores
+Pick a weekend for freaking for figure fours
+I figure frauds never hit a lick before
+So they don't know the feeling when them things get across
+Put ya hand out the window, feel the force
+Feel the Porsche, hit the frost
+Ice cold, jewels got no flaws
+Drop got no top, you on the top floor
+Pink Rosay, think OJ
+I get away with murder when I sling yay
+Heroin got less steps than Britney
+That means it ain't stepped on, dig me?
+
+Chorus (with overlapping 3rd verse towards end)
+
+Red Porsches, rare portraits
+Red guns if you dare come near the fortress
+This apple sauce is from the apple orchid
+This kinda talk is only reserved for the bosses
+Which means I get it from the ground
+Which means you get it when I'm around
+Rich niggas, black bar mitzvahs
+Mazel tov, it's a celebration bitches, L'Chayim
+I wish for you a hundred years of success but it's my time
+Cheers, toast to crime
+Number one D-boy, shame he could rhyme
+
+chorus x 3
+
+Sweet, let that ride out!
+Bring the horns back in, yeah
+This is black super hero music right here baby
+American Gangsta
+Taking flight, coming to a town near you
+Soon as I touch down I just want ya'll to start playing the horns like...
+Hovies home...Lukey baby
+Hahahahaha...ow!</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

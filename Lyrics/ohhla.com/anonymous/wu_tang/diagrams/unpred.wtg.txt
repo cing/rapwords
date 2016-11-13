@@ -1,0 +1,122 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan f/ Dexter Wiggles
+Album:  8 Diagrams
+Song:   Unpredictable
+Typed by: Cno Evil, Tha Masta
+
+[Intro: RZA]
+Plush whips and rollies, ice chains and stogies
+No bitch could hold me, in this Thug World
+
+[Inspectah Deck]
+I hold it with the bolo grip, solo control the strip
+Behold, P.L.O. the click, man, it's over with
+So quick, notice how we bang with the knuckles bare
+Wu-Tang, keep it fresh like tupper ware
+The Jungle, Animal House, gat in your mouth
+Polly with the wild life, cannibal out
+Give this five course meal in effect, reel to reel or cassette
+Or with the mask on, peelin' the tech
+Killah Hill, man, you feelin' my set, feelin' my rep
+Annamette with the top down, wheelin' the 'Vette
+Scoop me downtown, cop the brown and back to the bids
+Twist a blunt in front of Jake and still mash on the strip
+Face sick with the rap shit, stacking them chips
+In the pits, stick shit, cats packing them grips
+Bad bitch with the black six, after my dick
+She like, this your pussy, and she smash my click
+Not a fake, not a fraud, see my name on the wall
+Niggaz straight, like an inmate, try'nna make the board
+Snake waiting, dudes came for sure, I lay law
+Stay raw, cause a 'massacre' with no 'chainsaw'
+Half y'all talk about it, but you don't want war
+See my wolves eat the bones and we still want more
+We be foaming at the mouth, even, I doubt we leave without eating
+So without reason, pounds are squeezing
+The lifestyle of fiends and beans, big dreams and CREAM
+Bitches ride like the Scream Machine
+For a taste of it, the chick strip, clean out the jeans
+Next thing she was smuggling coke between the seams
+
+[Chorus: Dexter Wiggles] + (RZA)
+If real niggaz is listening, the life we living in, is wrong
+(Witty Wu-Tang is unpredictable, Witty Wu-Tang is unpredictable)
+Back for transitions, to save us from harm
+We in the race for time... so we won't lose our mind
+But if we run the race like a thug
+We would lose that mind that we made of
+
+[RZA]
+You kept the weapon concealed like a magician's secret dollar bill
+Liable to pull a knife from out of his heal
+Snatch the sword from the rock with one hand
+One finger, bzzz, turn ya body to sand
+You'll be hoping you'd be Spidey, to get away from this
+You be hoping you be whitey when the judge get pissed
+One man, can't uplift the land
+Like Method Man standing on the hands of fans
+See the Captain and Lieutenants, true descendant
+Splendid, unprecidented, hip hop vintage
+Started from the park benches, before the NARCs could snitch us
+He was God Cypher Divine, trying to spark the wizzes
+
+[Chorus 2X]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

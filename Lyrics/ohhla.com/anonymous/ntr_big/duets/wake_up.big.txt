@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Notorious B.I.G. f/ Korn
+Album:  Duets: The Final Chapter
+Song:   Wake Up
+Typed by: RedFzn@aol.com
+
+{*Korn electric guitar plays until 0:33*}
+
+[Notorious B.I.G.]
+What you expected from his next of kin
+I'm loco bro, but ain't no Mexican
+I got nines in the bedroom, glocks in the kitchen
+A shotty by the shower if you wanna shoot me while I'm shittin
+The lesson from the Smith and Wessun is depressin
+Niggaz keep stressin, the same motherfuckin question
+How many shots does it take, to make my heart stop
+and my body start to shake, if I should die before I wake
+
+[Korn] + (Notorious B.I.G.)
+I'm here, I'm watching you (if I should die before I wake)
+Love, the flesh, my blood's pourin through (if I should die before I wake)
+This, can be, reality (if I should die before I wake)
+Wake, up, my dead face I see (if I should die before I wake)
+My dead face I see, my dead face I SEE!!
+
+{*Korn electric guitar w/ indistinct shouting*}
+
+[Notorious B.I.G.]
+On your mark, get set, when I spark you're wet
+Look how dark it get when you're marked wit death
+Should I, start your breath or should I let you die
+If he start to cry, ask why?
+Lyrically, I'm worshipped, don't front, the word's sick
+You cursed it, but rehearsed it
+I drop unexpectedly like bird shit
+You herbs get, stomped quickly for raw T's and show money
+Don't forget the publishin, I'm punishin
+I'm done wit them, son I'm surprised you run wit them
+I think they got cumin, cause they nothin but bitch
+Tryna blow up like nitro wit dynamite sticks
+Mad I smoke, but yo I rock diamonds that's sick
+Got paper off my flow, ride wit my own click
+Take chicks to Cairo, layin wit yo' bitch
+I know you playin you was rich
+Fuck you prick, when I see you I'ma..
+
+[Korn] + (Notorious B.I.G.)
+I am here, I'm watching you (when I see you I'ma..)
+Love, the flesh, my blood's pourin through (when I see you I'ma..)
+This, can be, reality (when I see you I'ma..)
+Wake, up, my dead face I see (when I see you I'ma..)
+My dead face I see (when I see you I'ma..), my dead face I SEE!!
+
+{*Korn electric guitar w/ rock-n-roll singing 'til end*}
+
+[Notorious B.I.G.]
+When I see you I'ma.. when I see you I'ma..</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

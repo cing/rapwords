@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Notorious B.I.G.
+Album:  Life After Death
+Song:   Ten Crack Commandments
+Typed by: OHHLA Webmaster DJ Flash
+
+(Chuck D) "One two three four five six seven eight nine"
+
+Uhh, it's the ten crack commandments
+What, uhh, uhh
+Nigga can't tell me nothin bout this coke, uh-huh
+Can't tell me nothin bout this crack, this weed
+To my hustlin niggaz
+Niggaz on the corner I ain't forget you niggaz
+My triple beam niggaz, word up
+
+(Chuck D) "One two three four five six seven eight nine"
+		"TEN"
+
+I been in this game for years, it made me a animal
+It's rules to this shit, I wrote me a manual
+A step by step booklet for you to get
+your game on track, not your wig pushed back
+Rule nombre uno: never let no one know
+how much, dough you hold, cause you know
+The cheddar breed jealousy 'specially
+if that man fucked up, get your ass stuck up
+Number two: never let em know your next move
+Don't you know Bad Boys move in silence or violence
+Take it from your highness (uh-huh)
+I done squeezed mad clips at these cats for they bricks and chips
+Number three: never trust no-bo-dy
+Your moms'll set that ass up, properly gassed up
+Hoodie to mask up, shit, for that fast buck
+she be layin in the bushes to light that ass up
+Number four: know you heard this before
+Never get high, on your own supply
+Number five: never sell no crack where you rest at
+I don't care if they want a ounce, tell em bounce
+Number six: that god damn credit, dead it
+You think a crackhead payin you back, shit forget it
+Seven: this rule is so underrated
+Keep your family and business completely seperated
+Money and blood don't mix like two dicks and no bitch
+Find yourself in serious shit
+Number eight: never keep no weight on you
+Them cats that squeeze your guns can hold jobs too
+Number nine shoulda been number one to me
+If you ain't gettin bags stay the fuck from police (uh-huh)
+If niggaz think you snitchin ain't tryin listen
+They be sittin in your kitchen, waitin to start hittin
+Number ten: a strong word called consignment
+Strictly for live men, not for freshmen
+If you ain't got the clientele say hell no
+Cause they gon want they money rain sleet hail snow
+Follow these rules you'll have mad bread to break up
+If not, twenty-four years, on the wake up
+Slug hit your temple, watch your frame shake up
+Caretaker did your makeup, when you pass
+Your girl fucked my man Jake up, heard in three weeks
+she sniffed a whole half of cake up
+Heard she suck a good dick, and can hook a steak up
+Gotta go gotta go, more pies to bake up, word up, uhh
+
+Crack king, Frank Blizzard
+Uhh
+
+(Chuck D) "One two three four five six seven eight nine"
+		"Ten"
+
+</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac f/ Nate Dogg
+Album:  Loyal to the Game
+Song:   Thugs Get Lonely Too
+Typed by: OHHLA Webmaster DJ Flash
+
+Hahahaha, man you crazy, see
+
+[Verse One]
+It ain't easy bein me
+Life as a celebrity is less than heavenly
+I got these fakes and these backstabbers chasin me around
+And it's always drama, whenever I wanna get around
+Momma told me, long before I ever came up
+Gotta be true, to what you do and keep the game up
+Cause thangs change, and jealousy becomes a factor
+Best friends at your wife's house, tryin to mack her
+I'm on tour, but still they keep on knockin at my door
+And I got no time to worry, I'm steady wantin more
+Every day is a test yes, I try hard
+But I'm strugglin with every breath, I pray to God
+that the woman that I left at home, all alone
+There ain't nothin like tryin to bone, over the phone
+In my mind I can see her naked, I can't take it
+Got me shakin at the thought that we can make it
+I torture me
+
+[Chorus: Nate Dogg]
+I'm rollin out on tour today, you gettin sad cause I'm goin away, the...
+... chickenheads wanna play with me, you gettin mad cause you think I'ma sway
+Some of 'em cute some of 'em fine as fuck
+I hear 'em scream soon as I hit the stage, nah...
+Still I be gettin lonely for you
+I'm comin home soon as I make this pay, make this pay
+
+[Verse Two]
+I call you up long distance, on the telephone
+Wanna tuck you in even though I can't make it home
+I whisper thangs in your ear like you're near me
+Wonder if you feel me, from far away, and can you hear me?
+It seems to me, that you're jealous
+Cause I'm hustlin and makin money, with the fellas
+In the backstreets, tryin to track me, baby hold up!
+Thugs get lonely too, but I'm a soldier
+And there's no way I'ma stop makin money
+Cause your attitude's changed and you're actin a little funny
+Always complainin, sayin we don't spend time
+Can't you see I got enough stress on my mind?
+And hangin up like you all that
+Then get mad when I tell you that I'm busy baby, call back
+Please, ain't nothin left to say to you
+Thugs, get lonely too, YOU KNOW
+
+[Chorus]
+
+[Verse Three]
+I sit alone in my room drinkin, without a care
+Talkin out loud to you, like you're there
+Take your picture out my back pocket, man it's on
+You're the first face I wanna see, when I get home
+Wanna love you 'til the sun rise, buckwild
+Touchin every wall in the house, thug style
+Put your hands on the headboard, think of me
+Drippin sweat on top of you, sink and see
+this in yo' head that I'm makin love, so turn the lights down
+Reminisce and relax, cause baby right now
+I feel it in the middle of my stomach
+You whisper in my ear and baby tell me how you really want it
+Hold on tightly, watch the ceiling
+Scratch my back's how you react, let me know you feel me
+Cause everything I'm givin to you, is so true
+And thugs get lonely too, YOU KNOW
+
+[Chorus]
+
+[2Pac]
+Yeah, thug life BAY-BEE!
+Steady thuggin
+Ay so you remember that next time you sweatin me when I'm on the road baby
+Thugs get lonely too, we ain't gotta go through all this bullshittin ass problems
+If you wanna be real with me, be real with me
+If you wanna be fake, move on to the next one, that ain't me
+YOU KNOW</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

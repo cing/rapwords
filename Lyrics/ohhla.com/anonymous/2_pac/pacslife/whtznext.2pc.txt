@@ -1,0 +1,169 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac f/ A3, Jay Rock
+Album:  Pac's Life
+Song:   Whatz Next
+Typed by: big_chiefer2@yahoo.com
+
+[2Pac]
+Tell me what the fuck am I suppose to do
+Now what's next
+Tell me what the fuck am I suppose to do
+Now what's next
+
+Caught up in the middle
+My life's a riddle
+Don't let it get ya
+I wanna be legal
+But it's this hustle that get me richer
+One love to my peoples makin' money
+I can see you bubblin'
+Avoid all trouble
+Beware of devils continue strugglin'
+Nothin's impossible if there's a will there's a way
+So get your mind on official business
+You can be great
+And it's been this way from the cradle to the grave
+So get paid
+My niggaz do this every fuckin' day
+We parlay
+Through politics and conversation
+This information to my thug niggaz in the congregation
+Watch and bare witness to the pleasures of participation
+Separation is self destruction
+What's needed is unification
+Cause the world ain't hardly scared
+If not prepared
+Be sure to be bummy and be no longer there
+But no one cares it's there to share
+All we get is stares
+Because of fear we'll evaporate
+Say your prayers
+
+And what's next
+
+[Chorus] (2x)
+Hard livin' got me goin' insane
+But I'm addicted to the hustle I'm trapped in the game
+Whatz next
+I'm goin' crazy
+Tell me tell me what the fuck am I suppose to do
+Whatz next
+
+[A3]
+(Aye its on A3)
+Makaveli tried to warn us
+But niggaz ain't listen to Pac
+Naw (listen listen) nigga really listen to Pac
+Shit yean got it yet (no)
+Then you won't get it
+Might as well measure 'em up
+And have his ass fitted
+Why
+Caught slippin' dog trippin' didn't soak game
+Got his wig split like dem shutters on the airplane
+Never will change niggaz wit' no name no shame
+Might open ya head foe mess broke change
+I stay posted like a flag (flag)
+Starin' thru my rear view ballin' in a jag (jag)
+Bounce wit me Cali body rock down in H-Town
+We gon' put these artificial bustas in they place now
+Time foe a change
+Real niggaz rollin' wit' me
+Money makin' swift decision we controllin' the streets
+Side track by the broads and the frauds
+Ain't it strange
+It's the reason so many niggaz get scarred in the game
+
+Whatz next
+
+[Chorus] (2x)
+
+[Jay Rock]
+That money gotta make it
+What I gotta do to make it
+Do I really gotta take it
+Put this mack up to you face it
+Doin' what we gotta do to survive
+Just ask Kweli doin' what we do to get by
+Some niggaz stick to the crime
+Pitchin' nickel and dimes
+What the fuck we s'pose to do
+Who gon' give us a job
+So I tried and tried
+Tried to get out the grind
+But the block kept on callin' me back
+Fiends kept on callin' for crack
+So I supply 'em wit' that
+Gave 'em a reasonable fee
+Nigga don't blame it on me
+Shit just look where I'm at
+Niggaz in gardens
+LAPD is the target
+Niggaz is heartless hustle regardless
+Look that dope spot use to be an apartment
+But now it's just a place to hide the guns in the closet
+Watch ya step shift the grams under the carpet
+We just tryin' hard not to see that coffin
+
+Whatz next
+
+[Chorus] (2x)</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

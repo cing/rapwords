@@ -1,0 +1,134 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac f/ Keyshia Cole
+Album:  Pac's Life
+Song:   Playa Cardz Right (female)
+Typed by: dynamite9383@yahoo.com
+
+Wassup boo? Yeah
+Hahahaha Yeah
+
+[2Pac]
+Another shady mission, tricks, like watchin pictures in hazy vision
+Tonight is love makin, take you any place you wish
+Today we satisfied, and today we stole them kisses
+Blind insanity, perfect pictures of me and my family
+Not understanding it definitely, if they plan for me
+If I have kids, will I live to see them grow?
+Though I don't know, I live the life of a thug nigga
+Until the day I go, no broken promises
+A sacred bond broken, I know I die alone
+But yet and still I'm hopin
+Visions of prisons, maybe I'll be forgiven
+I know it's better in heaven 'cause bein here ain't livin
+Close my eyes and see nothing but pain, the world is crazy, still
+Lookin for a queen to plant seeds and have babies
+Maybe I'll be the one or just maybe I'm lost
+You'll never know being cautious, if you playa cardz right
+
+[Chorus: Keyshia Cole]
+I wanna be the one who, who you can depend on who
+Who be the one who be there
+Through the thick and thin
+Go by the water we will, be there till the morning
+We won't leave until the night and we will
+Be forever more
+
+[Keyshia Cole]
+No one else can do what you do for me
+Take me away from the pain I feel inside
+And it's gonna be alright and it'll be ok
+If we try and take our time, yes baby, take our time
+And we'll grow, trust I know
+I wanna be the one whoooo
+
+[Chorus]
+
+[Pac talking]   (Keyshia ad-libs)
+You got to playa cardz right on one (Ooooh yeah)
+Can't be rushing like it's a race 'nahmsayin?  (No, no, no)
+If you be patient, and you take your time (Be patient baby)
+And you finess it, 9 times out of 10 times (10)
+Homeboy you gon' wake up with your breakfast in bed
+But if you rush (Heyy) and you just be manhandlin, haha, (It takes a real man)
+Yo ass is goin home tonight Haha (Heyy)
+Playa cardz right nigga,  take ya time. (Be the one) Be patient
+(Be the one heeeyy) Go slow, it's better that way
+You ain't heard? (Yeah) Haha
+Playa cardz right
+(Be the one, I wanna be the one)
+
+[Chorus]
+
+[Pac talking]    (Keyshia ad-libs)
+Take ya time man (Take ya time)
+Don't be in such a rush (In a rush) Haha (Be forever more)
+You got to be patient man, be patient
+It ain't goin nowhere one haha (Nowhere)
+Get some champagne (Haha, be forever more)
+Bring some roses or somethin, you know
+Play some soft shit
+Light a fire (Luther Vandross)
+You got to be cool with it  (Teddy, Teddy)
+You got to be slow with it  (Ooooh be so)
+You got to be patient, you got to playa cardz right on one
+Can't be rushing like it's a race 'nahmsayin
+If you be patient, and you take you time and you finesse it...</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

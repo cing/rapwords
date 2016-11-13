@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan
+Album:  Wu-Tang Forever
+Song:   The M.G.M.
+Typed by: OHHLA Webmaster DJ Flash
+
+[both]  Yo, up in the M.G.M. coked up
+[Ghost] Sike!  Six niggaz walked in flashing they gems peace
+[Rae]   Aight! One dark skinned nigga fifty-six inch rope
+        wrapped around twice
+[Ghost] Smash the Gilligan boat with ice
+[Rae]   They threw sign language
+[Ghost] Ordered hot coffee
+[both]  wit a danish
+[Ghost] Relax -- whispered, "They rap entertainers"
+[Rae]   Had Lizzy on, two Japanese birds with furs look good kid
+[Ghost] Laid back handlin hors d'ourves
+[Rae]   It's like round three
+[Ghost] We too black for BET
+        You memorize the 1 to 40
+[Rae]   I'm at the 19th degree
+        If a civilized person doesn't perform, his duty
+        What shall be done?
+[Ghost] Pardon me God, that nigga gotta gun
+        Bulgin out his sweatpants, check out his stance
+        See the side of his grill?
+[Rae]   Look like my cousin Lance
+        Left hand rock a Guess watch
+[Ghost] Yo I think I did his Clarks he wore the crush bone leather
+        with the strings dark
+[Rae]   Now I remember
+[Ghost] He from Bear Mountain
+        He and Mitch Greene shot the fair one
+[Rae]   Near the water fountain
+[Ghost] Seventh round, Chavez bleedin from his right ear
+        Yo keep ya eye on that same nigga from right here
+[Rae]   Popcorn spilling all on Liz Claiborne
+        Ghost had the fly Gucci mocks wit no socks on
+        Seen Deion Sanders in the back with the fat fur on
+[Ghost] Workin dem hoes with the fly Wu shirts on
+        Mixed drink session Dunn
+[Rae]   Pour me some more
+[Ghost] Chef leathered down blinking at Chante Moore
+[Rae]   Tenth round Chavez tearin em down
+[Ghost] Sweet Pea get ya shit off
+[Rae]   It's like blacks against the Germans
+[Ghost] Gettin hit off
+[Rae]   Smooth and them walked in
+[Ghost] Brownsville representin
+[Rae]   They sent a bottle over, autograph blessin
+[Ghost] Chef pull out the doodle twist the dank pink noodles
+[Rae]   Yo I'm bout to roll one
+[Ghost] Matter fact twist two of those
+[Rae]   Yo they wound up stoppin the fight
+        Steels took a point away from Chavez
+[Ghost] Rematch scheduled on October Ninth
+        Rematch scheduled on October Ninth</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

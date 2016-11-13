@@ -1,0 +1,134 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan (RZA) f/ The Reverend William Burk
+Album:  Legendary Weapons
+Song:   Robbery (iTunes Bonus Track)
+Typed by: Cno Evil
+
+[Intro: The Reverend William Burk]
+Yeah, yeah, it's live, it's live, it's going down
+What?
+
+[Chorus 2X: The Reverend William Burk]
+This is a robbery, boy, come out your pockets
+We hit the lottery, boy, it's in your wallets
+This is a robbery, boy, gimme them dollars
+Gimme them dollars, gimme them dollars
+
+[The Reverend William Burk]
+My third eye, never blind, deep behind assassins
+Taurus is the sign, for the dimes that be asking
+William Burk, with a mind that's advanced
+And put in work, spread knowledge of outlasting
+Sharpshooter with a luger, blasting at Lucifer
+Asking the trooper of Earth to ride Jupiter
+Medusa the ruler of wicked women and timid men
+We killing cops til they free my nigga Killa Sin
+And licking shots in the battle when the war begin
+Wrath of the prominent, all hail the Gods again
+Reign of the dominant, we looking for Osama Bin
+Laden, plotting on the fall of evil rotten men
+All my squad is wise as King Solomon
+This all for one, and one for all, til the very end
+Cuz once I got a friend, I never forgot a friend
+See I ill blend, equal ten minus three
+
+[Chorus: RZA]
+It's a robbery, boy, come out your pocket
+We hit the lottery, boy, it's in your wallet
+It's a robbery, boy, come out your pocket
+We hit the lottery, boy, it's in your wallet
+
+[RZA]
+Nigga, whether welfare cheese or franks and beans
+Or no frill can goods, you want it all from the hood
+Fifty packs of Oodles and Noodles, dipsey doodles, cheese doodles
+Next to the West Indian man who try to blow voodoo
+On your most beloved, why I come down from regions undiscovered
+I have you hovered over by black brothers in public, it's rugged
+My fatal wound, you not immune, I'm departing like King Arthur
+Open hand combat is unlimited, I'm the tomcat, word
+The old war calling Maserati with the spoiler
+Carry middle east oil and hot water boilers
+Cop pull bars from NATO, eating fried green tomatoes
+We will bake your head like it's Mr. Potato
+Me and Reverend Burk is like Green Hornet and Kato
+Godfather, the Clan man, don't you turn Fredo
+Calm like sippin' top sake, northern Vodka Hanna
+Train like Rocky defending Apollo Creed's honor
+The Steels unbendable, it's not recommendable
+To defend the rule, we come up, we finish you
+Cuz then the Liquid Sword will strike down, diminish you
+Your fate like the bottom of an old worn tennis shoe
+I'm just skinning you, not aiming for ending you
+The multiple, the force of the pen could do
+
+[Chorus: The Reverend William Burk]
+This is a robbery, boy, come out your pockets
+We hit the lottery, boy, it's in your wallets
+This is a robbery, boy, gimme them dollars
+Gimme them dollars, gimme them dollars
+
+[Chorus: RZA]
+It's a robbery, boy, come out your pocket
+We hit the lottery, boy, it's in your wallet
+It's a robbery, boy, come out your pocket
+We hit the lottery, boy, it's in your wallet</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

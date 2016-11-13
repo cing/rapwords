@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan
+Album:  A Better Tomorrow
+Song:   Ron O'Neal
+Typed by: AZ Lyrics
+
+[Chorus]
+No matter what the weather, we be getting our cheddar
+So we can have a better tomorrow
+Oh, money, cars, superstars, getting ours, working hard
+For a better tomorrow
+
+[Verse 1: Method Man]
+Coach, put me in the game
+I'm for real, other peoples tryna to put me in them chains
+Whatever the topic, let's put it in the frame
+We can even load it and cock it and put it in they brains
+I'm saying, some rappers do it for a chain
+Kill yourself, I know killers that'll do it for some change
+These veterans is slipping, they ain't doing it the same
+I don't slip, set a pick and put a shooter in your lane
+Precise, 'bout shoot them at the range
+But I ain't tryna shoot it with you rappers, I'll just shoot it at your dame
+Y'all never should have threw me in the game
+Found a new word for weed, that was so mean
+I threw it in my name
+
+[Verse 2: Inspectah Deck]
+My soul laid out on the block like arms spraying
+The law hating, warring like Blacks and Caucasians
+God versus Satan, I'm laying in the dark
+With the Mossberg, waiting, letting off first basing
+Slim from the cotton club washing a scrub
+Deuce high when he cruise by, spotting his love
+Hold the mic like a .38 muzzle to snub
+This flow, call it OJ blood on the glove
+Above rap, capital G's speak on the facts
+Please believe that, meaning that I keep it a stack
+He's back, he a beast on the track
+The only time that I go soft is probably with your freak in the sack
+Feel the bass make sure he shake, murder verse, first forty-eight
+Manslaughter, nearly caught a case
+I crack heads more than base
+Stack bread when I orchestrate, that said y'all the base
+
+[Chorus]
+
+[Verse 3: Ghostface Killah]
+I seen niggas sniff coke through a crazy straw
+Come out they shirts sweating bullets with the Bobby Brown jaw
+Dry mouth, grinding back and forth plus he's steaming a Newport
+We all holdin' the torch
+Few staircase murders, some burners don't blam right
+Guns that kicked around the wall you better stand tight
+Full of X, AK's, whilin' in lobbys, bulletproof PJ's
+Fuck around and get spunned like the DJ
+CSI traumatized by viewing the instant replay
+Spongebob niggas get scars nigga
+I'm off style in any section of the hood I'll pull your car nigga
+
+[Chorus]
+
+[Bridge]
+See ignorance wouldn't allow retreat
+So you rather pursue death than admit defeat
+See ignorance wouldn't allow retreat
+So you rather pursue death than admit defeat
+
+[Verse 4: RZA]
+Ay yo, I used to be so narcissistic, park the whip and spark the biscuits
+Spit hollow tipped shells at the Narcs with quickness
+Live to tell the tale, cause only God's my witness
+Been a long time, change gonna come son, I'm optimistic
+I hold the steel like Ron O'Neal
+Super fly, do or die, killer hill, Brownsville
+Never win, never will, yes I can, yes I will
+Put a dot upon your knot then I drill through your grill
+Like a dentist, my apprentice speaks with a vengeance
+Demented scientists counting bodies in the trenches
+That's judges off the benches, got inches for y'all wenches
+We plant those hot seeds then drove in cold winters
+
+[Chorus + Bridge]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

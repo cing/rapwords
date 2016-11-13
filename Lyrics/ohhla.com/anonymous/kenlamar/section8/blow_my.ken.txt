@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Kendrick Lamar
+Album:  #Section80
+Song:   Blow My High (Members Only)
+Typed by: newos_crib_is@hotmail.com
+
+[Chorus: screwed Pimp C sample from Jay-Z's "Big Pimpin'"] + (Kendrick Lamar)
+"Smoking out, pouring up, keep that lean up in my cup
+ All my car got leather and wood, in my hood we call it buck
+ Everybody wanna ball, holla at broads at the mall
+ If he up, watch him fall, I can't fuck with y'all"
+(Pussy ass hoe niggas) "I can't fuck with y'all"
+(Bitches all up in my business) "I can't fuck with y'all"
+(Industry of counterfeits) "I can't fuck with y'all"
+
+[Kendrick Lamar]
+Taking off when you landing
+Bitch niggas gonna throw tantrums
+And I'm dancing on them stars
+The galaxy ain't got room for y'all
+Ain't nothing gonna happen soon for y'all
+while I'm here, and every day I hear
+your bullshit, self-pity
+Reason why you never dealt with me
+Reason why your girl dealt with me
+Hands up in the building, we get busy, and say
+R-I-P Aaliyah, R-I-P, yep
+R-I-P Aaliyah, R-I-P, yep
+That's exactly what this sound like
+A to the A to the L-I-Y
+A-H, give it up two times
+Then give it right back, don't blow my high
+
+[Chorus]
+
+[Kendrick Lamar]
+Look at my life, then look at yours
+Get some ambition, why you bored?
+Time will never wait on no man
+Society will never hold your hand
+Niggas like to gossip like bitches
+Got me thinking you don't like bitches
+Wonder what's behind them Ray Bans
+Eyes of a coward, I understand
+Niggas like to gossip like bitches
+Sip Don Perignon, when we finish, we say
+R-I-P Aaliyah, R-I-P, yep
+R-I-P Aaliyah, R-I-P, yep
+That's exactly what this sound like
+But never will I ever forget Left Eye
+Roll up, put a ribbon in the sky
+and a button on your lips, don't blow my high
+
+[Chorus]
+
+[Kendrick Lamar]
+Now everybody sing this shit
+
+*sung by female*
+I'm sending him a four-page letter
+and I enclose it with a kiss
+And when I write, he'll be better
+Get it on time
+
+[Kendrick Lamar]
+Look at my life and look at yours
+Get some ambition, why you bored?
+R-I-P Aaliyah, R-I-P
+R-I-P Aaliyah, R-I-P
+R-I-P Aaliyah, R-I-P
+R-I-P Aaliyah, R-I-P</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

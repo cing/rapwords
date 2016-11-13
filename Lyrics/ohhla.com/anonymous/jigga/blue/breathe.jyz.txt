@@ -1,0 +1,154 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z
+Album:  The Blueprint
+Song:   Breathe Easy (Lyrical Exercise)
+Typed by: paddenanfernee@aol.com
+
+(talking)
+So I had to memorize these rhymes until I got home
+Ya understand?  Once you memorize a sentence
+It's like an exercise (echoes)
+
+*heavy breathing*
+
+(talking)
+Ya niggas can't be serious right now
+I'm the all time heavy weight champion of flowers
+I'm leading the league in at least six statistical categories right now
+Best flow, Most consistent, Realest stories
+Most charisma, I set the most trends
+And my interviews are hotter
+Holla
+
+I jog in the graveyard
+Spar in the same ring
+Now it's house by the building
+Where Malcolm X was slain
+I spring train in the winter
+Round early December
+Run suicide drills over and over
+With the weight of the world on my shoulder
+That's why they call me "Hova"
+I'm far from being God
+But I work goddamn hard
+I wake up the birds who in the nerves is sleep
+I'm catching my second wind the second the first one end
+I am "focused man"
+And I'm not afraid of death
+And I'm going all out
+I circle the vultures in a van and
+I run the block (run)
+Pull up in a drop (pull up)
+Push up on my money (push up)
+I'm in great shape dunny
+I keep jacks jumping thirty six sets
+Like a personal trainer I teach coke to stretch
+I pump and rock sweats
+All white trainers
+The ghettoes, Billy Blanks
+I show you niggas what pain is
+Maintain your stamina
+Hov will damage ya
+Spot you two rhymes y'all niggas is amateurs
+The fifth
+A dead lift if
+Niggas don't want to get shot then y'all niggas better squat
+I drop your set for rep
+No need to hit the showers
+The spit from the fifth leave you wet
+Lyrical exercise
+(hard breathing)
+Y'all niggas ain't tired right?
+
+(Chorus 4X)
+One, One
+Two, Two
+Three, Three
+Four, Breathe Easy
+
+Suckers
+Get your weight up
+Not your hate up
+Jigga man is diesel
+When I lift the eight up
+Y'all ain't ready to workout with the boy
+Your flow is brain on drugs
+Mines is rap on steroids
+I lift every voice when I sing
+My ability
+Make yours look like an exercise in futility
+Bring your squad
+Biceps, Triceps, and Quads
+We don't struggle with undeveloped muscles
+Y'all ain't real
+That's y'all Achilles Heel
+Same routine when you see me you know the drill
+I spot ya
+I lift the weight of the watch off your arm
+Remain nice and calm
+Put down your things
+Trinidad of the game know my way around your ring
+No matter how many pounds you bring
+It sounds like the same old thing
+R-O-C is the strongest team
+
+(Chorus 4X)</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

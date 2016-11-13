@@ -1,0 +1,125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac
+Album:  2Pacalypse Now
+Song:   If My Homie Calls
+Typed by: OHHLA Webmaster DJ Flash
+
+[Verse One]
+Ever since you was a pee-wee, down by my knee with a wee-wee
+We been coochie-coo all through school, you and me G
+Back in the days we played practical jokes on
+everybody smoked with they locs and the yolks on
+All through high school, girls by the dozens
+Sayin we cousins, knowin that we wasn't
+But like the old saying goes
+Time goes on, and everybody grows
+Grew apart, had to part, went our own ways
+You chose the dope gaaaame, my microphone pays
+In many ways we were paid in the old days
+So far away from the crazies with AK's
+And though I been around clowning with the Underground
+I'm still down with my homies from the hometown
+And if you need, need anything at all
+I drop it all for y'all, if my homies call
+
+[Verse Two]
+It's a shame, you chose the dope game
+Now you slang 'caine on the streets with no name
+It was plain that your aim was mo' 'caine
+You got fame now you run with no shame
+I chose rap, tracks to make stacks
+In fact I travel the map with raps that spray cats
+But now I don't wanna down my homie
+No matter how low you go you're not lowly
+And I, hear that you made a few enemies
+But when you need a friend you can depend on me, call
+If you need my assistance there'll be no resistance
+I'll be there in an instant
+Who am I to judge another brother, only on his cover
+I'd be no different than the others
+H-to-the-O-to-the-M-to-the-I-to-the-E
+I'm down to the E-N-D
+Cause it's a fall in no time at all
+I'm down for y'all, when my homies call
+Word, if my homies call
+
+[Verse Three]
+Well it's ninety-one and I'm livin kinda swell now
+But I hear that you're going through some hell pal
+But life makin records ain't easy
+It ain't what I expected it's hectic it's sleazy
+But I guess that the streets is harder
+Trying to survive in the life of a young godfather
+My homies is making it elsewhere
+Striving, working nine to five with no health care
+We both had dreams of being great
+But his deferred, and blurred and changed in shaped
+It's fate, it wasn't my choice to make
+To be great, I'm giving it all it takes
+Trying to shake, the crates and fakes and snakes
+I gotta take, my place or fall from grace
+The foolish way, the pace is quick and great
+Smiling face, to hide the trace of hate
+But my homie would never do me wrong
+That's why I wrote this song, if you ever need me it's on
+No matter who the foe they must fall
+Us against them all I'm down to brawl if my homies call</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

@@ -1,0 +1,132 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Eminem
+Album:  Recovery
+Song:   Space Bound
+Typed by: Nickolye16@aol.com 
+
+[Eminem]
+We touch, I feel a rush, we clutch, it isn't much
+But it's enough to make me wonder what's in store for us, it's lust
+It's torturous, you must, be a sorceress cause you just
+did the impossible, gained my trust, don't play games it'll be dangerous
+if you fuck me over, cause if I get burnt I'ma show ya
+what it's like to hurt, cause I been treated like dirt, befo' ya
+And love is evol, spell it backwards I'll show ya
+Nobody knows me I'm cold, walk down this road all alone
+It's no one's fault but my own, it's the path I've chosen to go
+Frozen as snow, I show no emotion what-so-ever so
+Don't ask me why I have no, love for these muh'fuckin hoes
+Blood-suckin succubuses, what the fuck is up with this?
+I've tried in this department but, I ain't had no luck with this
+It sucks but it's exactly what I thought it would be like tryin to start over
+I got a hole in my heart but some kind of emotional roller coaster's
+somethin I won't go on so you toy with my emotions, hoe it's over
+It's like an explosion every time I hold ya, wasn't jokin when I told you
+You take my breath away, you're a supernova
+And I'm a
+
+[Chorus]
+I'm a space bound rocketship and your heart's the moon
+And I'm aimin right at youuuu, right at youuuu
+250 thousand miles on a clear night in June
+And I'm aimin right at youuuu, right at youuuu, right at youuuuuuu
+
+[Eminem]
+I'll do whatever it takes, when I'm with you I get the shakes
+My body aches when I ain't, with you I have zero strength
+There's no limit on how far I would go, no boundaries no lengths
+Why do we say that until we get that person that we think's
+gonna be that one and then once we get 'em it's never the same
+You want 'em when they don't want you, soon as they do feelings change
+It's not a contest and I ain't on no conquest for no mate
+I wasn't lookin when I stumbled onto you, must've been fate
+But so much is at stake, what the fuck does it take? Let's cut to the chase
+'fore the door shuts in your face, promise me if I cave in and break
+and leave myself open that I won't be makin a mistake
+Cause I'm a
+
+[Chorus]
+
+[Eminem]
+So after a year and six months, it's no longer me that you want
+But I love you so much it hurts, never mistreated you once
+I poured my heart out to you, let down my guard swear to God
+I'll blow my brains in your lap, lay here and die in your arms
+Drop to my knees and I'm pleadin, I'm tryin to stop you from leavin
+You won't even listen so fuck it, I'm tryin to stop you from breathin
+I put both hands on your throat, I sit on top of you squeezin
+'til I snap your neck like a popsicle stick, ain't no possible reason
+I can think of to let you walk up out this house and let you live
+Tears stream down both of my cheeks, then I let you go and just give
+And 'fore I put that gun to my temple I told you this {*blam*}
+
+And I would've did anything for you
+To show you how much I adored you
+But it's over now, it's too late to save our, love
+Just promise me you'll think of me
+Every time you look up in the sky and see a star cause I'm a
+
+[Chorus]
+I'm a space bound rocketship and your heart's the moon
+And I'm aimin right at youuuu, right at youuuu
+250 thousand miles on a clear night in June
+And I'm so lost without youuuu, without youuuu, without youuuuuuu</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

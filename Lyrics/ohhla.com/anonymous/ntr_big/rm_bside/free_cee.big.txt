@@ -1,0 +1,115 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Notorious B.I.G.
+Album:  Mister Cee: Best of Biggie
+Song:   Freestyle - Mister Cee
+Typed by: dallas@gdi.net
+
+Yeah
+You're now entering the mode of the Notorious Biggie Smalls
+Junior M.A.F.I.A. clique, representing
+This one going out to Brooklyn
+Ya'll know what time it is
+It's going out to all the gangsters, 
+all the pimps, players, hoes and bitches
+Ya'll know what time it is
+So this what I want ya'll to do
+I want ya'll to grab your Dutch Masters 
+and ya'll White Owls and ya'll Phillies
+Umgh, get you a fat sack, pint of Hennessy and lay back
+Gonna do this one for my man Mister Cee, representing all day, every day
+And all you other tape niggas and bootleggers, stay in the house
+Cause Brooklyn got this shit locked down
+So any time you're ready Mister Cee
+We gonna get hardcore on these homos
+
+Like I said before, Junior M.A.F.I.A. clique, hard-core
+Uh, representing, Biggie Smalls in the house, uh, check it, uh
+Biggie Smalls is the wickedest
+Niggas say I'm pussy, I dare you to stick your dick in this
+If I was pussy I'd be filled with syphilis
+Herpes, gonorrhea, climittia, getting rid'a ya
+Got it locked like the penatentury
+Niggas mention me for MC execution
+Who you choosin, the wack MC
+Or the fat black MC
+Jack Dempsey will start shaking
+All it's taking, is some marijuana and I'm making
+MCs break fast, like flap-jacks and bacon
+Back spins, the windmills, who's still the gin-drinker
+Ill-thinker, exploding when the paper hits the ink-ugh
+Take the Gangster Chronicles, turn to page 6-6-6
+Holocost, B.I.G. the merciless
+Niggas press they luck-and
+They get a butt-fuckin
+Straight up the ass
+Raw dog with the rash
+And I don't fuck with the condoms
+The condoms is a problem from the AIDS getting sprayed
+Diseases, B.I.G. pleases
+MCs across the seas is just the way, I crush my pray, hey
+I'm crazy and deranged
+Blowing niggas out the frame, simple and plain
+But getting back, to the black rhinoceros of rap
+B.I.G. took a loss, how preposterous is that, nigga
+
+Recognize
+Notorious Biggie Smalls, '94 Ready To Die</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

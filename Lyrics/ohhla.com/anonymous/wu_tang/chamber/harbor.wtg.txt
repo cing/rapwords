@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan (Ghostface Killah, Inspectah Deck) f/ AZ
+Album:  Wu-Tang Chamber Music
+Song:   Harbor Masters
+Typed by: Cno Evil
+
+[Ghostface Killah]
+Yo, hold on, this is the way that I'm cut, right?
+Or why I sing, how I dipped under red lights
+Martini's is Ghost Deini's, stretched out
+On stage with the gauge, flash the tech like Clint East'
+Polo drawers, valour headband, Genova convertible couch
+In the back, with the two nightstands
+I'm the man, nigga, when I come through, dressing rooms
+Had the goose ready, renting cream and a bag of shrooms
+And a nice suite, room service every five minutes, I need a foot massage
+Tell the massause, she can't do it for me, do it for God
+I got the mix CD on pause with all DeBarge
+Oil me up, please, my nuts, read me a story
+Tuck me in, something like the seeds'll say
+Pass me the cold fresh squeezed OJ, I got five hundred
+Under my pillow, after I'm done, do my DJ
+
+[Chorus 2X: Ghostface Killah]
+Cause of that, I'mma rock the show tonight
+The Twat Team, gon' get those hoes tonight
+That's Theodore shit, if you in your whip
+Two step, you slipped, get your whole crew wet
+
+[AZ]
+Stand like the Eiffel, move spiteful
+Sport the Nike shoe, nice with the mic since high school
+Fuck who like who, fend to not, niggas, trifeful
+Plot cycles, to get dough, it's so delightful
+Criminal IQ's, spiral convo's with the sky view
+This is what I do, pioneer, my peeps Power Rule
+Fuck Yacub, I'm factual, true and living
+Polo polobos with the true religion, no superstition
+This beat is sorta proof to listen, and hear the real
+So you New Jack niggas kneel, sit it still
+Lick a fifth, get your piff and chill, fix your grill
+It's ill, seen the game vanish in air
+From DeLores to the glamourest gear, show and prove
+How I move, you know hammers is near, never fool
+Appear rude, though my manners is there, get it straight
+Say my grace, before stuffing my face
+
+[Chorus 2X: AZ]
+Cause of that, I'mma rock this show tonight
+Hustle hard, I'mma get that dough tonight
+Crime Money, all we do is just two step
+Slip up, and get your whole fucking crew wet
+
+[Inspectah Deck]
+Fuck the radio, the corners respect, Soldier I
+I'mma about to get fly, like I'm boarding a jet
+Watch your mouth, little homey, I demolish your rep
+I'm like Mohamed Atta, when I'm bombing the set
+Bottom line, you got a problem with Deck, I'm like the police gun, son
+A nigga name pop in the 'jects
+Hate in your blood, green eyes, watching my step
+I'm all money like the Pres, no stopping the rest
+This is Stones and grown man poking his chest
+Play hero watch the K blow a hole in your vest
+Why I flow like I know I'm the best, cuz I'm spitting the piff
+Half of ya'll dudes rollin' with stress
+Come and see me, son, you know the address
+10304 block work, first homey, show me the checks
+Hood crooks living over the edge, Ghost saying nah
+That's a good look, focus, respect, yup
+
+[Chorus 2X: Inspectah Deck]
+Cause of that, I'mma rock this tonight
+Light your weed, pop ya ects', let's go tonight
+House Gang on the dance floor, two step
+You out of line, get your lame ass crew wet</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

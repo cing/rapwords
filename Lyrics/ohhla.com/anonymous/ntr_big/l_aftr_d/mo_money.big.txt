@@ -1,0 +1,150 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Notorious B.I.G. f/ Kelly Price, Mase, Puff Daddy
+Album:  Life After Death
+Song:   Mo Money Mo Problems
+Typed by: OHHLA Webmaster DJ Flash; mark@cowcud.demon.co.uk
+
+[Verse One: Mase]
+Now, who's hot who not
+Tell me who rock who sell out in the stores
+You tell me who flopped who copped the blue drop
+Who jewels got robbed who's mostly Goldie down 
+to the tube sock, the same ol pimp
+Mase, you know ain't nuttin change but my limp
+Can't stop till I see my name on a blimp
+Guarantee a million sales pullin all the love
+You don't believe in Harlem World nigga double up
+We don't play around it's a bet lay it down
+nigga didn't know me ninety-one bet they know me now
+I'm the young Harlem nigga with the Goldie sound
+Can't no Ph.D. niggaz hold me down, Cooter
+schooled me to the game, now I know my duty
+Stay humble stay low blow like Hootie
+True pimp niggaz spend no dough on the booty
+And then ya yell there go Mase there go your cutie 
+     {*Chorus overlaps last line*}
+
+[Chorus: Kelly Price - repeat 2X]
+I don't know what, they want from me
+It's like the more money we come across, the more problems we see
+
+[Verse Two: Puff Daddy]
+Yeah yeah, ahaha, from the D-to-the-A-to-the-D-D-Y
+Know you'd rather see me die than to see me fly
+I call all the shots
+Rip all the spots, rock all the rocks
+Cop all the drops, I know you thinkin now's
+when all the ballin stops, nigga never
+home gotta call me on the yacht
+Ten years from now we'll still be on top
+Yo, I thought I told you that we won't stop
+Now whatcha gonna do when it's cool
+bag a money much longer than yours
+and a team much stronger than yours, violate me
+this'll be your day, we don't play
+Mess around be D.O.A., be on your way
+Cause it ain't enough time here, ain't enough lime here
+for you to shine here, deal with many women
+but treat dimes fair, and I'm
+bigger than the city lights down in Times Square
+Yeah, yeah yeah
+
+[Chorus]
+
+[Verse Three: Notorious B.I.G.]
+Uhh, uhhh
+B.I.G., P-O, P-P-A
+No info, for the, DEA
+Federal agents mad cause I'm flagrant
+Tap my cell, and the phone in the basement
+My team supreme, stay clean
+Triple beam lyrical dream, I be that
+cat you see at all events bent
+Gats in holsters girls on shoulders
+Playboy, I told ya, bein mice to me
+Bruise too much, I lose, too much
+Step on stage the girls boo too much
+I guess it's cause you run with lame dudes too much
+Me lose my touch, never that
+If I did, ain't no problem to get the gat
+Where the true players at?
+Throw your Rollies in the sky
+Wave em side to side and keep your hands high
+While I give your girl the eye, player please
+Lyrically, niggaz see, B.I.G.
+be flossin jig on the cover of Fortune
+Five double oh, here's my phone number
+Your man ain't got to know, I got to go
+Got the flow down pizzat, platinum plus
+Like thizzat, dangerous
+on trizzack, leave your ass flizzat
+
+[Kelly Price - repeat 3X]
+I don't know what, they want from me
+It's like the more money we come across, the more problems we see
+
+[Kelly Price]
+What's goin on? Ooooh.. somebody tell me.. what's goin on?
+
+[Kelly Price - repeat to fade]
+I don't know what, they want from me
+It's like the more money we come across, the more problems we see</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

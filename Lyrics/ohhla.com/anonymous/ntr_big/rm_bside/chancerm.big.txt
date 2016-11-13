@@ -1,0 +1,132 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Notorious B.I.G
+Album:  One More Chance/The What 12"
+Song:   One More Chance (Remix)
+Typed by: OHHLA.com
+
+[Verse One]
+First things first, I poppa, freaks all the honies
+Dummies, Playboy bunnies, those wantin money
+Those the ones I like cause they don't get nathan
+but penetration, unless it smells like sanitation
+Gar-bage, I turn like doorknobs
+Heartthrob, never, black and ugly as ever
+However, I stay Coogi down to the socks
+Rings and watch filled with rocks
+And my jam knock in your Mitsubishi
+Girls pee pee when they see me
+Navajos creep me in they tee pee
+As I lay down laws like I lay carpet
+Stop it - if you think they gonna make a prophet
+Don't see my ones, gon' see my guns - get it
+Now tell ya friends Poppa hit it then split it
+in two as I flow with the Junior M.A.F.I.A.
+I don't know what the hell's stoppin ya
+I'm clockin ya, Versace shades watchin ya
+Once ya grin, I'm in - game begin
+First I talk about how I dresses this
+In diamond necklasses - stretch Lexuses
+The sex is just immaculate from the back I get
+Deeper and deeper, help ya reach the
+climax that your man can't make
+Call him, tell him you'll be home real late
+and sing the break
+
+[Chorus]
+One more chance
+Biggie give me one more chance
+
+[Verse Two]
+She's sick of that song on how it's so long
+Thought he worked his until I handled my biz
+There I is; Major Payne like Damon Wayans
+Low Down Dirty even like his brother Keenan
+Schemin, don't leave ya girl round me
+True player for real, ask Puff Daddy
+You ringin bells with bags from Chanel
+Baby Benz, traded in your Hyundai Excel
+Fully equipped, CD changer with the cell
+She beeped me, meet me at twelve
+Where you at?  Flippin jobs, payin car notes?
+While I'm swimmin in ya women like the breast stroke
+Right stroke, left stroke was the best stroke
+Death stroke - tongue all down her throat
+Nuttin left to do but send her home to you
+I'm through - can ya sing the song for me, boo?
+
+[Chorus]
+
+[Verse Three]
+So, what's it gonna be?  Him or me?
+We can cruise the world with pearls, gator boots for girls
+The envy of all women, crushed linen
+Cartier wrist-wear with diamonds in 'em
+The finest women I love with a passion
+Ya man's a wimp, I give that ass a good thrashin
+High fashion - flyin into all states
+Sexin me while ya man masturbates
+Isn't this great?  Your flight leaves at eight
+Her flight lands at nine, my game just rewinds
+Lyrically I'm supposed to represent
+I'm not only the client, I'm the player president
+
+[Chorus]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

@@ -1,0 +1,133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan
+Album:  Wu-Tang Demo Tape *
+Song:   It's All About Me
+Typed by: Tha Masta
+
+* http://www.wutang-corp.com/media/downloads.php
+
+[Intro: RZA]
+Me.. me
+
+[Chorus 4X: RZA]
+(It's all about who?) It's all about me
+
+[RZA]
+Booga booga bang! Yo Enter the Wu-Tang Clan
+Get a god damn, yes I am the man
+and I'm gonna blow, make mad dough
+Girls sweat me cuz I've got the flow
+Not the one to front when it comes to a stunt
+I be quotin books like brothers smoke blunts
+and do what you got to do, hold your own
+Don't try to pass me just Pass the Bone
+I get slam just as the hit rams
+See? A girl flipped hands cuz she wanted to jam
+I told her, "Yo be on your very way
+I'm not gonna be your's, I won't beg you to stay"
+Hey, what's the hardest thing about it? Like De La Soul
+Between me, myself and I, it's a small world
+I have to figure out, what is life about
+It's all about me!
+
+[Chorus 4X]
+
+[RZA]
+Here I come, here I come with the Wu-Tang drum
+It ain't no fun if I don't get none
+So I got mines, you better get your's
+When it comes to Kim's, you better get your's
+Ooh, kind of frisky, could this be it? Risky
+I pull stings on you, like girls hit me
+The incredible, talk unforgettable
+Talk what I do, chew when I walk
+On Pillsbury dough, I'm hittin like a hoe
+Forty-five, then I strike like lightnin bolts
+in the sky, right for your eye
+I chop off the head of the guy that despise
+First to merk me meets the controversy
+Who'll be the first MC to try and curse me?
+Watch watch watch watch me knock him out
+and tell him what it's about, it's all about me
+
+[Chorus 4X]
+
+[RZA]
+Master of the Wu-Tang, here I am again
+About to ill again, kill 'em with my pen
+Check 'em check 'em, watch me as I wreck 'em
+Brothers jump up like a straw as I disect 'em
+I was all wild when I fouled your whole style
+The crowd gets wild in the Isle, then I bow
+Gotta have it, see a mic, I grab it
+Here's a fat ass, fast I gotta stab it
+Hanky panky, the rap suckers thank me
+So many brides, I end up with a blank G
+See? I'm not the one to be played
+Got a gun now I'm not afraid
+Quick to put a savage in the grave
+The behavior possessed by the nature
+Population causes me to be a slayer
+So I walk around takin devils out
+and show 'em what it's about, me
+
+[Chorus to fade w/ variations]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

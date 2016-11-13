@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac f/ G-Unit
+Album:  Loyal to the Game
+Song:   Loyal to the Game
+Typed by: OHHLA Webmaster DJ Flash
+
+I'm loyal to the game
+
+[2Pac]
+Now I've got to ask, on a nigga's ass, tell me will they blast me?
+I think of an alias in case these crooked bitches ask me
+Now, it's gettin crazy after dark, these NARC's
+be like tryin to shut me down but I'm too smart
+Now picture me scared of the penitentiary
+I've been movin these things since the days of elementary
+Now tell me what you need when you see me
+I'm stackin G's, buyin all the things on TV, believe me
+I got some killers on my payroll, and they know
+When it's time to handle business, nigga lay low
+Although I'm young, I'm still comin up
+I'm gettin paid, pullin razors on niggaz when they runnin up
+The first to pull a strap when there's drama - busta you ain't heard?
+I've been slicin motherfuckers since I lost my mama
+There ain't a cop that can stop me
+My posse is cock D, and they don't quit until they drop me
+I'm loyal to the game
+
+[Chorus: 50 Cent]
+I do my thang, respect my hustle, I ain't playin
+-- nigga I'm loyal to the game
+You get in my way and I'll cock and pop that thang
+-- man, I'm loyal to the game
+If you know what I know then you know I ain't playin
+-- I'm loyal to the game
+Nigga get in my way and I'll blow out yo' brain
+
+[Young Buck]
+Posessed by the streets, you cain't tell me that this ain't home
+I can't eat if the rest of this shit ain't gone
+I'm gettin used to the needles on the bathroom sink
+Gotta close my do' because the backroom stinks
+See daddy don't work and, mama don't drink but
+daddy do dope and, mama can't think so
+Look like, I'ma be the man of the house
+Gotta have somethin to put in her hand when it's out
+Up early in the mornin, the first to get it
+They say if you really want it, then come on with it
+Sacrifice my life for this ice and these cars
+And I only spend 30 days behind bars
+I ain't never had a job but my rent got paid
+I handled any beef that they sent my way
+So send me to the pen but you know I won't change
+It's thug in my veins, I'm loyal to the game
+
+[Chorus]
+
+[Lloyd Banks]
+Yeah, it ain't my fault I came up fast
+And you're the name niggaz bring up last
+And all the dames get a king of ass, ten grand on every ring I flash
+Leap frog, and I'ma have to fling yo' ass
+I'm on the block where it's scorchin hot
+If you get caught in the crossfire, they'll have to peel you off the block
+I get 'dro by the pickle jar
+These broke niggaz wanna get the star, so I don't keep the four-nickel far
+My lips are zipped, I'm loyal to the game
+Bring your bitch around me, I'm spoilin her brain
+Leave more slugs to boil in your frame
+Cause you got rocks and they got aluminum foil for a chain
+The paint's the same color as oil in the Range
+I'm stingy, ain't got nuttin for you but some change, yeah
+I'm good now but the fact still remains
+that the struggle that I'm from's attached to my name
+
+[Chorus]
+
+[2Pac]
+Heh, yeah, 2Pac's in this motherfucker
+G-Unit in the motherfuckin house
+</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

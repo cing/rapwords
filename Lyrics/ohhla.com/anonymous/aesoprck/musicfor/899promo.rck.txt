@@ -1,0 +1,103 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Aesop Rock
+Album:  Music for Earthworms
+Song:   89.9FM Nighttrain Promo
+Typed by: nrm3v@virginia.edu
+
+[whats up this is Aesop Rock for wkcr]
+
+I traded my title as bent pedestrian for passenger status to coast muted
+Finding the night train mildly therapeutic
+Rugged hacker flashing mood full of swings
+Beneath this puppet master pulling my strings
+Leaking smoke rings singing [your despite what measured honestlymagnificent]
+Syndicate sold to children building homes for my omnipotent platoons
+Nah I don't think the blueprints drafted tilted in the tombs
+Tampering hampered scampered well beyond the dooms
+We bloomed? the matter down to those most beautifully discrete
+Applying yesterdays models stand obsolete amongst colossals [amongstcolossals]
+Comply not to enforce us aborted claiming they came off
+Sort of stabbed them with the capital 'A' that sets my name off
+Sick of it all
+Sick of the stalls
+Sick of the thick brick in the wall sob stories the falls the tragic hate calls
+Shaking like magic eight balls pausing to watch the vapors crawl
+My clique heeds lessons I'll be noted from kids sisters paper dolls
+We lining up along against these great walls
+Circling analytical
+Rhetorical inquiries yet x is not applicable kid
+(Your flash minor we as orphans repeated)?
+You talk the concrete examples with glass bottoms cause defeated kid I'm heated
+Its flight of the intruder and we all fall down
+Conditions of never blends science with religion
+Cut my character cleansed in esoteric opulence
+But finding no intrinsic merit in your sense
+Well isn't that bewildering
+Drunken distortion and spit the filter in
+Mic sweltering measures like melting my rings together an you never
+Seen I Aesop Rock flop for the love of eighty-nine point nine
+I'm here to ride upon the night train
+
+[yeah wkcr 89.9 . . . here for the night train . . . whats up to my man
+apex, kinetic, dj ely, baz, my man dub el on productions, the mighty ger, my
+man patrick, blockhead, mr roper, omega one, my man hates one, percy p
+andre . . . stay up . .. its like that . . . its big aesop rock signing off . .] </pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

@@ -1,0 +1,143 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan (Ghostface Killah) f/ Sean Price, Trife Diesel
+Album:  Legendary Weapons
+Song:   Laced Cheeba
+Typed by: Cno Evil
+	
+[kung fu sample]
+Your kung fu is good, your magic is good
+	That is why he waited, so my power would dwindle
+	My power has dimished, then he come to kill me
+Yes, but, I know your kung fu is still very good
+If you practice again, no one could possibly be your match
+	Oh, the ancient weapon
+
+[Ghostface Killah]
+Yeah, fierce, I travel across seas on glaciers
+Four shoguns that got fucked by geishas
+Still gracious, still able to twist out darts
+Just grew tougher skin from swimming with them sharks
+Broken ankle, fucking with them wallabee clarks
+Got them bitches still screaming my name ("What up Starks?")
+I'm a bone crusher, ox'll split your face like a dutch master
+No more minks, it's polar bears from Alaska
+with shark skin Air Maxes and igloos of ice
+Rocks clumped up, like overcooked rice
+I'm nice, you're the reason why the game went soft
+Bland niggas, I come through and season your broth
+Like Mr. Dash, I blast, I'm a menace like Dennis
+Young Coles, and I'm back from a six month sentence
+Rehabilitated, back in the yard, flying heads with barbwires
+Stay tying niggas to beds
+
+[kung fu sample]
+Can you kill me?
+	If I didn't think so, I would not be here waiting for you now
+Right, let me see what you got
+Forget the tricks, let's see your kung fu
+
+[Sean Price]
+Yo, everybody get paid, everybody get laid
+All these bitches dirty, everybody got AIDS
+Everybody get played, everybody get sprayed
+Everybody do what I say, everybody my maid
+P, crack selling, black felon
+Gat clap, rat-a-tat-tat, tap melons
+Son thugs, one gun, one slug
+Shot caller, like, yo, let me speak to Young Muggs
+Listen, it's Mandela, pa
+I grab wack MC's, I smack 'em hella hard
+I kill niggas with the birdy big banger
+My Wu-Tang niggas call me the 36th Chamber
+Lyrical miracle, spit with you rap dudes
+Get smacked off the skateboard for not paying rap dues
+P, call me the gate keeper
+Break haters off your face smoking laced cheeba
+
+[kung fu sample]
+Hahahaha, he's mad, listen to me
+You've lost your concentration, your magic is gone
+That's why it doesn't work, you better use your real kung fu
+
+[Trife Diesel]
+Yeah, aiyo, she want a thug, not the loyal type
+A golden boy to promote it right, sorta like a ill De La Hoya fight
+I'm eating good, enjoying life, flawless ice, quick to bag a baller's wife
+With no strings attached, cordless mics
+Toilet white S5 fifty with the wrong pipes
+Peeling off like snake skin, watch the cobra bite
+Over night success story, go and check for me
+You rap poorly, that's why your cassette's corny
+Your money too short for long convo
+You in the game hurting, trying to play Rajon Rondo
+Millionaire swag, peep your boys ensemble
+Jewels heavy, Prince Akeem, Coming to America
+Etcetera, whoever sent the kite, kill the messenger
+Because I think like the man behind the register
+Quick to pull a toaster out, Starks choke 'em out
+We over here, counting bread, what ya'll loaf about?
+
+[kung fu sample]
+You finished already? Get up and fight
+	Hey, let's get some strength
+	Let him go til he outlive me
+	Let's say he killed my cult, let's go</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

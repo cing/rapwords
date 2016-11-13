@@ -1,0 +1,169 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Tupac Shakur
+Album:  The Lost Tapes
+Song:   Panther Power
+Typed by: UneedJESUS@Hotmail.com
+
+[Tupac]
+As real as it seems the American Dream
+Ain't nothing but another calculated schemes
+To get us locked up shot up back in chains
+To deny us of the future rob our names
+Kept my history of mystery but now I see
+The American Dream wasn't meant for me
+Cause lady liberty is a hypocrite she lied to me
+Promised me freedom, education, equality
+Never gave me nothing but slavery
+And now look at how dangerous you made me
+Calling me a mad man cause I'm strong and bold
+With this dump full of knowledge of the lies you told
+Promise me emancipation indispute nation
+All you gave my people was our patience
+Fathers of our country never cared for me
+They kept my answer shackled up in slavery
+And Uncle Sam never did a dam thing for me
+Except lie about the facts in my history
+So now I'm sitting hear mad cause I'm unemployed
+But the government's glad cause they enjoyed
+When my people are down so they can screw us around
+Time to change the government now panther power
+
+[Chorus]
+Panther power
+Panther power
+Panther power
+
+[Tyson]
+Coming straight that resides within
+Go toe to toe with a panther and you just can't win
+Suffered fame bats suppressed the rest
+The rich get richer and the poor take less
+The American Dream was an American nightmare
+You kept my people down and refuse to fight fair
+The Klu Klux Klan tried to keep us out
+Besides drew they know no blacks allowed
+With intimidation and segregation was a way for our freedom
+But now were impatient
+Blacks the other skin: dead or sell outs
+Freedom, equality, then I'll yell out
+"Don't you ever be ashamed of what you are
+It's ya panther power that makes you a star"
+Panther power
+
+[Chorus]
+Panther power
+Panther power
+Panther power
+
+[Tupac]
+My Mother never let me forget my history
+Hoping I was set free chains never put on me
+Wanted to be more than just free
+Had to know the true facts about my history
+I couldn't settle for being a statistic
+Couldn't survive in this capitalistic
+Government cause it was meant to hold us back
+Using ignorant, drugs, to sneak attack
+In my community think of unity
+But when I charged them, tried to claim immunity
+I strike America like a case of hard disease
+Panther power is running through my arteries
+Try to stop oh boy you'll be clawed to death
+Cause I'll be fighting for my freedom with my dying breath
+Do you remember that is what I'm asking you?
+You think you living free don't let me laugh at you
+Open your eyes realize that you have been locked in chains
+Said you wasn't civilized and stole your name
+Cause some time has passed seem you all forget
+There ain't no liberty to you and me we all ain't free yet
+Panter power
+
+[Chorus]
+Panther power
+Panther power
+Panther power
+
+[Tupac]
+As real as it seems the American Dream
+Ain't nothing but another calculated schemes
+To get us locked up shot up back in chains
+To deny us of the future rob our names
+Kept my history of mystery but now I see
+The American Dream wasn't meant for me
+Cause lady liberty is a hypocrite she lied to me
+Promised me freedom, education, equality
+Never gave me nothing but slavery
+And now look at how dangerous you made me
+Calling me a mad man cause I'm strong and bold
+With this dump full of knowledge of the lies you told
+Promise me emancipation indispute nation
+All you gave my people was our patience
+Fathers of our country never cared for me
+They kept my answer shackled up in slavery
+And Uncle Sam never did a dam thing for me
+Except lie about the facts in my history
+So now I'm sitting hear mad cause I'm unemployed
+But the government's glad cause they enjoyed
+When my people are down so they can screw us around
+Time to change the government now panther power
+
+[Chorus]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

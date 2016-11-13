@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z
+Album:  Kingdom Come
+Song:   Oh My God
+Typed by: wcbe@aol.com
+
+You are tuned in
+To the greatest
+Young H-O-V
+Let's go get em again Just
+Oh my God
+
+Pops sped off, left mom with a bundle of
+Joy, ya boy smacked dab in the jungle
+Took tunnel vision, but he would soon become a mogul
+But first he brought that crack back like a yo-yo
+Don't play with my yo-yo, loco niggas in the hood
+First niggas hating on me, it's all good
+I'm buying things like my shit don't stink, Gucci links in Gucci goose's
+Watching too many movies, bulletproof this
+Had some nerve, like pulling tooth'ses
+When your 16, coming through roofless
+Yea your boy "ruthless", like Ice Cube was
+Turn the whole city on, I'm the new blood
+So if this is your first time hearing this
+You're about to experience someone so cold
+A journey seldom seen, the American dream
+From the bottom to the top of the globe they call me Hov
+
+[Chorus]
+They gunning for me, wanna see me fall
+You know my story, I've been through it all
+Night's I've felt like dying, but I ain't crying
+What didn't kill me, made me strong as iron
+Iron, iron (Oh my God, Hov)
+
+Now I'm knee deep in the concrete
+Like a street's made a quicksand, it's beyond deep
+I got a "chemical romance", two left feet
+So now I dance with the devil, please G-O-D
+Save me from the "black parade", release me
+My life like Grant Theft Auto, PSP
+I'm in that Volvo, puffing on that la-la
+Ducking from the po-po, everytime I drive by
+Say hi to the bad guy, all my momma's friends was like
+"Mmm, mmm, mmm" would you just look at him
+So sorry dear momma for your embarrasment
+But give me a couple years and pray I'll never sin again
+Got all these rival dealers trying to do me in
+And all these little rappers don't know how prepared for them I am (I am)
+I'm feelin like the world's against me Lord
+Call me crazy, but strangely I love the odds
+
+[Chorus]
+
+Now these baby ballers, toy rappers/toy wrappers
+Callin out my name to bring the boy backwards
+Shooting air-balls at the basket
+What you call money, I pay more in taxes
+I got crowned king down in Africa
+Out in Niger, do you have any idea
+Sold out shows out in Seoul, Korea
+Jo'burg, Dublin, Tanzinia
+Lunch with Mandella, dinner with Cavalli
+Still got time to give water out to everybody
+Everybody, fall back
+Y'all rapping, I'm reenacting
+CNN, you see it's accurate
+ESPN, see me in action
+Monday night's, when the half ends
+When you 10 years in, holla back then
+
+[Chrous]
+
+(Good Lord, good Lord, good Lord
+Good Lord, I said I feeeeeeeeeeeel like I'm dyiiiiiiiing)</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

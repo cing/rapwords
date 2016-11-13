@@ -1,0 +1,125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan
+Album:  Execution in Autumn (S)
+Song:   Execution in Autumn
+Typed by: Cno Evil
+
+[Inspectah Deck]
+Yeah, you stepped in the pit of the flame
+You're lost on Beat Street, I'mma throw spit on your name
+Hit it raw when they mention the name, it's like Mike
+When he score, with like two seconds left in the game
+Small change, don't step in my lane, I rock too hard body
+I click, bang, give 'em the pain, nah, man, can't get with them dames
+Your boy born with it, so how you gon' get him to change
+You a lame, putting shit in the game, piranha wanna see me
+In the state greens, in prisoner chains
+But I'm smooth like the groove to the listener brain
+And you only understand it, if you been through my pain
+Icey whites fitteds and frames, hustle in my blood
+Bet my seeds gon' get it the same
+Yes indeed, I'm destined to reign, so ahead of the game
+All aboard ya'll, get on the train
+
+[Raekwon]
+Banana clip, mack-a-holic, I slap your captain, enjoying
+Go in the freezer, gotta squeeze her tits, out the toilet
+Niggas is Norbits, running up on the dice game, call it
+Preacher suit on, holding a raw fifth
+Put that call in, his dough in the wall, stall 'em
+Plastic bags laying in the floor way, yup
+It's just dog's day, reservoir, out in Utah, yo
+Where my dope and marijuanas got bought in
+Grill nights in Fordham, we pay to have a roast
+Assassins is strapped, this the only way the yae grows
+More leverage, more sevens riding around with legends
+Paying judges off, we be up in New York reppin'
+
+[Interlude: RZA]
+Raise it on up, Bobby, yo
+Yeah, I ain't... yo
+
+[RZA]
+Miramax movie magic, cold beer on tap, rumor has it
+Words, put ideas on track
+Footprints, I walk on Earth, then appear on maps
+Strive police 2.5 mil a year on cap
+Wu-Wear on my cap, dime piece on the lap
+Three hundred, push-ups a day, put the crease on your back
+Be the captain and lieutenant, black man, who invented
+Chopping samples up, to make the beats that's ascended to
+Every genre of music, the whole sphere of music
+I produce the range, engineer the music
+
+[U-God]
+My ear candy been dope, my pen stroke like Zorro
+Hit the heavy bag, like Foreman in the Congo
+Mini transmitter, night vision in the stronghold
+Rock long robes, smell snakes with a strong nose
+Every time the horn blows, the Wu's signal's back on
+Transform, pack form a whole another platform
+We coming back for him, to smash the spot
+Kid, I'm on your team to, pass me the rock
+Til the casket drop, I'mma flip your wig
+Rip clothes, honey didn't know my dick this big
+You get kicked in the ribs, with two chrome gauge
+Deadly venom, I send 'em, back to stone age</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

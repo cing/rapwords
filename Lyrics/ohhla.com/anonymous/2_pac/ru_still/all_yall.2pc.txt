@@ -1,0 +1,136 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac
+Album:  R U Still Down? Remember Me
+Song:   Fuck All Y'all
+Typed by: OHHLA.com
+
+[Intro]
+Ha ha ha...fuck all y'all...fuck all y'all...I don't need nobody
+Fuck 'em...Fuck all y'all
+
+[Verse 1]
+Money gone fuck friends
+I need a homie that know me
+when all these muthafuckin' cops be on me
+I got problems ain't nobody calling back
+now what the fuck is happenin' with my ballin' cats
+Remember me I'm ya homie that was down to brawl
+Sippin' Hennessy hanging with the clowns and
+all we used to do is drink brew, screw and common knew
+we had bitches by the dozens oh we fuckin' cousins
+You can throw ya middle finger if ya feel me loc
+a nigga just got paid and we still was broke
+It took time but finally the cash was mine
+all the rewards of a hustler stuck in the grind
+Look around and all I see is snakes and faces
+like scavengers waitin' to take a hustler's pape's
+and when you stuck where the fuck is all ya friends
+They straight busted and can't be trusted fuck y'all
+
+[Chorus]
+Fuck all y'all {*2X*}
+
+[Verse 2]
+I'm sippin' Tanqueray and juice and what's the use
+cause I'm a hopeless thug 
+Ain't no love reminiscing on how close we was
+way back in the day before they put the crack in the way
+and heeyyy how much money can you stack in a day
+It's gettin' rough collect calls from my niggas in cuffs
+I recollect we used to ball now just living's enough
+I stand tall in the winter summer spring or fall
+Thug for life scrawled all across the wall
+and all about my dollars make me wanna holla
+drop an album sell a million give a fuck about tomorrow
+I know it's gettin' crazy after dark
+these marks keep on huffin' and puffin'
+ain't no fear in my heart
+What's going on in the ghetto still struggle and strive
+I still roll with the heater smokin' chocolate thai
+In 94 I'll be going solo
+too many problems with my own
+so I'm rolling do-do
+Fuck all y'all
+
+[Chorus] 3X
+
+[Verse 3]
+I went from rags to riches quick
+to socializing with the baddest bitches
+went from a bucket to a rag with switches
+I'm seein' death around the corner
+I'm bumpin' Gloriaaaa doin' 90 'cause I wanna
+I'm getting high like I said it with some chocolate thai
+mixed with some indonesia watch me fly
+And even though I know the cops behind me
+hit the weed and uh I continue doing 90 (Biotch)
+will I get caught another ticket get to kick it in court
+Fuck the law give a shit I'm even worse than before
+I know they wanna see a nigga buried
+but I ain't worried still throwing these thangs
+got me locked in these chains
+and hey nigga what the fuck is you wailin' 'bout
+soon as I hit the cell I'll be bailin' out
+And when I hit the streets I'm in a rush to ball
+I'm screaming Thug Life nigga fuck y'all
+
+[Repeat of intro]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

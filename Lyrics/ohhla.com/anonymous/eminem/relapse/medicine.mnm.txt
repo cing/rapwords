@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Eminem
+Album:  Relapse
+Song:   Medicine Ball
+Typed by: Nickolye16@aol.com 
+
+[Intro: Eminem]
+Ohh, my goodness! What have I done?
+Oh no (oh no) I can't believe it! (believe it)
+It's like (it's like)
+I've got the whole WORLD, in my palm (in my palm)
+And I'm ready to drop bombs
+
+[Eminem]
+Welcome to the Slim Shady Mecca, Rebecca
+It's the village in New York right next to the Tribeca
+That's my sector, homosexual dissector
+Come again, rewind selector!
+I said nice rectum, I had a vasectomy Hector
+So you can't get pregnant if I bi-sexually wreck ya
+Hannibal Lecter in the guy section I bet ya
+I tantalize ya and in less than five seconds I get ya
+They say once bitten and twice shy, well lie next to
+the guy with nine extasy pills and five extra
+Boxes of ripped condoms in quantities, why yes sir
+I took the rest of the Lunesta pills from my dresser
+That's my kind of vibe, what else should I try Lester?
+Dropkick the bitch before her second trimester
+Perform the home abortion with Dexter then I guess I'll
+dig her fetus out with a wire hanger then digest her
+
+[Chorus: Eminem]
+I guess it's time for you to hate me again
+Let's begin, now hand me the pen
+How should I begin it and where does it all end?
+The world is just my medicine ball, you're all in
+I said I guess it's time for you to hate me again
+Let's begin, now hand me the pen
+How should I begin it and where does it all end?
+My medicine ball, you're in my medicine ball friends
+
+[Eminem]
+All my Westside bitches throw it up
+Put a balloon inside your pussy, queef and blow it up
+Man I think that he just fell off the deep end, sho' enough
+So you better change the station to keep from throwin up
+Man you seen it all before, you're all too familiar with it
+There's a penis on the floor and two balls so you know who did it
+You know you with it girl, don't front, oh no you didn't
+I won't rape all the Pussycat Dolls? Nicole you kiddin?
+I'll pee on Rihanna, see man I do what I wanna
+Spray perfume in the sauna room, crazy gluing Madonna
+to the La-Z-Boy sofa, fold her in two then sit on her
+Imagine a visual for that man, who woulda thought I
+could ever be such a relentless prick unleashing his vengeace
+But the chick's so old she looks like she out-lived a life sentence
+I never meant this, rhyme to be so offensive
+If you weren't so defensive it wouldn't be, you're so sensitive!
+
+[Chorus]
+
+[Eminem]
+Put Christopher Reeves on a unicycle with a kickstand
+Kick it up and push him and lead him right into quicksand
+Here, you need a hand, big man? Grab hold of this branch
+with both hands, man they don't understand I'm just a sick man
+Now everybody's pissed at me - like it's my fault
+his name rhymes with so many different words, jeez!
+So one last time, Mr. Christopher Reeves
+Won't you break it down for me and just spit the verse, please
+"Eminem, I'm coming to kill you {*sniffs*}
+ Always hated you and I still do
+ You'll never fill my shoes, my Superman costume {*sniffs*}
+ doesn't even fit you, they don't feel you
+ You're taking this shit too far {*sniffs*}
+ Who do you think you are? Hang my suit up in the armoire
+ Every day I hate you more and more, throw down the cardboard
+ Let's breakdance if you think you're hardcore"
+
+[Chorus]
+
+[Eminem]
+The world is mine! (the world is mine)</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

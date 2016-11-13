@@ -1,0 +1,129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z
+Album:  The Blueprint
+Song:   U Don't Know
+Typed by: OHHLA Webmaster DJ Flash
+
+[Jay-Z]
+Turn my music high, high, high, high-er
+{*"You don't know.. what you're doing, doing, doing, doing.."*}
+Sure I do..
+
+I'm from the streets where the
+hood could swallow a man, bullets'll follow a man
+There's so much coke that you could run the slalom
+And cops comb the shit top to bottom
+They say that we are prone to violence, but it's home sweet home
+Where personalities clash and chrome meets chrome
+The coke prices up and down like it's Wall Street homes
+But this is worse than the Dow Jones your brains are now blown
+all over that brown Brougham, one slip you are now gone
+Welcome to hell where you are welcome to sell
+But when them shells come you better return 'em
+All scars we earn 'em, all cars we learn 'em like the back of our hand
+We watch for cops hoppin out the back of van
+Wear a G on my chest, I don't need Dapper Dan
+This ain't a sewn outfit homes, homes is about it
+Was clappin them flamers before I became famous
+For playin me y'all shall forever remain nameless
+I am Hov'
+
+Sure I do, I tell you the difference between me and them
+They tryin to get they ones, I'm tryin to get them M's
+One million, two million, three million, four
+In just five years, forty million more
+You are now lookin at the forty million boy
+I'm rapin Def Jam 'til I'm the hundred million man
+R., O., C.
+
+{*"You don't know.. what you're doing, doing, doing, doing.."*}
+That's where you're wrong
+
+I came into this motherfucker a hundred grand strong
+Nine to be exact, from grindin G-packs
+Put this shit in motion ain't no rewindin me back
+Could make 40 off a brick but one rhyme could beat that
+And if somebody woulda told 'em that Hov' would sell clothin
+Heh, not in this lifetime, wasn't in my right mind
+That's another difference that's between me and them
+Heh, I'm smarten up, open the market up
+One million, two million, three million, four
+In eighteen months, eighty million more
+Now add that number up with the one I said before
+You are now lookin at one smart black boy
+Momma ain't raised no fool
+Put me anywhere on God's green earth, I'll triple my worth
+Motherfucker - I, will, not, lose
+
+{*"You don't know.. what you're doing, doing, doing, doing.."*}
+Put somethin on it
+
+I sell ice in the winter, I sell fire in hell
+I am a hustler baby, I'll sell water to a well
+I was born to get cake, move on and switch states
+Cop the Coupe with the roof gone and switch plates
+Was born to dictate, never follow orders
+Dickface, get your shit straight, fucka this is Big Jay
+I.. hahahaha..
+
+{*"You don't know.. what you're doing, doing, doing, doing.."*}
+.. will, not, lose, ever.. FUCKA!</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

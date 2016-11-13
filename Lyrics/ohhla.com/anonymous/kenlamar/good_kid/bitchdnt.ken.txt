@@ -1,0 +1,128 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Kendrick Lamar
+Album:  good kid, m.A.A.d city
+Song:   Bitch, Don't Kill My Vibe
+Typed by: Cedmaster3K
+
+[Chorus]
+I am a sinner.. who's probably gonna sin again
+Lord forgive me.. Lord forgive me - things I don't understand
+Sometimes I need to be alone....
+Bitch don't kill my vibe, bitch don't kill my vibe
+I can feel your energy from two planets away
+I got my drink, I got my music, I would share it but today I'm yelling
+Bitch don't kill my vibe, bitch don't kill my vibe
+Bitch don't kill my VIBE, bitch don't kill my vibe
+
+[Kendrick Lamar]
+Uh, look inside of my soul and you can find gold and maybe get rich
+Look inside of your soul and you can find out it never exist
+I can feel the changes, I can feel a new life
+I always knew life can be dangerous; I can say that I like a challenge 
+and you to me is painless, you don't know what pain is
+How can I paint this picture when the color blind is hanging with you
+Fell on my face and awoke with a scar, another mistake living deep in my heart
+Wear it on top of my sleeve in a flick, I can admit that it did look like yours
+Why you resent every making of this, tell me your purpose is petty again
+But even a small lighter can burn a bridge, even a small lighter can burn a bridge
+
+[Interlude]
+I can feel the changes, I can feel the new people around me 
+just want to be famous; you can see that my city found me 
+then put me on stages, to me that's amazing
+To you that's a quick check with all disrespect let me say this
+
+[Chorus]
+
+[Kendrick Lamar]
+I'm trying to keep it alive and not compromise the feeling we love
+You're trying to keep it deprived and only co-sign what radio does
+And I'm looking right past you; we live in a world, we live in a world 
+on two different axles; you live in a world, you living behind the mirror
+I know what you scared of, the feeling of feeling emotions inferior
+This shit is vital, I know you had to; this shit is vital, I know you had to
+To die in a pitiful vain, tell me a watch and a chain is way more believable
+Give me a feasible gain, rather a seasonal name; I'll let the people know 
+this is something you can blame on yourselves you can remain, stuck in a box
+I'mma break out and then hide every lock, I'mma break out and then hide every lock
+
+[Interlude] + [Chorus]
+
+[Outro]
+Bitch don't kill my vibe; you ain't heard a chorus 
+like this in a long time - don't you see that long line?
+And they waiting on Kendrick like the first and the fifteenth
+Threes in the air I can see you are, in sync
+Hide your feelings, hide your feelings now what you better do
+I'll take your girlfriend and put that pussy on a pedestal
+Bitch don't kill my vibe, bitch don't kill my vibe
+Walk out the door and they scream it's alive
+My New Year's resolution is to stop all the pollution
+Talk too motherfucking much, I got my drink I got my music
+I say bitch don't kill my vibe, bitch don't kill my vibe
+Bitch don't kill my vibe, bitch don't kill my vibe
+
+[Skit]
+"Ay K-Dot, get in the car, nigga
+Come on, we finna roll out
+Got a pack of blacks and a beat CD
+Get yo freestyles ready."</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

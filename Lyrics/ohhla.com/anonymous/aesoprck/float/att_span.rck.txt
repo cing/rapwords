@@ -1,0 +1,134 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Aesop Rock f/ Vast Aire (Cannibal Ox)
+Album:  Float
+Song:   Attention Span
+Typed by: Nature2QBC@aol.com
+
+[Aesop Rock] 3x
+Every little step we take breaks the dreams
+Of a warm pig itching to re-stitch the seams
+
+[Vast Aire]
+Namsayin, when I walk, I wanna break concrete!
+
+Ox'll spit some shit that'll reflect off the mirror
+My light beams are mad bright, they stay clever
+Yo challenge an Ox member, get a vow severed
+Found your body in the desert (Scavenger's dessert)
+Yeah yeah I rap tight like Saran
+Plus enter battles talkin shit like "Look mom, no hands!"
+I'm tired of cats tryin to sum me
+You can't add that far yet, that counting is far fetched
+I treat MC like canines
+Throwin words at they face to see if they bite when they catch
+I told you my poetry sponsors Gillette
+Now you standing there wit razors in your head like baretts
+Man, if the mic had ass cheeks
+The sticker in my hand would say priority seating
+And man, I dunno if it was me or you
+But your girl was on my dick like she was teethen
+You play the role/roll, I'll play the poppy seed on top of you
+The godspeed is actual, that doesn't mean I act usual
+One of the first MC's to give the crowd full attention
+Cuz you need love and affection
+
+Chorus[Aesop Rock, Vast Aire] 2x
+If we could absorb every star in the sky
+We noticed some shine brighter than others, you wonder why
+    It's the simple things in life that turn the pesants into leaders
+    And we know the differences between the walkers and the sleepers
+
+[Aesop Rock]
+I boogie with picket-a-vision, carbon based stickler
+City piss aroma, therapy coma, clone sitter
+Itching to pigeon hole villain soul magnet
+Feelings activate
+Passionate the germ, and the book met the worm
+I hold a book of matches captive to flashin
+For some need flatline
+Be a thick fatigue episdoe, brewed in batches
+Flirted curse at perked nurse, broken skeleton patches
+One muddy veteran collapsed the untapped resource center
+Housing style pagents
+My little limbs lassoed catered to wings
+While mankinds babysteps break dirt and demon
+I know a crossbreed strung well in the key of
+Mass times weight times tame semantics
+Encompassing that which splits lips but never supply and demand it
+To hell wit plastic, ooh yeah it's splendid
+Tap it on the shoulder, grab it, tag it, aprehend it
+Lend it to the devil of a friend it, wrench it back, mend it again
+It still never renders suspended but finicky picket fences
+Now every toy dreams to manufacture hearts
+Start with the diving parts and the blueprints
+You follow the prescedence set by war pigs of a yester year
+Let the tears pray
+Skip a stone over the reservoir to shake the whole sharade
+Hmm gun play the tumors platoon
+I couldn't see
+I fell asleep holding an Appleseed, woke up holding a tree
+The only bridge I ever burned along this legacy at dance
+Was the one that linked the cities of Prosperity and Chance
+
+Chorus 2x
+
+</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

@@ -1,0 +1,111 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Kendrick Lamar f/ Bilal, Anna Wise
+Album:  untitled unmastered.
+Song:   untitled 03 | 05.28.2013.
+Typed by: Cedmaster3K
+
+[Kendrick Lamar] + (Anna Wise)
+(What did the Asian say?) A peace of mind
+That's what the Asian said, I need a divine
+intervention was his religion and I was surprised
+Him believin' in Buddha, me believin' in God
+Asked him "What are you doin'?", he said "Takin' my time
+Meditation is a must, it don't hurt if you try
+See you thinkin' too much, plus you too full of yourself
+Worried about your career, you ever think of your health?"
+(What did the Indian say?) A piece of land
+That's what the Indian said, I needed demand
+Tellin' me longevity's in the dirt, should buy some property first
+Should profit a better dollar with generational perks
+Equity at his best, really, you should invest
+These tangible things expire, don't you expect
+income with so much outcome and yes
+Look at my heritage, we blessed
+(Now what the black man say?) A piece of pussy
+That's what the black man said I needed to push me
+to the limit to satisfy my hunger
+We do it all for a woman from haircut to a wool, we like to live in the jungle
+Like to play in the peach, what you sayin' to me?
+He said "Nigga come back to reality for a week"
+Pussy is power, fuck on a new bitch every night
+I wouldn't be prouder, you should allow it
+(What the white man say?) A piece of mine's
+That's what the white man wanted when I rhyme
+Tellin' me that he sellin' me just for $10.99
+If I go platinum from rappin', I do the company fine
+What if I compromise? He said it don't even matter
+You make a million or more, you living better than average
+You losin' your core followin' gainin' it all
+He put a price on my talent, I hit the bank and withdraw
+Hit the bank and withdraw, hit the bank and withdraw
+Put myself in the rocket ship and I shot for the stars
+Look at what you accomplished and what he said to the boy
+I'ma make you some promises that you just can't ignore
+Your profession anonymous as an artist, if I don't target your market
+If you ain't signin' your signature when I throw you my wallet
+A lot of rappers are givin' their demo all in the toilet
+You work toward your master's mortgage
+I need a piece
+
+[Chorus 2X: Bilal]
+I holler, "What you DO? What you SAY?"
+I shall enjoy the fruits of my labor if I get freed today</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

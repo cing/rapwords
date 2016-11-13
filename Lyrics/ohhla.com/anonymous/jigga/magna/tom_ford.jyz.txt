@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z f/ Beyonce 
+Album:  Magna Carta... Holy Grail 
+Song:   Tom Ford 
+Typed by: Nickolye16@aol.com 
+ 
+[Intro: Jay-Z] 
+Clap for a nigga with his rappin ass 
+Blow a stack for yo' niggaz with yo' trappin ass 
+Clap for a nigga with his rappin ass 
+Blow a stack for yo' niggaz with yo' trappin ass 
+... Tom Ford {*3X*} 
+ 
+[Jay-Z] 
+Comin up, comin down 
+Ride clean, fix your hair in my Crown 
+Bad bitch, H-Town 
+Keep it trill, y'all know y'all can't fuck around 
+ 
+Paris where we been, pard' my Parisian 
+It's Hov time in no time, it's fuck all y'all season 
+Piss Bordeauxs and Burgundies, flush out a Riesling 
+When Hov's out them hoes out, y'all put y'all weaves in 
+And - clap for a nigga with his rappin ass 
+Blow a stack for yo' niggaz with yo' trappin ass 
+Spent all my euros on tuxes and weird clothes 
+I party with weirdoes, yeah Hov, yeah Hov 
+ 
+[Chorus: Jay-Z] 
+I don't pop molly, I rock Tom Ford 
+International, bring back the Concorde 
+Numbers don't lie, check the scoreboard 
+... Tom Ford {*5X*} 
+ 
+[Jay-Z] 
+Yeah, hands down got the best flow, sound I'm so special 
+Sound boy burial, this my Wayne Perry flow 
+Y'all know nothin 'bout Wayne Perry though 
+District of Columbia, guns on your Tumblrs 
+Fuck hashtags and retweets (nigga) 
+140 characters in these streets (nigga) 
+Pardon my laughin, y'all only flaggin on beats (nigga) 
+Pardon my laughin, I happen to think you sweet, heh 
+ 
+[Chorus] 
+ 
+[Jay-Z] + (Beyonce) 
+(Aww man homie) Uh, so throwed 
+Comin up (comin up) comin down (comin down) 
+Ride clean, fix your hair in my Crown (in my Crown) 
+Bad bitch (bad bitch) H-Town (H-Town) 
+Keep it trill, y'all know y'all can't fuck around (fuck around) 
+Comin up (comin up) comin down (comin down) 
+Ride clean, fix your hair in my Crown (in my Crown) 
+Bad bitch (bad bitch) H-Town (H-Town) 
+Keep it trill, y'all know y'all can't fuck around (fuck around) 
+Hol' up; I don't pop molly, I rock Tom Ford</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

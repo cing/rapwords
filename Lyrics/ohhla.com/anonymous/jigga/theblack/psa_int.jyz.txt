@@ -1,0 +1,128 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z
+Album:  The Black Album
+Song:   Public Service Announcement (Interlude)
+Typed by: OHHLA Webmaster DJ Flash
+
+This is a public service announcement
+Sponsored by Just Blaze and the good folks at Roc-A-Fella Records
+
+"Fellow Americans, it is with the utmost pride and sincerity
+ that I present this recording, as a living testiment and recollection
+ of history in the making during our generation."
+
+[Jay-Z]
+Allow me to re-introduce myself
+My name is Hov', OH, H-to-the-O-V
+I used to move snowflakes by the O-Z
+I guess even back then you can call me
+CEO of the R-O-C, Hov'!
+Fresh out the fryin pan into the fire
+I be the, music biz number one supplier
+Flyer/flier than a piece of paper bearin my name
+Got the hottest chick in the game wearin my chain, that's right
+Hov', OH - not D.O.C.
+But similar to them letters, "No One Can Do it Better"
+I check cheddar like a food inspector
+My homey Strict told me, "Dude finish your breakfast"
+So that's what I'ma do, take you back to the dude
+with the Lexus, fast-forward the jewels and the necklace
+Let me tell you dudes what I do to protect this
+I shoot at you actors like movie directors {*laughing*}
+This ain't a movie dog (oh shit)
+
+"Now before I finish, let me just say
+ I did not come here to show out, did not come here to impress you
+ Because to tell you the truth when I leave here I'm GONE!
+ And I don't care WHAT you think about me - but just remember,
+ when it hits the fan brother, whether it's next year, ten years, 
+ twenty years from now, you'll never be able to say
+ that these brothers lied to you JACK!"
+
+[Jay-Z]
+Ving ain't lie
+I done came through the block in everything that's fly
+I'm like, Che Guevara with bling on, I'm complex
+I never claimed to have wings on
+Nigga I get mine - by any means on whenever there's a drought
+Get your umbrellas out because, that's when I brainstorm
+You can blame Shawn, but I ain't invent the game
+I just rolled the dice, tryin to get some change
+And I do it twice, ain't no sense in me
+lyin as if, I am a different man
+And I could blame my environment but
+there ain't no reason why I be buyin expensive chains
+Hope you don't think users are the only abusers
+Niggaz, gettin high within the game
+If you do then, how would you explain?
+I'm ten years removed, still the vibe is in my veins
+I got a hustler spirit, nigga period
+Check out my hat yo, peep the way I wear it
+Check out my swag' yo, I walk like a ballplayer
+No matter where you go, you are what you are player
+And you can try to change but that's just the top layer
+Man, you was who you was 'fore you got here
+Only God can judge me, so I'm gone
+Either love me, or leave me alone
+
+* Now, back to our regular scheduled program *
+  -- "Le Album Noir" - "The Black Album" --</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

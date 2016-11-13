@@ -1,0 +1,123 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Aesop Rock
+Album:  Bazooka Tooth
+Song:   NY Electric
+Typed by: hwarner967@hotmail.com
+
+[Verse 1]
+I cut the ropes, breathe fresh puddles of pidgeon blood and smoke
+Load bazooka, scope the culprit hulks over a broken hookah
+Got rebel camps with siphons amped to cookie cut the wattage
+Electric ilk NY raised on b-movie sluts and gossip
+Condition the bodega rodent moment composure
+To echo numb and uncommon, dumb monkey pollen
+My 23's lean over a cobra motor milligram bender
+Novelty, I tip lids prior to clipping the comradery
+Check the muck out, When metal maggots burrow in Promised Land vein division
+I tug my brim down over my stigmatism
+Lo-pro, Paxil Rose, axel broke and butchered
+Last catapult standing in a land of coke and hookers
+It's King Kong potluck, no parking for rickshaw loads of sock puppets and sitcoms
+Just Krylon pigs bred in a hot boxed wigwam
+Serotonin deficient teens demonstrate ease in the modern day uzi purchase
+The foundation of their alacrity makes the umis nervous
+Me? Oh I check the newest murals to see whose still bombing this fucker
+and um....respect, find out what it means to me
+New York, walk blocks with electric ninjas who bark bounce for trunked out whips
+Like my company Delorian's the shit
+Skipper's out of happy pills again, he's in the neighbors garbage
+He's making paper dolls decorated with targets
+He's labeling the dolls with the names of shitty rap artists
+Then tearing out the still beating heart from from the loose-leaf carcass
+I ordered a hovercraft off the back page of an Archie comic
+Built it in three days to float above snarky comments
+My gills call the East River rock bottom home with three-eyed guppies and seahorse mutations
+See New York is ancient Rome basic, basically stone faces
+My friend jumped off the Empire State Building while I hung with 10th grade head cases
+Some of them will blossom famous, some of them will blossom base heads
+but they all rep rivets in the die-cast metal Voltron cadence, what!?
+
+[Chorus]
+NY Electric, catalog, burners, pigs, magnums, crack, bag lady, roach bit, pristine kicks
+Threading the iris of the needle. just for my people
+Im'a thread the needlem just for my people
+Breaker 1-9, 9-11-01 witness, maybe you don't get this
+
+[Verse 2]
+Kill 'em all slow, I was on a serious tree bender with my hands up at a C-Rayz-Walz show
+Nether-citcuit bacon don't police me anymore, your trained professionals demonstrate
+41 shots over par
+Least common denominator raise truth like Charlie, Willy, and Gramps
+Raise roofs in a glass
+Wonkavator, monster maker
+Operate wild by the company of unturned stones and litter
+Talk his way out of a sunburn and be home in time for dinner
+Paid dues since before the days of bad acid and Quaaludes
+While the boombox talks trash to the richter
+Stalking awkward with a zip lock on the pill hole
+Bitter fucker, nothing is free, I'll spend my last dollar on me
+Put one up for my family, should've made time to thank 'em
+Put one up for my crew, for recognizing the sanctum
+Put one up for the socially broke, choked and smokey
+New York piss hiss bleed dolby, homey
+
+[Chorus]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

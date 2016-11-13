@@ -1,0 +1,137 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Kendrick Lamar f/ Gucci Mane
+Album:  Vanity Slave Pt. 2 (S)
+Song:   Vanity Slave Pt. 2
+Typed by: newos_crib_is@hotmail.com
+
+[Kendrick Lamar]
+I swear you people don't know Kendrick, you don't know him
+But you say you want some more Kendrick, I'm bout to show 'em
+everything inside this human being, I'm still growing
+I'm a premature, baby in this crazy life that we adore
+Doors on the Lamborghini, I want 'em
+Can't afford 'em so I tell the swap meet to clone 'em
+I guess I really am a vanity slave
+I guess my ancestors turning in they graves
+Burning money when I get it, fuck a life savings
+Overdraft bank statements just to make a statement
+When I put this fashion on, I'm a fashion junkie
+Picking cotton in the country, I bought this out the country
+Whips and chains, whips and chains, Jacob know my name
+He call me Kunta, you my brother, we come from the same
+modern world, that's your girl? I see she rocking Fendi
+Try this on, if it ain't upscale then you may offend me
+Copping everything in sight, ignoring they sacrifice
+Amnesia if I see the Black Visa in my hand tonight
+I show my dick and then I swipe, that's a punchline
+They was hot and I wore ice, that's ironic huh?
+
+[Chorus: Kendrick Lamar] + (Gucci Mane)
+Word around town that I'm all about the bitches
+Word around town that I love my twenty-sixes
+Word around town that I gotta stay paid
+Lord please forgive me, I'm a vanity slave
+(It's the Guc', cock and shoot
+ Found my swag but lost my roof, BURR~! BURR~!)
+Lord please forgive me, I'm a vanity slave
+(See my Audemar tick as my Audemar tock)
+Lord please forgive me, I'm a vanity slave (BURR~!)
+
+[Kendrick Lamar]
+Aw man, videos got me wanting hoes
+Appetite for flashing lights, all I can do is pose
+A black male, on Melrose
+I should get blackmailed, buy my people hell Rose
+Niggas that ain't had shit for four-hundred years
+overcompensate by over-accessorising with gear
+Many of y'all don't see my vision
+I do it for the love of Hip Hop and the love of bitches
+Am I a hypocrite cause everyday I'm contradicting?
+I think of how I'm living, then I watch "How I'm Livin'"
+I know this can't be right, my conscience tell me to stay righteous
+It's unlikely to see what I like and say I don't like it
+Biggest dilemma, my priorities ignoring me
+I wanna move accordingly, but baby steps are premature remember?
+I'm flying to the south and I'll be gone till November
+to see my family tree, but this a shame I'm yelling out timber
+
+[Chorus]
+
+[Kendrick Lamar] + (Gucci Mane)
+Cold, oh so cold
+How ironic? He bought it, then sold his soul
+Is it masonic for your vice to take it's toll?
+The remote control is taking control
+Lift up the doors
+That Lamborghini I wanted come with a dumb-ass model that in Vogues
+I like 'em both, I'll wife 'em both
+Take these motherfucking Jordans off, put on my Loafs
+Cause nothing goes bad every time I wear (Gucci~!)
+I'm getting more ass every time I wear (Gucci~!)
+They tell me it's a fad every time I wear (Gucci~!)
+But should I give a fuck when it bring me more coochie?
+This a young nigga's pedigree, I pray the Lord can better me
+If not he bout to strike me down like this my third felony
+Them voices keep on telling me, Kendrick don't forget about us
+I burned my wardrobe, hoping that I could live without it
+
+[Chorus]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

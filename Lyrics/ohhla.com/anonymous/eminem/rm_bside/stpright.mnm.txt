@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Eminem
+Album:  Shade .45 Promo
+Song:   Step Right Up
+Typed by: BasicReasoning@yahoo.com
+
+Step right up
+I'm about to light up the skyline so bright i'ma fuck your whole night up
+Fuck ya glow sticks, and go stick a stick in ya ass
+This is the ghost of christmas past
+This is ya ho, she's supposed to kiss his ass
+This is gross but listen close
+If you don't you can go stick ya whole frickin' nose against his crack
+'till he lets one go and blows ya whiskers back
+and get a great big 'ol whiff cuz if you last
+without passing out you'll be on the next episode of fear factor
+Ya, i'm back to... back to what? I dont know, smack a little child actor's butt
+Mike Jackson, what? What the fuck you want? I got a blunt 
+and some jesus juice, who needs an excuse these days
+the way they rally around pedophiles your lucky I don't pee in your face
+I can do anything and apologize for it later, 
+as long as it aint a racist tape from '88, than i'm straight-a
+That cannot be forgave 
+If I drank pee for, eighteen years straight
+And ate shit every day on a porcelain plate
+that was shaped like a toilet with a fork and steak
+knife, for the rest of my life
+and had to watch my ex-wife get fucked by vanilla ice
+twice a day, cuz I said N-I-G-G-A, when I was a teenager
+Blaow, blaow Shade-a
+forty-five, shorty let me get your number baby 
+maybe I can hump your leg or
+something, but its time for me to go
+so I stopped, jumped in the vehicle
+its like this, because of that boob right?!</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

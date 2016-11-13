@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Aesop Rock
+Album:  Skelethon
+Song:   1,000 O'Clock
+Typed by: AZ Lyrics
+
+I wear shoes to bed
+Paint teeth on my lips
+Trench foot, gangrened for the win
+Blitzkrieg bopper
+Petitioned out of shit's creek proper
+The only inaccessible blip on the streaming doppler
+Screaming 'uncle’ in a sea of TV doctors
+Free to occupy the same space in differing degrees of seedy commerce
+The shot is slow pan, monitor guffawing
+Flooded p.d. blotter under horizontal coffee
+More to follow, outside tweakers are in love
+Teeny Raquel Welch submarining through the blood, voyagers
+Poisoned or maybejust a misfit toy or two
+Depending on the beacon that your voyeurs choose
+That sorta hemming and hawing'll haunt your boiler rooms abysmally
+And kidnap rapid eyes in their infancy
+Everything his cutting room scrapped
+On a silver screen that throws gummy bears back, attack!
+
+All these tribes hoard breads and wines
+These climates transform men to swine
+All these hives hide knives and lead
+These bribes can't transform swine to men
+
+Sensible sweater on ice
+Devil horns high
+Like shovels above a butter lamb with peppercorn eyes
+Vendetta-drunk leader squealing
+"it's the real pig fever"
+Sick people pinky swearing on concealed 6th fingers
+That's idle handwork in the spirit of death dealers
+Look at mommy's little Hercules
+Custom Troy Hurtubise
+Flourish in the blind spot of spittle county gore police
+Or really any readily ebbing and flowing war and peace
+1 plain brown key foods bag head
+2 holes later I'll see to this loose flatbread
+Cats fucked off, at exactly what cost
+The currency of brotherhood back in his cut palm
+It sucks, it's nauseating dawn crawling with bugs
+They seem attracted to the matters of the morally snubbed
+See my 'goodnight irene' massacred flat in the key of tragedy
+Whole diner like "I'll have he's having"
+
+All these tribes hoard breads and wines
+These climates transform men to swine
+All these hives hide knives and lead
+These bribes can't transform swine to men
+
+Today a thousand sea lions got up and left a pier
+They had successfully invaded and secured for 20 years
+Some said it was the food supply or shifting weather patterns
+Truthfully a whole community of scientists are baffled
+In '89 maybe 10 showed up at the wharf
+As if guided by the trident of poseidon to cavort
+Each a lumbering and boisterous glutton
+Like a half-ton annoyance 'til the heart-warming story went public
+You'll need a montage, animals arriving in droves
+A bottom dollar turns a nuisance to the pride of your cove
+Which bring us back up to this morning when the colony dove
+I got a couple unsubstantiated thoughts of my own they go
+Maybe it'd feel more majestic and less fatty
+If a 12 year old wasn't beaning it with salt water taffy
+Every 5 fucking seconds, sounds like your basic
+Liberating moment of collective "fuck fame" shit
+
+All these tribes hoard breads and wines
+These climates transform men to swine
+All these hives hide knives and lead
+These bribes can't transform swine to men</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

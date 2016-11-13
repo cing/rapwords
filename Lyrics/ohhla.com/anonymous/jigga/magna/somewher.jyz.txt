@@ -1,0 +1,112 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z
+Album:  Magna Carta... Holy Grail
+Song:   Somewhereinamerica
+Typed by: Nickolye16@aol.com 
+
+[Jay-Z]
+Uhh, see what you made me do?
+Hehehehe, ow!
+
+Shout out to old Jews and old rules, uhh
+New blacks with new stacks, uhh
+I already been the king, uhh
+Retro act, I'm just bringin it back like Jordan packs, uhh
+New money, they lookin down on me, uhh
+Blue bloods they tryin to clown on me, uhh
+You can turn up your nose high society, uh
+Never gon' turn down the homie, uhh
+Knock-knock I'm at your neighbor house, uhh
+Straight cash I bought ya neighbor out, uhh
+You should come to the housewarming, uh
+Come and see what your new neighbor 'bout, uh (SKERRT!)
+Yellow Lambo in the driveway, uh
+Buck-35, I'm on the highway, uh
+Frank Sinatra on my Sonos, uh
+Loud as fuck, I did it +My Way+, uh
+Million sold before the album dropped, uhh
+White Lexus before I had a deal, uhh
+Ask Bun B about me
+This ain't no snap back, a nigga been trill, uhh
+By the way, fuck your math (hehe)
+You ain't gotta count it my nigga I can add
+1 million, 2 million, 3 million, 20 million
+Oh, I'm so good at math! Uhh
+Might crash ya internet, uhh
+And I ain't even into that, uhh
+When I was talkin Instagram
+Last thing you wanted, was your picture snapped, uhh
+Feds still lurkin, uhh
+They see I'm still puttin work in, uhh
+Cause somewhere in America
+Miley Cyrus is still twerkin
+
+HA! Uh, yeah, uh
+Twerk, twerk, twerk twerk
+Twerk Miley Miley twerk, hehe
+Twerk, twerk Miley Miley Miley twerk
+Twerk, yeah, uh-huh
+Twerk Miley Miley Miley, hehe
+Uh, uh, yeah, uh, uhh
+Only in America, uhh!
+HA!
+</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

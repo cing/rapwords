@@ -1,0 +1,105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z
+Album:  In My Lifetime, Vol. 1
+Song:   Friend or Foe '98
+Typed by: OHHLA.com
+
+Verse One:
+
+I'm done talking
+Ran up in the spot gun smoking
+Shot it in the air, one woke him
+Sun-soaking, sweating in his bed like Dunlo
+Thinking to himself what done provoked him
+His thoughts is racing like a vulcan
+I swear I saw a lightbulb when
+He finally figured out who was the culprit
+I said yeah, remember me from Friend or Foe when
+I told you don't ever ever come around here no more
+Time to pay now, you try to rise, I wave the gun - lay down
+This time you're really going to listen to Jay now
+I try to talk sensibly, hoping that eventually you realize
+I had this locked and it just wasn't meant to be
+Plus I had sympathy when we all wore rams with your keys
+And it wasn't afterthought that maybe you'll try to revenge me
+But I was like "Nah", Chromes had to know he was wrong
+And if you caught me on the foul now you would sing me the same song
+Plus you promised
+And that's really no fun 
+Yeah I find you in this Motel 6 with all these guns
+And all your goons, lined up in adjoining rooms
+Like some wild cowboys coming to get me at high noon
+But my mind's like a flower in bloom
+*** my eyes just scower the room
+I'm alert, plus I paid the clerk I got it laid out
+You think you the first nigga I played out, in a 2 hotel town? 
+Come on now, I peep your Lexus at you
+Left the exit got some niggas on that side of the town
+Money well invested, rudely interrupted
+Jamaican accents *** 
+A gun in your face and that's all you can come up with?
+I'm done talking, back up and clap them, one in the abdomen 
+Do me a favor dude, get 2 ice cubes I pass them
+Take that ice up, for the nicest MC
+And please yo, tell BIG, he's unbelievable 
+Friend or foe BIOTCH!
+</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

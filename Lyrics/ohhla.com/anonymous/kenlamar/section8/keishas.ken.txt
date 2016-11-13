@@ -1,0 +1,132 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Kendrick Lamar f/ Ashtro Bot
+Album:  #Section80
+Song:   Keisha's Song (Her Pain)
+Typed by: newos_crib_is@hotmail.com
+
+[Chorus: Ashtro Bot]
+Fancy girls, on Long Beach Boulevard
+Flagging down all of these flashy cars
+
+[Kendrick Lamar]
+Uh, and Lord knows she's beautiful
+Lord knows the usuals leaving her body sore
+She takes the little change she make to fix her nail cuticles
+Lipstick is suitable to make you fiend for more
+She play Mr. Shakur, that's her favorite rapper
+Bumping "Brenda's Got a Baby" while a pervert yelling at her
+And she capture features of a woman, but only seventeen
+The seven cars start honking, she start running
+like Flo-Jo, don't care if they Joe Blow
+If they got money to blow, a blow job is a sure go
+And sure enough don't see a dime of dirty dollars
+Just give all to her daddy, but she don't know her father, that's ironic
+See a block away from Lueders Park, I seen the El Camino parked
+and in her heart she hate it there, but in her mind she made it where
+nothing really matters, so she hit the back seat
+Rosa Parks never a factor when she making ends meet
+
+[Chorus]
+
+[Kendrick Lamar]
+And Lord knows she's beautiful
+Lord knows the usuals leaving her body sore
+Her anatomy is God's temple
+and it's quite simple, her castle is bout to be destroyed
+She's always paranoid, watching the law inside the streets
+Undercovers and dummies that look like decoys
+Remember sergeant let her slide
+Said if he seen what's between her thighs he'd compromise, to no surprise
+she took the ultimatum round the alleyway and gave him
+a warm welcome that filled him right below the navel
+Though he was wired up like a pair of jumping cables
+His eyes was closed shut, prior charges, he had waived 'em
+It was a block away from Lueders Park, I seen a squad car parked
+and in her heart she hate it there, but in her mind she made it where
+nothing really matters, so she hit the back seat
+cause Rosa Parks never a factor when she topping off police
+
+[Chorus]
+
+[Kendrick Lamar]
+And Lord knows she's beautiful
+Lord knows the usuals leaving her body sore
+As she bust down like a twelve bunk on tour
+she suddenly realized she'll never escape the allure
+of the black man, white man, needing satisfaction
+At first it became a practice, but now she's numb to it
+Sometimes she wonder if she can do it like nuns do it
+But she never heard of Catholic religion or sinners' redemption
+That sounds foolish, and you can blame it on her mother
+for letting her boyfriend slide candy under her cover
+Ten months before she was ten, he moved in and that's when he touched her
+This motherfucker is the fucking reason why Keisha rushing
+through that block away from Lueders Park, I seen the El Camino parked
+and in her heart she hate it there, but in her mind she made it where
+nothing really matters, so she hit the back seat
+Then caught a knife inside the bladder, left her dead, raped in the street
+Keisha's song
+
+Mm, my little sister eleven, I looked her right in the face
+the day that I wrote this song, sat her down and pressed play
+
+[Chorus: 2X]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

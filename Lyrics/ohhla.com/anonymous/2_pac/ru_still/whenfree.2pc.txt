@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac
+Album:  R U Still Down? (Remember Me)
+Song:   When I Get Free
+Typed by: OHHLA.com
+
+Intro:
+
+*the first three notes of Taps plays*
+M.A. Parks, C57797, you have a visitor
+Right there, stall three
+
+Hi baby.
+	Whassup honey?
+Hey you know it's just only one more week until family visit.
+	Yeah I'ma rock them drawers.
+A-heh.
+	Yeah but you know did you take care of that bidness I asked you to do?
+I made those deposits.
+	Okay that's cool you bring that shit?
+Yeah I got it.
+	Awright see that guard over there?
+Mmm-hmm.
+	When you get done just hand him the shit, he know whassup.
+Awright.  Hey you know E just got cracked, he's in jail now.
+	What?
+Yeah, Go-Go's out.  I just saw him runnin around the other day.
+	Ahh, fuck that fool. But anyway, what's happenin with my moms?
+She gave me a message for you:
+She said she's sorry she couldn't be here today, but she'll be here next week.
+	Awright well check this out, I got somethin real important
+	I want you to tell her
+[guard] C'mon c'mon this shit's over with.
+*commotion breaks out*
+[girl]  I'm not done talking to him!
+[guard] C'mon boy, back to your cell.
+        Shut that shit up bitch! He's outta here, c'mon.
+[guy]   Don't be callin my woman no bitch!  I'll fuck you up!
+[guard] Yeah yeah fool, what?  Yeah yeah that's what they all say fool.
+        You institutionalized, and this is your home...
+
+Guess who's back, and ready to knock off a cop or two
+Cause me and the crew could still get our rocks off
+The penetentiary don't stop a nigga cause he's in jail
+Hell I'm makin more money on the street from here in a cell
+I'm livin proper, the coppers is havin fits
+I just made the profit, you punks ain't stoppin shit
+I still remember my momma told me
+Find the cop who killed your brother
+send him to Hell lookin homely
+Cause a real nigga love the law
+What's raw is a nigga that's above the law
+Keep pressin your luck and get fucked, huh
+Think a nigga don't know whassup cause he's locked up
+But in the meantime, it's get swoll get clean time
+Concentrate on gettin green time
+And as the years go by, they forgot
+about the small time soldier from the block, huh
+To kill the crook they threw the book at me
+Don't worry be nappy, don't even look happy
+Put me in the hole, gave me cold cuts
+Did push-ups until I swoll up
+And then they offer me a furlough
+But what they don't know as soon as I get free I'm killin five mo'
+They asked me if I changed much
+I told em 'Yeah' even though I'm still the same nut
+They started askin my questions about my brother
+And makin remarks about my mother, hmm
+Wait a minute, hold up
+Makin jokes about my folks'll get yours blown up
+They sent me back to the hole for what I told em
+I guess he didn't believe me, so I showed him
+He went home to find a tragedy
+Nigga, that's what you get for tryin to badger me
+And anybody else that wanna sweat me
+I'm already in jail so you punks can't get me
+You better pray they never see me
+Cause if they let me free, prepare for trouble on the streets.
+When I get free
+
+Chorus: When I get free (3X)
+
+Chorus</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

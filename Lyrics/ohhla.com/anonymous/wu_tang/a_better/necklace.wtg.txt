@@ -1,0 +1,150 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan
+Album:  A Better Tomorrow
+Song:   Necklace
+Typed by: AZ Lyrics
+
+[Interlude]
+Brother, I think that necklace is causing you too much trouble
+
+[Verse 1: Cappadonna]
+My necklace had the whole crowd on some next shit
+The guest list full of real niggas that's hectic
+The charm piece made my niggas move like calm beasts
+Palm beats, two jostling niggas with long reach
+Keep your eyes open for them strong on thieves
+Out here looking for ice to put in they teeth
+Chain glowing shining and I'm ready for beef
+Like my nigga 2 Chainz, cappuccino from the east
+From the Wu-Tang Clan, my necklace and my heat
+Bang bang, different robe every day of the week
+2 Angels, dinner plate, fat dollar sign
+Universal flag on, nigga, I got shine
+
+[Interlude]
+
+[Verse 2: Raekwon]
+I keep my neck frozen, .45 loaded, please don't approach this
+Rope is so ferocious, diamonds that shine in oceans
+Keep you arm distant from my carats, silly rabbits
+Make me get my barrel, spazzed out and cause havoc
+Iced out Cubans, exotic stones from Africa
+This the real thing, big bling, the chain swing
+Try to swipe mines, that's a no no, the God's loco
+Jury truckin' fancy spend stacks upon Delancey
+Exhaust pipes coffin horse kicks
+ACP's dress up the flesh, now the crime scene's gorgeous
+My links is unbreakable, told y'all on the Purple Tape
+40 inches hang from my neck, nigga, I'm wealthy
+
+[Interlude]
+
+[Break during Interlude: Ghostface Killah]
+Why you say that?
+It's real, kill a nigga for this shit
+Aha, yo relax sis
+
+[Verse 3: Ghostface Killah]
+Dinner plates rings, smothered in 2 pounds of dope
+Eric B on the cut when it blings
+Scrubbin' chain down in Colgate, double edged bangers
+On they hips I wait in the jaw break
+The snakes and the violators, Dracula style takers
+We got a bunch of gold balls, but we ain't the Lakers
+Hey bitches, stay lickin' my necklace
+And I ain't even put the dumb bitch in the guest list
+That's what you get when you throwin' on Cuban's
+Drawers that's made from silk, a robe and a Ruger
+Crack heads catchin' a sweet vix on a scooter
+Catch me for my chain, it belongs on a shooter
+Lucky my shit blow like a horn on a tuba
+You might as well do me now cause I will do ya
+
+[Interlude]
+
+[Verse 4: GZA]
+God-Cipher-Love-Divine in math 79
+Bright yellow and dense in its gift and shine
+Still the same when exposed to air and water
+Like when amongst thieves you travellin' across the border
+The brink of the metal link when in transition remains solid
+The message was lost in transmission
+That's often in a free elemental form
+Nuggets and grains and rocks and things that's norm
+Malleable ductile metal on many levels
+Get you shot for a Flintstone, killed for a pebble
+Lieutenants and Generals move with criminals
+The pride for all in line, they hunt for mineral
+The scope is on the rope, claws on the table
+Brass knuckle, knees buckle, legs unstable
+And it's sold by the weight
+Shaped into a plate with food on it
+The hungry wolves lie and wait
+
+[Interlude]
+
+[Outro skit]
+Tu Tin-To. So you're the tigers of Tinan, bastard
+you're gonna pay for this, you'll die here
+I'll use the tiger strike to kill you all
+I'll show you the three different strokes
+Forest Tiger! Win Tiger, Winmau Tiger!</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

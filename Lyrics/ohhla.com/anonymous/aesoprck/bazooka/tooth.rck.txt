@@ -1,0 +1,103 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Aesop Rock
+Album:  Bazooka Tooth
+Song:   Bazooka Tooth
+Typed by: urbanoxygen@hotmail.com
+
+That jackhammer is so real
+
+Diamond covered spine
+Armadillo armor that bends around the blades
+Bugs in the beard
+Ebony in the lungpiece
+Bricks in the Thames
+Bazooka in the tooth that he's flashing at your friends
+This is the lifestyle, baby
+Know and sip the recipe
+Not a single innocuous side up in the centerpiece
+Oh my god
+Journalists across the globe are officially critiquing my first eight bars
+
+Piety for the fam, embargo piggybackers
+Navigate sim-city backwards
+Bazooka Tooth, baby!
+Zephyrs less dextrimental expect to tone down terrordome for starter crews
+Like jousting Pompeii with a garden hose
+If you wake up to the sound of helicopters bumping Wagner
+Bodycast the Palotti's class
+Buckle in the Bronx back alley batting cage with bottle smacks
+Drag them prophecies
+Be them celestine or Mothman to the bumper boat monster mash
+See, the pristine kittens fiddle with new yarn
+Decrepit sickly dogs get shot behind the barn
+One sham put in long hours like Tim Leary's lava lamps
+To be second headlined under the boy born with lobster hands
+Isolated, biological phenomenon
+First nocturnally orchestrated car alarms
+Ya'll sketch portraits of your neighbors, tack em up without fail
+See a robored pitchforks and alligator tails [?]
+Offical Max Fischer bloom break cable clipper (Def)
+Picket train buffer, the riverboat, and the switcher (Jux)
+Pipe-dreaming that so fresh and so clean plummage
+Is an appleseed of bore that resorts to Bazooka Tooth shit
+
+You don't want me smiling at your cameras</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

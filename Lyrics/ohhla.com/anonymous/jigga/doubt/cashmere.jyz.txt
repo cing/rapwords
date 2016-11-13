@@ -1,0 +1,136 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z
+Album:  Reasonable Doubt
+Song:   Cashmere Thoughts
+Typed by: OHHLA Webmaster DJ Flash
+
+[Jay-Z has a conversation with some cat]
+Hah, hah, hah, hah, yeah, yeah
+What it is player?
+	You player, it's all about you
+How you gon' say that man
+If I had your hand I'd turn mine in
+	Far as I'm concerned, if I had your hand, I cut mines off
+Hah man, you know man, I'm just dealin that hoe money
+You know hoe money is slow money but it's sho' money
+	Check this out man, when you run up on your bitch
+	this this is what you tell her
+	Stick they hands in they panties, grab that knot
+	Stick they arm in a car window, drop it like it's hot
+
+[Jay-Z]
+Uhh, I talk jewels and spit diamonds, all cherry
+like a hymen, when I'm rhymin with remarkable timin
+Caviar and silk dreams, my voice is linen
+Spittin venom up in the, minds of young women
+Mink thoughts to think thoughts type similar
+Might you remember, my shit is col-l-l-ld like December
+Smoother than Persian rugs, the cashmere
+chromosomes make a nigga Jigga Jay-Z lethal drugs
+Eighteen carat gold pen, when it hits the sheets
+Words worth a million like I'm rappin em through platinum teeth
+I got the Grey Poupon, you been warned
+Cause all beef return well done filet mignon
+The Don, smell of Dom on my breath as I
+yawn, (slow) when you hoes try to con a pro
+As if you didn't know, Jay's about gettin dough
+Spittin flow like fine wines down your earlobe
+I'm smooth but deadly like a pearl handled pistol
+Honies hum in melody when I, rub it like crystal
+The proper ettiquette, when I drop the subject verb
+then the predicate, with this rich nigga preterite
+I'm solid gold, I rap like a mink stole
+I stick pearl tongues your world'll never know
+From New York, to Paris, the vocal style vary
+From nice to deadly like a bad bag of D, now
+Notice, the child swift like a Lotus
+Focus on the loc' I be the greatest nigga that wrote it
+Return of the Jedi, from Rio Degenero on da red eye
+Yet I, still feel the need to be fly
+I did die when I'm rappin then slide like satin
+You know the black eye white china in the brain cabinet
+I never cry if I did I'd cry ice
+From my nigga Sauce, I hit you with this advice
+Life's short, so play hard and stick hard
+and the only time you love em is when your dick hard
+
+	Whoooh!  That's cashmere baby
+Nah, you know, that's just laid back man
+	Man, shit, J to the A to the Y to the Z
+Yeah baby
+	Motherfuckin pimp that's what he be
+Cashmere baby
+	Don't get no hotter than that
+Sho' you're right
+	Them niggaz know
+
+Check it out, check it out
+Ghettoes, Errol Flynn, hot like heroin
+Young pimps is sterile when I pimp through your burough in
+I gotta keep your tricks intact
+Cause I walk like a p-iyimp, talk like a mack man
+The star player, the golden bar layer
+The sweet Ms. Fine Thing puh-layah, sho' yo right
+I'm game tight, so watch it it change to night
+Go tell your peeps dawg I'm lethal til it ain't right
+I pimp hard on a trick, look
+Fuck if your leg broke bitch, hop up on your good foot</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

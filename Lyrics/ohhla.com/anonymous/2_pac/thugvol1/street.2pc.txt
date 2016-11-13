@@ -1,0 +1,134 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Thug Life
+Album:  Thug Life Volume 1
+Song:   Street Fame
+Typed by: OHHLA Webmaster DJ Flash
+
+[Mopreme]
+It was a dope spot front yard, one on one strappin
+That's the way it was way before all the scrappin
+Earned my fuckin props from the G's in the hood
+Put in work, did some dirt, never snitched, never would
+Rollin the fat Jaguars with my nigga P blowin up
+Time comin back sippin Henessey
+Seventeen years old and I felt like God mad rich
+And I had my pick of any fine bitch
+And my family was known to be great, seen slightly more
+Representin no matter who sets it on
+Street power, why you niggaz flip and you thug shit
+I be bout my motherfuckin grip, nothin else
+gets between me and mine, just remember that
+Damn it's a shame, but still I'm in the game
+I'm tryin to get street fame
+
+[Chorus]
+"I'm a superstar..", "I'm a superstar.."
+"I'm a superstar, made it by street fame"
+"I'm a superstar..", "I'm a superstar.."
+"I'm a superstar, made it by street fame"
+
+[Big Syke]
+Don't blame my mama, don't blame my daddy
+I know they wish they never had me
+In and out of jail by twelve, failin out of school
+Cause I was livin by the street rules
+Hangin with hogs, droppin dawgs as a little loc
+I was gettin my respect but I was still broke
+Into the game and expanded to the cocaine
+Went from double-ups, to slangin them whole thangs
+Focused on my mail name ringin like a bell
+And even with no proof they gonna put me in jail 
+Everbody says he's sold and I'm outta control
+Motherfuckers gossip but I still roll (nigga)
+Bitches want my cash on my dash of my cockpit
+They wouldn't know a motherfucker if he didn't have shit
+So while I'm ballin and kickin up dust, get yo' skull crushed
+Bitch-made niggaz know not to fuck with us
+Cause I'm livin on the edge, I'm blastin lead
+Wanted by the Feds, they got to take me dead
+So fuck it drive a bucket in the inner city
+In the land of no pity, I made it by the street fame
+
+[Chorus] - 2X
+
+[The Rated R]
+I'm a super star, made it by street fame
+I had to make some people feel the pain, in this dirty game
+I know I'm on my way to hellll
+Ain't no yellow bricked road for all the niggas that I done smoked
+The hood done took me under, a nigga gots no heart
+Don't get it twisted cause I'm there with my homey's car
+I kill for my niggaz, my niggaz kill for me
+That's the love you get, from the drunk one, you put in work see
+I'm a G with a gang of niggaz after
+Tryin to peal me, cause I smoked they homey
+What comes around goes around is what makes it worse
+I smoke blunts all day to keep my mind off a hearse
+They don't stop stop til my casket drop drop
+Let me ride, but all I want, thou shalt not beef or die
+And it don't matter if I rap or plays
+Cause I blow out back of some minds, fuck the fame
+
+[Chorus]
+
+".. made it by street fame"
+{*repeat to the end*}</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

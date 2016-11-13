@@ -1,0 +1,124 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac f/ Edi, Sleepy Brown
+Album:  Loyal to the Game
+Song:   Hennessey (Red Spyda Remix)
+Typed by: OHHLA Webmaster DJ Flash
+
+Nigga fuck that gin & juice, I'm fuckin with Hennessy
+Just pour me a glass of that dark shit
+That's right
+
+[Chorus]
+[2Pac] They wanna knows my role model, it's in a brown bottle
+[S.B.] Ooooh, ba-ba, ba-ba-dahhhhh
+[2Pac] Hennessy (Hennessy) hahaha, yeah
+[2Pac] They wanna knows my role model, it's in a brown bottle
+[S.B.] Ooooh, ba-ba, ba-ba-dahhhhh
+[2Pac] Hennessy (Hennessy)
+
+[Verse One: 2Pac]
+Now I was born in the gutter facin life or death
+I was a thug ever since my mama gave me breath
+These motherfuckers wanna see me die, so who am I
+to try to warn 'em, I buck and bomb 'em, them niggaz fry
+Hey, remember me?  Down that Hennessy
+The nigga you don't wanna see, let me procede
+My definition of some thug shit, y'all don't hear me
+Now that it's poppin ain't no love bitch
+I maintain in the game in the gutter's where I still kick it
+I'm tryin to hustle up a meal ticket
+I'm still wicked in my ways, a hustler 'til my dyin days
+Ain't nuttin wrong with gettin paid, so nigga blaze
+Cause we some motherfuckin fools
+Walkin through the streets wearin jewels, breakin niggaz makin moves
+Even the cops can't stop us, my enemies flip
+when they see me drink a fifth of that Hennessy
+
+[Chorus] w/ minor variations
+
+[Verse Two: Edi Amin]
+Yeah
+Up late nights (c'mon) under the city lights
+The Henn got me feelin right, I'm tryin to keep from swervin
+She's so fine and she love Henn too
+After a couple of shots she said, "I could do what I wanna do"
+(That's right) We ain't sippin champagne (nah) we off the Henn-Rock
+Alcoholics back at the liquor sto' cause we can't stop (can't stop)
+And won't stop (we won't stop) all night long
+'til the break of dawn, gettin it on, Hennessy
+
+[Sleepy Brown]
+Ooooh, lady watchin (lady watchin) as I'm glidin by (glidin by)
+And the place is jumpin.. that I can't deny (no, noo, no)
+Ooh I can't wait to go in, throw my glass in the sky (glass in the sky)
+For the people partyin, 'til the mornin light
+
+[Chorus] w/ minor variations
+
+[2Pac] Hahaha, y'all niggaz can't fuck with this ol' thug shit
+
+[Chorus]
+
+[Sleepy Brown - over Chorus second half]
+We keep on sippin, and sippin, and sippin
+
+[S.B.] Keep on sippin, and sippin, and sippin, ba-ba, ba-ba-dahhhhh, Hennessy</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

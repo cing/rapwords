@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Aesop Rock f/ Slug
+Album:  Float
+Song:   I'll Be OK
+Typed by: Nature2QBC@aol.com
+
+[Slug]
+Burn it down...
+Pad the circles 'round your life
+To capture all the sides you sight
+Magic tricks where skeptics sink
+The ice is thin, stay off the lake
+Waiting for a clock to punch
+Wish I could breathe and stop for lunch
+If I stop tocount the leaves on one of these here trees
+Not sure that I know what's pure
+Born to kill the insecure
+Some respect, some resent, some remain from start to end
+Wear my heart on my short sleeves
+I'm stuck out here, I lost my keys
+From the roof I watch the street
+And pray for those that's caught beneath
+
+[Chorus--Slug and Aesop] 2x
+As long as I know right from wrong
+I'll be ok, I'll sing my songs
+
+[Slug]
+I dunno what I have to left
+To give other than truth and breath
+Angel when she shuts her eyes
+Like we will leave to my demise
+Between my time is short
+About to start my last resort
+Wake me up when it's time to make babies
+Talkin planet earthquakes
+Tied the laces, touch the ground
+Let emotions ruptured now
+As long as I know right from wrong, I'll be ok I'll sing my songs
+
+Chorus 4x
+
+[Aesop Rock]
+I wanna lift every yellowbrick
+I never felt pressure to have to justify my selfishness
+At least not to your and yours
+Maybe just my friends and fellowships
+As long as the mood is somehow linked to my enhanced development
+I swear they'll understand!!!
+There's a storm outside my tenament
+Beats upon my windows with Mother Nature's adrenaline
+I guess that's why my homey Blockhead stays glued to the television
+Now I look less intelligent
+Cuz I'm the one that tried to bear the elements and lost
+Well it's warm by the filament
+Huddled up close in the company of all my relatives
+Stories lash like coffee and honest-to-God sentiment
+Cucooned in the unified efforts to all get settled in
+Away from where the rain pours!
+Well count your delegates
+Weed out the bums who practice migration under the elegant
+Of course I realize to fill the ring, procedure's delicate
+But lead devils inside to collide with your overzealousness
+And fall to rock bottom
+Spot em with their carelessness
+The urge could burst to turn even those hazardous to militant
+You can't even have half of free second
+The beat comes gelatin
+You gotta aim, fire and the spider be model veteran
+Buried in merit badges
+I'm stuck in the center and could care less
+About the eye of the storm and its monstrous measurements
+I got a defense that I call coolin with my brethren
+Sometimes I get wet
+But it's better than risking life and limb to me, don't you agree?
+
+Chorus 4x
+
+[Aesop Rock] *repeat to fade*
+If you wanna push, than I'm ready to push
+But if you pulling while I'm pushing
+Then why did you ask me to push?</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

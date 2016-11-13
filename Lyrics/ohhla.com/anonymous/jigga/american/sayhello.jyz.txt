@@ -1,0 +1,148 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z
+Album:  American Gangster
+Song:   Say Hello
+Typed by: OHHLA Webmaster DJ Flash
+
+[Jay-Z]
+Uhh, uhh, uhh
+Uhh...
+It's that Roc-A-Fella music, soulful
+
+[Chorus: Jay-Z]
+Say hello, to the bad guy (hello) they say I'm a bad guy
+I come from the bottom, but now I'm mad fly (say hello)
+They say I'm a menace (hello) that's the picture they paint
+They say a lot about me, let me tell you what I ain't (say hello)
+They say I'm a bad guy (hello) say hi to the bad guy
+I come from the bottom, but now I'm mad fly (say hello)
+They say I'm a menace (hello) that's the picture they paint
+They say a lot about me, let me tell you what I ain't (say hello)
+Ay (say hello), ay, ay, ay
+They say a lot about me, let me tell you what I ain't
+
+[Verse One: Jay-Z]
+I ain't playin, life's short so I aim
+I ain't waitin 'til lifers start betrayin 'em
+It's twice as hard to get a job as payin 'em
+So I ain't payin attention to what you're sayin
+Raindrops keep fallin on my brain
+Cousin in the drop all flames
+I'm so hot even if the weather change
+I don't have no top, I'm insane
+'Member dark-skinned Jermaine
+Who swayed in the rain, we sorta kinda the same
+'Cept, I'm no lame, and you gonna know my name
+Before I go the world gon' feel my pain
+They sayin, I'm a bad guy, why's that?
+Cause when my back's against the wall, nigga I react
+Secretly though, I know you admire that
+You wish you had the balls to fire back, brrrap
+Say hello, uhh uh, hello, uhh uh
+You wish you had the balls to fire back, brrap!
+
+[Chorus]
+
+[Verse Two: Jay-Z]
+I ain't no ordinary nigga
+Look around, this ain't what ordinary gets ya (IT AIN'T~!)
+Extraordinary figures (damn)
+I'm an extraordinary nigga
+Before my name became Jigga
+Before I sang I had that thang on slippers
+Can't complain 'bout what they ain't gon' give ya
+That ain't gon' get ya shit, might as well give up
+Or get up, get out and get somethin nigga
+Get a job my nigga, or get to dumpin
+Only God can judge him, only he without sin
+Tell me if my means, justified my ends
+'Til then, I'm just gon' fly in the Benz
+Wire my friends, through Western Union
+Shhhhh, suprisin
+My system knockin, here comes the bad guy again
+Say hello, uhh uh, hello, uhh uh
+Hello, uhh here comes the bad guy again
+
+[Chorus] minus last line
+
+[Verse Three: Jay-Z]
+... let me tell you what I ain't
+We ain't thugs for the sake of just bein thugs
+Nobody do that where we grew at, nigga duh
+The poverty line we not above
+So I come to mask and gloves cause we ain't feelin the love
+We ain't doin crime for the sake of doin crimes
+We movin dimes cause we ain't doin fine
+One out of three of us is locked up doin time
+You know what this type of shit can do to a nigga moms
+My mind on my money, money on my mind
+If you owe me ten dollars you ain't givin me nine
+Y'all ain't give me 40 acres and a mule
+So I got my glock 40 now I'm cool
+And if Al Sharpton is speakin for me
+Somebody, give him the word and tell him I don't approve
+Tell him I remove the curses
+If you tell me our schools gon' be perfect
+When Jena Six don't exist
+Tell him that's when I'll stop sayin bitch, BEEEITCH~!
+
+[Chorus] minus last line</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

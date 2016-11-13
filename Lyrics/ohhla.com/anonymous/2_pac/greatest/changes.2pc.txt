@@ -1,0 +1,150 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac
+Album:  Greatest Hits
+Song:   Changes
+Typed by: HJWESS1@msg.pacbell.com
+
+[Verse One]
+Come on come on
+I see no changes wake up in the morning and I ask myself
+is life worth living should I blast myself?
+I'm tired of bein poor and even worse I'm black
+My stomach hurts so I'm lookin for a purse to snatch
+Cops give a damn about a ne-gro
+Pull the trigger kill a nigga he's a he-ro
+Give the crack to the kids who the hell cares
+one less hungry mouth on the welfare
+First ship 'em dope and let 'em deal to brothers
+Give 'em guns step back watch 'em kill each other
+It's time to fight back that's what Huey said
+Two shots in the dark now Huey's dead
+I got love for my brother
+But we can never go nowhere unless we share with each other
+We gotta start makin changes 
+learn to see me as a brother instead of two distant strangers
+and that's how it's supposed to be
+How can the Devil take a brother if he's close to me?
+I'd love to go back to when we played as kids
+but things changed, and that's the way it is
+
+[Bridge w/ changing ad libs - repeat 2X]
+Come on come on
+That's just the way it is
+Things'll never be the same
+That's just the way it is
+aww yeah
+
+[Verse Two]
+I see no changes, all I see is racist faces
+Misplaced hate makes disgrace to races
+We under, I wonder what it takes to make this 
+one better place, let's erase the wasted
+Take the evil out the people they'll be actin right
+Cause both black and white, is smokin crack tonight
+And only time we chill is when we kill each other
+It takes skill to be real, time to heal each other
+And although it seems heaven sent
+We ain't ready, to see a black President, uhh
+It ain't a secret don't conceal the fact
+The penitentiary's packed, and it's filled with blacks
+But some things will never change
+Try to show another way but you stayin in the dope game
+Now tell me what's a mother to do
+Bein real don't appeal to the brother in you
+You gotta operate the easy way
+"I made a G today" But you made it in a sleazy way
+sellin' crack to the kid "I gotta get paid!"
+Well hey, but that's the way it is
+
+[Bridge]
+
+[Talking]
+We gotta make a change...
+It's time for us as a people to start makin' some changes
+Let's change the way we eat, let's change the way we live
+and let's change the way we treat each other
+You see the old way wasn't working so it's on us to do
+what we gotta do, to survive
+
+[Verse Three]
+And still I see no changes, can't a brother get a little peace
+It's war on the streets and a war in the Middle East
+Instead of war on poverty they got a war on drugs
+so the police can bother me
+And I ain't never did a crime I ain't have to do
+But now I'm back with the blacks givin it back to you
+Don't let 'em jack you up, back you up
+crack you up and pimp smack you up
+You gotta learn to hold ya own
+they get jealous when they see ya with ya mobile phone
+But tell the cops they can't touch this
+I don't trust this when they try to rush I bust this
+That's the sound of my tool you say it ain't cool
+My mama didn't raise no fool
+And as long as I stay black I gotta stay strapped
+And I never get to lay back
+Cause I always got to worry 'bout the payback
+Some buck that I roughed up way back
+Comin back after all these years
+Rat-a-tat-tat-tat-tat, that's the way it is, uhh
+
+[Bridge] - repeat 'til fade</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

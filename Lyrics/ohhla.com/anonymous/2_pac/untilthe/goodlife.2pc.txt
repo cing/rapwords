@@ -1,0 +1,132 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac f/ Big Syke, E.D.I.
+Album:  Until the End of Time (Disc One)
+Song:   Good Life
+Typed by: OHHLA Webmaster DJ Flash
+
+[2Pac]
+I was so money orientated, initiated as a thug
+Fiendin for wicked adventures, ambitious as I was
+Picture a nigga on the verge of livin insane
+I sold my soul for a chance to kick it and bang
+Now tell if I'm wrong
+but sayin "Fuck the world" got you deeper in my songs
+Drinkin 'til I earl, spendin money 'til it's gone
+It's the good life - maybe niggaz got it goin on
+Now maybe if I died, and came back, wouldn't have to slang crack
+Addicted to the game, so obviously we came strapped
+Please forgive me for my wicked ways, fuck a bitch
+Bad Boy niggaz eat a dick a day, bumpin this
+Lord have mercy it's a slaughter
+So wicked that my tracks is wettin niggaz like it's water
+I learned my lessons as a thug in these wicked ass hood fights
+But I'm a baller now, nigga, I live the good life
+
+[Chorus]
+This is the good life, fuck my foes
+God bless the dumb niggaz that, trust them hoes
+Found a way to stack money guaranteed to rise
+and live the good life, cause thug niggaz don't die
+We live the good life, fuck my foes
+God bless the dumb niggaz that, trust these hoes
+Found a way to stack money guaranteed to rise
+and live the good life, cause thug niggaz don't die
+
+[Big Syke]
+No one knows what the, future holds, but you
+Haha.. listen close
+They say reach in yo' heart and you'll find your mind
+Every day in the streets, got my foresight blind
+My after time is narrow, peepin down the barrel of a foe
+Just a nigga or a killer I don't know so
+who makes the call will I fall a victim like the rest?
+Slug in the chest, one in the dome and make sure I'm gone
+Send me home all alone in these cold streets
+In desperation constantly drinkin and I can't sleep
+Neck deep strugglin tryin to survive
+SOme wanna die I wanna stay alive, eyes on the prize
+Let me modify this whole region
+I declare this sucker duckin season, give me the reason
+why I should change, into a softie
+.. after living so loftily
+It cost me my soul out of control in a devil's world
+Me, my niggaz, and my girl - livin the good life!
+
+[Chorus]
+
+[E.D.I.]
+I spend my days and nights not knowin if, strays in flight
+gon' finally catch me, it's the good life, can you hear me?
+Clearly over the edge, soon as I wake up
+Last night we off the hook, doin way too much
+But it's the fast lane only, big dealin big ceiling
+All for the money, some kill some squeal
+All for the money, most ain't even real
+but we still call 'em homies, now what the fuck is that?
+Fake love, fake thugs are, all in the game
+I watch 'em all plot and fall while we come up and gain
+Outlaw never surrender is the call when you hear us comin
+Better start to get to runnin 'fore my click get to gunnin
+Still in the midst of all the stress and pain
+I'm still tryin to get a hold of the game, livin that good life
+
+[Chorus] - 2X (w/ minor variations)</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

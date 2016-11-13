@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z f/ Justin Timberlake
+Album:  Magna Carta... Holy Grail
+Song:   Holy Grail
+Typed by: Nickolye16@aol.com 
+
+[Justin Timberlake]
+You'd take the clothes off my back, and I'd let you
+You'd steal the food right out my mouth, and I'd watch you eat it
+I still don't know why... why I love it so much
+{"Thanks for warning me"} Ohhhh {"Thanks for warning me"}
+You curse my name, in spite, to put me to shame
+Air my laundry in the streets, dirty or clean, give it up for fame
+But I still don't know why (don't know why) why I love it so much
+{"Thanks for warning me"} Yeah {"Thanks for warning me"}
+
+[Chorus: Justin Timberlake]
+And baby, it's amazing I'm in this maze with you
+I just can't crack your code
+One day you're screamin you love me loud
+The next day you're so cold
+One day you're here, one day you're there
+One day you care, you're so unfair
+Sippin from your cup 'til it runneth over
+Holy Grail
+
+[Jay-Z]
+Uhh uhh
+Uhh, Blue told me remind you niggaz
+Uhh, fuck that shit y'all talkin 'bout, I'm the nigga
+Uhh, caught up in all these lights and cameras
+Uhh, but look what that shit did to Hammer
+Uhh, God damnit I like it
+The bright lights is enticin, but look what it did to Tyson
+All that money in one night, 30 mil' for one fight
+But soon as all that money blows, all the pigeons take flight
+Fuck the fame, keep cheatin on me, what I do? I took her back
+Fool me twice that's my bad, I can't even blame her for that
+Enough to make me wanna murder, momma please just get my bail
+I know nobody to blame, Kurt Cobain, I did it to myself - uhh
+
+[Justin Timberlake + Jay-Z]
+And we all just, entertainers
+And we're stupid, and contagious
+Know we all just, entertainer-r-r-r-r-r-r-r
+
+[Chorus]
+
+[Jay-Z]
+Now I got tattoos on my body, psycho bitches in my lobby
+I got haters in the paper, photo shoots with paparazzi
+Can't even take my daughter for a walk, see 'em by the corner store
+I feel like I'm cornered off, enough is enough, I'm callin this off
+Who the fuck I'm kiddin though? I'm gettin high, sittin low
+Slidin by in that big body, curtains all in my window
+This fame hurt but this chain works, I think back, you asked the same person
+if this is all you had to deal with, nigga deal with it, this shit is ain't work
+This light work, camera snappin, my eyes hurt
+Niggaz dyin back where I was birthed, fuck your iris and the IRS
+Get the hell up off your high horse, you got the shit that niggaz die for, dry yours
+Why you mad? Take the good with the bad, don't throw the baby out with that bath water
+You're still alive, still that nigga
+Nigga you survived, you still gettin bigger
+Nigga livin the life, vanilla wafers in a villa
+Illest nigga alive, Michael Jackson's "Thriller"
+
+[Chorus] w/ ad libs
+
+[Justin Timberlake]
+You get the air out my lungs whenever you need it
+And you take, the blade right out my heart, just so you can watch me bleedin
+I still don't know why (don't know why) why I love you so much
+{"Thanks for warning me"} Yeah {"Thanks for warning me"}
+And you play this game, in spite, to drive me insane
+I got it tattooed on my sleeve forever in ink, with guess whose name
+But I still don't know why (don't know why) why I love it so much
+{"Thanks for warning me"} Yeah {"Thanks for warning me"}
+
+[Chorus] w/ ad libs
+</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

@@ -1,0 +1,122 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan
+Album:  Iron Flag
+Song:   Iron Flag
+Typed by: OHHLA Webmaster DJ Flash
+
+[Intro/Chorus: Raekwon]
+Murder one of y'all niggaz..
+Get to hurtin one of y'all niggaz..
+Bitches, snatch the shirt off one of y'all niggaz
+
+[Raekwon the Chef]
+... kick dirt
+Color glocks splitters just listen there's UFO visitors
+Fly paintings remainin, reclinin pro-comissioner
+One boot off he Rudolph, know he hyped flew off
+Hibernatin, dead in the makin, ear-rake him, gear-rake him
+Technician murderer, Wu hit the universe
+Our words is crush, fingers icy slush, ringers wants Mercedes bust
+Tip bottles, Movado, sailin in some Wu googles you follow
+Mail and jail letters, sendin niggaz lottos
+What made you murder my flow, what made you rival my clothes
+What made you -- fuck it, yo son these niggaz gotta owe
+I think a lot of flows, I flip exotic hoes
+We paintin pictures if it's (?) I seen a lot of those
+Gettin fly with Ghost, power just buy the boats
+RZA your vision is exquisite, daddy hide your scrolls
+Platonic chronic shows, tonic prose
+Off the meter Panasonic know, son line me a ho
+
+[Masta Killa]
+Devestatin shockwaves strikin the nation
+Newsflash, warn the people, assassination
+The hour of detonation, pure untampered or mixed in any form
+In any form mixed untampered it's pure
+Dissect each line of the rhyme
+Find my ingredients and nutrients
+Teach patience and obediance before movement
+Killer bee student enrollment
+I'm out your control and expose if it's synthetic
+Quote these plush degrees as I inject, there's many at risk
+Slang therapist Shallah Rae
+Bless the people, with magnificent wordplay
+
+[Chorus]
+
+[Inspectah Deck]
+Aiyyo you know the half, some get respect, most we show the path
+They quoted tracks while we spoke math, blowin fast
+Expose the craft, first picks chosen in the draft
+I don't flash, hoes love me cause I hold a stash
+Known to blast, paramedics couldn't close the gash
+Floatin past in a 'Nail with the oak dash
+Show the cash, watch it blow in half, it's no fair
+They goin mad, check their tape recorders and their notepads
+Crabs wanna play me close and grab
+Can't believe you on the canvas, I'm just throwin jabs
+Where the powers you supposed to have, hand in your soldier rag
+You posin bad, show your ass son, you won't last
+With heavy weights that elevate the whole mass
+Compose a smash, rollin grass at Ghost lab
+
+{*samples scratched: "drink to your new life.. iron flag brothers"*}</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

@@ -1,0 +1,148 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z f/ Blackstreet
+Album:  In My Lifetime, Vol. 1
+Song:   The City is Mine
+Typed by: OHHLA Webmaster DJ Flash
+
+[Jay-Z]
+Uh-uhh-uh, ge-ge-geyeah
+
+Chorus: Blackstreet
+
+You belong to the city (Uh-uhh-uh, what what)
+You belong to the night (Uh-uhh-uh, ge-ge-geyeah)
+In the river of darkness
+He's a man of the night
+
+Verse One: Jay-Z
+
+Uhh, yeah
+What the deal playboy, just rest your soul
+I be holding it down yo still love the dough
+Got these ladies on the cock now you know how we go
+Got the whole world on lock down you know how we flow
+Don't worry about Brooklyn I continue to flame
+Therefore a world with amnesia won't forget your name
+You held it down long enough, let me take those reigns
+And just like your spirit the commision remains
+Niggaz can cross the T's and, dots the I's
+Now that I got too popular to cop them pies
+I'm takin this rap shit serious, to my demise
+Jay shit's like cake mix, watch me rise
+Basics in the basement, waste it
+Asking my dog for advice so when he can't say shit
+my hatred is, fueled just give me a sign
+And I let the world know that the city is mine, what?
+
+Chorus: Blackstreet
+
+You belong to the city (The city is mine, what-what-what)
+You belong to the night (Ge-ge-geyeah, uh-uhh-uh, pa-pau)
+In the river of darkness
+He's a man of the night (The city is mine, that's right...)
+
+Verse Two: Jay-Z
+
+Y'all want to know how I flow just seek and you find
+I'm like a brain in the voicebox, I speak my mind
+About to redefine rap mami, either I'm
+the illest nigga doing it or these niggaz is losin it
+I read a article that said I was ruinin shit
+But every time I look, I'm movin units in quick
+So I'ma hit y'all, with these last two and split
+and leave niggaz with nothing but my influences-es
+Soon it's the Jigga, I ain't mad yeah, bite my shit
+Sell half of what I sell because it's not quite my shit
+I'm the type to buy a Roley and just ice my shit
+on the spot, fuck comin back twice to shit
+How real is that?  My floss game, still intact
+Boss game, you lame dudes can't feel that
+Like the first dude to cop the 850 and 89
+and drove it up to 55th, the city is mine, what?
+
+Chorus: Blackstreet
+
+You belong to the city (The city is mine)
+You belong to the night (Yeah, uhh, the city is mine)
+In the river of darkness (Pa-pa, feel me)
+He's a man of the night (Yeah, yeah, bounce, bounce)
+
+Verse Three: Jay-Z
+
+I snatch your girl cause your arm ain't strong enough
+Plus ya don't stay in the studio long enough
+I make hits while y'all stay hatin and take bricks
+Had it locked til I came in the club, Take 6
+Got your chick cause you swore she was innocent
+Got her a Chinese manicure hair done by Dominicans, all for what
+So I could be in a dark corner, all in the butt
+at the bar alchoholing her up
+I represent the lifestyle of those who thirst cream
+A buck fifty a shot, Louis the Thirteenth
+Jay-Z, Roc-A-Fella yo, know the name
+I ain't a player get it right, I'm controllin the game
+From now until they blow holes in my frame
+I'ma stand firm, holdin my aim, feel me?
+I'm the focal, point like Biggie in his prime
+on the low though - shhhhh, the city is mine!
+
+Chorus w/ variations to end</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

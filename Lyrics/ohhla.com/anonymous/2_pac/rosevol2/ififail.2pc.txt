@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Tupac Shakur ~ Dead Prez
+Album:  The Rose Vol. 2 *
+Song:   If I Fail
+Typed by: compbuttons@hotmail.com
+
+* Poems written by Shakur as ~ interpreted by other artists
+
+[Repeated 6x, Repeated under hook]
+There was a little and a pur... [*BEEP*]
+Through two Suburbans and... [*BEEP*]
+
+[Hook x2]
+Word is bond, bond is life
+I give my life before my word shall fail
+A soldier's oath, freedom of death
+And I won't stop if I fail
+
+[Verse 1]
+If I fail get back, can't be soft got to be tough
+If I fall get back, can't be soft got to be tough
+If I fail get back, can't be soft got to be tough
+If I fall get back, can't be soft got to be tough
+
+Failure, it's not an option
+Real recognize real let's get it poppin'
+With mathematics you can solve any problem
+That's how we make it from the top to the bottom
+Keep ya head up homie and stay confident
+It's negativity around but I'm positive
+Cuz I'm givin' everything that I got to give
+Stayin' true to myself, that's how I keep it real
+
+[Hook x2]
+
+[Verse 2]
+If I fail then I'll rise
+Like a phoenix before yo eyes
+Out the ashes and from the dirt
+Report for duty and put in work
+Eternal life, an iron will
+Man sharpens man, steel sharpens steel
+The hate you gave, we turn to love
+Rest in peace, one thug one love
+
+[Verse 3]
+We can't be stopped if we don't give up
+Even though they hold us back we still find ways to come up
+A lot of people make promises with no plans to keep 'em
+But me, no matter what I'm ridin' till I get my freedom
+If I fail, then it's only a challenge to go harder
+Don't want to be no martyr so I adapt to things smarter
+It's death before dishonor
+And I put that on my son and my momma
+And don't take it as a threat, that's a promise
+
+[Hook x2]
+
+[Verse 4]
+If in my quest to achieve my goals
+I stumble or crumble or even lose my soul
+Those that knew me would easily co-sign
+That there was never a life as hard as mine
+No father, no money, no chance, no God
+I only follow my voice inside
+If it guides me wrong and I do not win
+I learn from mistakes and try to achieve again
+Dedicated to the youth, the truth is the seed
+The stronger the root, the stronger the tree
+If we eat from the fruit, the stronger we be
+If we do it today, tomorrow we free
+
+[Hook x4]
+
+[Spoken]
+Yeah, y'all put ya twos up for Tupac
+Dead Prez collaboration
+It's only two choices man, ball or fall
+Rose that grew from concrete
+And we still growin'</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

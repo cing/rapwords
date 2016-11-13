@@ -1,0 +1,138 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z
+Album:  When the Money Goes 12"
+Song:   When the Money Goes
+Typed by: j.malik.b@gmail.com
+
+[Chorus]
+When the money goes, will the honeys stay?
+When the grey skies replace the sunny days
+Hey, hey, hey
+
+When the top back, I know I got that
+But when I'm locked up...
+...Guru, let me get that again
+
+[Chorus x2]
+When the money goes, will the honeys stay?
+When the grey skies replace the sunny days
+Hey, hey, hey
+
+I got it now...
+
+[Verse 1]
+When my top back, I know I got that
+But when I'm locked up, and I'm not back
+And I collect call, will she accept that?
+Will she stay down, through my setbacks?
+Through my downfalls, and my downpours
+When them FBI boys is coming down for us
+I know you riding with a nigga through the Gucci store
+All through Prada, but what if I had nada?
+Would the babe even bother if the block got hotter?
+In the never-ending game that puts the cops versus robbers?
+Am I in clouds or are you just along for the ride?
+When I'm blasting out the window, will you grab the wheel and drive?
+
+[Chorus x2]
+When the money goes, will the honeys stay?
+When the grey skies replace the sunny days
+Hey, hey, hey
+
+[Verse 2]
+When I fall off, and the drought hits
+And it knocks me, out new outfits
+And the charm you got gotta hit the pawn shop
+And you feel like crying, but be strong and stop
+It was all good just a week ago
+Now I'm wearing the same clothes a week in a row
+Trying to scratch back
+Would she take a little check from her little job like,
+"Nigga, you can have that"
+You had belief in me, or would you beef with me?
+Is the good life the only thing you needed from me?
+Would she roll out? Is she so out when the stoves out?
+Or will she hold out?
+
+[Chorus x2]
+When the money goes, will the honeys stay?
+When the grey skies replace the sunny days
+Hey, hey, hey
+
+[Verse 3]
+And your friends know what Hov get it in for
+But let's just say that I didn't ride Benzo
+Would you say, "Girl, why you still with him for?"
+And if so, babe, why you around them hoes?
+All they see is paper, not potential
+And they don't have a nigga's back when he's in limbo
+And I ain't asking you to do a life bid with me
+I don't want you to die for me, baby, live with me
+I'm just saying, when the going gets rough
+Don't forget all the shines at the time I was showing up
+Show me the same love you showed me when blowing up
+You told me it was Roc for life, then throw it up
+
+[Chorus x2]
+When the money goes, will the honeys stay?
+When the grey skies replace the sunny days
+Hey, hey, hey</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

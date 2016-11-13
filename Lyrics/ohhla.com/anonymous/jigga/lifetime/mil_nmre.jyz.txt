@@ -1,0 +1,136 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z
+Album:  In My Lifetime, Vol. 1
+Song:   Intro/A Million And One Questions/Rhyme No More
+Typed by: OHHLA Webmaster DJ Flash
+
+[somebody whispering]
+Somebody's pulling me closer to the ground
+I ain't panicked, I been here before
+Seems like only yesterday when I got up on that stage
+In front of that crowd
+And showed them who was who, and what was what
+Man look at these suckers
+I ain't no rapper, I'm a hustler
+It just so happens that I know how to rap
+Okay, I'm reloaded!
+(music drops in)
+
+[Jay-Z]
+I did it again niggaz
+Fucked up, right?  I know
+I know what y'all niggaz asking yourself
+Is he gonna ever fall off?
+No...
+
+...a lot of speculation
+on the monies I've made, honeys I've slayed
+How is he for real?  Is that nigga really paid?
+Hustlers I've met or, dealt with direct
+Is it true he slay the beef and slept with a tech?
+What's the position you hold?  Can you really match
+a triple platinum artist buck by buck by only a single goin gold?
+Roc-A-Fella ship fold, and you're left out in the cold
+Is it back to charging motherfuckers 11 for an O
+For the millionth time askin me
+Questions like Wendy Williams, harrassin me
+then get upset when I catch feelings
+Can I get a minute to breathe?  And in that minute you leave
+While I'm looking at my Rol' ice spinnin on my sleeve
+Uh, nice watch, do you really have a spot?
+Like you said in Friend or Foe and if so, what block?
+What you doin in L.A., with phillipinos and ese's
+Latinos and Cheve's, down by Pico withh Frederico
+I answer all your questions but then y'all got to go
+Now the question I ask you is how bad you want to know? BLAOW!
+
+Roc-A-Fella y'all, uhh, uh
+Know my style
+
+Motherfuckers can't rhyme no more, bout crime no more
+Til I'm no more, cause I'm so raw
+My flow expose holes that they find in yours
+Wasn't for me, niggaz still be dying for whores
+But I hate when a nigga sit back, admirin yours
+Young blood you better get that, we frying baccars
+Niggaz don't want to be confined to riding the iron horse
+And don't listen to the rappers, they dying to floss
+I used to be O.T., applyin the force
+Shoot up the whole block, then the iron I toss
+Come back with the click playing Diana Ross
+I'm the boss and this is how it's gonna be
+Burnt the turnpike, wild miles on the V
+I got mouths to feed till they put flowers on me
+And kiss my cold cheek, chicks crying like I was Cochise
+Tombstone read 'He Was Holdin No Leaks'
+Started from the crack game and then so sweet
+Freaked it to the rap game, Jigga the old-G
+On MTV, telling em how I sold D
+And used to back work up out of apartment 4-B
+Me and my homie, started out coldies
+Picked the mailbox lock cause I ain't have no key
+Had the cable with the anchor when Jaz made 'Sophie'
+Then I went low key, but now I'm back it's on
+Motherfuckers
+Jigga, uh-huh, yeah
+Roc-A-Fella y'all
+Uhh, feel this</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

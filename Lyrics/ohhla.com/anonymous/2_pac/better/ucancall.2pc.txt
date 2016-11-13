@@ -1,0 +1,132 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac f/ Jazze Pha
+Album:  Better Dayz (Disc Two)
+Song:   U Can Call
+Typed by: OHHLA Webmaster DJ Flash
+
+[Verse One: 2Pac]
+Dear baby you the picture of perfection
+Straight from your million dollar smile
+to my attraction to your complexion
+No hesitation needed; you got me
+inhalin the aroma of your perfume, and feelin heated
+I move closer to drop the lines of my introduction
+Hold out my hand, and grab yo' hand, now we touchin
+My lyrics are poetry
+So baby get a ticket to go with me
+Thugged out so you notice me
+It's a positive attraction; see pictures of us
+layin butt-naked on the beach kickin back relaxin
+And only you can calm, the savage beast
+Look in my eyes are you surprised, that it's me?
+I wanna make you mine
+I'm kissin on you tryin to make it different every time (that's right)
+I'm so lonely in my bedroom, lookin at the walls
+Withcha number in my hand, wonderin should I even call her tonight
+
+[Chorus: Jazze Pha]
+Anytime you like, baby you can call me
+Need a thug up in yo' life, never find nobody like me
+Cause I know what you want, and girl you know I got you
+You got what I need, and shorty it's all on you
+Baby call on me
+
+[Verse Two: 2Pac]
+Been gettin nuttin but bad news, ever since the day you left me
+I sit and wonder is there a way, you could forget me
+Remember my phone calls, my late visits
+Us havin breakfast in bed, then we straight kick it
+Me and you in satin sheets, 'til after two
+Come take a walk on the wild side, enjoy the view
+Whenever we collide; it's bound to be a pleasurable time
+Makin love 'til the early light
+Sweetheart don't fight the feelin
+Come get a shot of this plain dealin and concentrate on the ceiling
+It's my intention to brush up
+Beware of the fireworks, cause everytime we touch..
+.. it's bound to be, so relax, clown with me
+As if you're down with me, get around and see
+The brother with tattoos and no fears
+Runnin my fingers through your hair if you call me
+
+[Chorus]
+
+[Verse Three: 2Pac]
+Pardon me, but let's be specific
+Baby cause if you down with me, nigga we can kick it
+And let's take trips and ride airplanes
+A hundred thousand dollar car on dem gold thangs, so can you hang?
+Cause we can be real tight (right)
+I got a big suite at the hot', if it feel right
+My only wish is to be witcha
+You got me steady strivin to getcha
+Fantasizin of friendly pictures
+The pressure's gettin major
+I wonder will you answer my call, if I page ya
+Got me goin wild with anticipation
+Face to face with us locked up in strange places, what will it take
+Cause the heartache be heatbreak, is my prediction
+when you falsify and start fake, in my position
+I'm a careful man, but a player when I ball
+Got my eyes on you baby, can I call?
+
+[Chorus] - repeat 2X</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan
+Album:  The W
+Song:   Clap *
+Typed by: goldenarms_10304@yahoo.com
+
+* bonus track right after "Jah World"
+
+[Raekwon]
+Call it the Hollow Bone syndrome line
+Select sweet nine, face this, watch his whole face lift
+Bracelets, murder niggas, luxurious, banks I was draped
+Caked out, half a million dollars in coats
+Flows is genetic, the Corleone connection in all
+Selection, stock brokers with coats on
+Make coke suggestion, all twin glizzies
+Fireman, Gucci boots on, sideways action, murder niggas fear me yo
+Cash that he did Clinton, rentin his mother crib out
+We send organize the Bill of Rights get lid
+Drugs that Hendrix was on, conversatin like the Dutch
+Richie Conaway, Goodfellas who honor Rae
+Flows that blow thru your roll and Holland
+Everybody now, trip up niggas, in clicks we posin rhyme black
+Half the year, half my niggas sittin upstairs
+Takin pictures of ya niggas wack gear
+
+[Chorus: Ghostface Killah (U-God)]
+Listen to the (Clap)
+Real niggas (Clap)
+Rich niggas (Clap)
+My bitches (Clap)
+If you love pussy then y'all niggas (Clap)
+If you love to get ate, then ya ladies (Clap)
+If you real fucked up, then ya'll niggas (Clap)
+If you bare witness to Allah y'all (Clap)
+Aiyo you see me on the big screen y'all niggas Clap
+(Jeans with a gangster lean, y'all Clap)
+Good hats, sloppy automatics that Clap
+(Big shit, thunder) Get around that
+
+[Ghostface Killah]
+Porcelain floors with a dog named Ginger
+Bottle cap niggas that rhyme, we the winners
+Then slide thru your hood in hoods
+Me, Cliff, Patrick, Gary Grice and my man C. Woods
+Holdin up gorilla, two niggas got a hold that shit
+One shot and ya mans on it
+The little kids watch from down the block
+Jury box, murder hop, six stash botch, fit hit the ran spots
+Spit at the statue with cash and throw dough at it
+Fuck bitches raw, why? cuz I'm a pro at it
+Big birds danglin, cameras snatch, flash and pop from every angle and
+2000 Mark Damon'in
+
+[Hook: Method Man]
+Clap ya hands now, Clap, Clap ya hands now, Clap, Clap
+Clap, Clap ya hands now, Clap, Clap, Clap ya hands now
+People Clap ya hands
+
+[Method Man]
+I drink till I'm drunk, 
+smoke skunk with my stinkin ass, smell the funk
+Eekin out the pours, cum stain, shitty drawers
+Pissin down ya elevators shaft, no class, writin graf' on ya walls
+It be us, fuck ya law, niggas my cause is "because"
+No yin to my yang, it's a black thing
+Used to be in chains, now we snatch chains
+Took the crack game applied it to the rap game, y'all
+Pop quiz, now, what artist hits the hardest?
+Ya down with the syndrome: retarded
+I think it was them swordsmen, 
+place them chess pieces on the boards and
+Take it to square, this ain't no Yakool affair
+Or a New World Disorder, got us, fuckin the coal miner's daughter
+That y'all, but not us
+
+[Chorus]
+
+[Outro: kung fu sample]
+During this time, I intend to teach you the Shaolin poem
+The rules and commandments, that void, deceit
+Cruelty and unkindness, always help the weak
+Never despise the poor, always respect yourself</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

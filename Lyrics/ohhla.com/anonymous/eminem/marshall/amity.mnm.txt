@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Eminem f/ Bizarre (D-12)
+Album:  The Marshall Mathers LP
+Song:   Amityville
+Typed by: OHHLA Webmaster DJ Flash
+
+	(kill kill kill)
+Dahh-dum, dahh-dum.. dum
+Dahh-dum, dahh-dum, duh-da-da-da-da
+	(kill kill kill)
+Dahh-dum, dahh-dum.. dum
+Dahh-dum, dahh-dum, dumm..
+	(kill kill kill)
+
+Chorus: Eminem
+
+Mentally illll from Amityvilllle (ILLLL)
+Accidentally killll your family stillll
+Thinkin he won't?  God-damnit he willll (HE'SSSS)
+Mentally illll from Amityvilllle 
+
+[Eminem]
+I get lifted and spin til I'm half-twisted
+Feet planted and stand with a grin full of chapped lipstick {*SMACK*}
+Pen full of ink, think sinful and rap sick shit
+Shrink pencil me in for my last visit
+Drink gin til my chin's full of splashed whiskers {*whoosh*}
+Hash whiskey and ash til I slap bitches {*smack*}
+Ask Bizzy, he's been here the past six years
+Mash with me you'll get in imagine this
+
+Chorus 2X
+
+[Bizarre]
+I fucked my cousin in his asshole, slit my mother's throat
+{*AHHHHHHHH!*} Guess who Slim Shady just signed to Interscope?
+My little sister's birthday, she'll remember me
+For a gift I had ten of my boys take her virginity
+{*Mmm mm mmm!*} And bitches know me as a horny-ass freak
+Their mother wasn't raped, I ate her pussy while she was 'sleep
+Pissy-drunk, throwin up in the urinal (YOU FUCKIN HOMO!)
+That's what I said at my dad's funeral
+
+Chorus 2X
+
+[Eminem]
+That's why the city is filled with a bunch of fuckin idiots still (still)
+That's why the first motherfucker poppin some shit he gets killed (killed)
+That's why we don't call it Detroit, we call it Amityville ('Ville)
+You can get capped after just havin a cavity filled (filled)
+Ahahahaha, that's why we're crowned the murder capital still (still)
+This ain't Detroit, this is motherfuckin Hamburger Hill! (Hill!)
+We don't do drivebys, we park in front of houses and shoot
+and when the police come we fuckin shoot it out with them too!
+That's the mentality here (here) that's the reality here (here)
+Did I just hear somebody say they wanna challenge me here?? (huh?)
+While I'm holdin a pistol with this many calibres here?? (here??)
+Plus some registration that just made this shit valid this year? (year?)
+Cause once I snap I can't be held accountable for my actions
+That's when accidents happen,
+when a thousand bullets come at your house
+and collapse the foundation around you and they found you
+and your family in it (AHHHHH!) 
+GOT DAMNIT HE MEANT IT WHEN HE TELLS YOU
+
+Chorus 2X
+
+Dum, tahh-dum.. ta-dah-da
+Dum, tahh-dum.. ta-dah-da
+Dum, tahh-dum.. ta-dah-da
+Dum, tahh-dum.. ta-dah-da
+Dum, tahh-dum.. ta-dah-da
+Dum, tahh-dum.. ta-dah-da
+Dum, tahh-dum.. ta-dah-da
+Dum, tahh-dum.. ta-dah-da
+Dum..</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

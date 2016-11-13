@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Kendrick Lamar 
+Album:  untitled unmastered.
+Song:   untitled 01 | 08.19.2014.
+Typed by: Cedmaster3K
+
+[Intro: male]
+Come here, girl
+Oh you want me to touch you right there?
+Ohh, like a little lamb, play in your hair
+Ahahah, oh you want it? 
+Oh you want it right now? Like that? 
+Ah, I got you baby
+Ahahah, all on you baby
+Ahahah, push it back on daddy
+Push it back on daddy baby
+Ahahahahaha...
+
+[Kendrick Lamar]
+I seen it vividly joggin' my brain memory
+Life no, I seen it vividly joggin' my brain memory
+Life no longer infinity, this was the final callin'
+No birds chirpin' or flyin', no dogs barkin'
+We all nervous and cryin', movin' in caution
+In disbeliefs our beliefs the reason for all this
+The tallest building plummet, crackin' and crumblin'
+The ground is shakin', swallowin' young woman
+With a baby, daisies and other flowers burnin' in destruction
+The smell is disgustin', the heat is unbearable
+Preachers touchin' on boys run for cover, the paranoid
+Rapists and murderers hurdle alleys
+Valleys and high places turn into dust, famous screamin' in agony
+Atheists for suicide, planes fallin' out the sky
+Trains jumpin' off the track, mothers yellin' "He's alive!"
+Backpedalin' Christians settlin' for forgiveness
+Evidence all around us, the town is covered in fishes
+Ocean water dried out, fire burnin' more tires out
+Tabernacle and city capital turned inside out
+Public bathroom, college classroom's been deserted
+Another trumpet has sounded off and everyone heard it
+(It's happenin') No more runnin' from world wars
+(It's happenin') No more discriminatin' the poor
+(It's happenin') No more bad bitches and real niggas
+Wishin' for green and gold, the last taste of allure
+I swore I seen it vividly, a moniker of war 
+from Heaven that played the symphony, thunder like number four
+Then I heard "What have you did for me?" I fell to my knees
+Pulled out my resume that dated back to June 17th
+1987, my paperwork was like a receipt
+I was valedictorian, I was fearful of judgment
+But confident I had glory in all my past endeavors
+Close my eyes, pray to God that I live forever
+Dark skies, fire and brimstone, some of us sent home
+Some of us never did wrong but still went to Hell
+Geez Louise, I thought you said that I'd excel
+I made "To Pimp a Butterfly" for you
+Told me to use my vocals to save mankind for you, say I didn't try for you
+Say I didn't ride for you, I tithed for you
+I pushed the club to the side for you, who love you like I love you? ...
+Crucifix, tell me you can fix
+Anytime I need, I'ma start jottin' everything in my diary
+Never would you lie to me, always camaraderie
+I can see our days been numbered
+Revelation greatest as we hearin' the last trumpet
+All man, child, woman, life completely went in reverse
+I guess I'm runnin' in place tryin' to make it to church...
+
+[Outro]
+Young nigga act an ass
+Young nigga act a fool
+Young nigga get yo' cash
+Young nigga do what it do
+Young nigga go, young nigga go
+Young nigga go, young nigga go
+Whatever makes all of you happy in this bitch
+Just take it all back before the light switch</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

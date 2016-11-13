@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Aesop Rock
+Album:  Appleseed
+Song:   Hold the Cup
+Typed by: yamomsucks@aol.com
+
+Verse One:
+
+And the saints come marching in
+Serpentine regime ordered by response sort of fell this population
+Caboose humming no fence me in a van with common patriots
+The parody plastered every red brick in site
+Where had to keep his plights from ticking
+I'm slipping my key and whim dim by dirty tap water and that
+Roach on my ceiling circular fins round a bed of pushpins
+Let's connect the thrill of volume to a flat earth
+J-walkin a hook the past just passed the mere dragon bandwagon passages
+I'm sorry, we've never met, my name is driftwood
+Thanks friend, good looking, I'll never see you again
+Feeding frenzy, catfish stomach, empty oceans
+Spangled in hooks dangle by anglers off the plank of burning books
+And if you're, not gonna eat that
+Kill joy inherited by spirits lacking harnesses
+Merchant, Goliath dipped in slip shy posture conceived evening
+So I feed idea turn sun dial to bastards son adopt the reroute dreaming
+Oh I'll ride the plain bow in flare gully yellow rain coat
+Heard a harp but sunny ways my lifeline searching for the same note
+Oh please, I know butterfly wings ain't fit to auction
+Dig my tossing sturdy walking head hung
+Skylark litigants strung out like cats straight up participants
+I am the triant diaries of a low life siphon through that vein
+Anti-diligence movement, here the hunger habitat
+Working class trash raped where racist hit their high
+I spy a toddler on the corner with her bubbles and her dipstick
+I witness the fusion of her breath and her amusement
+And it killed me and it stabbed me and it cut me clear open
+The notion that this child timid in her sins embraced pleasure
+Within a token of a moment, retless arrested but not a twirp
+Strip the Bonabo Disclosure, so close yet so much closer
+I'll take the hint but still she's never known cold
+Call me in twenty when those bubbles explode it's like that
+
+Verse Two:
+
+Back to back to back to stacking a brick match
+With the fact that I've sipped the dripping sap tap
+Casually out the limbs of captivated blends back
+Tracking the patterns that trim friends to thinning savages
+Take one down, pass it round among us
+Lick a tipper drink, drink, drunk, drunk, and drunkest
+But you quest tore your floorboards and the carpet turned marbles
+Naw the carpet turned charcoals and made skeletons of warlords
+Snake charmer, hate farmer, gave you the rations 
+With an eyedropper a poison passions hoist above the masses
+And interrupts homeostasis seeming flow scapes
+Like a symmetric snow flake visits and with her symmetry blizzards
+I'm sleepy, one wing more and I promise to pay homage
+To those who stand truly deserving and the list ain't long
+Sink or swim, ravalor ascension
+Even birds of our combines float if you let them
+They'll be dodging more than quiddles when the bowel breaks
+Note the affiction slip clip to your little visions into cloud shapes
+Oh my left hand is a brick layer my right hand is a plow face
+We build and destroy in response to every sound the crowd makes
+Sling blanks sprayed it with apathy magic balance
+On the palette of the almighty for painting the first half of me
+Honor find it with monster mashing in text casually
+On the palette of the almighty to paint the second fraction
+I'm collapsed under the relic rainbow with seven sepriet
+Succulent aqua marines hide the in by sweetest elixir
+Star heckler and leaders start gawking at yet another
+Real conceived green fetus beating parallel sterile fixture
+Urgent, the serge is like venom and over kill, kill, kill, kill
+The over spilled theory's all faucet
+For real, how many leaves your clover got? Mine's got eight
+Three for normalcy one for luck four more so you'll spot it from space</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

@@ -1,0 +1,120 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac f/ Hussein Fatal
+Album:  New Jersey D.O.C - Thugtertainment Compilation
+Song:   Reincarnation
+Typed by: chaloveli@gmail.com
+
+(Tupac talking)
+
+(Are you scared to die?)
+Is reincarnation
+(Are you afraid to die?)
+Reach the whole nation
+Me murderer?
+My only fear of death is reincarnation
+Uh
+
+(Chorus x2: Tupac)
+
+My only fear of death, is reincarnation
+I use my last breath, to reach the whole Nation
+How can they call me murderer for my spoken words?
+This composition be my prophecy I hope its heard
+
+(Verse One: Tupac)
+
+Hard words is spoken, many promises broken as if it's
+Useless to hope, they got me constantly smoking
+My role model was a cold bottle, of O.E.
+Surrounded by my closest homies but nobody knows me
+I pray to God it ain't easy
+half the cops in California got a hard on to squeeze me
+Running through the backstreets, hopping over fences trying to shake the
+fucking K-9s, run around senseless
+I'll probably be a mystery to many, but a legend to some
+I've been a man for many women, but a husband for none
+In case you see me out in traffic, looking nervous and high
+My hands, holding my pistols will they serve us or die?
+May God forgive me for my crooked ways, I didn't mean it
+Knew I'd fall in love with money the first day that I seen it?
+Maybe now they can understand, my occupation
+It's clear that my only fear of death is reincarnation
+
+(Chorus x2: Tupac)
+
+(Verse Two: Hussein Fatal)
+
+I keep my heater on safety
+I've been shooting rock's lately
+Everybody dies, they nickel plates don't penetrate me
+I was suppose to be the murder first to go
+Them niggas missed and raised my blicks and now it's personal
+They done told me that I was slipping got his strap and started tripping
+Slipped two clips on the table twist an L and said "Fatal listen"
+Everybody don't be missing keep your vest on baby
+And you know that shit can happen cause the Teflon crazy
+You ain't gotta pack a gat I got your back just keep the frontline
+Or you can solve that, go grab the Gat and get to gun shot
+Be we locked down, don't have your back in the county
+All he thought about was plastics and murdering bastards
+
+(Chorus)</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

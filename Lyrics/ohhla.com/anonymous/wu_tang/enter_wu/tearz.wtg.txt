@@ -1,0 +1,129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan
+Album:  Enter The Wu-Tang (36 Chambers)
+Song:   Tearz
+Typed by: OHHLA Webmaster DJ Flash
+
+Chorus: (sampled)
+
+After laughter, comes tears
+
+Verse One: The RZA
+
+Yo check yo yo, check the script
+Me and the gods get it ripped
+Blunts in the dip, forty dogs in my lip
+Had a box, 'Boom Boom' the bass will blast
+We was laughing, at all the girls that passed
+Conversation, brothers had begin to discuss
+(Hey yo, Ra, remember that kid ya bust?)
+Aw yeah, he ran, but he didn't get far
+Cause I dropped him, heh heh heh heh heh HA
+Not knowin, exactly what lied ahead
+My little brother, my mother sent him out for bread
+Get the Wonder, it's a hot day in the summer
+Didn't expect, to come across, a crazy gunner
+"Hey Shorty, check it for the bag and the dough"
+But he was brave, looked him in the eye, and said "No!!"
+Money splattered him, BOW! then he snatched the bag
+In his pockets, then he jetted up the Ave.
+Girls screamin, the noise up and down the block
+(Hey, Rakeem!) What? (Your little brother got shot!)
+I ran frantically, then I dropped down to his feet
+I saw the blood, all over, the hot concrete
+I picked him up, then I held him by his head
+His eyes shut, that's when I knew he was...
+Aw man!  How do I say goodbye?
+It's alway the good ones who have to die
+Memories in the corner of my mind
+Flashbacks, I was laughin all the time
+I taught him, all about the bees and birds
+But I wish I had a chance to sing these three words
+
+Chorus
+
+Verse Two: Ghostface Killer
+
+Me and my man, my ace big Moe from the shelter
+Bout to hit the skins, from this girl named Thelma
+Now Thelma had a rep, that was higher than her neck
+Every girl from Shaolin dissed her respect
+We was stimmy, you know how it is when you're blitzed
+Three o'clock in the morning, something gots to give
+Moe said he'll go first, I said I'll take next
+Here, take this raincoat, and practice safe sex
+He seemed to ignore, I said be for real
+She's not even worth it, to go raw deal
+A man's gonna do what a man's gonna do
+He got butt-naked and stuck the power U
+Twenty minutes went by, my man went out, without a doubt
+I'm not pumpin' up, I am, airin out
+Hey yo, he came out laughing with glory
+I'm surprised, he's still livin', to tell his story
+But he carried on, with the same old stuff 
+with Stephanie, like a whammy, he pressed his luck
+Both tried to be down with O.P.P.
+Ain't nuttin' wrong but he got caught with the H.I.V. now
+No life to live, doc says two more years
+So after the laughter, I guess comes the tears
+
+<Chorus X2></pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

@@ -1,0 +1,137 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Linkin Park & Jay-Z
+Album:  Collision Course
+Song:   Izzo/In The End
+Typed by: riku.reunamaki@kolumbus.fi *
+
+* Jay-Z lyrics from OHHLA.com originally
+
+[Mike Shinoda]
+This is fun
+
+Ladies and gentlemen let's put our hands together for the astonishing
+
+[Mike Shinoda]
+Welcome ladies and gentlemen to the 8th wonder of the world
+The flow of the century.. always timeless.. HOV'!
+Thank you for comin out tonight
+You coulda been anywhere in the world, but you're here with us
+We appreciate that
+
+[Verse 1: Jay-Z]
+Uh, H to the izz-O, V to the izz-A
+Fo' shizzle my nizzle used to dribble down in VA
+Was hurtin 'em in the home of the Terrapins; got it dirt cheap for them
+Plus if they was short with cheese I would work with them
+Brought in weed, got rid of that dirt for them
+Wasn't born hustlers, I was birthin 'em
+H to the izz-O, V to the izz-A
+Fo' sheezy my neezy keep my arms so freezy
+Can't leave rap alone, the game needs me
+Haters want me clapped and chromed, it ain't easy
+Cops wanna knock me, D.A. wanna box me in
+But somehow, I beat them charges like Rocky
+H to the izz-O, V to the izz-A
+Not guilty, he who does not feel me
+is not real to me, therefore he doesn't exist
+So poof -- vamoose, son of a bitch!
+
+[Chorus: Jay-Z]
+  H to the izz-O, V to the izz-A
+Fo' shizzle my nizzle used to dribble down in VA
+  H to the izz-O, V to the izz-A
+That's the anthem get'cha damn hands up
+  H to the izz-O, V to the izz-A
+Not guilty y'all got to feel me
+  H to the izz-O, V to the izz-A
+
+[Verse 2: Mike Shinoda (with Chester Bennington)]
+Check it out, yo
+(It starts with one)
+One thing, I don’t know why
+It doesn’t even matter how hard you try
+Keep that in mind I designed this rhyme
+To explain in due time, (All I know)
+Time is a valuable thing
+Watch it fly by as the pendulum swings
+Watch it count down to the end of the day
+The clock ticks life away and (It’s so unreal)
+I didn’t look out below
+I watch the time go right out the window
+Trying to hold on, and didn’t even know
+I wasted it all just to (Watch you go)
+I kept everything inside and even though I tried, it all fell apart
+What it meant to me will eventually be a memory of a time when I tried, so
+
+*Scratches*
+1 - H to the izz-O, V to the izz-A
+2 - LP, Jay-Z, help me up
+3 - Oh they havin good old time out there
+4 - It starts with
+5 - Ye-Ye-Yes!
+6 - The ladies and gentleman
+
+1, 2, 3, 4
+1, 2, 3, 4
+1, 2, 5, 6, 4
+1, 3
+</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

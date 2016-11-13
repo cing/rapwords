@@ -1,0 +1,145 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z
+Album:  Don't You Know (Promo) 12"
+Song:   Don't You Know
+Typed by: mensch25@hotmail.com
+
+
+Fresh from London... Paris, Germany...
+It's Euro-Jay... International Hov...
+Bon Shoir, muhfuckas!... We back...
+as if we never left this bitch... on top... it's worldwide...
+Still Just Blaze'in this shit up... 
+
+[VERSE 1]
+Every place I visit, I got land there
+How could niggas stand there
+Say I sound like them?  Hell no
+Push wigs back, push Bentley drops that's yellow
+Started from the elbow, nigga, from the get-go
+No, not the Geico, ain't nothin accidental
+Just the facts that I've been through
+Perhaps if you was into
+Half of the shit I've been through
+That'd make your pen move
+Your mind would open, your heart would bleed
+Instead y'all niggas flow oh so retardedly
+You sound retarded to me!  
+How could you stand there, pants near down to your ass, you wanna spar with me
+I'll put you down in the grass, it's the God MC, Young V-I-T-O
+Young'n, you are my hijo
+My son dula
+I clean the cess pool up
+Rap stinks 
+You cats are the sphinx
+You cut off your nose to spite your face
+Bet you like it that way don'tchya?
+
+[CHORUS]
+Don't you know?
+When you're defeated, young punk?
+Won't you throw
+Won't you throw in the towel, stop running your mouth
+Don't you know that we know you're just running your mouth 
+Cause when this shit pops off, we gonna run in your house
+Don't you know
+When you're defeated, young punk?
+Won't you throw?
+Won't you throw in the towel?  I'm better with vowels
+My vocabulary murders the dictionary
+Flow switches every 16, shits mean, man
+
+[VERSE 2]
+Shit, I'm heavy in the game
+I ain't worried bout a thing
+Last man standing
+Blam-blammin the cannon
+48 Hours, it's Reggie Hammond
+The colte, Nick Nolte
+My demeanor is Humphrey Bogey
+Baby, I'm comfy, cozy, my spot is solidified
+Roc-a-bye baby, I sing you a lillabye
+How ill am I?  BK to Philladi-
+Delphia! Niggas feelin how real am I
+Shit, I carry two taurus, niggas they call me gemini
+Though my birthday is one day before December 5
+It's S Carter, the archer, I throw darts at ya
+Arrows through your apparel, I will dearly depart ya
+It's clearly hard for ya, what God has bestowed on me
+You nah destroys me nigga; nigga I'm poetry
+In four part harmony, it's like Jodeci
+Check out my melody, my flow is a felony
+Oh, I'm so seventies, I'm in tune with the heavenly
+Governing body - Check, check, check out my destiny
+I walk leaving four footprints
+My hood sense
+My book smarts
+My faith of the unknown
+And a good heart
+What's seldom shown is the good part
+Like I said
+Try to bring em life, but they want dead
+You won't listen
+Hov is a nice guy, but you don't miss him
+That'll piss him off quick, you won't listen
+
+[CHORUS]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

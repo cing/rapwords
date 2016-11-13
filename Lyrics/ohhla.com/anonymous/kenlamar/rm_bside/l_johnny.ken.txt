@@ -1,0 +1,113 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Kendrick Lamar
+Album:  Little Johnny (S)
+Song:   Little Johnny
+Typed by: newos_crib_is@hotmail.com
+
+[Kendrick Lamar]
+Uh, yeah {*coughs*}
+Kendrick Lamar, uh
+
+Yeah I can reconcile being depressed real bad
+I'm a thinker, not a drinker, but still I Hennessy drag
+Alcohol numbs the pain like when novocaine stabs
+in your arteries, pardon me but my city go mad
+Via Compton California, corners with coroners and karma on 'em
+Colors corresponding to gangs upon us
+Common corrupted Crip and Pirus cripple the city
+Triple the crime, Bible nor the Qur'an can save
+Welcome, don't be afraid, your city similar right?
+Where the choppers kidnap the night and police silence your rights
+Stare at the sky, wonder will you live to see twenty-five?
+I'm twenty-two, at twenty I knew I was against the odds
+This kid named Jonathan was monitoring
+his momma and sister, his older cousin, he honored him
+Anonymous bodies on his burner was astonishing
+To Johnny, he might have been a modern day rider then
+he walking outside again, he see the lifestyle of an active member
+Pull out a MAC-11, now his eyes is big
+Fascinated by mayhem, what's his cousin to say now?
+He wanna be from the hood that he's from and that's one
+more gangster under the family tree, took 'em under his +wings+ like KFC
+Crip crazy, rocking matching T-shirts that says "the hood made me"
+No love, just spread slugs, that's the policy, the leader and the prodigy
+Now shorty doo-wop, holding a oowop, hanging with rah-rahs
+with blah-blahs that sit on the block catching fades and licks
+Going on missions with lunatics, a ninth-grade menace
+Thugging for six months, smoking like six blunts an hour
+The power of banging, he was walking from... {*gunshots*}
+Little Johnny
+
+[Outro: Malcolm X] + (Kendrick Lamar)
+"I think you'll find, sir, that there will come a time
+ when black people wake up and become intellectually independent enough to think for themselves
+ as other humans are intellectually independent enough to think for themselves
+ Then the black man will think like a black man and he will feel for other black people
+ and this new thinking and feeling will cause black people to stick together
+ And then at that point you'll have a situation
+ where when you attack one black man, you are attacking all black men
+ and this type of black thinking will cause all black people to stick together
+ And this type of thinking also will bring an end
+ to the brutality inflicted upon black people by (black people)
+ And it is the only thing that will bring an end to it
+ No federal court, state court or city court will bring an end to it
+ It's something that the black man has to bring an end to"</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

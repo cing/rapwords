@@ -1,0 +1,119 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan (Ghostface) f/ Action Bronson, Termanology
+Album:  Legendary Weapons
+Song:   Meteor Hammer
+Typed by: OHHLA Webmaster DJ Flash
+
+[Verse One: Ghostface Killah]
+Yo... yo~!
+I don't touch that swine, I want that unnecessary beef
+You smoke garbage buds, we smoke tons of Keith fishin
+Lookin for that big mouth bass and
+Flashin, jack your whole stash in, fashion
+Keep my goons lined in an orderly fashion
+It's glossy, with five hundred horsies in the Benz
+Tinted out to spend the night you ain't got ends
+Your funds is low stack, your bitch been a hoe Jack
+Still scoop her up, bring her home and blow that
+Cause Ghost be, mostly, lookin pretty toasty
+Front row at the Mayweather vs. Mosley
+with a Bin Laden bottle, a Brazillian model
+Got the paparazzi jumpin like I hit the lotto
+I party hard, like I'm fresh out of the cages
+Outrageous, like Charlie Sheen, out in Vegas
+
+[Verse Two: Action Bronson]
+Yo...
+You drop your pants at your ankles at the urinal at the ballgame
+I'm on the stool gettin brain from a tall dame
+Cause I'm five-eight, shorty like six-two
+Feed her coke, locked jaw like a pitbull
+I was born to rep, you fuckin with a hornet's nest
+Old shooters in the corner like porno set
+Young boys that be handlin the rock
+Chris Paul dish off, hammer in the sock
+Gold flakes in the Goldschlager
+The ammo green XJ-12, you know the old Jaguar
+Got the birchwood lacin the interior
+Poppy bagels gettin flavored out with Syria
+Only the farm's best laced plates, cheese that reach maturity
+Dick sucks from Shannon Doherty
+Take your temperature anally and orally
+Make a batch at home and strizzle royally with oil B
+
+[Verse Three: Termanology]
+Hopping out the Rolls Royce, rolls gold nouveau
+Diamond studded shoes so, flyest nigga you know
+Puerto Rican version of Scarface, fuck what the Gods say
+Disrespect, piss in your broad's face
+Chains stay chunky like Oprah belly
+Got the purple and the brown - peanut butter and jelly
+When I step up in the spot with the rocket
+you see the popular poppin rappers go in they pocket and pull out they wallet
+When I click-clack, now, get up on the ground
+Cause I Onyx, Pete Rock, Chuck D, "Shut 'Em Down"
+You know Term' I'm the kid with the Preem beats
+Butter pecan J-Lo kid with the mean cheeks
+Rubies on my gold fronts, iced out notebook
+Making volcanos in the kitchen when the coke cook
+I rode around with all kinds of thugs
+High on drugs, pissin out tiger blood</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

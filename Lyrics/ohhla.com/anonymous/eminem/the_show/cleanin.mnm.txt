@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Eminem
+Album:  The Eminem Show
+Song:   Cleanin Out My Closet
+Typed by: OHHLA Webmaster DJ Flash {with help from liner notes}
+
+[Intro]
+Where's my snare?
+I have no snare in my headphones - there you go
+Yeah.. yo, yo
+
+[Eminem]
+Have you ever been hated or discriminated against?
+I have; I've been protested and demonstrated against
+Picket signs for my wicked rhymes, look at the times
+Sick as the mind of the motherfuckin kid that's behind
+all this commotion emotions run deep as ocean's explodin
+Tempers flarin from parents just blow 'em off and keep goin
+Not takin nothin from no one give 'em hell long as I'm breathin
+Keep kickin ass in the mornin and takin names in the evenin
+Leave 'em with a taste as sour as vinegar in they mouth
+See they can trigger me, but they'll never figure me out
+Look at me now; I bet ya probably sick of me now ain't you momma?
+I'ma make you look so ridiculous now
+
+[Chorus: Eminem]
+I'm sorry momma!
+I never meant to hurt you!
+I never meant to make you cry; but tonight
+I'm cleanin out my closet (one more time)
+I said I'm sorry momma!
+I never meant to hurt you!
+I never meant to make you cry; but tonight
+I'm cleanin out my closet
+
+[Eminem]
+Ha! I got some skeletons in my closet
+and I don't know if no one knows it
+So before they thrown me inside my coffin and close it
+I'ma expose it; I'll take you back to '73
+before I ever had a multi-platinum sellin CD
+I was a baby, maybe I was just a couple of months
+My faggot father must have had his panties up in a bunch
+cause he split, I wonder if he even kissed me goodbye
+No I don't on second thought I just fuckin wished he would die
+I look at Hailie, and I couldn't picture leavin her side
+Even if I hated Kim, I grit my teeth and I'd try
+to make it work with her at least for Hailie's sake
+I maybe made some mistakes
+but I'm only human, but I'm man enough to face them today
+What I did was stupid, no doubt it was dumb
+But the smartest shit I did was take the bullets outta that gun
+Cuz I'da killed him; shit I woulda shot Kim and them both
+It's my life, I'd like to welcome y'all to "The Eminem Show"
+
+[Chorus]
+
+[Eminem]
+Now I would never diss my own momma just to get recognition
+Take a second to listen for who you think this record is dissin
+But put yourself in my position; just try to envision
+witnessin your momma poppin prescription pills in the kitchen
+Bitchin that someone's always goin throuh her purse and shit's missin
+Goin through public housin systems, victim of Munchausen's Syndrome
+My whole life I was made to believe I was sick when I wasn't
+'til I grew up, now I blew up, it makes you sick to ya stomach
+doesn't it? Wasn't it the reason you made that CD for me Ma?
+So you could try to justify the way you treated me Ma?
+But guess what? You're gettin older now and it's cold when your lonely
+And Nathan's growin up so quick he's gonna know that your phony
+And Hailie's gettin so big now; you should see her, she's beautiful
+But you'll never see her - she won't even be at your funeral!
+See what hurts me the most is you won't admit you was wrong
+Bitch do your song - keep tellin yourself that you was a mom!
+But how dare you try to take what you didn't help me to get
+You selfish bitch; I hope you fuckin burn in hell for this shit
+Remember when Ronnie died and you said you wished it was me?
+Well guess what, I +AM+ dead - dead to you as can be!
+
+[Chorus]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

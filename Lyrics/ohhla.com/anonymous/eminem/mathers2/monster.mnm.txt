@@ -1,0 +1,145 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Eminem f/ Rihanna
+Album:  The Marshall Mathers LP 2
+Song:   The Monster
+Typed by: Nickolye16@aol.com 
+
+[Chorus: Rihanna]
+I'm friends with the monster that's under my bed
+Get along with the voices inside of my head
+You're tryin to save me, stop holdin your breath
+And you think I'm crazy; yeah you think I'm crazy
+
+[Eminem]
+I wanted the fame but not the cover of Newsweek
+Oh well, guess beggers can't be choosy
+Wanted to receive attention for my music
+Wanted to be left alone in public, excuse me
+for wantin my cake and eat it too, and wantin it both ways
+Fame made me a balloon, cause my ego inflated when I blew, see
+But it was confusing, cause all I wanted to do's be
+the Bruce Lee, of loose leaf
+Abused ink, used it as a tool when I blew steam
+WOO! Hit the lottery, ooh-wee
+But with what I gave up to get, it was bittersweet
+It was like winnin a used mink
+Ironic cause I think I'm gettin so huge I need a shrink
+I'm beginnin to lose sleep - one sheep, two sheep
+Goin cuckoo and kooky as Kool Keith
+But I'm actually weirder than you think
+Cause I'm
+
+[Chorus]
+
+[Interlude: Rihanna]
+Well that's nothin!
+Oh-ohhh oh-ohhh, oh-ohhh oh-ohhh
+Oh-ohhh oh-ohhh, ohhh-ohhh-ohhhh
+Well that's nothin!
+Oh-ohhh oh-ohhh, oh-ohhh oh-ohhh
+Oh-ohhh oh-ohhh, oh-ohhh oh-ohhh
+
+[Eminem]
+Now I ain't much of a poet
+But I know somebody once told me to seize the moment and don't squander it
+Cause you never know when it could all be over tomorrow so I keep conjurin
+Sometimes I wonder where these thoughts spawn from
+"Yeah ponderin'll do you wonders
+No wonder you're losin your mind the way it wanders"
+Yodelodaley-hee-hoo! I think it went wanderin
+off down yonder and stumbled onto Jeff VanVonderen!
+Cause I need an interventionist
+to intervene between me and this monster
+And save me from myself, and all this conflict
+Cause the very thing that I love's killin me and I can't conquer it
+My OCD's conkin me in the head, keep knockin
+Nobody's home, I'm sleep-walkin
+I'm just relayin what the voice in my head's sayin, don't shoot the messenger
+I'm just friends with the
+
+[Chorus]
+
+[Interlude]
+
+[Eminem]
+Call me crazy but I have this vision
+one day that, I'll walk amongst you a regular civilian
+But until then drums get killed and I'm 
+comin straight at MC's, blood gets spilled and I'll
+take you back to the days that, I get on a Dre track
+Give every kid who got played that, pumped up feelin
+and shit to say back, to the kids who played 'em
+I ain't here to save the fuckin children
+But if one kid, out of a hundred million
+who are goin through a struggle feels it and relates, that's
+great! It's payback, Russell Wilson fallin way back
+in the draft, turn nothin into somethin, still can make that
+straw into gold chump I will spin
+Rumpelstiltskin in a haystack!
+Maybe I need a straitjacket, face facts
+I am nuts for real, but I'm okay with that!
+It's nothin, I'm still friends with the
+
+[Chorus] - 2X
+
+[Interlude]
+</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

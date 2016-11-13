@@ -1,0 +1,143 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z
+Album:  Magna Carta... Holy Grail
+Song:   La Familia
+Typed by: Nickolye16@aol.com 
+
+[Intro] + (Jay-Z)
+"You're busy?"
+"I wanna love you back, I"
+"You're busy?"
+"I wanna love you back, I"
+(Family first) "You're busy?"
+"I wanna love you back" (Honor, integrity)
+"I love you back, the group of my" (R-O-C)
+
+[Chorus: Jay-Z]
+Head of the family!
+El, Pa-drino
+Welcome home to Emory!
+Let's get back to this dinero
+
+[Jay-Z]
+Uh, niggaz wanna kidnap wifey
+Good luck with that, bruh
+You must gon' hide your whole family
+What you think we wearin black for?
+Ready for that war, ready for that war, ready
+You ain't ready, yo you radio, you ain't really ready
+... Real shit ch'ere
+Alpo bought his bricks here
+Elvis got his record took
+It's like we got our seventh gear
+Yeah, NFL investigations
+Oh don't make me laugh
+... FBI investigation
+We stood up to that
+Facts only, everything real in my raps only
+Every nigga real in my clique really
+Everyone's a movie star you got to film me
+La familia~!
+
+[Chorus]
+
+[Interlude: Jay-Z]
+Ready for that war, ready for that war, ready
+You ain't ready, yo you radio, you ain't really ready
+Head of the family
+El, Pa-drino
+
+[Jay-Z]
+My brothers is my brother like my brother is
+My niggaz is my brother like my mother's kids
+Not just in good times, that's that sucka shit
+But in war times it's just what it is
+Head of the family
+All my niggaz bosses though
+Y'all don't understand we
+We talk that shit that bosses know
+Uhh, triple fuckin O.G.
+What's up to my nigga Juan?
+Tell these niggaz pull they fuckin skirt down
+I could see they ovaries
+Niggaz snitchin switchin teams
+Out here tellin bitches things
+Industry talk behind yo' back
+Ain't nobody got time for that!
+Facts only, everything real in my raps only
+Every nigga real in my clique really
+Even the girls keep it 200 and trilly
+It's la familia~!
+
+[Chorus]
+
+[Interlude]
+
+[Outro]
+"You're busy?"
+"I wanna love you back, I"
+"You're busy?"
+"I wanna love you back, I"
+"You're busy?"
+"I wanna love you back"
+"I love you back, the group of my fam"
+</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

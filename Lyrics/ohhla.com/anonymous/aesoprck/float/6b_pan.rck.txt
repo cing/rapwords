@@ -1,0 +1,114 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: AesopROCK
+Album:  Float
+Song:   6B Panorama
+Typed by: multsanta@home.com
+
+I was sitting on my fire escape and I saw...
+sturdy bridges, decorated with dirty pigeons
+a vagabond begging for three pennies and a princess
+a junkie tourniquet surgeon urging the needle in
+a batty senior citizen flashing that awful teethless grin
+I saw a corner store merchant rest on a milk crate with a stog'
+a pierced nose, a model with a stalker, cheap hooker, jay walkers
+a table on a sidewalk with four old men slappin' dominos down
+a city, a village, a neighborhood, a ghost town
+I saw vandals catching tags and Puerto Rican flags
+I saw a pregnant woman on the verge of bursting (boom)
+I saw a blind man with a dog screaming "someday I'll see it all"
+and then he sat down with his hammer and saw
+business men with multi-colored ties, cashmere checks
+a nazi with tattoos on his neck, a Vietnam war vet
+a Caucasian man with a limp and a cane, a pimp with his names
+a thug circus, a pack of shook tourists hugging their purses
+I saw freaks with rainbow streaks in dayglo hair
+a mother smackin' the grin off her child, replaced it with a stare
+a pothole, a storefront with a broken open sign
+a hole in the wall bar kicking drunks to the gutter, it's closing time
+I see a fuck up, a bum knuckle up with a taxi driver
+a squatter, a grandfather, an angry right-to-lifer
+I can see the roof garden on the apartment across the street
+and kick myself because somewhere along the way I lost my seeds
+I see a rat, a roach, a bat approach, a happy student
+a black man with a horn and a will to make you sit and listen to it
+I see a little girl on the corner with bubbles, braids and barrettes
+I see a teen mother with similak pacifier and regrets
+oh, a day turned stale, a hammer with a rusty nail, a failed marriage
+a universe of brick buildings slightly off balance
+a challenge, I see a chance to add real colors to my favorite palette
+raise my mighty mallet towards the gods and swing my talons
+I see a crack in the sidewalk
+a slide show of six civilians gripping bottles of gideon
+sitting inside bent meridian
+there's a fun house ooh, a sun spout
+spraying yellow beams above yellow back dreams
+and children in the hydrants
+tyrants(?), I see sirens
+the wall to the glamor standard
+a dead bird, a bent curb
+a bus stop of commuters waiting to have their souls towed off to work
+I seen the slap dash habits of bike messengers paws
+and hug that good leaf on the way to damaged packages, dependence
+oh my lord, I see bandwagons, all aboard
+a carnival amusement park where a heart is a luxury
+I see a gas galaxy huddled behind those pearly doors
+maybe I should sit up on my fire escape a little more</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

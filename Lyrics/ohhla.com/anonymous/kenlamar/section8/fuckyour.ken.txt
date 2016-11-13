@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Kendrick Lamar
+Album:  #Section80
+Song:   Fuck Your Ethnicity
+Typed by: newos_crib_is@hotmail.com
+
+[Intro]
+Gather round, I'm glad everybody came out tonight
+As we stand on our neighborhood corner
+know that this fire that's burning represents the passion you have
+Listen, Keisha, Tammy, come up front
+I recognize all of you, every creed and color
+With that being said, fuck your ethnicity, you understand that?
+We gon' talk about a lot of shit that concerns you, all of you
+
+Now everybody throw your hands up high
+If you don't give a fuck throw your hands up high
+Throw your hands up high
+
+[Chorus]
+Now I don't give a fuck if you
+Black, white, Asian, Hispanic, goddamn it
+That don't mean shit to me
+Fuck your ethnicity nigga
+
+[Kendrick Lamar]
+Fire burning inside my eyes, this the music that saved my life
+Y'all be calling it Hip Hop, I be calling it Hypnotize
+Yeah, Hypnotize, trapped my body but freed my mind
+What the fuck are you fighting for? Ain't nobody gon' win that war
+My details be retail, man I got so much in +store+
+Racism is still alive, yellow tape and colored lines
+Fuck that, nigga look at that line, it's so diverse
+They getting off work and that wanna see Kendrick
+Everybody can't drive Benzs, and I been there, so I make it my business
+to give 'em my full attention, ten-hut, man I gotta get my wind up
+Man I gotta get down with God cause I got my sins up, oooh
+Matter of fact, don't mistake me for no fucking rapper
+They sit backstage and hide behind the fucking cameras
+I mosh pit, had a microphone, I tossed it
+Had a brain, then I lost it, I'm out of my mind
+So don't you mind how much the cost it, penny for my thoughts
+Everybody please hold up your wallets
+Yeah man, I'm the mailman, can't you tell man?
+Going postal, never freeze up when I approach you
+That's star-struck, and roast you, oh my, HiiiPoWeR
+
+[Chorus]
+
+[Kendrick Lamar]
+I'm tired of y'all, cause everybody lied to y'all
+Do you believe it? Recognize them false achievements
+It's treason and I'm Tylenol, I knock out when you knock it off
+Knock of the doors of opportunity, I'm too involved
+I'm no activist, I'm no Einstein, before calculus I was kicking in math
+Dropping that science like an alchemist, and I be kicking that ass
+Lyrically I'm UFC
+If a UFO had came for me I'ma come back with the head of alien
+Don't alienate my dreams, get it right, get a life
+I got two, that's a metaphor for the big shit I do
+Boy, TMI, TSA, man I'm fly
+Put wings on my back, that a plane or angel? Both
+Like a pilot with a halo, whoa, gross
+
+*sung*
+I don't mean nothing, so many things come through
+them, him, her, you, hmm, hmm, hmm, hmm
+I'm just a messenger
+Yeah I know life's a bitch, get the best of her
+
+Put them threes up, they notice that we up
+HiiiPoWeR, and the power, and the people, and if they don't believe us
+they'll die
+Wizard
+
+[Chorus]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

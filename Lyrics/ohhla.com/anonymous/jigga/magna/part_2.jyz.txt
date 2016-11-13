@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z f/ Beyoncé
+Album:  Magna Carta... Holy Grail
+Song:   Part II (On the Run)
+Typed by: Nickolye16@aol.com 
+
+[Beyoncé]
+Who wants that perfect love story anyway, anyway?
+Cliché, cliché, cliché, cliché
+Who wants that hero love that saves the day, anyway?
+Cliché, cliché, cliché, cliché
+What about the bad guy goes good? Yeah
+And the missing love that's misunderstood, yeah
+Black hourglass, our glass
+Toast to clichés in a dark past
+Toast to clichés in a dark past...
+
+[Jay-Z]
+Boy meets girl, girl perfect women
+Girl get to bustin 'fore the cops come runnin, uhh
+Chuck the deuces, chuggin D'USSÉ, uhh
+Fuck what you say, boys in blue say, uhh
+
+[Beyoncé]
+I don't care if we on the run
+Baby long as I'm next to youuuuu
+And if lovin you is a crime
+Tell me why do I bring out the best in youuuuu?
+
+[Interlude: Beyoncé]
+I hear sirens while we make love
+Loud as hell but they don't knoooooow
+They're nowhere near us
+I will hold your heart and yo' gun
+I don't care if they come, nooooo
+I know it's crazy but
+
+[Beyoncé] They can
+
+[Chorus: Beyoncé]
+Taaaaaaaaake me
+Now that I found the places that you
+taaaaaaaaake, take me
+Without you I got nothin to lose
+
+[Jay-Z]
+I'm an outlaw, got an outlaw chick
+Bumpin 2Pac on my +Outlaw+ shit
+Matchin tats, this ink don't come off
+Even if rings come off, if things ring off
+My nails get dirty, my past ain't pretty
+My lady is, my Mercedes is
+My baby momma harder than a lot of you niggaz
+Keep it 100, hit the lottery niggaz
+You ain't 'bout that life, ain't gotta lie to me nigga
+You know it's 'til the death, I hope it's obvi' to niggaz
+Uh, cross the line, speak about mine
+I'ma wave this Tec, I'm a geek about mine
+Touch a nigga where his rib at, I click-clack
+Push your muh'fuckin wig back, I did that
+I been wildin since a juvi
+She was a good girl 'til she knew me
+Now she's in the drop bustin U'eys
+Screamin
+
+[Chorus]
+
+[Jay-Z]
+Deeper then words, beyond right
+Die for your love, beyond life
+Sweet as a Jesus piece, beyond ice
+Blind me baby with your neon lights
+Ray Bans on, police in sight
+Oh what a beautiful death, let's both wear white
+If you go to Heaven and they bring me to Hell
+Just sneak out and meet me, bring a box of L's
+She fell in love with the bad guy, the bad guy
+What you doin with them rap guys, them rap guys?
+They ain't see potential in me girl, but you see it
+If it's me and you against the world, then so be it, uhh
+
+[Beyoncé]
+I don't care if they give me life
+I get all of my life from you
+And if lovin you had a price
+I would pay my life for you
+
+[Interlude]
+
+[Beyoncé]
+I don't care, I'll never give it up
+Give it up, give it up, give it all awayyyyyy
+No I swear, I'll never give it up
+Give it up, give it up, give it all awayyyyyy
+I don't care, I'll never give it up
+Give it up, give it up, give it all awayyyyyy
+No I swear, I'll never give it up
+Give it up, give it up, give it all awayyyyyy
+Without you I got nothin to lose</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

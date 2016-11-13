@@ -1,0 +1,133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z
+Album:  Reasonable Doubt
+Song:   Can I Live
+Typed by: OHHLA Webmaster DJ Flash
+
+Yeah, hah, yeah Roc-A-Fella
+We invite you to, somethin epic y'all know?
+Well we hustle out of a sense of, hopelessness
+Sort of a desperation
+Through that desperation, we 'come addicted
+Sorta like the fiends we accustomed to servin
+But we feel we have nothin to lose
+so we offer you, well, we offer our lives, right
+What do you bring to the table?
+
+While I'm watchin every nigga watchin me closely
+my shit is butter for the bread they wanna toast me
+I keep my head, both of them where they supposed to be
+Hoes'll get you sidetracked then clap from closed feet
+I don't sleep, I'm tired, I feel wired like codeine, these days
+a brother gotta admire from four fiends away
+My pain wish it was quick to see, from sellin 'caine
+til brains was fried to a fricaisse, can't lie
+At the time it never bothered me, at the bar
+gettin my thug on properly, my squad and me
+lack of respect for authority, laughin hard
+Happy to be escapin poverty, however brief
+I know this game got valleys and peaks, expectation
+for dips, four percent pertation we stack chips, hardly
+The youth I used to be, soon to see a mill'in
+No more, Big Willie my game has grown prefer you call me William
+Illin for revenues, Rayful Edmond like
+Channel 7 news, round seven jewels, hand dead in the mic
+Forgettin all I ever knew, convenient amnesia
+I suggest you call my lawyer, I know the procedure
+Lock my body can't trap my mind, easily
+explain why we adapt to crime
+I'd rather die enormous than live dormant that's how we on it
+Live at the main event, I bet a trip to Maui on it
+Presidential suites my resedential for the weekend
+Confidentially speakin in codes since I sense you peekin
+The INXS rental, don't be fooled my game is mental
+We both out of town dog, what you tryin to get into?
+Viva, Las Vegas, see ya, later at the crap tables
+meet me by the one that starts a G up
+This way no fraud Willie's present gambling they re-up
+And we can have a pleasant time, sippin margaritas
+Ge-ge-geyeahhh, can I live?
+Can I live?
+
+My mind is infested, with sick thoughts that circle
+like a Lexus, if driven wrong it's sure to hurt you
+Dual level like duplexes, in unity, my crew and me
+commit atrocities like we got immunity
+You guessed it, manifest it in tangible goods
+Platinum Rolexed it, we don't lease
+we buy the whole care, as you should
+My confederation, dead a nation, EXPLODE
+on detonation, overload the mind of a said patient
+When it balls to steam, it comes to it
+we all fiends gotta do it, even righteous minds go through this
+True this, history school us to spend our money foolish
+Bond with jewellers and, watch for intruders
+I stepped it up another level, meditated like a buddhist
+Recruited lieutenants with ludicrous, dreams of
+gettin cream let's do this, against T-D-S
+So I keep one eye open like, C-B-S, ya see me
+stressed right?  Can I live?
+Can I live?
+Can I live?
+Can I live?
+Ha-hah, Roc-A-Fella y'all
+</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

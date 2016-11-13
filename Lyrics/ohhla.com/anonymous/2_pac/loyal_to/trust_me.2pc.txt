@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac
+Album:  Loyal to the Game
+Song:   Don't You Trust Me
+Typed by: OHHLA Webmaster DJ Flash
+
+I ain't got time for this, man I'm out
+
+[Chorus: Dido samples from "Do You Have a Little Time", no 'Pac ad-libs first use]
+You should stop, for a while
+You will find me standing by (don't you trust me)
+Over here, at the side, of your life (it's not that I don't trust you)
+You spend all your hours just rushing, around
+Do you have a little time
+to have a little time for me? (not that I don't trust you)
+
+[2Pac]
+As soon as I leave the house you wanna page me
+See you got me trapped I'm goin crazy this is slavery
+You act like it's arranged, just give me space and we'll get better
+And maybe we won't argue and be through with all these sorry letters
+Soon as I come home it's like I get the third degree
+Where you been and who you wit, I get no room to breathe
+It makes me wanna leave, I'm sick of these tricks up your sleeve
+Your suspicious I deceive, gimme grief when poppa leave
+But to me, if you really trust me then it's pitiful
+Question me about my whereabouts, that's so trivial
+Let me live my life and you can live yours
+Just be there to help me and support me that's what you're here for
+Not to give me stress and add to pressure
+Home is where I go to rest, I go to pass the test
+I'm sorry if I left you all alone
+but I couldn't make it home, so we argue on the phone
+Don't you trust me?
+
+[Chorus]
+
+[2Pac]
+Callin at my house then hangin up, you think that makes sense?
+Tell me what it takes for us to shank so we can be friends
+It's time for us to take our seperate paths
+We had a lot of laughs but the good's become the past
+Let's make it an even break, don't make it scandalous
+Try and be mature, I'm pretty sure that we can handle this
+You're sayin I'm too busy, I ignore you
+I guess you didn't hear me when I said that I, cared for you
+But now it seems the arguments are nightly
+I wanna hold you tightly but instead you wanna fight me
+So why let it stress and aggravate me
+Instead I'd rather break, hope you don't hate me
+You tell me that you love me but you're lyin
+Fightin back the hurt so just start cryin
+I'll wipe away your tears, come and hug me
+I love you like you love ME, girl, but don't you trust me?
+
+[Chorus]
+
+[2Pac]
+I hang up the phone, I can't bear to hear you yellin at me
+Maybe we should end it, neither one of us are happy
+You know that I'm emotional, you milk me
+Comin over cryin just to get me feelin guilty
+You and me were meant to be and yet
+You always wanna sweat, how much closer can we get
+Don't fret, just let me pack my things and I'll be outtie
+This time I'm breakin out, you let your mouth overcrowd me
+I can't take the beefin and the griefin
+I get no room to sleep, I hope to see some cause I'm leavin
+Maybe next time you'll be a little more sure
+And I can give you more when you mature
+But baby until then I gotta leave ya
+It's not that I don't need ya but SEE YA
+And I hope you understand why I'm bustin
+Not because we bust our love, hah, don't you trust me?
+
+[Chorus]
+
+[2Pac]
+Don't you trust me?
+It's not that I don't trust you
+Don't you trust me?
+It's not that I don't trust you</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

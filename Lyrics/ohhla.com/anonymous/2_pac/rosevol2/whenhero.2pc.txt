@@ -1,0 +1,112 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Tupac Shakur ~ Impact Kids
+Album:  The Rose Vol. 2 *
+Song:   When Ur Hero Falls
+Typed by: compbuttons@hotmail.com
+
+* Poems written by Shakur as ~ interpreted by other artists
+
+Hey, ooh ah ooh oh oh
+
+When your hero falls from grace
+All your fairy tales are uncovered
+
+Myths exposed and pain magnified
+The greatest pain discovered
+
+You told me to be strong but I'm confused to see you so weak
+You said to never to give up and it hurts to see you welcoming me
+
+When your hero falls so do the stars
+When your hero falls so do the stars
+And so does the perception of tomorrow
+
+Without my hero there is only me alone
+To deal with my sorrow, to deal with my sorrow
+
+Your insistance to work and your soul is not happy at all
+What do you expect it to do when your hero falls
+So do the stars
+
+See I know you're wondering how do I carry on
+You want to give up you feel there's nobody to love
+But if you look around there's so many people have been what you been 
+through
+You gotta let go you gotta be strong oh
+
+Sing it again one more time
+
+When your hero falls (Oh yeah yeah yeah yeah yeah yeah)
+When your hero falls (Ooh yeah)
+When your hero falls (What am I supposed to do)
+When your hero falls (When I'm looking to you yeah)
+When your hero falls (But you told me to be strong)
+When your hero falls (And to never give up oh oh)
+When your only hero falls (Say it again)
+
+When your hero falls (Whoa, oh yeah)
+When your hero falls (Oh oh)
+When your hero falls (What you saying)
+When your hero falls (Won't you listen to the children sing)
+When your hero falls (As they sing it to the whole world)
+When your hero falls (Oh oh, oh oh yeah)
+When your only hero falls</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

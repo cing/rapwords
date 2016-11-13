@@ -1,0 +1,186 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Thug Life (f/ 2Pac)
+Album:  Thug Life Vol. 1
+Song:   Stay True
+Typed by: OHHLA.com
+
+(Tupac)
+
+Yah nigga, Drop the top on your muthafuckin ride
+This how we do it on the west coast BAABBBY
+
+Rollin' down the Four O Five
+Gettin' high
+White boys done wrecked their shit
+Tryin to check my ride
+I ain't being bootsy
+Crusin' in a Six-o Impala
+Drivin' like I'm in a Hooptee
+car full of ballin' caps
+keep yo hand on the strap
+and take all the craps
+Niggas know my steel-lo 
+all legit
+but I'm drapped 
+like a nigga movin' kilo
+Shit don't stop
+cuz i can make that ass drop
+make the front pop
+And Hit the three wheel motion
+All Day
+Hit the freeway 
+take it easy, uhh
+Let's slide
+And pick-up some hoochies
+ride  
+right back to the movies
+High 
+talking back to the screen drinkin' liquor
+Havin' big dreams of gettin' richer
+I'm livin that
+
+Chorus (4x) (Tupac)
+
+Thug Life,   y'all know the rules
+gotta do whatcha gotta do (Stay True) 
+
+Big Stretch represent the real nigga
+flex, Live squad and this mutha fucker catch wreck
+
+(Stretch)
+Thug Life
+sharp as a roughneck
+Shakin' the dice, we roll long, ain't nothin' nice
+so the vice wanna follow us around (raize up)
+Got 'em runnin' as we clown thru the town (blaze up)
+Another one, had to throw another gun
+Don't need another case
+you can see it on my face son
+But I ain't fallin' yet
+And I gotta give a shout to where my ball is at
+
+(Tupac)
+
+Mophreme Tell 'em why the hoes dream
+gettin high off a nigga like a dope fiend
+
+(Mophreme)
+
+Cuz I'm non-stop, and I'm always hustlin'
+twenty four seven, ain't nothin buck
+but when a young G's flippin keys for a livin'
+Try to make a mill off the time I'm givin'
+trippin' 
+mad 
+I'm crazy
+Can't nobody fade me
+And I been goin' insane lately
+And everybody tryin ta hold me back
+I'm about to snap
+You better move back
+You know I led a.....
+
+Chorus (4x) (Tupac)
+
+Thug Life,   y'all know the rules
+gotta do whatcha gotta do (Stay True)
+
+Maaaannnn, I don't worry about the Five-O
+if they start,
+cuz it's all about survival
+Just stay smart
+Keep your mind on your bank roll
+always 
+stay ahead of these stank hos   
+These days
+It's an all out rat race
+And look at MEEE just caught another cat case
+That makes three
+My laywers getting cash up the ass
+Don't even ask
+Why I'm buck wild ? 
+Don't smile 
+don't laugh
+To the young G's comin up 
+peep game
+Don't let the money make you change 
+or act strange
+Stay broke
+It's all in together now
+Keep pumping loud 
+till the crowd 
+bring the top down
+Is that Tupac Thug Life ?
+Hell Yah
+Try to dirty up my name 
+but it's still here
+which way do I turn ? 
+i'm strapped
+Lost in the storm
+I can't turn back
+with that...
+
+Chorus (4x) (Tupac)
+
+Thug Life,   y'all know the rules
+gotta do whatcha gotta do (Stay True)
+</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

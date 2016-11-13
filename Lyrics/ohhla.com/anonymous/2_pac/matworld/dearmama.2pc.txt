@@ -1,0 +1,168 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac
+Album:  Me Against the World
+Song:   Dear Mama
+Typed by: OHHLA Webmaster DJ Flash
+
+You are appreciated
+
+Verse One: 2Pac
+      
+When I was young me and my mama had beef
+Seventeen years old kicked out on the streets
+Though back at the time, I never thought I'd see her face
+Ain't a woman alive that could take my mama's place
+Suspended from school; and scared to go home, I was a fool
+with the big boys, breakin all the rules
+I shed tears with my baby sister
+Over the years we was poorer than the other little kids
+And even though we had different daddy's, the same drama
+When things went wrong we'd blame mama
+I reminice on the stress I caused, it was hell
+Huggin on my mama from a jail cell
+And who'd think in elementary?
+Heeey! I see the penitentiary, one day
+And runnin from the police, that's right
+Mama catch me, put a whoopin to my backside
+And even as a crack fiend, mama
+You always was a black queen, mama
+I finally understand
+for a woman it ain't easy tryin to raise a man
+You always was committed
+A poor single mother on welfare, tell me how ya did it
+There's no way I can pay you back
+But the plan is to show you that I understand
+You are appreciated
+
+Chorus: Reggie Green & "Sweet Franklin" w/ 2Pac *
+
+Lady... 
+Don't cha know we love ya?  Sweet lady
+        Dear mama
+Place no one above ya, sweet lady
+        You are appreciated
+Don't cha know we love ya?
+
+* second and third chorus, "And dear mama" instead of "Dear mama"
+
+Verse Two: 2Pac
+
+Now ain't nobody tell us it was fair
+No love from my daddy cause the coward wasn't there
+He passed away and I didn't cry, cause my anger
+wouldn't let me feel for a stranger
+They say I'm wrong and I'm heartless, but all along
+I was lookin for a father he was gone
+I hung around with the Thugs, and even though they sold drugs
+They showed a young brother love
+I moved out and started really hangin
+I needed money of my own so I started slangin
+I ain't guilty cause, even though I sell rocks
+It feels good puttin money in your mailbox
+I love payin rent when the rent's due
+I hope ya got the diamond necklace that I sent to you
+Cause when I was low you was there for me
+And never left me alone because you cared for me
+And I could see you comin home after work late
+You're in the kitchen tryin to fix us a hot plate
+Ya just workin with the scraps you was given
+And mama made miracles every Thanksgivin
+But now the road got rough, you're alone
+You're tryin to raise two bad kids on your own
+And there's no way I can pay you back
+But my plan is to show you that I understand
+You are appreciated
+
+Chorus
+
+Verse Three: 2Pac
+
+Pour out some liquor and I reminsce, cause through the drama
+I can always depend on my mama
+And when it seems that I'm hopeless
+You say the words that can get me back in focus
+When I was sick as a little kid
+To keep me happy there's no limit to the things you did
+And all my childhood memories
+Are full of all the sweet things you did for me
+And even though I act craaazy
+I gotta thank the Lord that you made me
+There are no words that can express how I feel
+You never kept a secret, always stayed real
+And I appreciate, how you raised me
+And all the extra love that you gave me
+I wish I could take the pain away
+If you can make it through the night there's a brighter day
+Everything will be alright if ya hold on
+It's a struggle everyday, gotta roll on
+And there's no way I can pay you back
+But my plan is to show you that I understand
+You are appreciated
+
+Chorus
+
+Sweet lady
+        And dear mama
+
+        Dear mama
+Lady (3X)
+</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

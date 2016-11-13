@@ -1,0 +1,138 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan f/ George Clinton
+Album:  8 Diagrams
+Song:   Wolves
+Typed by: Cno Evil
+ 
+[Chorus: George Clinton]
+The fox, is kinda foxy, Mr. Wolf he's the guy
+Who chased Red through the woods and ate Grandma
+But a dog is a dog is a dog is a dog
+Unlike the wolf, who made a widower of Grandpa
+ 
+[U-God]
+Yo, must I flex my cash, to sex yo' ass
+I wet the Ave. when I set my path
+The 'Vette don't crash, I'm built to long last
+Grab my money clip, I hit the bong fast
+Earn my respect, my checks they better cash
+Finger on the trigger with my nigga Fred Glass
+Knuckles is brass, start snuffin you fast
+Jumpin outta cabs, grabbin money bags
+Next shot go right through your hovercraft
+You do the math my answer tounge slash
+When will you learn it's return of Shaft
+The genuine thriller, the Miller Draft
+My force might blur, the Porsche'll purr
+The apple martini, of course it's stirred
+I'll do the honor, the Shaolin bomber
+Shark skin armor, I'll bring the drama
+ 
+[Chorus]
+ 
+[Method Man]
+Damn, deficatin on the map
+Wu-Tang takin it back, no fakin in the rap
+How real is that, cause niggaz hatin on the fact
+that the kid is blazin this track and hatin on 'em back
+My dough's stacked up with O's, who the mack
+duckin po'-po's blowin smoke O's in the 'Llac
+To be exact, don't want no hassle with the stack
+In the Big Apple, we the rotten apples in the back
+Yeah, it's all grillin, how the fuck y'all feelin?
+Non-stop park killin, on the block we was killin 'em
+The arch villans, when the blood start spillin
+Any stuck start squealin, body bags we was fillin 'em
+Yeah, now I got it in the smash
+Ounce of marijuana and a llama in the dash
+Me and my comrades followin the cash
+And livin e'ry day like tomorrow is the last
+ 
+[Chorus]
+ 
+[Interlude: George Clinton]
+I'm like the savior dog to ya baby when you're lost out in the snow
+Like a coyote out on the desert...
+Where the foxes never go
+And the wolf, they never go...
+ 
+[Masta Killa]
+Yo, would you recognize a jewel for what it is when you see it
+Or would you take it for somethin else and get to' the fuck up
+Men come together for the common cause
+To beat yo' ass, just because
+There's a line you don't cross offendin the boss
+While of course his one selectin through your head shot
+I'm back in the yard again, the bars callin
+15 sets of this will have you swollen
+Ladies like, "Damn papa you lookin right
+I'd love to give you some of this pussy and I'm a dyke"
+I write when the energy's right to spark friction
+DJ cuttin it, spinnin it back mixin
+Great pop knock tickin, poetry description
+for the motion picture reenactment
+Activate a higher assassin, keep it classic
+Rap evolution every black, yo pass that
+ 
+[Chorus]
+ 
+[Interlude]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

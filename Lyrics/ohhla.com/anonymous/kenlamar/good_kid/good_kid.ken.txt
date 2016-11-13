@@ -1,0 +1,125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Kendrick Lamar f/ Pharrell 
+Album:  good kid, m.A.A.d city
+Song:   good kid
+Typed by: Cedmaster3K
+
+[Chorus: Pharrell]
+Mass hallucination, baby
+Ill education, baby
+Want to reconnect with your elations?
+This is your station, baby
+
+[Kendrick Lamar]
+Look inside these walls and you see them havin' withdrawals
+of a prisoner on his way
+Trapped inside your desire to fire bullets that stray
+Track attire just tell you I'm tired and ran away
+I should ask a choir what do you require to sing a song that acquire me to have faith
+As the record spin I should pray
+For the record I recognize that I'm easily prey, I got ate alive yesterday
+I got animosity building, it's probably big as a building
+Me jumpin' off of the roof is me just playin' it safe
+But what am I supposed to do when the topic is red or blue
+and you understand that I ain't but know I'm accustomed to?
+Just a couple that look for trouble and live in the street with rank
+No better picture to paint than me walking from bible study
+And called his homies because he had said he noticed my face
+From a function that tooken place, they was wonderin' if I bang
+Step on my neck and get blood on your Nike checks
+I don't mind because one day you'll respect, the +good kid, m.A.A.d. city+
+
+[Chorus]
+
+[Kendrick Lamar]
+All I see is strobe lights, blinding me in my hindsight
+Findin' me by myself, promise me you can help 
+In all honesty I got time to be copacetic until
+You had finally made decision to hold me against my will
+It was like a head on collision that folded me standin' still
+I can never pick out the difference and grade a cop on the bill
+Every time you clock in the morning, I feel you just want to kill
+All my innocence while ignorin' my purpose to persevere as a better person
+I know you heard this and probably in fear
+But what am I supposed to do when the blinkin' of red and blue
+flash from the top of your roof and your dog has to say woof?
+And you ask "Lift up your shirt" cause you wonder if a tattoo
+of affiliation can make it a pleasure to put me through
+gang files but that don't matter because the matter is racial profile
+I heard them chatter "He's probably young but I know that he's down"
+Step on his neck as hard as your bulletproof vest
+He don't mind, he know we'll never respect, the +good kid, m.A.A.d. city+
+
+[Chorus]
+
+[Kendrick Lamar]
+All I see in this room, 20 Xanies and these 'shrooms
+Grown-up candy for pain, can we live in a sane society?
+It's entirely stressful upon my brain
+You hired me as a victim, I quietly hope for change
+When violence is the rhythm inspired me to obtain
+The silence in this room with 20 Xanies and 'shrooms
+Some grown-up candy I lost it, I feel it's nothing to lose
+The streets sure to release the worst side of my best
+Don't mind cause now you ever in debt, to +good kid, m.A.A.d. city+
+
+[Chorus]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

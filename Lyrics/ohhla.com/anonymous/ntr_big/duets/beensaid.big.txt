@@ -1,0 +1,134 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: (Notorious B.I.G. f/) Diddy, Eminem, Obie Trice
+Album:  Duets: The Final Chapter
+Song:   It Has Been Said
+Typed by: OHHLA Webmaster DJ Flash, rhymer_ap@yahoo.com
+
+[Eminem] + {B.I.G.}
+Ih.. ih, ih (it has been)
+It has been, it has been, it has been
+It has been said, that there has been known to be bloodshed
+Over bread, men who have bled to death, dead {what?}
+Strapped to beds, pipe bombs, dynamite, lead
+Money power respect, street cred, yeah
+It's scary ain't it? Picture yourself goin out as a hero {uhh}
+Picture mural pictures of us painted all over street corners
+Fans meet to mourn us, while we meet the coroners
+Notorious tried to warn us
+We watched, so many Biggie backed off of {ha ha ha}
+Biggie's back and 'Pac's, landmarks, history in rap
+Statistically in fact; it's so sad to see us re-enact
+these tragic events, which lead us back
+To where we left off on March 9th
+To come from such hard knock lifes
+And make it up out of 'em, hit the spotlights
+And, once they're on us this is our lives
+Thrust out for all eyes to cast upon us
+to see who can last the longest
+And he who lasts the longest, must be the strongest {uh-huh}
+In this concrete jungle, where this dog eat dog mentality comes from
+It's origin, which is usually originated from cats who starvin
+Or it could just be somebody's horror, that just horri-fies
+And applies to his persona or the sizes
+in his entou-rage, that intimidates the people
+To the point that you know that he's gangster
+He ain't just say shit, you just believe it
+
+[Obie Trice] + {B.I.G.}
+Since B.I.B. taught us niggaz to think big
+I'm been about my business since then, so anxious {what?}
+It ain't how we live, it's what he said, he did it for Brooklyn
+This I took in, sent chills through my skin
+Vicious, I'm experiencin the same sights as him
+It's what excited Obie to write these poems
+Rollin, goin through the same shit he spoken
+Open up my eyes so there's no limit in them skies
+When _Ready to Die_ was a sick part of my life {yeah}
+Palmin that forty-five, plottin to pop my mind
+Then that crooked eye Jamaican I'd so many times rewind
+Got me to walk a straight line and get up on my grind
+Get up out the system, who could give him better signs
+No pop of mine could top Big Poppa rhymes
+So possibly I'd be popular huh? {uh-huh}
+That's the inspiration I got from my nigga B.I.
+
+[Diddy] + {B.I.G.}
+I took him from coal to diamond, I molded his mind
+Enter the most phenomenal artist of any and all time
+I made a Frankenstein, my design impressed
+Backpackers and press who said my house was a mess
+Critics lashed, said I made a fortune off of his passin {what?}
+All I did was build a dynasty, off of his passion
+And I'm addressin the adolesencents absent to who he is
+The original king of New York, Christopher Wallace...
+This is a promise on Diddy's honor, I'm a father T'Yanna
+And teach her that with all the drama don't even bother...
+On repeat, all of your albums play back to back {yeah}
+And I visit your grave cause our friendship's intact
+An immaculate concept, extravagant progress
+Bullet wounds left in my heart, I'm yellin "God bless"
+Regardless to critics yellin that East/West
+I seen the game losin, I'm just pressin the reset {uhh}
+And when the ressurection of you shines through an individual
+Lyrical enough to wear the same crown of thorns literally!
+I'ma pay homage, Brooklyn's finest
+Whether it's Queens or Harlem it'll be instant stardom, nigga!</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

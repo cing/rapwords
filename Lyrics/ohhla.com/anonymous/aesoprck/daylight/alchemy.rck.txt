@@ -1,0 +1,140 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Aesop Rock f/ Blueprint
+Album:  Daylight EP
+Song:   Alchemy
+Typed by: mikecastillo_1@hotmail.com
+
+[Blueprint]
+I spit with an immense amount of power
+Skull flame showers, cowards, cower, underneath our
+Storm clouds that indicate the acid rain hours
+Now or, never, ever, ending on a bad note
+Ripping ya' craft spoke, for spitting a bad quote
+(Blueprint what's your approach?)
+I smash black folk and white folk alike for jokes with mics
+And make a Kodak moment out of the most boring open mic
+I'll make a sad fan appreciate rap again
+Fuck around and forget just how wack it's been
+I'm a bad man (Why's that?)
+I catch bullets in my molars, body slam boas
+And take flight with the weight of the world on my shoulders
+And blame David Blaine on any chains that hold us
+What started out as food for thought, turned into thoughts to turn they
+crews into food in hopes to satisfy my
+Insatiable appetite to dine on lifeforms
+Small planets and satellites
+You solar system is my condiment
+I'm bombin' comets, and don't sweat the small things and nonsense
+Every dog has his day and even more so in rhyming
+So I decided that I'd never play the fire hydren
+Or grab the mic sounding lazy, worn down and tired
+Cats don't really fall off they just get uninspired
+But before you, get a reason to ever diss us
+I'll drop a ill LP and disappear like Bobby Fischer
+But this is, the building block of all that is
+And what it is, is Alchemy
+
+[Aesop Rock] (Chorus)
+Alchemy, basic with a touch of wild wonder
+Alchemy, we made this to take your style under
+Metal frame, walking through a, metal game with a limp, tight grip
+Determined not to let time slip
+This is Alchemy, iron b-boy and all his glory
+Alchemy, hold it from the colder sob story
+Metal frame, walking through a, metal game with a limp, tight grip
+Determined not to let time slip
+
+[Aesop Rock]
+Ah, dirty, dirty destiny
+Birded murders with a burn gurshin a peasantry
+Nervous flux flirtin' with hurley burly chemistry
+Graffiti burner urchin merchant with a certain urge jerkin' served and centerpiece
+My zig-zag bully balance gallops with a fiery outline
+Ban and bomb y'all pastel poets belly up (I'll tell you what)
+Born stylin' 4 dimensions count em'
+?Breed it take it to em' up,? run to build a world you'll never touch
+And I'm a pilot, delerium, serum, poison arrangement
+?Aroused? when I feel like storming suck the raw enslavement
+With a grin-style stinger creeping out the basement
+Impatient wild ritualistic visions of sacrificial bitch hatin'
+For all my iron giant soldiers with a metal fist upshielding mother nature
+from her fatal wrist cuts story I'll respect you
+(So why they blaming you for the cats that sleep while the earth turns?)
+Yeah I had em' up all night praying I'd re-release Music For Earthworms
+Greed even are lease screaming with milestone like ring ring ring I just
+caught the screen fiending click dial tone
+Welcome to a clouds swell blew to hallucination war pillar
+Carnivore, carnival, karma slasher
+I dash like a jack rabbit that orbits revelation with a single pounce
+To Edward Scissorhands your spring of doubts (Yo turn it out)
+This is that mighty case of home field advantage to bend your blizzard With
+a crocodile smile and fight robot knuckles to your kisser
+
+(Chorus)
+This is Alchemy, basic with a touch of wild wonder
+Alchemy, we made this to take your style under
+Metal frame, walking through a, metal game with a limp, tight grip
+Determined not to let time slip
+This is Alchemy, iron b-boy and all his glory
+Alchemy, hold it from the colder sob story
+Metal frame, walking through a, metal game with a limp, tight grip
+Determined not to let time slip</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

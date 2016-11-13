@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Aesop Rock
+Album:  Skelethon
+Song:   Homemade Mummy
+Typed by: AZ Lyrics
+
+How to make a homemade mummy:
+Get a corpse, get gauze, get comfy
+Shampoo and disinfect dead fluffy
+For the hallowed excavation of his x-marked tummy
+Scalpel to stern, the butter cutter b-lines well
+Tongs butterfly the unzipped feline shell
+We'll be escorting vital organs
+With exception of the precious kittens heart
+Into the privacy of separate pickle jars
+Or mayonnaise or jelly pick a card
+Shit, pick a part and scissor
+Stomach, lung, intestine or liver
+In a world of sanitizers and preservatives forever
+Brain exterminated through the whiskers (kiss & blow)
+Ditched, I blank NY alone
+We usher in the salts that call the husk home
+Might embalm and stiffen and rid the fawn of all his liquids
+Slather it in beeswax, wrap it up in ribbons
+Like limb by limb, by tail by ear by chin
+With the new hereafter I hereby win
+I hope you vow to meow another day and never
+Decompose, by the way before we seal these molds
+The shorten version goes...
+
+Take the brain out, leave the heart in
+Take the brain out, leave the heart in
+Paper playgrounds, leave your harvest
+Take the brain out...
+
+Gadzooks, punk's dead, last good gut wrenched
+Antennae sam cook, black book pushead
+Cat skulls stacked to the black hole sunset
+Olive on a toothpick, Dagwood Bumstead
+Tagged-hoof hatchery, matter amass naturally
+Bad wolf, dash for the last rook castling
+Blue ox, red plaid bass pro flannel king
+Hasbro crown, sour apple Abba-Zabba teeth
+In poorly taken pictures antiquating on his mantlepiece
+Before we only spoke in letters cut from magazines
+Folk broke bear claws over gross coffee
+Not as milquestoast men, as los muertos walking
+Ergo the scarecrow in rare barley
+Squared-off harpy to armchair: say a prayer for me
+I feel that mystifying times have gotten ugly
+I also feel that you could learn a lot from a mummy
+
+Take the brain out, leave the heart in
+Take the brain out, leave the heart in
+Major take down, eat your porridge
+Take the brain out, leave the carcass
+
+Take the brain out, leave the heart in
+Take the brain out, leave the heart in
+Games to reign now, pleased to bargain
+Take the brain out, leafed in garlic
+
+Take the brain out, leave the heart in
+Take the brain out, leave the heart in
+Fading halos, feeding herpes
+Take the brain out, eager starlets
+
+Take the brain out, leave the heart in
+Take the brain out, leave the heart in
+Take the brain out, leave the heart in
+Take the brain out...</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

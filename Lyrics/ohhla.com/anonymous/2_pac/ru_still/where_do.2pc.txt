@@ -1,0 +1,118 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac
+Album:  R U Still Down? (Remember Me)
+Song:   Where Do We Go From Here (interlude)
+Typed by: OHHLA Webmaster DJ Flash
+
+Power.. pow.. power...
+
+Guess who's back?  Hahaha, here we go
+It's ninety-fo', what's next?
+
+Power.. enter my world
+
+I guess this year gonna be a motherfucker for real niggaz
+I swear these playa haters done got a taste of power
+It ain't all good in the hood
+Least not on my side, from where I stand
+And the law?  Man, fuck the law!
+Niggaz must outthink, outstep, and continuously outsmart
+the motherfuckin law, in every way
+Key word in ninety-four is 'down low'
+Gots to be struggling
+I see how the rich got theirs
+Nigga I'm legit, shit
+Where do we go from here?
+(Who's afraid, of the punk police?
+ To my niggaz run the streets, fuck peace) --> repeat in background
+Heyyy niggaz, where your heart at?
+See motherfuckers killin babies, killin mommas
+Killin kids, puttin this in they motherfuckin mark
+Now what type of mixed up trick would kill the future of our race
+before he would he look his enemy dead in the eye, and open fire?
+These crazy motherfuckers got toys with guns
+Jails for guns, but still, no god damn jobs
+And they wonder why we loc'n up
+Where do we go from here?
+Where do we go?
+*singers singing variations of 'Where do we go from here'*
+All you niggaz out there
+The clouds shook, the world listened
+We stood together in April of ninety-two
+With duty, and a sense of honor
+There is no limit to what WE can achieve
+That's all on us... us...
+Not my niggaz, not the whites, not the enemies
+or none of them motherfuckers, US
+What can WE do? Shit
+I declare a death sentence to all child molestors
+Fake-ass bitches, male and female
+And all you punk-ass snitches
+We can do without your asshole
+Let no man break, what we set
+Where do we go from here?
+
+Rest in peace, to Cato, I miss you
+All the other real G's that passed away in ninety-three
+In ninety-four, and more
+What do we do? For us?
+</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

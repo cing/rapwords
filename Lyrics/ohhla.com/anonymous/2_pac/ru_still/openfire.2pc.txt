@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac
+Album:  R U Still Down? (Remember Me)
+Song:   Open Fire
+Typed by: OHHLA Webmaster DJ Flash
+
+"Alright now, here we go"
+
+Verse One: 2Pac
+
+Tell me, how many real motherfuckers feel me? I smoke a blunt
+and freak the funk until these jealous motherfuckers kill me
+I'm out the gutter, pick a hero
+I'm 165 and staying high til I die, my competion's zero
+Cause I could give a fuck about you, better duck
+Or I'll be forced to hit yo ass up I give a fuck
+I'm sick inside my mind, why you sweatin me?
+It's gonna take an army full of crooked ass cops to come and get me
+Niggaz know I ain't the one to sleep on, I'm under pressure
+Gotta sleep with my piece, an extra clip beside my dresser
+Word to God I've been ready to die since I was born
+I don't want no shit but niggaz trip and yo it's on
+Open fire on my adversaries, don't even worry
+Better have on a vest aim for the chest and then you buried
+It's a man's world, niggaz get played, another stray
+Hope I live to see another day, hey
+I'm getting sweated by these undercovers, who can I trust?
+Got my mama stressin thinkin it's a drug bust
+Gotta get paid but all the drama that's attached
+We living a Drug Life, Thug Life, each day could be my last
+Will I blast when it's time to shoot? Don't even ask
+That's the consequences when ya livin, fast
+Six bricks of tricks, for my niggaz, I gotta come up
+and recoup, you keep the dope just bring me six figures
+Is it a bust? I hear the sirens, run for cover
+over the fence and open fire
+
+"Alright now, here we go"
+
+Verse Two: 2Pac
+
+These motherfuckers on my ass I'm in traffic, will it be tragic?
+I'm comin round the corner like I'm Magic
+Doin ninety on the freeway, and hittin switches
+In a high speed chase with these punk bitches
+Don't turn around I ain't givin up, cause they don't worry me
+Pussy ass bitches better bury me
+Runnin outta gas time to park it, I'm on foot
+We in the hood, how the fuck they gon catch a crook? Haha
+I got away cause I'm clever
+Went to my neighbors for a favor now you know players stick together
+I watch the scene from the rooftop, spittin loogies
+at the coppers that persue me, beotch!
+I be a hustler til it's over, motherfucker
+Open fire on you bustas
+
+"Alright now, here we go"
+
+Verse Three: 2Pac
+
+Don't try to follow me, I'm headed outta state
+I gotta pay my fuckin bills, so I'm transportin weight
+Change my plates, pick up my nigga, and now we rollin
+Droppin keys like they stolen, hehe
+Tell me who do you fear?  I'm outta town until the coast is clear
+Enough dope to last a year
+They got me running from the police, nowhere to go
+With the lights out, rollin down a dirt road
+But I ain't goin alive, I'd rather die than be a convict
+I'd rather fire on my target
+I hit the corner doing ninety, ahhhh shit!
+Them bitches right behind me
+They take a shot and hit my fuckin tires
+Now, jump out the car then I open fire, sucka!
+
+Hahahaha, Thug Life!</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

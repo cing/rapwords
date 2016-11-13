@@ -1,0 +1,143 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Aesop Rock
+Album:  The Impossible Kid
+Song:   Mystery Fish
+Typed by: AZ Lyrics
+
+Tech support, feral army
+In a cave on a failed bit of terraforming
+4 corners of paranormal
+Get shorn for a thermos and pair of thermals
+In the warehouse air where his dairy curdles
+St. Vincent de Paul trying to square the circle
+Circle the source of his power
+Foresight born at the corner of Howard on sale
+Cherry pick blue in the pale
+It's a blue-nose chewin' his tail
+Losing his coat
+Schmoozing a high and head-rush
+Hack up bile over H1N1, and then some
+One eye on the breadcrumbs
+Other eye on the Drencrom
+Other other eye on the income
+Good knife and a grin
+Shoot dice with the lice and the ring worms
+Peg leg, smells like Medellin wake in the night
+Make a pipe out of anything
+Take 5, take a dive in the cellophane
+Turn 5 into 5 6 7 8
+Back out, black out somewhere fancy
+Shaped like the backseat of Aesop's Camry
+Dude... seat full of chips and sandwich meat from the crypt
+In the end, if you give an address in a river of piss
+Don't question the mystery fish
+Just picture shrimp on a pillow of grits
+Close your eyes, lick your lips
+I'm at the cafe ordering a cup of fresh
+Sarah gave me 2, I gave one to Rex
+He said, "Fools ain't shit plus fuck the pigs
+They could never understand what Sumner is"
+
+(Word up, word up, word up)
+I'm off the grid
+I'm through the gate
+I fly these kites into the fray
+(Word up, word up, word up)
+I'm out the box
+I'm through the mud
+I fly these kites into the cut
+
+NorCal fried bacteria
+No ID survive the vivarium
+Try soft wheels, sourdough and heroin
+Eat with the chimera, fly with the seraphim
+Might hold court with the cats and dogs
+Who hold Kools like an orb in a dragon's claw
+In terry cloth robes outside detox surly
+Curse at a beat cop, doctor a Slurpee
+Adopt no Xerxes, fear no moon man
+Stay true like a wolf wearing wolf pants
+Oooh, never could avoid himself
+For long enough to contain or employ as help
+And now he look both ways at the asteroid belt
+Buzzed, gross and wholly unloved
+Still hear an ex in his head yelling, "kiss the ring"
+From a fortune to Fisher King
+Or from assisted care, blisters in his hair
+New day, new diary of disrepair
+Soups on, 2-ton crucifix to bear
+No shoes, no shirt, no fiscal year
+I said hello to Marshall every morn for 6
+He yelled at me every time, that's amore, bitch
+It only took one tooth to crack the bug juice and chug
+Turn a bum to a Sun Tzu, it's bug
+Outside home is an open swim
+Occultism in the throws of corrosive wind
+A cold meal with the ghosts of friends
+A whole host of meds
+A deal on a Tone Loc cassette
+I stepped over a body in the door
+I pretend he asleep but it's probably more, God damn
+Profound apathy, heart with a crack
+I'm ships in the night
+I'm darts at a map
+Word up</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

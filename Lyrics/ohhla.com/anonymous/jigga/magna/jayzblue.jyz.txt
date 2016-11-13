@@ -1,0 +1,145 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z
+Album:  Magna Carta... Holy Grail
+Song:   Jay Z Blue
+Typed by: Nickolye16@aol.com 
+
+[Intro: sample taken from the movie "Mommie Dearest"]
+"I work and work 'til I'm half-dead
+ and I hear people saying, 'She's getting old.'
+ And what do I get? A DAUGHTER,
+ who cares as much about the beautiful dresses I give her
+ as she cares about ME~!"
+
+{*Notorious B.I.G.*} "Uhh"
+
+[Jay-Z]
+Let's do this for these babies
+Mercedes, truck, fuck, houses on acres
+Blatant ballin on HD
+Mm, y'all need to step up y'all AV
+Mm, life changed again
+I was already takin off, my flight changed again
+Slight change of winds {"Uhh"}
+It's barely 12 noon and my wife changed again
+Baby need Pampers
+Daddy need at least three weeks in the Hamptons
+Please don't judge me
+Only hugged the block, I thought my daddy didn't love me
+My baby gettin chubby
+Cue that Stevie Wonder music, aww +Isn't She Lovely+?
+Now I'm starin at her, prayin that things don't get ugly
+And I'm stuck in that old cycle like wife leaves hubby
+Fuck joint custody
+I need a joint right now, just the thought alone fucks with me
+
+[Chorus: Jay-Z]
+High on life - I could die from the fall
+Imagine if I hit the floor
+Apologies in order, to Blue Ivy my daughter
+If it was up to me, you would be with me
+Sort of like Daddy Dearest
+
+[sample from "Mommie Dearest"]
+"Don't FUCK with me fellas! This ain't my first time at the rodeo."
+
+[Jay-Z] + {Biggie sample}
+{"Uhh... uhh"} I dream filthy
+{"My moms and pops"} mixed me with Jamaican {"Rum and whiskey"}
+Uh, what a set off {"What a set off"}
+And I know I'm not perfect baby
+I done been through so much trauma it gon' be hard to reverse it
+With some doctors and some nurses maybe
+Teach me how to treat a lady, open doors on the 'cedes
+This relationship shit is complicated
+All I know is we ain't speakin every day, I fuckin hate it
+And, I don't wanna duplicate it
+I done seen my mom and pop drive each other muh'fuckin crazy
+And I got that nigga blood in me {"Uhh"}
+I got his ego and his temper, all that's missin is the drugs in me
+
+[Chorus]
+
+[sample from "Mommie Dearest"]
+"No... no, no... no, wire, hangers, EVER!!"
+
+[Jay-Z]
+Father never taught me how to be a father, treat a mother
+I don't wanna have to just repeat another, leave another
+baby with no daddy, want no mama drama, I just wanna
+take her back to a time when everything was calmer
+Out in Paris on the terrace watchin the Eiffel Tower
+and the Ferris wheel, yet and still nothin could prepare us
+for the beauty that you be, Blue be
+Lookin in your eyes is like a mirror, have to face my fears
+Cheer up, why can't you just be happy
+without these back and forth thoughts? You too much like your daddy
+Badly I just wanted to spent more time with him
+Sadly life wouldn't let me get around with him
+Now I got my own daughter, taught her how to take her first steps
+Cut the cord, watch her take her first breath
+And I'm tryin and I'm lyin if I said I wasn't scared
+But in life or death if I ain't here
+Apologies in order, to Blue Ivy my daughter
+If it was up to me, you would be with me
+Sort of like Daddy Dearest
+</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

@@ -1,0 +1,151 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: The Notorious B.I.G.
+Album:  Warning 12"
+Song:   Warning (Clean Version)
+Typed by: OHHLA Webmaster DJ Flash, no1wammy@hotmail.com
+
+[Notorious B.I.G.]
+{*sound of a pager going off*}
+Stick me for my paper
+Stick me for my paper
+Stick me for my paper
+
+(Verse 1)
+[B.I.G.] Who the hell is this?
+         Pagin' me at 5:46
+         In the mornin, crack of dawn, and {*dialing phone*}
+         Now I'm yawnin'
+         Wipe the cold out my eye {*ring*}
+         See who's this pagin' me
+         And why
+         It's my man Pop from the barbershop
+         Told me he was in the gamblin' spot, and heard the intricate plot
+         Some people wanna stick me like flypaper neighbor
+         Slow down love, please chill, drop the caper
+[Pop]    Remember all your peoples from the hill up in Brownsville?
+         That you rolled dice with, smoked [{*blunts*}] and got nice with
+[B.I.G.] Yeah, Lil' Fame up in Prospect
+         Nah, they're my peoples, nah, love wouldn't disrespect
+[Pop]    I didn't say them, they schooled me to some chumps
+         That you knew from back when
+         When you was clockin' minor figures
+         Now they heard you blowin' up like nitro
+         And they wanna stick the knife through your windpipe slow
+         So, thank Fame for warnin' me, cause I'm warnin' you
+         I got the mack, Biggie, tell me what you gonna do
+
+Break: Notorious B.I.G.
+Damn!
+Why they wanna stick me for my paper
+Damn!
+Why they wanna stick me for my paper
+Damn!
+Why they wanna stick me for my paper
+Damn!
+Why they wanna stick me for my paper
+
+(Verse 2)
+[Pop]
+They heard about the Rolex's and the Lexus
+With the Texas license plates out of state
+They heard about the pounds you got down in Georgetown
+And they heard you got, half of Virginia locked down
+They even heard about the crib you bought your moms out
+In Florida, the fifth corridor
+
+[B.I.G.]
+Call the coroner
+There's gonna be a lot of slow singin'
+And flower bringin'
+If my burgular alarm starts ringin'
+What you think all the guns is for?
+All purpose war, got the Rottweilers by the door
+And I feed 'em gunpowder, so they can devour
+The criminals, tryin' to drop my decimals
+Damn!
+People wanna stick my for my cream
+And it ain't a dream, things ain't always what it seem
+It's the ones that smoke [{*blunts*}] with ya
+I see ya picture
+Now they wanna grab the guns and come and get ya
+Bet ya Biggie won't slip
+I got the calico with the black talons loaded in the clip
+So I can rip through the ligaments
+Put they bodies in a bad prediciment
+Where all the foul people went
+Touch my cheddah, feel my Beretta
+Buck
+What I'm a hit you, with ya first reaction, hit the duck
+I bring pain, bloodstains on what remains
+Of his jacket
+He had a gun he should've packed it
+Cocked it, extra clips in my pocket
+So I can reload and explode on ya [{*rasshole*}
+I mess around and get hardcore
+C-4 to your door, no beef no more
+Feel the rough, scandalous
+The more [{*weed*}] smoke I puff
+The more dangerous
+I don't give a damn about you or your weak crew
+What you gonna do when Big Poppa come for you
+I'm not runnin', chump, I bust my gun and
+Hold on, I hear somebody comin'</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

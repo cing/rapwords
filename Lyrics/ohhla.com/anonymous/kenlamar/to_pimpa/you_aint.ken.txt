@@ -1,0 +1,134 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Kendrick Lamar
+Album:  To Pimp a Butterfly
+Song:   You Ain't Gotta Lie (Momma Said)
+Typed by: kirenamloh@msn.com
+
+[Intro]
+Study long, study wrong, nigga
+Hey, y'all close that front door, y'all let flies in this muh'fucker!
+Close that door! My OG up in this muh'erfucker right now
+My pops man with the bottle in his hand, ackin a fool
+Hey, hey, babe check it out, I'ma tell you what my mama had said, she like..
+
+[Kendrick Lamar]
+I could spot you a mile away
+I could see your insecurities written all on your face
+So predictable your words, I know what you gonna say
+Who you foolin? Oh, you assuming you can just come and hang
+With the homies but your level of realness ain't the same
+Circus acts only attract those that entertain
+Small talk, we know that it's all talk
+We live in the Laugh Factory every time they mention your name
+
+[Bridge]
+Askin where the hoes at to impress me
+Askin where the moneybags to impress me
+Say you got the burner stashed to impress me
+It's all in your head, homie
+Askin where the plug at to impress me
+Askin where the jug at to impress me
+Askin where it's at only upsets me
+You sound like the feds, homie
+
+[Chorus]
+You ain't gotta lie to kick it, my nigga
+You ain't gotta lie, you ain't gotta lie
+You ain't gotta lie to kick it, my nigga
+You ain't gotta try so hard
+You ain't gotta lie to kick it, my nigga
+You ain't gotta lie, you ain't gotta lie
+You ain't gotta lie to kick it, my nigga
+You ain't gotta try so hard
+
+[Kendrick Lamar]
+...And the world don't respect you
+and the culture don't accept you but you think it's all love
+And the girls gon' neglect you once your parody is done
+Reputation can't protect you if you never had one
+Jealousy (complex), emotional (complex)
+Self-pity (complex), under oath (complex)
+The loudest one in the room, nigga, that's a complex
+Let me put it back in proper context
+
+[Chorus + Bridge]
+
+[Kendrick Lamar]
+...What do you got to offer?
+Tell me before we off ya, put you deep in the coffin
+Been allergic to talkin, been a virgin to bullshit
+And sell a dream in the auction, tell me just who your boss is
+Niggaz be fugazi, bitches be fugazi
+This is for fugazi, niggaz and bitches
+who make habitual lyin babies, bless them little hearts
+You can never persuade me, you can never relate me
+to him (him), to her (her), or that (that) or them (them)
+Or you (you), the truth (truth) you love (love) to bend (bend)
+In the back (back), in the bed (bed), on the floor, that's yo' ho
+On the couch (couch), in her mouth (mouth), I'll be out, really doe
+See loud, rich niggaz got low money
+And loud, broke niggaz got no money
+The irony behind it is so funny
+And I seen it all this past year
+Pass on some advice we feel
+
+[Chorus]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

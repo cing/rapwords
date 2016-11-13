@@ -1,0 +1,121 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z
+Album:  Reasonable Doubt
+Song:   D'Evils
+Typed by: OHHLA Webmaster DJ Flash
+
+[Verse One]
+This shit is wicked on these mean streets
+None of my friends speak
+We're all trying to win, but then again
+Maybe it's for the best though, cause when they're seeing too much
+You know they're trying to get you touched
+Whoever said illegal was the easy way out couldn't understand the mechanics
+And the workings of the underworld, granted
+Nine to five is how to survive, I ain't trying to survive
+I'm trying to live it to the limit and love it a lot
+Life ills, poison my body
+I used to say 'fuck mic skills'
+And never prayed to God, I prayed to Gotti
+That's right it's wicked, that's life I live it
+Ain't asking for forgiveness for my sins, ends
+I break bread with the late heads, picking their brains for angles on
+all the evils that the game'll do
+It gets dangerous, money and power is changing us
+And now we're lethal, infected with D'Evils...
+
+[Verse Two]
+We used to fight for building blocks
+Now we fight for blocks with buildings that make a killing
+The closest of friends when we first started
+But grew apart as the money grew, and soon grew black-hearted
+Thinkin back when we first learned to use rubbers
+He never learned so in turn I'm kidnappin his baby's mother
+My hand around her collar, feeding her cheese
+She said the taste of dollars was shitty so I fed her fifties
+About his whereabouts I wasn't convinced
+So I kept feedin her money 'til her shit started to make sense
+Who could ever foresee, we used to stay up all night at slumber parties
+Now I'm tryin to rock this bitch to sleep
+All the years we were real close
+Now I see his fears through her tears
+Know she's wishin we were still close
+Don't cry, it is to be
+In time, I'll take away your miseries and make 'em mine, D'Evils...
+
+[Verse Three]
+My flesh, no nigga could test
+My soul is possessed by D'Evils in the form of diamonds and lexuses
+The Exorcist, got me doing skits like Homie
+You don't know me, but the whole world owe me - strip!
+Was thought to be a pleasant guy all my fucking life
+So now I'm down for whatever, ain't nothing nice
+Throughout my junior high years it was all friendly
+But now this +Higher Learning+ got the +Remy+ in me
+Liquors invaded my kidneys
+Got me ready to lick off, mama forgive me
+I can't be held accountable, D'Evils beatin me down, boo
+Got me runnin with guys, making G's, tellin lies that sound true
+Come test me, I never cower
+For the love of money, son, I'm giving lead showers
+Stop screamin, you know the demon said it's best to die
+And even if +Jehovah Witness+, bet he'll never testify, D'Evils...</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

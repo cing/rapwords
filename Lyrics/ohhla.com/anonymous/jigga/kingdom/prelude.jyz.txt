@@ -1,0 +1,118 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z
+Album:  Kingdom Come
+Song:   The Prelude
+Typed by: OHHLA Webmaster DJ Flash
+
+[Intro: snippets of Eddie in "Super Fly"]
+You know, you've got this.. fantasy in yo' head about
+gettin outta the life and, settin the corporate world on its ear
+What the FUCK you gonna do except hustle?
+Besides pimpin... and you really ain't got the stomach for that
+
+[Jay-Z]
+The game's fucked up
+Nigga's beats is bangin, nigga your hooks did it
+Your lyrics didn't, your gangster look did it
+So I would write it if y'all could get it
+Bein intricate'll get you wood, critic
+On the internet, they like you should spit it
+I'm like you should buy it, nigga that's good business
+Hehe, forget this rap shit I need a new hustle
+A little bit of everything, the new improved Russell
+I say that reluctantly cause I do struggle
+As you see I can't leave so I do love you
+But I'm just a hustler disguised as a rapper
+In fact you can't fit this hustle inside of a wrapper
+Back when crack was
+What these pills are, I was a real star
+Complete with real, cars, no video ones
+You can come and set up a camera, let the video run
+And my real life, complete with real, ice
+VVS boulders oh they're visibly set
+Head and shoulders, my invisible neck
+You see Hova, wasn't digital yet
+Befo' Steve Jobs, made the iPod
+Was gettin head, jobs, we call that intimate
+Back when rappers wouldn't dare play lyrical roulette
+With a automatic weapon I was reppin with a tec
++Fresh+ like +Mannie+ be, chain like anti-freeze
+Shoebox full of cash, dealer man hand me ki's
+Pantries full of Arm & Hammer, don't take Nancy Drew to see
+what it do, I'm a damn G
+Just sent a million dollars through a hands free
+That's big money talk, can you answer me?
+Before the answer was a 3
+I was down in Georgetown with a Hoya chick, lawyer chick
+Sure he's rich now cause he saw the shit, all this shit
+That's why they call him Hov', cause he came before all this shit
+Bought a 6, quarter seven, skipped on them quarter eights
+Bought a 9 for non-stop glock work all the time
+Woo! Guess who's back?
+Since this is a new era, got a fresh new hat
+Ten year veteran, I've been set
+I've been through with this bullshit game but I never quit
+I used to think rappin at 38 was ill
+But last year alone I grossed 38 mill'
+I know I ain't quite 38 but still
+The flow so +Special+ got a +38+ feel
+The real is back, hehehehe</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

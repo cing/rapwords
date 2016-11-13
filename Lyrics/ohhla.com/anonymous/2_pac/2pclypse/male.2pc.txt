@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac
+Album:  2Pacalypse Now
+Song:   Young Black Male
+Typed by: OHHLA Webmaster DJ Flash
+
+["Hard like an erection..." -- Ed O.G.]  Young black male!
+["Hard like an erection..."]
+["...ain't shit to fool with" -- Ice Cube]
+["Hard like an erection..."]  Young black male!
+["...ain't shit to fool with"]
+*runs backwards* Young black male!
+
+(2Pac) Yes niggaz... yes niggaz... yes niggaz
+
+Young black male!
+["Hard like an erection..."]  Young black male!
+["Hard like an erection..."] ["...ain't shit to fool with"]
+["Hard like an erection..."]  Young black male!
+["Hard like an erection..."] ["...ain't shit to fool with"]
+
+(2Pac) Go nigga, go!!
+
+[Verse One]
+Young black male
+I try to effect by kicking the facts
+and stacking much mail
+I'm packing a gat cuz guys wanna jack
+and fuck goin to jail
+Cause I ain't a crook, despite how I look
+I don't sell llello
+They're judging a brother like covers and books
+Follow me into a flow
+I'm sure you know, which way to go
+I'm hittin em out of the dopes
+So slip on the slope, let's skip on the flow
+I'm fuckin the sluts and hoes
+The bigger the butts the tighter the clothes
+The gimminy jimminy grows
+Then whaddya know, it's off with some clothes
+I love when the crowd says, "Ho!"
+That let's me know, they know I can flow
+Love when they come to my shows
+I get up and go, with skins before
+When I'm collecting my dough
+I never respect, the one that I back
+The quicker the nigga can rap
+The bigger the check, now watch how they sweat
+What kind of style is that?
+The style of a mack, and ready to jack
+I rendered up piles of black
+The wacker the pack, the fatter the smack
+I hate it when real nigga bust
+They hate when I cuss, they threaten to bust
+I had enough of the fuss
+I bust what I bust, and cuss when I must
+They gave me a charge for sales
+For selling the tales... of young black males
+
+Yes nigga, N-I-G-G-A niggaz
+
+        Ay nigga you can't handle that shit!
+        Pass that man!
+
+Hit that shit, that's the shit!
+
+        It smell like skunk, skunk smell like that nigga momma
+
+We ain't nuttin but some low down dirty niggaz
+Keep it real nigga, fuck you nigga!
+You ain't givin me near a dime on this real motherfucker
+Fuck St. Ide's it's an Old E thing baby
+Strictly some of that Hennesee
+
+        Can I drink with you fellas?  Can I get it on it?
+
+Fuck you capo.  You ain't in baby.
+
+        I tell you what!  You guys are not gonna be talking
+        all that shit, when I come back, OK?
+        We gonna say who the big mouth, when I come back
+
+YOUNG BLACK MALE!</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

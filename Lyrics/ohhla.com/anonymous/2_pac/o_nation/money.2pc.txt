@@ -1,0 +1,144 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: 2Pac & Boot Camp Clik f/ Bad Azz, Daz Dillinger (Tha Dogg Pound)
+Album:  One Nation - The Album
+Song:   The Money 
+Typed by: dy_face@yahoo.com
+
+[Intro: Daz Dillinger]
+Yeah, cruising, doing our thing, you know what I mean?
+That nigga Daz, Makaveli, check it out, bitch!
+
+[Verse One: Tupac]
+Three words to make a motherfucker's heart burst
+I rip the verse, worse nigga when I start to curse
+Picture a black hearse, adversaries buried in their Sunday best
+He blinked, died in the dark, my gun swayed his chest
+But will I die nigga, we all die
+So until I die, why must I ride on my enemies until they fry
+Father forgive me cause they're not knowing
+My glock cocked, niggaz drop when my shots flowing
+My definition of a thug nigga
+A multimillionaire, started as a drug dealer
+I love niggaz, open fire when I blast at you
+Everybody dies, Bad Boy massacre, I laugh at you
+Holler my name, I reappear, like a G (Makaveli)
+No man alive can see me
+Motherfuckers making problems, but they get what they deserve
+Get destroyed, with these three words, motherfuckers
+
+[Chorus: Bad Azz] 2X
+Outlast, if we blast, Outlaw outcast
+Only moving for the money so we're coming up (so we're coming up)
+We outlast if we blast, Outlaw outcast
+Dont slip, nigga we ride (We ride)
+
+[Verse Two: Daz Dillinger]
+It's about more money, more dollars, more crack for the fiends
+And more weed for the ballers, the spot is hot
+From all this fucking bullshit and recommended dope dealers 
+Getting richer for all my niggaz hit the wall up, in memory
+State of our mind, it come right before me
+So all you old brad scatter, run for heat, plus the power
+Trying to get rid of half these motherfucking bastards
+They're hazard to the block
+From the gilt with all that bullshit drama they talk
+Never put any shit back in the hood
+So these motherfuckers think it's all good
+If I die or go to jail, I can't quit
+From illegal to legitimate
+Incarcerated with the Bloods and Crips
+They lock me down in the gang you know the spot G
+They down to ride and down to shake for me
+You will die for it
+
+[Chorus]
+
+[Verse Three: Tupac]
+Fuck the world, feel the fury of the chosen man
+Thug nigga, ten millimeter close in hand
+Put them in my range, aimed nigga take fire, watch them die
+Should've never fuck around when it's time to ride
+Riding low, down a one way, watch for gun play
+I hope we find true peace one day
+Nobody cries when my dog dies, set them straight
+AK automatically, retaliate
+
+[Verse Four: Daz Dillinger]
+That nigga Daz and Makaveli on a mission
+So don't worry, a lifestyle tells the story
+To be worshiping the glory
+Coming through on my entourage, getting loose
+Prepare for the war, motherfucker bring your juice
+Pray to God, that your soul is right
+Before you die tonight
+And quicker than any man I be riding all night
+See the game ain't the same no more
+All these motherfucking niggaz ain't the same no more
+So we're yelling
+
+[Chorus]
+
+[Outro: Daz Dillinger]
+Yeah, ride
+Ride all night on their bitches
+Niggaz ain't afraid, we run up on your ass to blast
+Ride all night</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

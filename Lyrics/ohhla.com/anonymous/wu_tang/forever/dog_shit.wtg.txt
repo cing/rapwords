@@ -1,0 +1,134 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan
+Album:  Wu-Tang Forever
+Song:   Dog Shit
+Typed by: OHHLA Webmaster DJ Flash
+
+*dogs barking*
+
+[Ol Dirty Bastard]
+All y'all bitches put your naps together
+And all you niggaz put your dicks together, bitch
+
+(Ol Dirty starts singing)
+Hoeeeee! 			Yah ha heh
+De, hayyyy!			Ah ha he hay
+De, haaaaa!			Errr hah hahhhr
+Haaaaaaaah			He hawww, heahh
+
+She flew in like calm breeze
+Tall brown skin her weave like palm trees
+I went coconuts
+Dipped my Dunkin' between your Donut
+Don't want it if it ain't no slut, bitch!
+Fathership touch ground, like fly on soup
+Don't invite me I tear the fuck down
+White ones cut my toupee!
+Seventh day rester, or scream play
+I slump MC slay, it ain't nuttin to bust ass
+Bullet him, get him fast
+Bitch I don't break out, blast to the next rash
+The dog piss on MC's like trees
+Got meals but still grill that old good welfare cheese
+
+(Ol Dirty sings again)
+Hoeeeeee! 
+Yeah, hayyyy!			Dedicated to all you bitch ass niggaz
+De, haaaaa			And you bitch ass niggarettes
+Bitch! Hoeeeeee!		Motherfuckers!
+
+[RZA] Let that bitch go!
+
+Shame on a nuh, who tried to step TUH
+the Ol Dirty Bas, put my foot up your UHH
+Bitch, you walk around with your bra too tight
+It's alright, you still gon' get fucked tonight
+Hoeeeeee!
+
+[Method] Stankin ass hoes!
+
+You're the type of bitch don't appreciate sheeeit
+Never had sheeeit, so you won't be sheeeeit
+That pussy there, couldn't satisfy a hair
+on my body, treat me like a lolli and slob me down
+*SLURP, SLURP* I'm Doo Doo Brown!  Hehahahaha
+Tossed salad, oh you in some shit now
+Callin me a dog, well leave a dog alone
+Cause nothin can stop me from buryin my bones
+in the backyard, of someone else's house
+Ol Dirt Dog, but I'm not dogged out
+Here comes Rover, sniffin at your ass
+But pardon me bitch, as I shit on your grass
+That means hoe, you been shit-ted on!
+I'm not the first dog that's shitted on your lawn
+
+(crazy drunken ass ODB singin again)
+
+Hoeeeee! Yeah, heyyyy, de haaaaa
+Hoe, ohhaowwohh!
+Hoeeeee, de heyyyy
+(This is dedicated to all y'all bitches)
+De, haaaahhhh
+Hoeeeee! Yeah, heyyyy, de haaaaa
+Ahahaahaaah
+
+Fuck y'all</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

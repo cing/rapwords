@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z
+Album:  Reasonable Doubt
+Song:   Friend or Foe
+Typed by: OHHLA.com
+
+check one check two, you know what to do
+primo, cold crush when i give it to you
+friend or foe yo, state your biz
+ya tend to dough, ah , there it is
+me, i run the show, oh, and these kids
+don't like nobody commin around here fuckin wit they doe for shit
+you enterprisin though,
+and i like it
+but fuck with the big dogs though, i gotta bite ya,
+look, its out of my hands
+and you gettin money round here, its not in the plans
+so hop yo ass out of that van, head back to kansas
+i'm sendin niggas back up in campuses
+chance is slimmer than that chick in calvin klien pantses
+let me guess, they said it was money round here
+and the rest is me stoppin you from gettin it, correct?
+sorry to hear that, my guess is you got work at the hotel
+i'll take care of that , you'll see, now please
+ give me the room key
+you're twitchin, don't do that, you makin me nervous
+my crew, well, they do pack, them niggas is murderous
+so would ya, please put your hand back in sight
+they don't like to see me nervous you can understand that, right?
+you draw, better be picasso, y'know the best
+cause if this is not so, ah, god bless
+you leave me no choice, i leave you no voice
+believe me son i hate to do it just as bad as you hate to see it done 
+now calm your boys, 
+cause i'm findin it a little hard to concentrate with all the noise
+get the point, i'll let ya go, 
+before ya leave,i guess i aughta let you know, i need those keys
+and promise you never, no matter the weather
+evaevaevaevaevaevaevaevaeva come around here no mo'
+</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

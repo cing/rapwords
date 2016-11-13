@@ -1,0 +1,147 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Eminem
+Album:  Relapse
+Song:   Crack a Bottle
+Typed by: eckostylez@gmail.com
+
+[Intro]
+Oooh! Ladies and gentlemen, the moment you've all been waiting for
+In this corner, weighing 175 pounds, with a record of 17 rapes, 400
+assaults, and 4 murders
+The undisputed, most diabolical villain in the world, Slim Shady!
+
+[Chorus]
+So crack a bottle, let your body waddle
+Don't act like a snobby model
+You just hit the lotto
+Uh oh uh oh, bitches hopping in my Tahoe
+Got one riding shotgun and no not one of them got gloves
+Now where's the rubbers? Whose got the rubbers?
+I noticed there's so many of them and there's really not that many of us
+And ladies love us and my posse's kicking up dust
+It's on till the break of dawn and we're starting this party from dusk
+
+Ladies and gentlemen, Dr Dre
+
+[Verse One]
+They see that low rider go by there, like "Oh my!"
+You ain't got to tell me why you're sick cuz I know why
+I dip through in that six trey like sick 'em Dre
+I'm an itch that they can't scratch, they're sick of me
+But hey, what else can I say? I love LA
+Cuz over and above all, it's just another day
+And this one begins where the last one ends
+Pick up where we left off and get smashed again
+I'll be damned, just fucked around and crashed my Benz
+Driving around with a smashed front end
+Let's cash that one in
+Grab another one from out the stable
+The Monte Carlo, El Camino or the El Derado
+The hell if I know
+Do I want leather seats or vinyl
+Decisions, decisions garage looks like precision collision
+Or maico beats quake like Waco
+Just keep the bass low speakers away from your face though
+
+[Chorus]
+
+[Verse Two]
+Back when Andre, the giant, mister elephant tusk
+Picture us, you'll just be another one bit the dust
+Just one of my mother's son who got thrown under the bus
+Kiss my butt lick my wonder cheese from under my nuts
+They disgust, me to see the game the way that it looks
+It's a must, I redeem my name n haters get murked
+Bitches lust man they love me when I lay in the cut
+Missed the cut the lady give a raidy some paper cut
+Now picture us It's ridiculous you curse at the thought
+Cuz when I spit the verse the shit gets worse and worse cause your soft
+If I could fit the words as picture perfect, works every time
+Every verse, every line, as simple as nursery rhymes
+It's elementary the elephants have entered the room
+I venture to say with the same repetition is true
+Not to mention back with a vengeance, so here's the signal
+Of the bat symbol The platinum dude is back on you hoes
+
+[Chorus]
+
+[Verse Three]
+It's sorta like pourin' Draino down a live volcano
+You never know what'll happen next, it may blow
+Same thing happens to the beats when Dre blows
+I talk shit, but my dick's long as my payroll
+I get ass like a ball player, but I'm a boss player
+Pimpin' hoes from here to Australia
+Till I get heart failure
+Look at ya half of ya'll, all scared
+Other half, hands up in the air, like "Awww yeah"
+This is our year, this is what you call sheer talent,
+But I think at this point it's just obvious
+Fierce, they say my music's good for all queers
+Cuz I make your ear ring, get it?, piercin' all ears
+Call us the mafia We got the fucking mob here
+Gimme the hate and I'll feed off of ya's all year
+Shit, I'm just doing my job here
+You don't want no problem, do ya?
+Fuck it, I'll even crack a bottle for ya
+
+[Chorus]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

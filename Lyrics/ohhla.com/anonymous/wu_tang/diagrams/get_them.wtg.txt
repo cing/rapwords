@@ -1,0 +1,134 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan
+Album:  8 Diagrams
+Song:   Get Them Out Ya Way Pa
+Typed by: Tha Masta
+
+[Intro: Method Man]
+If you got it, light it up (8X)
+
+[Method Man]
+Ain't no shook in 'em, Pyrex pots is hot, fiends is cooking 'em
+Little niggaz hugging the block, cops is booking 'em
+Women hugging they purse when they spot the crook in 'em
+Back when little J got shot, pops was whooping 'em
+Little noses dripping with snot, ock, now look at 'em
+The ghetto got a hook in 'em now, drugs, stay pushing 'em
+Used to throwing dirt in these blunts, now, it's kush in 'em
+Used to tell these chicks to shut up, now, he's shooshing 'em
+Get cash, get that ass, or put a foot in 'em
+Iron Flag, flag that cab, Bedford and Put-e-nam
+There ain't no puss in 'em, dick, dildo, or gush in 'em
+Niggaz still got that juks in 'em
+
+[Chorus 2X: Ghostface Killah] + (Raekwon)
+If he front then we stomp 'em out (Get 'em out ya way pa)
+If he drunk and he run his mouth (Get 'em out ya way pa)
+If he front then we stomp 'em out (Get 'em out ya way pa)
+(Get 'em out ya way pa, move, move, move)
+
+[U-God]
+I'm seduced by the chrome, it's a ruthless poem
+It took a little time to get his juices going
+Producers know him, as the kid with the Iron Palm
+Righteous hammer, examine the firearm
+Approach or get fired on, permanent chest scar
+Empire Strikes Back, check out the Death Star
+Bless y'all, wet y'all, do the impossible
+Where I'm from, we use dum-dums in the arsenal
+Highly sparkable, get stretched off the knuckle check
+Known to scuffle, I take it to the upper deck
+Universal conquest, kung fu, buckle vets
+In a dufflebag, max yo, a couple techs
+Give 'em ear hustle, Wu brand, we programmed
+Next time we dance, it won't be a slow jam
+I fear no man, son, you get lynched up
+Nigga bitch, get Frankenstein stitched up
+
+[Chorus]
+
+[Masta Killa]
+Yeah, voice skipping off percussion
+Give it to 'em how they love it, slow flow, deadly, beloved
+All praise, the daunting, calm yet
+So alarming, without a word being spoken
+A thought with no voice, just a nod and a look
+The contract was took, straight cash, off the books
+A major pawn took a Don, look, he's armed
+With a few black rooks from the heart of the Crook
+Shook ones look while they hung him on Hercules hooks
+They found his body near a shallow brook, escaped on foot
+Switched the look up, out of state, he got the hook up
+The flipped cake, thought lighter than the feather
+Yet heavier than weight, when my mindstate starts to break, take cover
+Over RZA instrumental, I'm damn near invincible, it's simple
+
+[Chorus 2X]
+
+[Outro: kung fu sample]
+Tell me, what are they like?
+	They got holes in the top, five round holes
+	While I was watching, this stranger, hit them
+	But his fingers went right through the bone
+So then, they've... mastered it
+	It's some style of kung fu, you know it?
+The Skeleton Claw</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

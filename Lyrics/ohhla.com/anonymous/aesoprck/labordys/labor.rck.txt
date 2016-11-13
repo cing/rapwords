@@ -1,0 +1,110 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Aesop Rock
+Album:  Labor Days
+Song:   Labor
+Typed by: darkphysician@hotmail.com *
+
+* send corrections to the typist
+
+"This is labor" {*echoes*}
+{*sample cut and scratched*}
+
+[Aesop Rock]
+Who put the monkey wrench in well oiled prefectionist emblem
+Just to watch these moniters spit white noise
+through your office space auto made
+I infect knowledge gene pool dissented cloud clusters
+Brushing dust mites off your starborn all revolution sound jugglers
+Delinquent fan for brick habitat bob, weave, stick, move fence
+and put somewhere in the middle for slick invention
+This years brain crop spread spectacular
+I ain't mad at cha don't stay mad at the caliber
+I twist characters like twist characters
+Talley up the alley cat aggresion
+in this Doug E. Fresh infested mess up bassline lust
+An automatic B-boy krylon can't combust circuits
+Working these war picked cyphers
+with head striker stability and kamakazi chivalry
+I alone noble in a warm food feud
+Walking ten generations ain't nobody asking for your patience
+Who ranned off but only meet to face the fact
+that I knew myself and didn't have to ask nobody else
+(Talk about labor) Fantastic planet urchin puting work in
+Searching for pertinent verse minus the murderous diversions
+Apologies won't lore me to the communal sob story
+nor would I sacrifice lifestyle to benefit jewerly temperament
+This whole Green Goblin webcutter butts up against
+crayola daydream landscapes spittin bedlam, Datum
+Charge the villagers nickles and nicotine
+to watch them fed to undiscreniled crack at the high noon
+(We sell popcorn, beer and balloons!)
+I got an echelon this gon be the one children bicker over
+And start warriors vs. baseball fury element
+to glitches mode of century development
+I am a star really! The big bang bastard's back
+with a one way ticket to Beat Street
+This soil is like relevent to human concept
+plot the man ratios man learning, I work past the service
+I work on what I love, I work the service on my vertince
+And I work till this here little flat line closes the curtains
+
+{*beat plays with some scracthing*}</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

@@ -1,0 +1,127 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Kendrick Lamar
+Album:  good kid, m.A.A.d city
+Song:   Backseat Freestyle
+Typed by: Cedmaster3K
+
+[Intro: Kendrick Lamar]
+Uhh, Martin had a DREAM!
+Martin had a DREAM~! Kendrick have a DREAM~!!
+
+[Chorus: Kendrick Lamar]
+All my life I want money and power
+Respect my mind or die from lead shower
+I pray my dick get big as the Eiffel Tower
+So I can fuck the world for seventy-two hours
+
+[Kendrick Lamar]
+Goddamn I feel amazin', damn I'm in the matrix
+My mind is livin' on Cloud 9 and this nine is never on vacation
+Start up that Maserati and VROOM-VROOM I'm racin'
+Poppin pills in the lobby and I pray they don't find her naked
+And I pray you niggas is hatin', shooters go after Judas
+Jesus Christ if I live life on my knees, ain't no need to do this
+Park it in front of Lueders, next to that Church's Chicken
+All you pussies is losers, all my niggas is winners, screamin'
+
+[Chorus]
+
+[Interlude: Kendrick Lamar]
+Goddamn I got bitches (okay) damn I got bitches (okay)
+Damn I got bitches (yeah) wifey, girlfriend and mistress
+All my life I want money and power
+Respect my mind or die from lead shower
+
+[Kendrick Lamar]
+I've got twenty-five lighters on my dresser, yessir
+Put fire to that ass, body cast on a stretcher
+And her body got that ass that a ruler couldn't measure
+And it make me cum fast but I never get embarrassed
+And I recognize you have what I've been wantin' since that record
+That Adina Howard had pop it fast to impress her
+She rollin', I'm holdin', my scrotum, and posin'
+This voice here is golden so fuck y'all, I goes in and
+
+[Chorus]
+
+[Interlude] - minus last 4 words
+
+[Kendrick Lamar]
+Nigga, it's GO TIME~!
+I roll in dough with a good grind and I run at hoe with a baton
+That's a relay race with a bouquet, they say "K, you gon' marry mines"
+BEYOTCH~! No way; BEYOTCH~! No way
+BEYOTCH~! No way; BEYOTCH~! Okay
+I'm never livin' life confined, it's a failure even if I'm blind
+I can tell ya who, what, when, where, how to sell your game right on time
+BEYOTCH~! Go play; BEYOTCH~! Go play
+BEYOTCH~! Go play; BEYOTCH~! I look like OJ
+Killin' everything from pussy to a mothafuckin' Hit-Boy beat
+She pussy poppin' and I got options like an audible, I be
+C-O-M-P-T-O-N, I win then ball at your defeat
+C-O-M-P-T-O-N, my city mobbin' in the street, yellin'
+
+[Chorus] + [Interlude]
+
+[Outro: Kendrick Lamar]
+(Let it run, Ali) Martin had a DREAM!
+Martin had a DREAM~! Kendrick have a DREAM~!!</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

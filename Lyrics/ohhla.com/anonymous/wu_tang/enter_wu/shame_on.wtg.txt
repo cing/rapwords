@@ -1,0 +1,147 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan
+Album:  Enter the Wu-Tang (36 Chambers)
+Song:   Shame on a Nigga
+
+Intro: Raekwon the Chef
+
+[martial arts movie sample]
+Yeah, yo, aight
+Pass the meth!
+(nizzuh nzza punk nigguh, yeah!)
+Yeah, aight
+kick the raw style, yeah
+Fly that fuckin sack
+
+Chorus:
+
+Shame on a nigga who try to run game on a nigga
+Wu buck wild with the trigger!
+Shame on a nigga who try to run game on a nigga
+Wu buck- I FUCK yo' ass up! What?
+
+(HUT ONE, HUT TWO, HUT THREE, HUT!)
+
+Verse One: Ol Dirty Bastard, Method Man, Raekwon the Chef
+
+Ol' Dirty Bastard, live and uncut!
+Styles unbreakable, shatterproof
+To the young youth, ya wanna get gun?  Shoot!
+BLAOW!  How you like me now?  Don't fuck the style
+Ruthless wild!
+Do ya wanna getcha teeth knocked the FUCK out?
+Wanna get on it like that, well then shout!
+
+Yo RZA, yo razor!
+Hit me with the major
+The damage, my Clan understand it be flavor
+Gunnin, hummin comin atcha
+First I'm gonna getcha, once I gotcha, I gat-cha
+You could never capture the Method Man's stature
+For rhyme and for rapture, got niggaz resigning, now master
+my style?  Never!  I put the fucking buck in the wild kid, I'm terror
+Razor sharp, I sever 
+the head from the shoulders, I'm better
+than my compeda, you mean competitor, whadeva!
+Let's get together
+
+[Shame on a nigga who try to run game on a nigga
+ Wu buckwild with the tri-BLAOW!]
+
+I react so thick, I'm phat, and YO!
+Rae came blowing and blew off ya headphones black
+Rap from yo Cali to Texas
+Smoother than a Lexus, now's my turn to WRECK this
+Brothers approach and half step, but ain't heard
+HALF of it yet, and I bet you're not a fuckin vet
+So, when you see me on the real, formin like Voltron
+Remember I got deep like a Navy Seal!
+
+Chorus:
+
+[Shame on a nigga who try to run game on a nigga
+ Wu buck wild with the trigger!
+ Shame on a nigga who try to run game on a nigga
+ I'll FUCK YOUR ASS UP!]
+
+Verse Two: Ol Dirty Bastard
+
+Yo...!
+I come with that ol' loco
+Style from my vocal
+Couldn't peep it with a pair of bi-focals
+I'm no joker!  Play me as a joker
+Be on you like a house on fire!  Smoke ya!
+Crews be actin like they gangs, anyway
+Be like, "Warriors! Come out and playiyay!"
+Burn me, I get into shit, I let it out like diarrhea
+Got burnt once, but that was only gonorrhea
+Dirty, I keep shit stinks in my drawers
+So I can get fzza-funky for yah
+Murder, taste the flame of the Wu-Tang RAHH!
+Here comes the Tiger verse Crane!
+Ow, be like wild with my style
+Punk!  You playing me, chump, you get DUMPED
+WU!  Is comin THROUGH!  At a theatre near YOU!
+And get funk like a SHOE!
+What?!
+</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

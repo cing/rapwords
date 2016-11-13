@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Aesop Rock
+Album:  Float
+Song:   Flashflood
+Typed by: fatderek@gmail.com
+
+In slid rhythm, fed a cycle bound by dilemma, debt, and vendetta
+Escaped briefly back to my apartment to park in front the fan
+And reminisce about the day I ran a mile with your heart in my hand
+Contestants get the New York home game with real live shoot-'em-up action
+Thug, vagrant, yuppie and art freak game piece all included
+I told this cat the earth was flat 
+He walked 'til his beard grew long enough to strangle himself for being stupid
+Its brick-a-brack novelties spliced with that six pack odyssey
+Godspeed, tequila worm future, be concerned
+My feelers spread across the land reporting avalanche sightings
+While my introverted side is flying cadavers on kite strings
+I'm a never give, I'm juiced off projection
+I'm stubborn as a thousand born-agains avoiding questions
+From the alpha to the zed 
+I bait this data for my pledge to bathe a traitor 
+In the twice forgotten favors that he bled
+And not a creative stirred
+It reeks of subway metal, bevel edged journalist chin-on-fist shenanigans
+Re-coin mayhem with bonuses, benefits and break room
+Mummified maniquins with future clenched adament and skeleton in cabinet
+This amalgram circus got a ring of fire 
+Just big enough to shove my purpose in the circle
+I'm known to dip dusk in a broken city curfew
+Release the hounds 
+To see which one could track your trail and serve you, sucker
+I lay the law down upon its belly while my foot 
+Dug in between the 3rd and 4th disc yelling 'break yourself'
+I finally actualized data commission 
+Past penny tip jar donation arrangement, but a far fetch from stability
+Took a hard pledge early on
+Blood donor to drum dozer plowing the metronome home
+Blown caddy-cornered to cockeyed sound booster 
+Sensationally seismograph 
+Stabbing away on stone tablet to sketch a grouchy future
+I drifted out the main spelunking unit with watered down 
+Sample of cancelled development, courtesy America
+Land of the freebase, home of the triplicate grill character
+My sorta sideways tilt caught pinball blinker and citizens 1-x
+Weren't steadied for this leaning grievance with dilapidated winter jacket
+I rock a crooked lid piece and sweat a bit to my wookie ends meet
+Pacifist willing to step into a friend's beef if needed
+Wing clipper out hierarchy
+Passionate while they wine on some 'daddy's gonna kill Ralphie' shit
+Suck the proverbial silver spoon 'til their parents quit apparently 
+Parasol spinning casually
+Like 'I'm an artist, please don't laugh at me'
+OK, time to buckle the fuck down
+Solder your wobbly system  back to original form, pumpkin
+You could catch the memoir in several dimensions
+The joy-of-life logic don't employ the spite process
+Hence your plight botches</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

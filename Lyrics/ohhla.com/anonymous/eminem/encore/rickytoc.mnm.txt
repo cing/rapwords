@@ -1,0 +1,127 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Eminem
+Album:  Encore (Bonus Disc)
+Song:   Ricky Ticky Toc
+Typed by: Nickolye16@aol.com {with help from liner notes}
+
+[Eminem]
+Once you call my name out things will never be the same
+They shoulda never let us get our foot in this game
+
+Ever since I was introduced to rap music
+I been missin a screw like Bishop in "Juice," I could lose it
+at any moment, those who know me know it
+So they probably told to go with the flow, just so that
+I don't explode and, have another episode
+where I let it go as far as the one with Benzino did {*gun cocks*}
+I'm waitin for that next beef, I'm cocked locked and loaded
+I'm ready to go so bad
+I'm goin bananas, my dick's so hard Anna Nicole could
+use it to fuckin pole-vault with
+Oh shit!  I mean when she was still bloated
+before they cut her stomach open and lypo'ed it
+Anybody I throw flames at, gets a name
+It's a game, cause they know that they don't spit the same
+It's a shame, what people do for ten minutes of fame
+Everyday it's the same thing
+People in this game try to buddy-buddy us
+Just to get close enough to study us
+Everybody just wants to have somethin to do with that
+They all tryna get that stamp
+They after that Shady/Aftermath money
+It's like a monopoly
+They probably just now finally understand "How to Rob" fully
+50 Cent was like a fuckin jackpot for me
+And Dre, it's like we hit the fuckin lottery
+and the damn slot machine at the same time as each other
+Why the fuck you think we ride like we brothers?
+When we rhyme with each other, in time we discovered
+that we had more in common that we thought with each other
+Both robbed of our mothers, our fathers ain't want us
+What was wrong with us, was it our fault?
+Cause we started thinkin God doesn't love us
+Two odd motherfuckers who just happened to meet at the right time
+What a coincidence it is, cause when 50 got shot up in Jamaica
+Queens, I still remember the call up at Chung King cause
+Big L had just got popped just a month before
+If 50 lives he's gettin dropped from Columbia
+Two years later me and Doc had to come and uhh
+Operate, that's when he popped up at number one
+And we ain't never gonna stop if you wonderin
+Even if I'm under the gun
+You ain't got to agree all the time with me or see eye to eye
+There'll always be animosity between you and I
+But see the difference is, if it is, I could give a shit
+Still gonna conduct motherfuckin business as usual
+Egos aside 'fore I bruise 'em all
+Swallow your pride 'fore I step on it with shoes you call
+Nikes, Earthlings, how do you like these?
+You gotta love 'em, look at the bottom of 'em, they're like cleats
+Stompin, I been rompin
+since Tim Dog was, hollerin, "Fuck Compton"
+I was whylin, freestylin
+Back when, they were still makin, Maxell casettes
+It wasn't even rap sell us yet, that tells us that
+any doubts in your head that seals the shit
+Ricky ticky toc, ticky ticky toc
+Still with the Diggy Diggy Doc, Diggy Diggy Doc
+And ya don't stop... </pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

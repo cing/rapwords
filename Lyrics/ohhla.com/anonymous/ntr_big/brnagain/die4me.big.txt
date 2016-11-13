@@ -1,0 +1,136 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Notorious B.I.G. f/ Lil' Kim, Puff Daddy
+Album:  Born Again
+Song:   Would You Die For Me
+Typed by: toyainva@hotmail.com
+
+[Notorious B.I.G.]
+Venue after venue, I've been through
+Coming to the telly, so I can bend you
+Send you to the store, condoms and more
+Jealous females, call you sluts and whores
+Could it be my hardcore metaphor
+Make sweat pour on the bedroom floor
+Open up the Lex door
+Jump on in, I'm kind of tired
+I'm a roll blunts while you spin
+You got your license, right? Alright, no swerving
+Hair blonde out, Madonna style like a virgin
+Splurging, Dom P., Ro-se
+Much foreplay, that's my forte
+Niggas see the ring, baguettes to death
+She looking for a man, honey he just left
+Violate me, he get beat to death
+Goodfellas squeeze every shell they got left
+Grand Marnier increase the don strength
+Two four-fifths within my arms length
+With a calm breath I say we gots to float
+Throw Little Cease the keys to the boat
+Tongue all down her throat, you know the routine
+Got my dick large like Bruce Springsteen
+And you mean too, eyes greenish blue
+Got the Coogi sweater with the bubble Fubu
+Beautiful, that's how the night goes
+Get out them tight clothes
+Get in some night clothes
+I invite those girls that smoke lye
+Keep it real with you
+You keep it real with I
+We be tight like frog's ass
+Have you screaming "Biggie, Biggie give me one more chance"
+
+[Chorus]
+[Puff Daddy]
+Would you ride with me? (Yeah)
+Would you lie for me? (That's right)
+Would you get high with me? (For sure)
+Would you die for me? (No doubt)
+(Repeat)
+
+[Lil' Kim]
+These hoes don't treat you like I treat you
+Like my contacts, I can see right through
+Don't they know me and you is stuck like glue?
+Queen Bitch means number one and two
+Wifey, ya'll ain't got to like me
+Go head and act dumb, you'll just catch a hot one
+Y'all know where I'm from
+Bucktown, lay your ass down
+You don't wanna play around (with me)
+Probably just mad because Frank chose me
+A fly cu-tie, you just a grou-pie
+Girls call my telephone just to hang up
+While me and you is in the crib, laying up
+Oh he ain't tell you that we live together
+And that we gonna have a kid together
+Whatever, me intimidated, never
+Anything you give to him, he give it right to Kim
+Anyway, I fuck better than you
+Give head better than you, pussy get wetter than you
+If I fuck another nigga, don't mean nothing
+B.I.G.  is in my heart from the start
+Whether broke or rich, I'm a stay his bitch
+Chicks who used to be around, where they at now?
+(See I don't care bout them other broads)
+B.I.G. kept it real with me, and that's that
+
+[Chorus fade out]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

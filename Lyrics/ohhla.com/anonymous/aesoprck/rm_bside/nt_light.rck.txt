@@ -1,0 +1,145 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Aesop Rock
+Album:  Daylight (EP)
+Song:   Night Light
+Typed by: llama_80@hotmail.com
+
+Voice: "Day turns Night" x8
+
+[Aesop Rock]
+Night Light suckas.. 
+Put one up shackle me, not clean logic procreation
+I did invent the wheel, in a previous generation
+While the triple sixers lassos keep angels roped in the basement
+I locate my old halos and pass em out to the pavement
+Y'all catch a 30-second flash frame
+Dirty cooperative Neptune bloom head-trip split
+Fantastic! Fathom the splicing of major league low lifes
+With anti hero earthworm mentality (Godzilla!)
+I paste my game to zero all completion
+See a cretin's still a cretin even speakin' altered moniker
+American nightmare lost in the monitor
+I'll hold the door open so you can stagger through
+Then ten berserk and bread cookies in after you
+It's the gutter and I spell it with the 'G' I stole from "Get the fuck up"
+Noise crutch stolen wretched refuse of my teaming dumb luck
+Still I promise temperance storm breed still bleeding Amish
+See the freaks sucked out the bottom dropped 3 bears and a baby in a cottage
+And I can't sleep now
+Yeah, the police'll laugh
+You won't be laughing when your covered wagons crash
+You won't be laughing when you're hosted by the ghost of Christmas past
+You won't be laughing when your blow up doll's
+got a headache and won't give up the ass
+And I lay my kicks to rest when I'm impressed
+So I staple-gun them to my feet
+This origami dream is beautiful: pull the tail watch the wings flap
+But you really can't do a thing with that
+
+All I ever wanted was to pick apart the day
+Swallow up the pieces
+Spit 'em at your species
+Reachin' the city of lost barnacles and leeches
+Night-light got me when the daylight went to evening
+Night (Light) Day (Light) x8
+
+I'm pretty sure I got a pulse..  plus
+We Shimmy cross the centerfold, and our night light engulfed
+Just let me keep the crumbs (Please)
+With seven deadly stains
+To hear the plane to crystal conscious
+The results a dead-beat trying to make a dollar off a bomb threat (OK)
+Lift me to activism chain activate wild-style Pluto orbit
+Set a course then push the button
+I swallow spores born by the laws of a morbid glutton
+I can spot a drunk battalion by the Charlie Chaplin waddle
+Zig zag and zig 'em again before they can pull a badge out
+But I lash out
+Another thick installment of one night in Gotham like
+"Houston we have a problem"
+They're buffing the trains the same days the graffiti writers bomb 'em
+Who split how many freaks on box cuts of a high road bellow?
+Heads ripped! Watch red bricks turn yellow
+I'll try to meet the wizard
+But a tailgating tit-man holding an oil can
+won't let a hermit crab break in his new shell-toes
+Life's not a bitch, life is a beotch
+who keeps the villagers circling the marketplace
+out searching for the G-spot
+Maybe she didn't feel y'all shared any similar interests
+Or maybe you're just an asshole; maybe I'm just an asshole
+Kiss the speaker wire, seaming swashbuckler or pagan thresh hold
+Stomach full of diner food
+Wings span cast black upon views
+Here to help release the rabbit hounds or pick apart your mood
+I got this friend of polar nature and it's all peace
+When I seek similar stars but can't sit at the same feast
+Metal Captain!
+This cat is asking if I've seen his bit of lost passion
+I told him: "Yeah" I gave him one last look and smashed him
+
+All I ever wanted was to pick apart the day
+Swallow up the pieces
+Spit 'em at your species
+Reachin' the city of lost barnacles and leeches
+Night-light got me when the daylight went to evening
+Night (Light) Day (Light).. </pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

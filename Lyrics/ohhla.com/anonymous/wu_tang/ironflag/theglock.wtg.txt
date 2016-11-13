@@ -1,0 +1,146 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan
+Album:  Iron Flag
+Song:   The Glock *
+Typed by: OHHLA Webmaster DJ Flash
+
+* song appears after the track "Iron Flag" but isn't in the credits
+
+.. good thing we brought the glock
+
+[U-God]
+Yo, yo {*clears throat*}
+Yo - GOOD THING WE BROUGHT THE GLOCK
+It's a block party, niggaz just bust shots
+Pssh - GOOD THING WE BROUGHT THE GLOCK
+Thought you had props, with yo' gangsta bop
+ - GOOD THING WE BROUGHT THE GLOCK
+Meet me on the Hill or the Ave. hilltop
+Pssh - GOOD THING WE BROUGHT THE GLOCK
+You like what you see, my shiny-ass rock
+ - GOOD THING WE BROUGHT THE GLOCK
+
+[Ghostface Killah]
+I fuck the shit out of Patricia Drummonds
+Looked out the window when her man was comin
+ - GOOD THING WE BROUGHT THE GLOCK
+Catch me at the Ruckers game
+Playin the side with my spaghetti chain
+ - GOOD THING WE BROUGHT THE GLOCK
+Riker's Island shanked down
+There go them niggaz who blew Hal my nigga
+ - GOOD THING WE BROUGHT THE GLOCK
+I'm at the ATM
+Niggaz lookin sneaky in the grey BM
+Yo - GOOD THING WE BROUGHT THE GLOCK
+
+[RZA]
+Twenty drunk crabs try to push through the back door
+ - GOOD THING WE BROUGHT THE GLOCK
+Five boxcutters drawn they was ready for war
+ - GOOD THING WE BROUGHT THE GLOCK
+That's that thug down from Southside who tryin to front son
+ - GOOD THING WE BROUGHT THE GLOCK
+Little dog bout to flip, someone fucked his baby moms
+ - GOOD THING WE BROUGHT THE GLOCK
+
+[Chorus: U-God singing]
+Never leave home without it
+ - GOOD THING WE BROUGHT THE GLOCK
+Y'all niggaz ain't bout it, bout it
+ - GOOD THING WE BROUGHT THE GLOCK
+Never leave home without it
+ - GOOD THING WE BROUGHT THE GLOCK
+Y'all niggaz ain't bout it, bout it
+ - GOOD THING WE BROUGHT THE GLOCK
+
+[Masta Killa]
+You niggaz thought somethin was sweet
+cause we rollin with the seeds today
+ - GOOD THING WE BROUGHT THE GLOCK
+Back in the A-Train, Halloween
+Niggaz in masks, want my name ring
+ - GOOD THING WE BROUGHT THE GLOCK
+It's Brooklawn day, Pinkhouse day
+Park Hill Stapleton day
+ - GOOD THING WE BROUGHT THE GLOCK
+That same cat we stomped out
+Seen him at Eastern Parkway, to park (?)
+ - GOOD THING WE BROUGHT THE GLOCK
+
+[Raekwon the Chef]
+We in the spot where the money's marked
+NARCs just jump through the window yo
+ - GOOD THING WE BROUGHT THE GLOCK
+Them niggaz killin young niggaz at will
+Check how they did my little man son
+ - GOOD THING WE BROUGHT THE GLOCK
+We ain't slaves, we just rich renegades that's paid
+Born in the ghetto yo
+ - GOOD THING WE BROUGHT THE GLOCK
+Up in the staircase, flooded with cakes
+Screwfacin with the dirty eights
+ - GOOD THING WE BROUGHT THE GLOCK
+
+[Chorus]
+
+ - GOOD THING WE BROUGHT THE GLOCK (*repeat 4X to end*)</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

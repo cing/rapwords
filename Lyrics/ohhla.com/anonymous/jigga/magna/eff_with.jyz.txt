@@ -1,0 +1,131 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z f/ Rick Ross
+Album:  Magna Carta... Holy Grail
+Song:   FuckWithMeYouKnowIGotIt
+Typed by: Nickolye16@aol.com 
+
+[Intro: sample of Pimp C talking]
+Little over a year ago I was in bondage
+And now I'm back out here reapin the blessings
+and gettin the benefits that go along with it
+Everything that's out here for kings like us
+The reason why we like this-this jewelry and this diamonds and stuff
+They don't understand, is because we really from Africa
+and that's where all this stuff come from
+and we originated from kings, youknow'msayin?
+So, don't look down on the youngsters cause they wanna have shiny things
+It's in our genes, know'msayin?
+We just don't all know our history so...
+
+[Chorus 2X: Rick Ross]
+Fuck with me, you know I got it
+Fuck with me, you know I got it
+Sexy bitch, I hope she 'bout it
+Come fuck with me, you know I got it
+
+[Rick Ross]
+I just landed in Europe, nigga
+Shoppin bags, I'm a tourist, nigga
+Money talk I speak fluent, nigga
+Reeboks on, I "just do it," nigga
+Look at me, I'm pure, nigga
+I bet the hoes on my tour, nigga
+I don't bop, I do the money dance
+My bitch whip cost a hundred grand
+Red 'vert, you see me slide
+Sexy bitch, I hope she 'bout it
+Sexy bitch, I know she 'bout it!
+Fuck with me, you know I got it
+
+[Chorus]
+
+[Jay-Z]
+Hov just landed in Rome, nigga
+All hail, Caesar's home, niggaz
+Chin don, ciao bella
+Come money dance with the +Good+ +Fellas+
+Hov keep gettin that dinero/De Niro, got it?
+Even if a nigga gotta rob it/Robert, get it?
+Black Jack in a +Casino+, a nigga got unlimited credit, uh
+A nigga got a lot of vendettas, uh, but we the black mob, we gon' set it, uh
+Peel off in a Lamborghini Countach, 200 in the dash we gonna rev it - skerrt!
+Lucky Luciano is what that call me, Paisano
+A hundred keys/ki's at the piano, plays across the Verrazano
+El Pa-drino, in the villa in Venice sippin vino
+Not bad for a Mulignano, y'all know, like we know
+I got it~!
+
+Fuck with me, you know I got it
+Fuck with me, you know I got it
+Bad bitch, I hope she 'bout it
+Fuck with me, you know I got it
+Fuck with me, you know I got it
+Fuck with me, you know I got it
+Bad bitch, I hope she 'bout it
+Bad bitch, I know she 'bout it!
+
+[Rick Ross] + (Jay-Z)
+I'm ridin big comin down that beach (ow!)
+Geechy nigga with satin sheets (uh, uh, uh, uh, uh)
+Bad bitch, she a MASTERPIECE! (hehe)
+Got a bad bitch, she a masterpiece! (HA!)
+</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

@@ -1,0 +1,152 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan f/ StreetLife
+Album:  The W
+Song:   Do You Really (Thang, Thang)
+Typed by: james.cawley@uwe.ac.uk
+
+[DJ Kay Slay]
+Yo, this is a Wu-Banger two thousand and one noise maker
+off the hook guerilla anthem
+This is DJ Kay Slay, from around the way
+And I'll smack the shit outta ANY OF YOU DJ's
+that front on this shit.. think I'm playin?
+
+(Hook: Method Man)
+I heard you ladies got them Thang Thangs, do you really?
+I heard y'all niggas like to bang bang, do you really?
+I heard you ladies got them Thang Thangs, do you really?
+I heard y'all niggas like to bang bang, do you really?
+
+[StreetLife]
+I never been a fan of the fame, I got love for the game
+Never lust for the dames, I got dust in my veins
+Little off in the brain, kid talks butter slang
+Sniffed a little blow with the rap Eddie Kane
+Spent a lot of dough, it's so hard to explain
+And I fucked a lot of hoes off the strength of the name
+Wu-Tang, see me at the next, X Winter Games
+Snowboardin down a ski range, it's a blue and grey frame
+Keep, pointin the finger, I'm that nigga to blame
+The main reason why you tuck the chain
+Self proclaimed, got a lotta profit to gain
+And I'm leavin the rap game the same way I came
+
+[Method Man]
+Now creep with me, as I roll through the Stat
+Little Meth got my back, so do Pinky Fat-Fat
+Let me hit that {*inhale*} contact, learn how to act
+Before you bring that drama the end; I'll fade to black
+Positive, hate kids who tell me lies
+Despise guys that wanna get high but never buy
+Got nine lives, nine wives that don't listen
+Bitchin their biological clocks is tickin
+Wu limited edition - hot off the presses
+I guess it's, curtains for competition
+Method, runnin 'em out, gun in my mouth
+The kid your momma warned you about, tear down the house
+After midnight, eatin MC's, change to a gremlin
+You tremblin, behind the Kremlin wall, surrenderin
+That's what you get for Russian/rushin, in the direction I was bustin
+Polish your sword, your shit is rustin
+
+[Hook]
+
+[Masta Killa]
+One-two
+Testin, testin, mic check wreckin
+Steps into the session
+Automatic weapon off safety, don't play me
+But brings all them things with silencers
+My clan is liver than your average '85er
+Strive to stay alive
+I play for keeps in the streets
+Cause it's real on the battlefield
+Shells hit the ground from the steel
+Bullets travel, sun set fire to your mind
+Words combine when I rhyme to feed the blind
+Prepare my queen for battle and walk down
+I drink from the wine of violence, no tolerance
+Gave word bond, sword silence
+Me in military fatigues, bulletproof underneath
+Buy enough ammunition to round and sweep the streets
+of Brooklyn, central, sugar-whipped the rental
+while I'm lickin out the window at y'all, fuck y'all
+
+[Hook]
+
+[Inspectah Deck]
+Yo, we thrive on street life, we strive to eat right
+They blind and need sight, we tried to be nice
+They talk the small talk, we walk the long walk
+We lost, they all thought, they forced to fall short
+We rock for hard rocks, rocked the hot blocks
+Shop and cop rocks, watch the top notch in action
+Begin to make your head spin
+Wu Tang my breddren, we bang like veterans
+They paid for record spins, taste the medicine
+Or face the double M, we came to trouble them
+Hustle them for they 20 mill' then buckle them
+'Nuff to spin out the blue, bitches lovin them
+Dozen men with force of a hundred-ten
+Stumblin thug passions, it must've been
+
+[Hook] - 2X</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

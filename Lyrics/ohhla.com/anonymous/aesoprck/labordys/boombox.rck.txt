@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Aesop Rock
+Album:  Labor Days
+Song:   Boombox
+Typed by: jt@fallingout.net
+
+Raw, I'm going to give it to you
+With no trivia
+Raw like that Aesop rock iron-fisted blissed felicia
+While bent funny bone grown community
+Spit a thousand m-1 ripples to cripple the continuity
+Tap water builds character
+Right I irrigate it straight to mainline
+You want to do the same? Fine
+These pretty profit grommet teams solidify the clot to slippery city salt piston pump drain
+But hold those incredible console with the Russian roulette baboon spin-off
+Where everyday a thousand strangers pray for empty chambers
+One-sixth buckle
+Five Sixths sweat bullets trying to keep it subtle
+But I'll get you (I'm going to get you)
+Wobbly rope bridge
+Broke inches tired of dry land
+But duck skull stepping-stones suit the mix-down well
+Well, when the rumor spreads that y'all stupid
+I'll be the cat with guilty look on face and shirt that reads: I didn't do it!
+Is it on, is it beyond basic
+Does it ice grill you or is every song faceless?
+Does it have a title?  If didn't would you name it?
+Does it babble about nothing like a drunken atheist?
+We could run that Or' Wells '84 war
+For the room 1 on 1 z-tour
+Till he try and fidgets with his or her own work spear specifics
+Swerve around the cobra kisses
+See if the venom overloads this vision
+I'm going to suck the poison out and spit it
+Stole my sneakers but your features never fit in
+Servers you right for trying to walk a mile outside your limits
+I'm going to tiptoe across this yo-yo string
+Until you walk the dog out from under my feet and skip town, sit down
+
+(Chorus)
+It goes boom boom boom
+Boombox
+
+Earth to a-r vertical burden has increased at an alarming rate
+This is down a point
+Murder up, glee down and still falling
+Still crawling out of bed at 2 on Saturdays
+Came this blind soldier-burning confessional
+Ease back; let a heart thump echo normalcy for 10
+Let the back burner boiling point descend
+I race the derby in the first heat (strike personal)
+Strike personal space with the most utterly putrid version of grace
+Spit the gimmick, sit and fidget
+While we try and jump through hoops
+Like Coney Island freak show midgets
+Want to be a fighter pilot
+Driving that childish early Wright brothers experiment
+Prototypic model fossil
+Sit and sweat bullets on a console
+Busting accidental dirt bike donuts
+Outside the most ridiculous poison tongue brain silo
+Dead before the chubby decry ton conquered the high note
+School by the cruel intention inventions pensive sideshow
+See contrary to popular certainty
+I alone advance without an earthly poem
+And dance on a handful of zoning fans
+Holding every chance to own the land I roam
+With dome in hands
+Truly be its only camper happy with the scrap heap
+See I convinced myself it's on
+Therefore it is and the melody settles
+Beneath the fact that I'm just spitting for these kids
+I tried to get them all open
+And once I quit and said I didn't care
+That's when they all threw their hands up in the air
+
+(Chorus)
+It goes boom boom boom
+Boombox</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

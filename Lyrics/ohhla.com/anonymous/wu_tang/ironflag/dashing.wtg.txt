@@ -1,0 +1,133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan
+Album:  Wu-Tang Iron Flag
+Song:   Dashing (Reasons)
+Typed by: ThaMasta@WuLyricz.Com
+
+[Intro: Inspectah Deck]
+The nigga had a pair of Air Olden Polynice's on
+Oh shit, the nigga had a pair of Air Christen Slaters
+Rebel I, slay the max, it's really Digital
+Rockin' the latest in, every day comin' at niggaz
+Rockin' the latest in Ben Stillaways
+Fuck that, the next big thing, lay this as Hollywood niggaz
+Now that's a money thing
+Yo yo
+
+[Hook: Inspectah Deck *singing*]
+I was +Dashing+ through the hood
+Eighteens with the whip, smoke gray
+Leavin' skid marks on five-oh, smokin' all the way
+Hahaha!
+With my all-star team, bitches see our shine
+Yo son we gotta make that +CREAM+ whether raps or Nixon times
+
+[Inspectah Deck]
+They call me Rollie, watch me polly with the wide body Dinali
+Packed the bad hottie, rocked enough ice to play hockey
+I swarm like paparazzi, she popped a wheelie on the candy apple Kawasaki
+Everything is sloppy, philosophical for those who copy
+I'll probably splash her tonight, don't block
+Sippin' on Lime Bacardi got me toxy
+Plus the Cali 'dro holdin' me, I'm 'bout to 'scape like the Roxy
+Ever property, Monopoly, big shotti
+Snatch the +CREAM+, whether in the concert hall or in the lobby
+Used to be a hobby, got me duckin' Rudy Giulianni
+like I'm still coppin' big eights from papi
+Follow me, whether Mardi Gras' or house party
+It's wild like safari, ain't mean to catch the body
+But had 'em wobbly off the first blow, tryin' to knock me
+I'm known to pump ya blood like the theme song to Rocky
+Kamikaze, might karate chop ya head like a natty dread
+then call myself Collar Ratsi
+Professionally trained, I am for your artery
+I give the autographs but charge for photography
+Not hardly kid, you awkward Godbody
+You'se a carbon copy, just started to rock Wallys
+Spark the brocolli, spaz off this ghetto opery
+Or catch the hot seat, you're bawty boy without ya posse
+Seen..
+
+[Chorus x4: Inspectah Deck]
+Come, come, come
+One for the dough, son
+Give me the reasons
+
+[GZA]
+They couldn't get me, watch me move swiftly
+Broke the unmarked fifty with this cabby who was a gypsy
+He stayed tipsy, said he loved his bills crispy
+Drivin' the streets he kept heat on the night, shifty
+Quickly, who ring bells like it's twelve on Sunday?
+While the stage catch shells from forceful gunplay
+Mere fact that the track was a fierce counterattack
+All those who couldn't multiply were sent back
+No tanks, low rank, soldiers hittin' the heart
+Tainted the heart of an empire, was torn apart
+Brought to a halt from a front full assault
+The chemist left the lab with undetermined results
+They saw the swordsman sift electrical volts
+The audience threw nuts with loose screws and bolts
+The archives automatically changed ya stiff vibes
+It was layin' in the zip drive from chest five
+
+[Chorus x4]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

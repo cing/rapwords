@@ -1,0 +1,155 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Aesop Rock f/ Ann Colville
+Album:  Music For Earthworms
+Song:   Shere Kahn
+Typed by: 1340536@home.com
+
+[Sample from Sing-A-Song]
+"You can come, I'll leap right over
+Any day you like
+System 605, Union 91"
+
+[Aesop]
+I forever wallow in glitches grimly distributed by side effects
+Consumed, cocooned in antisocial trenches
+Drenched! Gridled between dense pillars of polar value lies
+a grey so blueless it's got eye fiendin for the sky
+Synthesized lies rise synthetic
+Sittin inside solidified plastics who's latteral burns germ compatible
+My firm's radically piloted, dodging a fire swiftly
+Yellow brick stalker walking shifty
+Odd, but a prototype metroid programmed to holocaust style
+while you're soakin in the stages of denial
+Your petty soldiers seem fragile like Jaquemetti sculptures
+Embedded in Paramedic cultures. We's rock steady vultures
+Plus I's the guise of rowin a soul
+My wingspan stands flags in the snow of the poles
+Bezerk
+Swerve my alignment towards solitary confinement and jade it
+Stripping, color my passion mitigated
+Slipping
+
+[Ann Colville]
+You always seem like a small grey cat to me
+Sleepin underneath the silvery moon
+Paws curled beneath your head
+'til the sun came round just around noon
+And you would greet me, purring in your doorway
+Drawn at your tail around my hips
+And I would go to your mouth wide open
+waitin for my nourish to come from your lips
+And I move you
+And you like it
+Just enough
+To let me
+But I hate you
+Cause you're lonely
+And you know how
+To forget me
+
+[Aesop]
+For the love of my personal practice I reside
+where obstructive fluxes and societal withdrawl collides
+Slide fuel by the fury
+Spun a ring around my honor
+but the opulence took shelter in my horror
+Melancholy masquerade
+Cast amongst the braiding of biligerence
+and blazing terror that blew the lock down off my placement
+I stay special agent till the sky falls
+Reverse the curse till my fellow lost children disperse
+
+[Ann Colville]
+And your footsteps leading down the pathway
+never seem to be quite like my own
+Your mind is walking circles
+it blinded me till I turned towards home
+And you would watch me far in the distance
+hands held high above your head
+I wanna lay in the territory where there's nothing left, to be said
+And I move you
+And you like it
+Just enough
+To let me
+But I hate you
+Cause you're lonely
+And you know how
+To forget me
+
+[Sample from Sing-A-Song]
+"You can come, I'll leap right over"
+
+[Aesop]
+I make music and connect color to canvas
+Swoop down from the trees with potpourris and other bandits
+Landed randomly upon the valleys of the grimace
+Saw my planted leaf stars burnin from the oustide in
+Meaning your clout lies thin
+Salt prep the blades prior to five phase in my ever changin underworld
+Serate a day to decorate a traitor
+That sting never fades like belly wounds from sling blades
+Follow my portion, I keep swallowin cigarettes to the filter
+
+[Sample (Sing-A-Song High Tone Voice)]
+"You can come, I'll leap right over
+Any day you like
+System 605, Union 91"</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

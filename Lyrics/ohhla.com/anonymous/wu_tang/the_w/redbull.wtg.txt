@@ -1,0 +1,147 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan f/ Redman
+Album:  The W
+Song:   Redbull
+Typed by: locoblanco@techemail.com
+
+[Redman]
+RZA came and got me, this what I came to do, come on
+Ring the bell so it's time to eat
+Brick Dog stash weed inta AMI-seats
+Bomb isdide the palm
+Doc rock a wifebeater with me beatin my wife ass ironed on
+The front with my pump built like the Klumps
+To carry it I take the spare out the trunk
+I stay hungry, I ain't worked for days
+That's why you see the pump when the curtains raise
+Blast! Don't panic
+Do I gotta explain how I tame and lock the rapgame single-handed?
+Hell nah! I won't tell you son
+If I find a wack ID I sell you one
+Doc and Hot Nick, Inspectah
+My lecture's like Hannibal Lector's
+Where's the ketchup?
+Don't speak on it, shut ya trap
+I see ya whole crew yellow like mustardpacks
+Ah woo, Doc in my own zone
+You say you got the rapgames sewn, but it's sewn wrong
+I ride through ya hood in a Mr. Softee truck 
+Then pull a mac out a box of snow cones
+Yeah, ya little fucks
+Gimme ya fucking money!
+
+*Shout-outs from Raekwon and Ghostface*
+
+[Method Man]
+Uhuh, check it
+I'm hotter than a hundred degrees with my coat on
+Playing with a dynamitestick, where did I go wrong?
+Somebody pull the fire along when Jonny stomp
+If ya lukewarm leavin ya clothes and boots torn
+Pro's and con's, megabomb's and so-on's
+By arid actions try MC's to get their roll on
+First issue got issues
+What is hip-hop to Hot Nickles?
+It's like Funk Doc to snot tissues, word
+Look at my hand and get the third
+Finger out ya earhole like: Fuck what you hear
+Now that's what I call harcore, let's act fool
+Mr. Fix-It like Handyman I pack tool
+I been shitty, I'm from the veils of the city
+And just because my outfit match don't make me pretty
+Baggy Dun Gurees, dick need room to breathe
+In a room full of crackers I might cut the cheese
+Ain't no rules to the game, if it is we aint playin
+In your business like EPMD, "So What Cha Sayin'"
+You co-designin that bullshit yo man tryin
+Chaka chaka cha-ta tatat!!
+Slugs flyin
+
+*Shout-outs from Raekwon, Ghostface and Inspectah Deck*
+
+[Inspectah Deck]
+Yo, ya
+Check, the code echos from magazines to the big screen
+Fo' wheel machines like ya wits scream 
+Kids fiend from the urban to sub-urban
+Roll upon me thirstin like: Hey, hey, Mister Dream-Merchant
+We roll longer than dice in a casino
+Cee-lo  in the 4, 5 or 6 with double 0
+Behind the tinted windows I lay low
+On some hydro tryin to slide from the 5-0
+But now I get wild similar to Ol' Dirty
+On third time fellon just hit with over 30
+No worries, style have em so thirsty
+First degree heats are quittin on me 
+Cold turkey, no mercy
+I bring the pain of a hundred migraines
+But a thousand shoutin my name that's why I came
+But first bring the cashburst, then the outburst
+My surround sound pound ya ear like Jevon Kearse
+I flex muscle outside I find a next hustle
+Trouble with ya here and face the TEC-muscle
+Even the best buckle win
+I take it to the exteme
+It gets ugly, but it's what a nigga do to get cream
+This life
+
+*Shout-outs from Raekwon and Ghostface*</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

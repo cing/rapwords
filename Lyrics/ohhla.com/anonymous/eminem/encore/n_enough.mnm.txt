@@ -1,0 +1,125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Eminem f/ 50 Cent, Nate Dogg
+Album:  Encore
+Song:   Never Enough
+Typed by: OHHLA Webmaster DJ Flash {with help from liner notes}
+
+[Eminem]
+There's not much you could do or say to phase me
+People think I'm a little bit crazy
+I get it from all angles, even occasionally Doc Drezy'll
+have to step in every once in a while to save me
+To make me stop and think about it 'fore I just say things
+Sometimes I forget what other people just may think
+A lot of rappers probably wouldn't know how to take me
+If they heard some shit I layed to tape 'fore they erase me
+I may be a little too fast-paced and racy
+Sometimes the average listener rewinds and plays me
+twenty times cause I say so many rhymes it may seem
+like I'm going too fast cause my mind is racing
+And I could give a fuck what category you place me
+Long as when I'm pushin up daisies and gone
+As long as you place me amongst one of them greats
+When I the heavenly gates, I'd be cool beside Jay-Z
+For every single die-hard fan who embrace me
+I'm thankful for the talent in which God gave me
+And I'm thankful for the environment that he placed me
+Believe it or not, I thank my mom, far as she raised me
+in a neighborhood daily that jumped and chased me
+It only made me, what I am today see
+Regardless of what anybody believes who hates me
+You ain't gonna make or break me
+Tryin to strip me of my credibility or make me look fake G
+You're only gonna be in for a rude awakening
+Cause sooner or later you haters are all gonna face me
+And when you face me with all the shit you've been savin
+to say to me, you had all this time to think about it
+Now don't pussy out, and try to about face me
+Cause I've been patiently waitin for the day
+that we finally meet, in the same place to see
+
+[Chorus 2X: Nate Dogg]
+No matter how many battles I been in and won
+No matter how many magazines on my nuts
+No matter how many MC's I eat up
+Ohhhh, it's never enough
+
+[50 Cent]
+My flow's untouchable, now you gotta face it
+Uh-oh, it gets worse when I go back to the basics
+You gon', say the wrong shit and get your whole face split
+The smell of victory love it so much I can taste it
+I spot my target, blaze it, direct hit, graze it
+Your peace talk, save it, your shit sounds, dated
+You're over-rated, I'm obli-gated, to
+study your moves then crush you motherfuckers
+If I'm the best and the worst then God's gift is a curse
+Soldier trained to destroy, you payin attention boy?
+I spit shit, slick shit, so quick you miss shit
+To be specific I go ballistic it's hieroglyphic
+My music is a drug, press play you ain't gotta sniff it
+Shoot it or pop it, roll it bag it or chop it
+It get you high over and over but you gotta cop it
+When it's hot it's hot, your hatin is undeniable, stop it
+
+[Chorus]
+</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

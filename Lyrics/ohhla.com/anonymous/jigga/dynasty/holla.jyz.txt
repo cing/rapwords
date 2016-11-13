@@ -1,0 +1,118 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: (Jay-Z f/) Memphis Bleek
+Album:  The Dynasty Roc La Familia
+Song:   Holla
+Typed by: obi1one@hotmail.com
+
+Uh huh
+Is y'all ready?
+Is y'all ready??
+
+HOOK 2X:
+Holla!
+If you real and you know you a G
+Holla!
+Deep in these streets when you pumpin that D
+Holla!
+Be in your hood screamin fuck police
+Holla!
+You keep a gun and you bust for beef
+
+[Verse 1]
+Niggas say I'm focused now, they know that's my style
+But dogg, I'm on the block with that coke and a smile
+I still got the crack heads I.D.
+And they know, I collect for the first and fifteenth
+I still take cabs to that capsule spot
+For them 31 illusions and them purple tops
+And the game aint change, niggas is taught different
+I'm raised off one rule, never get caught slippin
+That's why I eat, sleep, shit with my gat
+Bag up, take a piss, fuck a bitch with my gat
+And I done sold it all from crack to marijuana
+You can't deny it, I'm in hoods like Tom Warner
+Beat cop, take away, I keep my shit
+They don't know I deliver off the beeps I get
+And you snitch ass niggas wanna peep my shit
+But I'ma show you how deep into these streets I get
+
+HOOK
+
+[Verse 2]
+See what this game made, and *of age I came*
+And you up and coming rappers know you young to this game
+*I went from Marcy to Hollywood, I'm back again*
+I don't need no applaud, to clap again
+Let alone, no award, from rap to win
+Talk drama, get yourself wrapped up in
+Severe head trauma, get beat with the nine lime-a
+Cut your hand off if you fuckin with my product
+That slayed shit, I'm on the grave shift
+We all know fucked up money don't pay rent
+You short with my ones, you short one thumb
+You can't, come up short where the fuck I'm from
+We got, dues to pay, new tools to spray
+Who's to say, Bleek won't make news today
+You know the ooze'll spray if you refuse to pay
+And I move the yae nigga day by day
+
+HOOK</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

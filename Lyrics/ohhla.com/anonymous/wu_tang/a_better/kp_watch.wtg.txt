@@ -1,0 +1,148 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Wu-Tang Clan f/ Nathaniel
+Album:  A Better Tomorrow
+Song:   Keep Watch
+Typed by: AZ Lyrics
+
+[Verse 1: Method Man]
+I ain't trying to be no D-boy
+I love music, I'm a b-boy
+Are you the undercover or the decoy
+I'm heavy with the D, Trouble T Roy
+A pit with no muzzle, about to bust your bubble like a keloid
+Too much marijuana got me p-noid
+I'm killing instrumentals with that All So Simple Can It Be, boy
+Shout to Lil Cease, B.I.G., boy
+And Funk Doctor Spock, I mean Redman that's not Leonard Nimoy
+88 keys on the keyboard
+I'm down to catch wreck, take them first three letters out of record
+It's Meth, you heard it through the wire I could be more
+Or washed up like Sonny Black's body on the seashore
+That's a problem, I could be yours
+A monster without the mad scientist and Igor
+I've heard it before, a third of these boys
+Got murder raps and never even murdered before
+
+[Chorus: Nathaniel]
+Keep watch, lights out when the beat drop
+Keeping the streets locked
+I'm calling all G's from each block, from each block
+Keep watch, lame niggas out there can kick rocks
+Run these streets out here don't need cops
+I'm calling all G's from each block, from each block
+
+[Verse 2: Inspectah Deck]
+Codename Sensei, I live what my pen say
+Game hall of fame, flow is MJ
+Muy caliente, je m'apelle Rebel, capiche, comprende?
+Son I'm touching 'em up, trust I'm like
+Justin Tuck how they ducking the rush
+Trying to break bad, you catch a bad break
+Like I own a bake shop how I stack cakes
+Greatness was nothing, Deck the next Nike ad
+Wifey bad and my life got 'em slightly mad
+Cause I shine like chrome in July
+Soldier I opened your eyes, noticed the lies
+DEA say I'm drugging 'em
+I get you leaning hard, I get the fiends to nod, I mean they loving 'em
+All hail your highness, terrific win
+Put a so-called beast in his place, Pacific Rim
+
+[Chorus]
+
+[Verse 3: Cappadonna]
+Foul ass police, crooked ass friends
+I don't give a fuck yo, the drama never ends
+I'm a project nigga, I don't care about the Benz
+Plus I had a lot of chicks, you can have those bitches
+But I murder your bloodclot if you touch my riches
+Yeah crazy ass skipper, I be in the slums, nigga
+Fuck where I come from I'm a quiet gangster nigga
+First I get you comfortable, then I start shanking niggas
+Park Hill code is don't violate the family
+Brother to brother it's no snakes in the amnesty
+I come through wilding on some Wu-Tang Can It Be
+Googly-eyed nigga, chop his face in the ministry
+Never scared to do the time, fuck the penitentiary
+Leave a bunch of dead niggas, don't forget to mention me
+The angel of rap, the un-ordinary light
+Already did what I was gonna do before you even got the mic
+
+[Verse 4: GZA]
+We left a large solar cloud distinguished by size
+Interaction with the wise and civilized
+The mind caused matter to fall into a center
+A great deal of heat that'll radiate within ya
+From out of this collision
+The central cord became thick enough to trap its own light and bring vision
+Each drop full of Hip Hop energy
+Balanced on all sides such great symmetry
+The bars unlocked the power of the stars
+The mirror in the telescope pinpoint the Gods
+From a distance, acting as a guiding coach
+Analyze the board, universal approach
+Retune the soul to a certain pitch
+Changing the frequency frequently, hitting a certain switch
+The love is paramount, the connect is brotherly
+Respect for the intellect and broad discovery
+
+[Chorus]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay-Z
+Album:  Vol. 3... Life and Times of S. Carter
+Song:   There's Been a Murder
+Typed by: OHHLA Webmaster DJ Flash
+
+*BLAM BLAM* 
+{*woman screaming in pain*.. cops yelling "Go! Go! Go! Go!"}
+*police sirens*
+
+Hook:	{sung vocals}
+	Think there's been a murder-errra-ahhh-hahh-ahhh
+	I ahh, think there's been a..
+	I.. I think there's been a..
+	Think there's been a murder-errra-ahhh-hahh-ahhh
+	I ahh, think there's been a..
+	I.. I think there's been a..
+
+[Jay-Z]
+I hustle from, night to morning, dawn to dusk
+Kidnap and robberies like, (c'mon nigga) "You goin with us" 
+I held roundtable meetings so we could go on and discuss
+not only money but all the emotions goin through us
+Why we don't cry when niggaz die, that's how the street raised him
+Look in the air, say a prayer (hail mary) hopin God forgave him
+Cop liquor, twist it, tap it twice, pour it to the pavement
+We live dangerous, often findin ourself in the eyes of strangers
+(Who the fuck is you?)  My dream is big and in it my team is rich
+as seen through the eyes of a nigga who ain't seen shit
+Back to live action, I'm packin, I'm still in the mix
+like new hits, I think I'm goin over your head a lil' bit
+But I let you know I changed names when I roam through town
+Stay free and be who I'm professional known as now
+Jay-motherfuckin-Z; and with that said
+back to Shawn Carter the hustler, Jay-Z is dead, and uhh
+
+Hook
+
+[Jay-Z]
+My infatuation with autos led to autos gettin sprayed
+Houses gettin broken in, quarters gettin trayed
+Bricks gettin chopped, mom's pots gettin used
+One thrown in that water, try the soda if there's two (bring it back)
+Expensive shoes worn, Louis Vuitton seats, roof gone
+Coke cheap, my face is like a coupon
+I gotta do Shawn, cause even when Jay-Z was lukewarm
+I was gettin my loot on, nigga I'm too strong
+Eat til the food's gone, they placed me on this earth
+The twin brother of Rich Porter, seperated at birth
+I got the soul of a hustler, quiet noise like a muffler
+Fuck with us, walk through the ghetto, see the place that corrupted us
+Learn why we buck at the guys that come up with us
+Ain't enough bucks for us to split in this shit
+Plus ain't nobody lovin us; and with that said
+back to Shawn Carter the hustler, Jay-Z is dead, and uhh
+
+Hook
+
+[Jay-Z]
+See my life is like a see-saw
+And until I move this weight it's gon' keep me to the floor
+Travel with me through my deep thoughts
+Y'all can't learn Jigga by the shit y'all be readin in The Source;
+It's deeper of course
+Follow the life of this reckless minor
+At sixteen in the 600, unlicensed driver
+Playin, cops and robbers, like shots can't stop us
+Flippin a bird to the choppers (fuck you coppers)
+Buck-thirty on the turns
+Reckless abandon, when I'm standin on this pedal
+Hand on my metal, minus all this time they tryin to give me
+Lord help me, all I ever wanted to be was wealthy or
+somebody to tell me that they felt me
+I tried to play the hand you dealt me
+but you gave me five funnies an' shit
+I was hungry I need menage money
+Nothin less than a 520; and with that said
+back to Shawn Carter the hustler, Jay-Z is *BLAM*
+
+{Think there's been a murder-errra-ahhh-hahh-ahhh}</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>
