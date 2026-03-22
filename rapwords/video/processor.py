@@ -26,23 +26,27 @@ STATIC_ASSET = Path(__file__).parent.parent / "assets" / "tv_static.mp4"
 def _add_static_outro(input_path: Path, output_path: Path) -> bool:
     """Append an abrupt hard cut to TV static at the end of a video.
 
-    Uses a real TV static video asset. The cut is instant — like
-    someone changed the channel — with the static's own audio.
+    Uses a real TV static video asset with generated white noise audio.
+    The cut is instant — like someone changed the channel.
     """
     if not STATIC_ASSET.exists():
         return False
 
-    # Use concat demuxer for a clean hard cut (no re-encoding of main video)
-    # First, prepare a static segment scaled to match output dimensions
+    # Prepare a static segment scaled to match output dimensions,
+    # replacing the asset's audio with generated white noise
     static_segment = input_path.with_suffix(".static_seg.mp4")
     cmd_static = [
         "ffmpeg", "-y",
         "-ss", "0.5",  # skip into the asset a bit for variety
         "-t", str(STATIC_DURATION),
         "-i", str(STATIC_ASSET),
+        "-f", "lavfi",
+        "-t", str(STATIC_DURATION),
+        "-i", f"anoisesrc=color=white:sample_rate=44100:amplitude=0.5",
         "-vf", f"scale={VIDEO_WIDTH}:{VIDEO_HEIGHT},fps={VIDEO_FPS}",
+        "-map", "0:v", "-map", "1:a",
         "-c:v", "libx264", "-preset", "fast", "-crf", "18",
-        "-c:a", "aac", "-b:a", "128k", "-ar", "44100",
+        "-c:a", "aac", "-b:a", "128k",
         "-r", str(VIDEO_FPS),
         str(static_segment),
     ]
