@@ -19,6 +19,56 @@ from rapwords.config import (
 from rapwords.models import RapWordsPost
 from rapwords.video.subtitles import write_ass_file
 
+STATIC_DURATION = 0.75  # seconds of static after hard cut
+STATIC_ASSET = Path(__file__).parent.parent / "assets" / "tv_static.mp4"
+
+
+def _add_static_outro(input_path: Path, output_path: Path) -> bool:
+    """Append an abrupt hard cut to TV static at the end of a video.
+
+    Uses a real TV static video asset. The cut is instant — like
+    someone changed the channel — with the static's own audio.
+    """
+    if not STATIC_ASSET.exists():
+        return False
+
+    # Use concat demuxer for a clean hard cut (no re-encoding of main video)
+    # First, prepare a static segment scaled to match output dimensions
+    static_segment = input_path.with_suffix(".static_seg.mp4")
+    cmd_static = [
+        "ffmpeg", "-y",
+        "-ss", "0.5",  # skip into the asset a bit for variety
+        "-t", str(STATIC_DURATION),
+        "-i", str(STATIC_ASSET),
+        "-vf", f"scale={VIDEO_WIDTH}:{VIDEO_HEIGHT},fps={VIDEO_FPS}",
+        "-c:v", "libx264", "-preset", "fast", "-crf", "18",
+        "-c:a", "aac", "-b:a", "128k", "-ar", "44100",
+        "-r", str(VIDEO_FPS),
+        str(static_segment),
+    ]
+    result = subprocess.run(cmd_static, capture_output=True, text=True, timeout=30)
+    if result.returncode != 0 or not static_segment.exists():
+        return False
+
+    # Concat via filter for reliable joining
+    try:
+        cmd = [
+            "ffmpeg", "-y",
+            "-i", str(input_path),
+            "-i", str(static_segment),
+            "-filter_complex",
+            "[0:v][0:a][1:v][1:a]concat=n=2:v=1:a=1[vout][aout]",
+            "-map", "[vout]", "-map", "[aout]",
+            "-c:v", "libx264", "-preset", "medium", "-crf", "23",
+            "-c:a", "aac", "-b:a", "128k",
+            "-movflags", "+faststart",
+            str(output_path),
+        ]
+        result = subprocess.run(cmd, capture_output=True, text=True, timeout=180)
+        return result.returncode == 0 and output_path.exists()
+    finally:
+        static_segment.unlink(missing_ok=True)
+
 
 def process_post(
     post: RapWordsPost,
@@ -27,6 +77,7 @@ def process_post(
     watermark: str = "white",
     watermark_scale: float = 0.7,
     theme: str = "yellow",
+    static: bool = True,
 ) -> str | None:
     """Process a post into an Instagram-ready video.
 
@@ -36,6 +87,7 @@ def process_post(
         crop: If True (default), scale to fill and center-crop to 9:16.
               If False, scale to fit and pad with black bars.
         watermark: "white", "black", or "none".
+        static: If True (default), add TV static outro effect.
     """
     if not post.video_path:
         print("No video file available.")
@@ -101,6 +153,9 @@ def process_post(
             f"ass='{ass_path_escaped}'"
         )
 
+    # Render to temp file if static outro is needed, otherwise directly to output
+    render_path = output_path.with_suffix(".tmp.mp4") if static else output_path
+
     cmd = [
         "ffmpeg",
         "-y",  # overwrite output
@@ -132,7 +187,7 @@ def process_post(
         "-b:a", "128k",
         "-r", str(VIDEO_FPS),
         "-movflags", "+faststart",
-        str(output_path),
+        str(render_path),
     ])
 
     try:
@@ -142,15 +197,26 @@ def process_post(
             text=True,
             timeout=120,
         )
-        if result.returncode == 0 and output_path.exists():
-            return str(output_path)
-        else:
+        if result.returncode != 0 or not render_path.exists():
             if result.stderr:
-                # Print last few lines of stderr for debugging
                 stderr_lines = result.stderr.strip().split("\n")
                 for line in stderr_lines[-10:]:
                     print(f"  ffmpeg: {line}")
             return None
+
+        # Add static outro if requested
+        if static:
+            print("  Adding TV static outro...")
+            if _add_static_outro(render_path, output_path):
+                render_path.unlink(missing_ok=True)
+                return str(output_path)
+            else:
+                # Fall back to the version without static
+                print("  Static effect failed, using video without it")
+                render_path.rename(output_path)
+                return str(output_path)
+
+        return str(output_path)
     except (subprocess.TimeoutExpired, FileNotFoundError) as e:
         print(f"ffmpeg error: {e}")
         return None
