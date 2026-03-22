@@ -40,10 +40,17 @@ def scrape():
 
 @main.command("list")
 @click.option("--status", "filter_status", default=None, help="Filter by status")
-def list_posts(filter_status):
+@click.option("--flagged", is_flag=True, default=False, help="Show only flagged posts")
+@click.option("--usable", is_flag=True, default=False, help="Show only unflagged posts")
+def list_posts(filter_status, flagged, usable):
     """List all posts."""
     store = PostStore()
     posts = store.get_by_status(filter_status) if filter_status else store.get_all()
+
+    if flagged:
+        posts = [p for p in posts if p.flag]
+    elif usable:
+        posts = [p for p in posts if not p.flag]
 
     if not posts:
         console.print("[yellow]No posts found. Run 'rapwords scrape' first.[/yellow]")
@@ -56,10 +63,12 @@ def list_posts(filter_status):
     table.add_column("Song", style="blue")
     table.add_column("Status", style="yellow")
     table.add_column("YT", justify="center")
+    table.add_column("Flag", style="red")
 
     for post in posts:
         words = ", ".join(w.word for w in post.words)
         yt = "[green]✓[/green]" if post.youtube_video_id else "[red]✗[/red]"
+        flag = post.flag or ""
         table.add_row(
             str(post.id),
             words,
@@ -67,6 +76,7 @@ def list_posts(filter_status):
             post.song_title,
             post.status,
             yt,
+            flag,
         )
 
     console.print(table)
@@ -104,9 +114,56 @@ def show(post_id):
     if post.youtube_url:
         console.print(f"  {post.youtube_url}")
     console.print(f"  Status: [yellow]{post.status}[/yellow]")
+    if post.flag:
+        console.print(f"  Flag: [red]{post.flag}[/red]")
     if post.tumblr_date:
         console.print(f"  Posted: {post.tumblr_date}")
     console.print()
+
+
+@main.command()
+@click.argument("post_id", type=int)
+@click.argument("reason", default="no music video")
+def flag(post_id, reason):
+    """Flag a post as unsuitable.
+
+    Common reasons: "no music video", "unavailable", "audio only", "low quality"
+    """
+    store = PostStore()
+    post = store.get_by_id(post_id)
+
+    if not post:
+        console.print(f"[red]Post {post_id} not found.[/red]")
+        return
+
+    post.flag = reason
+    store.update(post)
+    store.save()
+    words = ", ".join(w.word for w in post.words)
+    console.print(f"[red]Flagged[/red] post {post_id} ({words}): {reason}")
+
+
+@main.command()
+@click.argument("post_id", type=int)
+def unflag(post_id):
+    """Remove flag from a post."""
+    store = PostStore()
+    post = store.get_by_id(post_id)
+
+    if not post:
+        console.print(f"[red]Post {post_id} not found.[/red]")
+        return
+
+    if not post.flag:
+        console.print(f"[yellow]Post {post_id} is not flagged.[/yellow]")
+        return
+
+    old_flag = post.flag
+    post.flag = None
+    store.update(post)
+    store.save()
+    words = ", ".join(w.word for w in post.words)
+    console.print(f"[green]Unflagged[/green] post {post_id} ({words}), was: {old_flag}")
 
 
 @main.command()

@@ -32,6 +32,9 @@ class RapWordsPost(BaseModel):
     youtube_video_id: str | None = None
     tumblr_date: str | None = None
 
+    # Flagging
+    flag: str | None = None  # None = usable, otherwise reason (e.g. "no music video", "unavailable")
+
     # Processing state
     start_time: float | None = None  # seconds into the video
     duration: float | None = None  # clip duration in seconds
