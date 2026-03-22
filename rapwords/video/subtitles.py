@@ -48,12 +48,42 @@ def _is_featured_word(word_text: str, featured_words: list[str]) -> bool:
     return any(clean.startswith(fw) or fw.startswith(clean) for fw in featured_words if clean and fw)
 
 
-def generate_ass(post: RapWordsPost, clip_duration: float) -> str:
+def _estimate_syllables(word: str) -> int:
+    """Rough syllable count for timing weight. Not linguistically perfect, but good enough."""
+    word = re.sub(r"[^a-zA-Z]", "", word).lower()
+    if not word:
+        return 1
+    # Count vowel groups
+    count = len(re.findall(r"[aeiouy]+", word))
+    # Adjust for silent e
+    if word.endswith("e") and count > 1:
+        count -= 1
+    return max(1, count)
+
+
+def _distribute_time_by_syllables(words: list[str], total_time: float) -> list[int]:
+    """Distribute time across words weighted by syllable count. Returns centiseconds per word."""
+    syllables = [_estimate_syllables(w) for w in words]
+    total_syllables = sum(syllables)
+    if total_syllables == 0:
+        cs = max(1, int(total_time * 100 / len(words)))
+        return [cs] * len(words)
+    return [max(1, int(total_time * 100 * s / total_syllables)) for s in syllables]
+
+
+def generate_ass(
+    post: RapWordsPost,
+    clip_duration: float,
+    line_timings: list | None = None,
+) -> str:
     """Generate ASS subtitle content with karaoke highlighting.
 
     Args:
         post: The post data with lyrics and featured words.
         clip_duration: Total clip duration in seconds.
+        line_timings: Optional per-line timing from caption alignment.
+            Each entry should have .line_start and .line_end (seconds from clip start).
+            If None, falls back to equal division.
     """
     lines = []
     lines.append(ASS_HEADER.rstrip())
@@ -78,39 +108,48 @@ def generate_ass(post: RapWordsPost, clip_duration: float) -> str:
     if num_lines == 0:
         return "\n".join(lines) + "\n"
 
-    # Leave 1.5s at start and 1s at end for definition to appear alone
-    lyrics_start = 1.5
-    lyrics_end = clip_duration - 1.0
-    total_lyrics_time = lyrics_end - lyrics_start
+    # Determine per-line start/end times
+    if line_timings and len(line_timings) == num_lines:
+        # Use caption-aligned timing
+        line_intervals = [(lt.line_start, lt.line_end) for lt in line_timings]
+    else:
+        # Fall back to equal division
+        lyrics_start = 1.5
+        lyrics_end = clip_duration - 1.0
+        total_lyrics_time = lyrics_end - lyrics_start
+        gap = 0.3
+        total_gap = gap * (num_lines - 1) if num_lines > 1 else 0
+        time_per_line = (total_lyrics_time - total_gap) / num_lines
+        line_intervals = [
+            (lyrics_start + i * (time_per_line + gap),
+             lyrics_start + i * (time_per_line + gap) + time_per_line)
+            for i in range(num_lines)
+        ]
 
-    # Time per line, with small gaps between lines
-    gap = 0.3  # gap between lines
-    total_gap = gap * (num_lines - 1) if num_lines > 1 else 0
-    time_per_line = (total_lyrics_time - total_gap) / num_lines
+    first_line_start = line_intervals[0][0] if line_intervals else 1.5
 
     for i, lyric_line in enumerate(post.lyrics_lines):
-        line_start = lyrics_start + i * (time_per_line + gap)
-        line_end = line_start + time_per_line
+        line_start, line_end = line_intervals[i]
 
-        # Split line into words for karaoke timing
         words_in_line = lyric_line.split()
         if not words_in_line:
             continue
 
-        # Distribute time equally among words
-        time_per_word = time_per_line / len(words_in_line)
-        centiseconds_per_word = max(1, int(time_per_word * 100))
+        line_duration = line_end - line_start
+
+        # Distribute time weighted by syllable count
+        cs_per_word = _distribute_time_by_syllables(words_in_line, line_duration)
 
         # Build karaoke text with \kf (fill) tags
         karaoke_parts = []
-        for word_text in words_in_line:
+        for j, word_text in enumerate(words_in_line):
+            cs = cs_per_word[j]
             if _is_featured_word(word_text, featured_words):
-                # Featured word: larger, colored, with glow
                 karaoke_parts.append(
-                    f"{{\\kf{centiseconds_per_word}\\c{COLOR_WORD_GLOW}\\fs52\\bord4}}{word_text}{{\\c\\fs\\bord}}"
+                    f"{{\\kf{cs}\\c{COLOR_WORD_GLOW}\\fs52\\bord4}}{word_text}{{\\c\\fs\\bord}}"
                 )
             else:
-                karaoke_parts.append(f"{{\\kf{centiseconds_per_word}}}{word_text}")
+                karaoke_parts.append(f"{{\\kf{cs}}}{word_text}")
 
         karaoke_text = " ".join(karaoke_parts)
         lines.append(
@@ -120,15 +159,20 @@ def generate_ass(post: RapWordsPost, clip_duration: float) -> str:
     # Attribution at bottom
     attr_text = f"— {post.artist} \"{post.song_title}\""
     lines.append(
-        f"Dialogue: 0,{_format_time(lyrics_start)},{_format_time(clip_duration - 0.5)},Attribution,,0,0,0,,{attr_text}"
+        f"Dialogue: 0,{_format_time(first_line_start)},{_format_time(clip_duration - 0.5)},Attribution,,0,0,0,,{attr_text}"
     )
 
     return "\n".join(lines) + "\n"
 
 
-def write_ass_file(post: RapWordsPost, clip_duration: float, output_path: Path) -> Path:
+def write_ass_file(
+    post: RapWordsPost,
+    clip_duration: float,
+    output_path: Path,
+    line_timings: list | None = None,
+) -> Path:
     """Generate and write an ASS subtitle file."""
-    content = generate_ass(post, clip_duration)
+    content = generate_ass(post, clip_duration, line_timings)
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(content)
     return output_path

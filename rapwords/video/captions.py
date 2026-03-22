@@ -184,6 +184,80 @@ def find_lyrics_timing(
     return matches
 
 
+@dataclass
+class LineTiming:
+    """Timing for a single lyrics line, relative to clip start."""
+    line_start: float  # seconds from clip start
+    line_end: float
+    text: str
+
+
+def align_lyrics_to_captions(
+    captions: list[CaptionEntry],
+    post: RapWordsPost,
+    clip_start: float,
+    clip_duration: float,
+) -> list[LineTiming] | None:
+    """Match each lyrics line to caption entries and return per-line timing.
+
+    Args:
+        captions: All caption entries with absolute timestamps.
+        clip_start: The absolute start time of the clip in the video.
+        clip_duration: Duration of the clip.
+
+    Returns:
+        A list of LineTiming (one per lyrics line) with times relative to
+        clip start, or None if alignment fails.
+    """
+    if not captions or not post.lyrics_lines:
+        return None
+
+    clip_end = clip_start + clip_duration
+    timings: list[LineTiming] = []
+
+    for lyric_line in post.lyrics_lines:
+        lyric_words = set(_normalize(lyric_line).split())
+        if not lyric_words:
+            continue
+
+        # Score each caption entry by word overlap with this lyrics line
+        best_score = 0
+        best_entry: CaptionEntry | None = None
+
+        for entry in captions:
+            # Only consider entries that overlap with the clip window
+            if entry.end < clip_start or entry.start > clip_end:
+                continue
+            caption_words = set(_normalize(entry.text).split())
+            overlap = len(lyric_words & caption_words)
+            # Normalize by the size of the lyrics line to prefer precise matches
+            score = overlap / len(lyric_words) if lyric_words else 0
+            if score > best_score:
+                best_score = score
+                best_entry = entry
+
+        if best_entry and best_score >= 0.3:
+            # Convert absolute time to clip-relative time
+            rel_start = max(0, best_entry.start - clip_start)
+            rel_end = max(rel_start + 0.5, min(clip_duration, best_entry.end - clip_start))
+            timings.append(LineTiming(
+                line_start=rel_start,
+                line_end=rel_end,
+                text=lyric_line,
+            ))
+        else:
+            # No good match — return None to fall back to equal division
+            return None
+
+    # Validate: timings should be roughly sequential
+    for i in range(1, len(timings)):
+        if timings[i].line_start < timings[i - 1].line_start - 1.0:
+            # Out of order by more than 1s — alignment is probably wrong
+            return None
+
+    return timings
+
+
 def suggest_start_time(matches: list[TimingMatch], pre_roll: float = 3.0) -> float | None:
     """Given matches, suggest a start time with some pre-roll before the first match."""
     if not matches:

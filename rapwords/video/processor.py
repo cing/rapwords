@@ -28,10 +28,29 @@ def process_post(post: RapWordsPost) -> str | None:
     start_time = post.start_time if post.start_time is not None else 0
     duration = post.duration or DEFAULT_CLIP_DURATION
 
+    # Try to get per-line timing from YouTube captions
+    line_timings = None
+    if post.youtube_video_id:
+        try:
+            from rapwords.video.captions import align_lyrics_to_captions, download_captions
+            captions = download_captions(post.youtube_video_id)
+            if captions:
+                line_timings = align_lyrics_to_captions(
+                    captions, post, start_time, duration,
+                )
+                if line_timings:
+                    print(f"  Synced to captions ({len(line_timings)} lines aligned)")
+                else:
+                    print("  Captions available but alignment failed, using syllable-weighted timing")
+            else:
+                print("  No captions, using syllable-weighted timing")
+        except Exception:
+            print("  Caption sync skipped, using syllable-weighted timing")
+
     # Generate subtitle file
     word_slug = "_".join(w.word for w in post.words)[:30]
     ass_path = OUTPUT_DIR / f"{post.id}_{word_slug}.ass"
-    write_ass_file(post, duration, ass_path)
+    write_ass_file(post, duration, ass_path, line_timings=line_timings)
 
     # Output path
     output_path = OUTPUT_DIR / f"{post.id}_{word_slug}.mp4"
