@@ -25,6 +25,7 @@ def process_post(
     crop: bool = True,
     show_attribution: bool = False,
     watermark: str = "white",
+    watermark_scale: float = 0.7,
 ) -> str | None:
     """Process a post into an Instagram-ready video.
 
@@ -113,7 +114,9 @@ def process_post(
         pad = WATERMARK_PADDING
         fc = (
             f"[0:v]{base_vf}[vid];"
-            f"[1:v]format=rgba,colorchannelmixer=aa={WATERMARK_OPACITY}[wm];"
+            f"[1:v]format=rgba,"
+            f"scale=iw*{watermark_scale}:ih*{watermark_scale},"
+            f"colorchannelmixer=aa={WATERMARK_OPACITY}[wm];"
             f"[vid][wm]overlay=W-w-{pad}:H-h-{pad}[out]"
         )
         cmd.extend(["-filter_complex", fc, "-map", "[out]", "-map", "0:a?"])
