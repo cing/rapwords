@@ -17,14 +17,20 @@ MAX_FREQUENCY = 400_000
 MIN_WORD_LENGTH = 5
 
 
-@lru_cache(maxsize=1)
-def load_big_words() -> set[str]:
+@lru_cache(maxsize=None)
+def load_big_words(
+    max_frequency: int = MAX_FREQUENCY,
+    min_length: int = MIN_WORD_LENGTH,
+) -> set[str]:
     """Load the set of 'big words' — rare English words from the Scrabble dictionary.
 
     A word qualifies if it:
     1. Appears in the Scrabble Tournament Word List (TWL06)
-    2. Has a frequency count < 400,000 in the Norvig word frequency list
-    3. Is longer than 4 characters
+    2. Has a frequency count < max_frequency in the Norvig word frequency list
+    3. Is at least min_length characters long
+
+    Lower max_frequency = stricter (rarer words only).
+    Higher min_length = longer words only.
     """
     # Load Scrabble dictionary
     dict_words = set()
@@ -44,15 +50,19 @@ def load_big_words() -> set[str]:
             count = int(count_str)
         except ValueError:
             continue
-        if count < MAX_FREQUENCY and len(word) > MIN_WORD_LENGTH - 1 and word in dict_words:
+        if count < max_frequency and len(word) >= min_length and word in dict_words:
             big_words.add(word)
 
     return big_words
 
 
-def find_big_words(lyrics: str) -> list[str]:
+def find_big_words(
+    lyrics: str,
+    max_frequency: int = MAX_FREQUENCY,
+    min_length: int = MIN_WORD_LENGTH,
+) -> list[str]:
     """Find all 'big words' in a lyrics string. Returns deduplicated list."""
-    big_words = load_big_words()
+    big_words = load_big_words(max_frequency=max_frequency, min_length=min_length)
     # Normalize: lowercase, split on whitespace, strip punctuation
     found = []
     seen = set()

@@ -555,8 +555,18 @@ def add(artist, song, youtube_url, lyrics, word, pos, definition):
 @click.option("--song", default=None, help="Specific song title (omit to scan multiple songs)")
 @click.option("--max-songs", default=20, type=int, help="Max songs to scan when no --song given")
 @click.option("--auto", is_flag=True, default=False, help="Auto-add all discovered words without prompting")
-def discover(artist, song, max_songs, auto):
+@click.option("--max-freq", default=400_000, type=int, help="Max word frequency (lower = rarer words only, default 400000)")
+@click.option("--min-length", default=5, type=int, help="Minimum word length (default 5)")
+def discover(artist, song, max_songs, auto, max_freq, min_length):
     """Discover new big words in hip-hop lyrics from Genius.
+
+    Use --max-freq and --min-length to control word rarity:
+
+      --max-freq 100000   Only very rare words
+
+      --max-freq 50000    Extremely rare words
+
+      --min-length 7      Only longer words
 
     Examples:
 
@@ -564,7 +574,7 @@ def discover(artist, song, max_songs, auto):
 
       rapwords discover --artist "Aesop Rock" --max-songs 10
 
-      rapwords discover --artist "MF DOOM" --auto
+      rapwords discover --artist "MF DOOM" --auto --max-freq 100000
     """
     from rapwords.discover.bars import extract_bars
     from rapwords.discover.definitions import get_definition
@@ -594,7 +604,7 @@ def discover(artist, song, max_songs, auto):
     # Scan each song for big words
     candidates: list[dict] = []
     for s in songs:
-        big_words = find_big_words(s.lyrics)
+        big_words = find_big_words(s.lyrics, max_frequency=max_freq, min_length=min_length)
         for word in big_words:
             candidates.append({
                 "word": word,

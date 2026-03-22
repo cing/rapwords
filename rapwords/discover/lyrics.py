@@ -2,7 +2,9 @@
 
 from __future__ import annotations
 
+import io
 import os
+import sys
 from dataclasses import dataclass
 
 
@@ -16,6 +18,10 @@ class SongResult:
 
 def _get_genius():
     """Create a lyricsgenius client using GENIUS_API_TOKEN env var."""
+    # lyricsgenius uses sys.stdout.encoding which can be None in non-TTY contexts
+    if sys.stdout.encoding is None:
+        sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
+
     import lyricsgenius
 
     token = os.environ.get("GENIUS_API_TOKEN")
