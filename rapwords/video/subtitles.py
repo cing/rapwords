@@ -3,19 +3,71 @@
 from __future__ import annotations
 
 import re
+from dataclasses import dataclass
 from pathlib import Path
 
 from rapwords.config import VIDEO_HEIGHT, VIDEO_WIDTH
 from rapwords.models import RapWordsPost
 
-# ASS color format: &HAABBGGRR (alpha, blue, green, red)
-COLOR_WHITE = "&H00FFFFFF"
-COLOR_HIGHLIGHT = "&H0000CCFF"  # gold/yellow in BGR
-COLOR_WORD_GLOW = "&H0000AAFF"  # orange-gold for featured word
-COLOR_SHADOW = "&H80000000"
-COLOR_OUTLINE = "&H00000000"
 
-ASS_HEADER = f"""[Script Info]
+@dataclass(frozen=True)
+class LyricsTheme:
+    name: str
+    # Lyrics style colors (ASS &HAABBGGRR format)
+    lyrics_primary: str      # Text color before karaoke fill (dimmed)
+    lyrics_secondary: str    # Text color after karaoke fill (bright)
+    lyrics_outline: str      # Box border color
+    lyrics_back: str         # Box fill color
+    # Featured word
+    featured_color: str      # Featured word text color
+    # WordDef style colors
+    worddef_primary: str     # WordDef text color
+    worddef_outline: str     # WordDef box border
+    worddef_back: str        # WordDef box fill
+
+
+THEMES: dict[str, LyricsTheme] = {
+    "yellow": LyricsTheme(
+        name="yellow",
+        lyrics_primary="&H60000000",
+        lyrics_secondary="&H00000000",
+        lyrics_outline="&H0000D4FF",
+        lyrics_back="&H0000D4FF",
+        featured_color="&H00003AE0",
+        worddef_primary="&H00FFFFFF",
+        worddef_outline="&H00202020",
+        worddef_back="&HC0000000",
+    ),
+    "pink": LyricsTheme(
+        name="pink",
+        lyrics_primary="&H60FFFFFF",
+        lyrics_secondary="&H00FFFFFF",
+        lyrics_outline="&H009933FF",
+        lyrics_back="&H009933FF",
+        featured_color="&H00EEFFFF",
+        worddef_primary="&H00FFFFFF",
+        worddef_outline="&H009933FF",
+        worddef_back="&HC09933FF",
+    ),
+    "ice": LyricsTheme(
+        name="ice",
+        lyrics_primary="&H60000000",
+        lyrics_secondary="&H00000000",
+        lyrics_outline="&H00FFDDAA",
+        lyrics_back="&H00FFDDAA",
+        featured_color="&H00CC4400",
+        worddef_primary="&H00FFFFFF",
+        worddef_outline="&H00FFDDAA",
+        worddef_back="&HC0FFDDAA",
+    ),
+}
+
+DEFAULT_THEME = "yellow"
+
+
+def _build_ass_header(theme: LyricsTheme) -> str:
+    """Build the ASS header with styles based on the selected theme."""
+    return f"""[Script Info]
 Title: RapWords Karaoke
 ScriptType: v4.00+
 PlayResX: {VIDEO_WIDTH}
@@ -25,9 +77,9 @@ ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: WordDef,Arial,48,{COLOR_WHITE},&H000000FF,{COLOR_OUTLINE},{COLOR_SHADOW},-1,0,0,0,100,100,1,0,1,3,2,8,40,40,60,1
-Style: Lyrics,Arial,44,&H40FFFFFF,{COLOR_HIGHLIGHT},{COLOR_OUTLINE},{COLOR_SHADOW},-1,0,0,0,100,100,0,0,1,3,2,2,50,50,300,1
-Style: Attribution,Arial,36,{COLOR_WHITE},&H000000FF,{COLOR_OUTLINE},{COLOR_SHADOW},0,-1,0,0,100,100,0,0,1,2,1,2,40,40,100,1
+Style: WordDef,Arial,44,{theme.worddef_primary},&H000000FF,{theme.worddef_outline},{theme.worddef_back},-1,0,0,0,100,100,1,0,3,10,0,8,60,60,60,1
+Style: Lyrics,Arial,48,{theme.lyrics_primary},{theme.lyrics_secondary},{theme.lyrics_outline},{theme.lyrics_back},-1,0,0,0,100,100,2,0,3,12,0,2,80,80,300,1
+Style: Attribution,Arial,36,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,2,1,2,40,40,100,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -76,6 +128,7 @@ def generate_ass(
     clip_duration: float,
     line_timings: list | None = None,
     show_attribution: bool = False,
+    theme: str = DEFAULT_THEME,
 ) -> str:
     """Generate ASS subtitle content with karaoke highlighting.
 
@@ -85,9 +138,13 @@ def generate_ass(
         line_timings: Optional per-line timing from caption alignment.
             Each entry should have .line_start and .line_end (seconds from clip start).
             If None, falls back to equal division.
+        theme: Color theme name ("yellow", "pink", or "ice").
     """
+    resolved_theme = THEMES.get(theme, THEMES[DEFAULT_THEME])
+    header = _build_ass_header(resolved_theme)
+
     lines = []
-    lines.append(ASS_HEADER.rstrip())
+    lines.append(header.rstrip())
 
     featured_words = [w.word.lower() for w in post.words]
 
@@ -147,7 +204,7 @@ def generate_ass(
             cs = cs_per_word[j]
             if _is_featured_word(word_text, featured_words):
                 karaoke_parts.append(
-                    f"{{\\kf{cs}\\c{COLOR_WORD_GLOW}\\fs52\\bord4}}{word_text}{{\\c\\fs\\bord}}"
+                    f"{{\\kf{cs}\\c{resolved_theme.featured_color}\\2c{resolved_theme.featured_color}\\fs56}}{word_text}{{\\c\\2c\\fs}}"
                 )
             else:
                 karaoke_parts.append(f"{{\\kf{cs}}}{word_text}")
@@ -173,9 +230,10 @@ def write_ass_file(
     output_path: Path,
     line_timings: list | None = None,
     show_attribution: bool = False,
+    theme: str = DEFAULT_THEME,
 ) -> Path:
     """Generate and write an ASS subtitle file."""
-    content = generate_ass(post, clip_duration, line_timings, show_attribution=show_attribution)
+    content = generate_ass(post, clip_duration, line_timings, show_attribution=show_attribution, theme=theme)
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(content)
     return output_path

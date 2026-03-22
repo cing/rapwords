@@ -26,6 +26,7 @@ def process_post(
     show_attribution: bool = False,
     watermark: str = "white",
     watermark_scale: float = 0.7,
+    theme: str = "yellow",
 ) -> str | None:
     """Process a post into an Instagram-ready video.
 
@@ -70,7 +71,7 @@ def process_post(
     # Generate subtitle file
     word_slug = "_".join(w.word for w in post.words)[:30]
     ass_path = OUTPUT_DIR / f"{post.id}_{word_slug}.ass"
-    write_ass_file(post, duration, ass_path, line_timings=line_timings, show_attribution=show_attribution)
+    write_ass_file(post, duration, ass_path, line_timings=line_timings, show_attribution=show_attribution, theme=theme)
 
     # Output path
     output_path = OUTPUT_DIR / f"{post.id}_{word_slug}.mp4"

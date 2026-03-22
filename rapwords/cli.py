@@ -318,7 +318,8 @@ def find_time(post_id):
 @click.option("--attribution/--no-attribution", default=False, help="Show artist/song overlay on video")
 @click.option("--watermark", type=click.Choice(["white", "black", "none"]), default="white", help="Watermark variant (default: white)")
 @click.option("--watermark-scale", type=float, default=0.7, help="Watermark size multiplier (default: 0.7)")
-def process(post_id, start_time, duration, crop, attribution, watermark, watermark_scale):
+@click.option("--theme", type=click.Choice(["yellow", "pink", "ice"]), default="yellow", help="Color theme for lyrics (default: yellow)")
+def process(post_id, start_time, duration, crop, attribution, watermark, watermark_scale, theme):
     """Process a post into an Instagram-ready video with karaoke subtitles."""
     from rapwords.video.downloader import download_video
     from rapwords.video.processor import process_post
@@ -373,7 +374,7 @@ def process(post_id, start_time, duration, crop, attribution, watermark, waterma
     post.duration = duration
 
     console.print(f"\nProcessing: {start_time} + {duration}s ...")
-    output = process_post(post, crop=crop, show_attribution=attribution, watermark=watermark, watermark_scale=watermark_scale)
+    output = process_post(post, crop=crop, show_attribution=attribution, watermark=watermark, watermark_scale=watermark_scale, theme=theme)
     if output:
         post.output_path = output
         post.status = "processed"
