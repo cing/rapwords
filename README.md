@@ -9,6 +9,7 @@ Originally a [Tumblr blog](https://rapwords.tumblr.com/) and [PyCon Canada 2016 
 - Python 3.10+
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) for video downloads
 - [ffmpeg](https://ffmpeg.org/) built with libass for subtitle rendering
+- `GENIUS_API_TOKEN` env var for discovering new content (free at https://genius.com/api-clients)
 
 ## Install
 
@@ -38,6 +39,38 @@ rapwords download 1
 # Process a post into an Instagram-ready video
 rapwords process 1 --start-time 01:23 --duration 20
 ```
+
+## Discovering new content
+
+Scan modern hip-hop lyrics from Genius for "big words" — rare vocabulary found in the Scrabble dictionary with low frequency in common English usage.
+
+```bash
+# Scan a specific song
+rapwords discover --artist "Kendrick Lamar" --song "HUMBLE."
+
+# Scan an artist's top songs
+rapwords discover --artist "Aesop Rock" --max-songs 10
+
+# Auto-add all discovered words without prompting
+rapwords discover --artist "MF DOOM" --auto
+
+# Stricter filtering: only rarer, longer words
+rapwords discover --artist "Aesop Rock" --max-freq 100000 --min-length 7
+```
+
+For each big word found, the pipeline:
+1. Extracts the surrounding bars (grouped by rhyming end-words)
+2. Fetches a definition from the Free Dictionary API
+3. Finds the official YouTube music video
+
+Discovered posts are saved to `data/posts.json` and work with the full `download` → `find-time` → `process` workflow.
+
+| Option | Default | Effect |
+|---|---|---|
+| `--max-freq` | 400,000 | Max word frequency — lower = rarer words only |
+| `--min-length` | 5 | Minimum word length |
+| `--max-songs` | 20 | Songs to scan when no `--song` given |
+| `--auto` | off | Skip interactive selection, add all |
 
 ## Editing posts
 
