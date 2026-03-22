@@ -236,7 +236,7 @@ def download_all():
 @click.argument("post_id", type=int)
 def find_time(post_id):
     """Find lyrics timestamp using YouTube auto-captions."""
-    from rapwords.video.captions import download_captions, find_lyrics_timing, suggest_start_time
+    from rapwords.video.captions import download_captions, find_lyrics_timing, suggest_timing
 
     store = PostStore()
     post = store.get_by_id(post_id)
@@ -279,7 +279,7 @@ def find_time(post_id):
             console.print(f"  [dim]{m:02d}:{s:05.2f}[/dim]  {entry.text}")
         return
 
-    suggested = suggest_start_time(matches)
+    suggested = suggest_timing(matches)
 
     console.print()
     confidence_colors = {"high": "green", "medium": "yellow", "low": "red"}
@@ -287,18 +287,27 @@ def find_time(post_id):
         color = confidence_colors[m.confidence]
         mins = int(m.start // 60)
         secs = m.start % 60
+        end_mins = int(m.end // 60)
+        end_secs = m.end % 60
         console.print(
             f"  [{color}]{m.confidence:6s}[/{color}]  "
-            f"{mins:02d}:{secs:05.2f}  "
+            f"{mins:02d}:{secs:05.2f} → {end_mins:02d}:{end_secs:05.2f}  "
             f"matched [bold]{m.matched_word}[/bold]  "
-            f"[dim]→ \"{m.caption_text}\"[/dim]"
+            f"[dim]\"{m.caption_text}\"[/dim]"
         )
 
     if suggested is not None:
-        mins = int(suggested // 60)
-        secs = suggested % 60
-        console.print(f"\n[bold green]Suggested start time: {mins:02d}:{secs:05.2f}[/bold green]")
-        console.print(f"[dim]Usage: rapwords process {post_id} --start-time {mins:02d}:{secs:05.2f}[/dim]")
+        s_mins = int(suggested.start // 60)
+        s_secs = suggested.start % 60
+        dur = suggested.duration
+        console.print(
+            f"\n[bold green]Suggested: start {s_mins:02d}:{s_secs:05.2f}, "
+            f"duration {dur:.0f}s[/bold green]"
+        )
+        console.print(
+            f"[dim]Usage: rapwords process {post_id} "
+            f"--start-time {s_mins:02d}:{s_secs:05.2f} --duration {dur:.0f}[/dim]"
+        )
 
 
 @main.command()

@@ -110,77 +110,79 @@ class TimingMatch:
     confidence: str  # "high", "medium", "low"
 
 
+def _match_line_to_captions(
+    lyric_line: str,
+    captions: list[CaptionEntry],
+    featured_words: list[str],
+) -> TimingMatch | None:
+    """Find the best caption match for a single lyrics line."""
+    line_words = _normalize(lyric_line).split()
+    if not line_words:
+        return None
+
+    best: TimingMatch | None = None
+    best_score = 0
+
+    for entry in captions:
+        entry_norm = _normalize(entry.text)
+        entry_word_list = entry_norm.split()
+        entry_word_set = set(entry_word_list)
+        line_word_set = set(line_words)
+
+        overlap = line_word_set & entry_word_set
+        score = len(overlap) / len(line_word_set)
+
+        if score <= best_score:
+            continue
+
+        # Determine confidence
+        has_featured = any(fw in entry_word_list for fw in featured_words)
+        if has_featured and score >= 0.4:
+            confidence = "high"
+        elif score >= 0.5:
+            confidence = "medium"
+        elif score >= 0.3:
+            confidence = "low"
+        else:
+            continue
+
+        matched_word = next(
+            (fw for fw in featured_words if fw in entry_word_list),
+            ", ".join(sorted(overlap)[:3]),
+        )
+        best = TimingMatch(
+            start=entry.start,
+            end=entry.end,
+            caption_text=entry.text,
+            matched_word=matched_word,
+            confidence=confidence,
+        )
+        best_score = score
+
+    return best
+
+
 def find_lyrics_timing(
     captions: list[CaptionEntry],
     post: RapWordsPost,
 ) -> list[TimingMatch]:
-    """Find where the post's lyrics appear in the captions.
+    """Find where each lyrics line appears in the captions.
 
-    Strategy:
-    1. Search for the featured word(s) directly in captions — high confidence
-    2. Search for multi-word phrases from the lyrics — medium confidence
-    3. Sliding window word overlap — low confidence
+    Matches every lyrics line independently to its best caption entry,
+    so the results cover the full span from first to last line.
     """
-    matches: list[TimingMatch] = []
     featured_words = [w.word.lower() for w in post.words]
-    lyrics_words = _word_set(" ".join(post.lyrics_lines))
+    matches: list[TimingMatch] = []
+    seen_starts: set[float] = set()
 
-    # Strategy 1: Direct featured word match
-    for entry in captions:
-        entry_normalized = _normalize(entry.text)
-        for fw in featured_words:
-            if fw in entry_normalized.split():
-                matches.append(TimingMatch(
-                    start=entry.start,
-                    end=entry.end,
-                    caption_text=entry.text,
-                    matched_word=fw,
-                    confidence="high",
-                ))
-
-    if matches:
-        return matches
-
-    # Strategy 2: Search for multi-word phrases from the lyrics (3+ consecutive words)
     for lyric_line in post.lyrics_lines:
-        words = _normalize(lyric_line).split()
-        for n in range(min(5, len(words)), 2, -1):  # try longer phrases first
-            for i in range(len(words) - n + 1):
-                phrase = " ".join(words[i:i + n])
-                for entry in captions:
-                    if phrase in _normalize(entry.text):
-                        matches.append(TimingMatch(
-                            start=entry.start,
-                            end=entry.end,
-                            caption_text=entry.text,
-                            matched_word=phrase,
-                            confidence="medium",
-                        ))
+        m = _match_line_to_captions(lyric_line, captions, featured_words)
+        if m and m.start not in seen_starts:
+            matches.append(m)
+            seen_starts.add(m.start)
 
-    if matches:
-        # Deduplicate by start time, prefer longer phrase matches
-        seen_starts: set[float] = set()
-        unique: list[TimingMatch] = []
-        for m in matches:
-            if m.start not in seen_starts:
-                seen_starts.add(m.start)
-                unique.append(m)
-        return unique
-
-    # Strategy 3: Sliding window word overlap
-    for entry in captions:
-        entry_words = _word_set(entry.text)
-        overlap = lyrics_words & entry_words
-        # Require at least 3 overlapping words to avoid false positives
-        if len(overlap) >= 3:
-            matches.append(TimingMatch(
-                start=entry.start,
-                end=entry.end,
-                caption_text=entry.text,
-                matched_word=", ".join(sorted(overlap)[:4]),
-                confidence="low",
-            ))
-
+    # Sort by time
+    matches.sort(key=lambda m: m.start)
     return matches
 
 
@@ -258,10 +260,31 @@ def align_lyrics_to_captions(
     return timings
 
 
-def suggest_start_time(matches: list[TimingMatch], pre_roll: float = 3.0) -> float | None:
-    """Given matches, suggest a start time with some pre-roll before the first match."""
+@dataclass
+class SuggestedTiming:
+    start: float  # suggested start time (absolute, in seconds)
+    duration: float  # suggested clip duration
+
+
+def suggest_timing(
+    matches: list[TimingMatch],
+    pre_roll: float = 3.0,
+    post_roll: float = 2.0,
+    min_duration: float = 10.0,
+) -> SuggestedTiming | None:
+    """Suggest start time and duration that covers all matched lyrics.
+
+    Uses the earliest and latest matches to compute the span, then adds
+    pre-roll before and post-roll after.
+    """
     if not matches:
         return None
-    # Use the earliest high-confidence match, or earliest of any
-    best = min(matches, key=lambda m: ({"high": 0, "medium": 1, "low": 2}[m.confidence], m.start))
-    return max(0, best.start - pre_roll)
+
+    earliest = min(matches, key=lambda m: m.start)
+    latest = max(matches, key=lambda m: m.end)
+
+    start = max(0, earliest.start - pre_roll)
+    end = latest.end + post_roll
+    duration = max(min_duration, end - start)
+
+    return SuggestedTiming(start=start, duration=duration)
