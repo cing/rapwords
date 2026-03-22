@@ -10,7 +10,7 @@ from rapwords.models import RapWordsPost
 from rapwords.video.subtitles import write_ass_file
 
 
-def process_post(post: RapWordsPost, crop: bool = True) -> str | None:
+def process_post(post: RapWordsPost, crop: bool = True, show_attribution: bool = False) -> str | None:
     """Process a post into an Instagram-ready video.
 
     Requires post.video_path, post.start_time, and post.duration to be set.
@@ -53,7 +53,7 @@ def process_post(post: RapWordsPost, crop: bool = True) -> str | None:
     # Generate subtitle file
     word_slug = "_".join(w.word for w in post.words)[:30]
     ass_path = OUTPUT_DIR / f"{post.id}_{word_slug}.ass"
-    write_ass_file(post, duration, ass_path, line_timings=line_timings)
+    write_ass_file(post, duration, ass_path, line_timings=line_timings, show_attribution=show_attribution)
 
     # Output path
     output_path = OUTPUT_DIR / f"{post.id}_{word_slug}.mp4"

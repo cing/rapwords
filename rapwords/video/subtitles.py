@@ -75,6 +75,7 @@ def generate_ass(
     post: RapWordsPost,
     clip_duration: float,
     line_timings: list | None = None,
+    show_attribution: bool = False,
 ) -> str:
     """Generate ASS subtitle content with karaoke highlighting.
 
@@ -156,11 +157,12 @@ def generate_ass(
             f"Dialogue: 1,{_format_time(line_start)},{_format_time(line_end + 1.0)},Lyrics,,0,0,0,,{karaoke_text}"
         )
 
-    # Attribution at bottom
-    attr_text = f"— {post.artist} \"{post.song_title}\""
-    lines.append(
-        f"Dialogue: 0,{_format_time(first_line_start)},{_format_time(clip_duration - 0.5)},Attribution,,0,0,0,,{attr_text}"
-    )
+    # Attribution at bottom (optional)
+    if show_attribution:
+        attr_text = f"— {post.artist} \"{post.song_title}\""
+        lines.append(
+            f"Dialogue: 0,{_format_time(first_line_start)},{_format_time(clip_duration - 0.5)},Attribution,,0,0,0,,{attr_text}"
+        )
 
     return "\n".join(lines) + "\n"
 
@@ -170,9 +172,10 @@ def write_ass_file(
     clip_duration: float,
     output_path: Path,
     line_timings: list | None = None,
+    show_attribution: bool = False,
 ) -> Path:
     """Generate and write an ASS subtitle file."""
-    content = generate_ass(post, clip_duration, line_timings)
+    content = generate_ass(post, clip_duration, line_timings, show_attribution=show_attribution)
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(content)
     return output_path
