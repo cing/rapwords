@@ -314,7 +314,8 @@ def find_time(post_id):
 @click.argument("post_id", type=int)
 @click.option("--start-time", type=str, default=None, help="Start time in video (MM:SS or HH:MM:SS)")
 @click.option("--duration", type=float, default=None, help="Clip duration in seconds")
-def process(post_id, start_time, duration):
+@click.option("--crop/--no-crop", default=True, help="Crop to fill 9:16 (default) or pad with black bars")
+def process(post_id, start_time, duration, crop):
     """Process a post into an Instagram-ready video with karaoke subtitles."""
     from rapwords.video.downloader import download_video
     from rapwords.video.processor import process_post
@@ -369,7 +370,7 @@ def process(post_id, start_time, duration):
     post.duration = duration
 
     console.print(f"\nProcessing: {start_time} + {duration}s ...")
-    output = process_post(post)
+    output = process_post(post, crop=crop)
     if output:
         post.output_path = output
         post.status = "processed"

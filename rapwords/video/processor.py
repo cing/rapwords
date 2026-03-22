@@ -10,11 +10,14 @@ from rapwords.models import RapWordsPost
 from rapwords.video.subtitles import write_ass_file
 
 
-def process_post(post: RapWordsPost) -> str | None:
+def process_post(post: RapWordsPost, crop: bool = True) -> str | None:
     """Process a post into an Instagram-ready video.
 
     Requires post.video_path, post.start_time, and post.duration to be set.
-    Returns the output file path on success, None on failure.
+
+    Args:
+        crop: If True (default), scale to fill and center-crop to 9:16.
+              If False, scale to fit and pad with black bars.
     """
     if not post.video_path:
         print("No video file available.")
@@ -56,18 +59,24 @@ def process_post(post: RapWordsPost) -> str | None:
     output_path = OUTPUT_DIR / f"{post.id}_{word_slug}.mp4"
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    # Build ffmpeg filter chain:
-    # 1. Scale to fit width, maintaining aspect ratio
-    # 2. Pad to 9:16 (center vertically with black bars)
-    # 3. Slight darken for text readability
-    # 4. Burn ASS subtitles
+    # Build ffmpeg filter chain
     ass_path_escaped = str(ass_path).replace("\\", "/").replace(":", "\\:")
-    vf = (
-        f"scale={VIDEO_WIDTH}:-2,"
-        f"pad={VIDEO_WIDTH}:{VIDEO_HEIGHT}:(ow-iw)/2:(oh-ih)/2:black,"
-        f"eq=brightness=-0.08,"
-        f"ass='{ass_path_escaped}'"
-    )
+    if crop:
+        # Scale to fill 9:16 frame (match height, crop width to center)
+        vf = (
+            f"scale=-2:{VIDEO_HEIGHT},"
+            f"crop={VIDEO_WIDTH}:{VIDEO_HEIGHT},"
+            f"eq=brightness=-0.08,"
+            f"ass='{ass_path_escaped}'"
+        )
+    else:
+        # Scale to fit width, pad with black bars top/bottom
+        vf = (
+            f"scale={VIDEO_WIDTH}:-2,"
+            f"pad={VIDEO_WIDTH}:{VIDEO_HEIGHT}:(ow-iw)/2:(oh-ih)/2:black,"
+            f"eq=brightness=-0.08,"
+            f"ass='{ass_path_escaped}'"
+        )
 
     cmd = [
         "ffmpeg",
