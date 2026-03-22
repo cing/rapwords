@@ -1,0 +1,4255 @@
+[
+  {
+    "id": 1,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "convalescent",
+        "syllables": "con·va·les·cent",
+        "part_of_speech": "noun",
+        "definition": "A person who is recovering after an illness or operation.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/convalescent"
+      }
+    ],
+    "lyrics_lines": [
+      "Til God return me to my essence",
+      "Cause even as a adolescents, I refuse to be a convalescent"
+    ],
+    "artist": "2Pac",
+    "song_title": "I Ain’t Mad at Cha",
+    "youtube_url": "https://www.youtube.com/watch?v=gyDHmQp6Hek",
+    "youtube_video_id": "gyDHmQp6Hek",
+    "tumblr_date": null,
+    "start_time": 140.0,
+    "duration": 15.0,
+    "video_downloaded": true,
+    "video_path": "/home/cing/proteinqure/code/playground/rapwords/data/videos/1_gyDHmQp6Hek.mp4",
+    "output_path": null,
+    "status": "video_downloaded"
+  },
+  {
+    "id": 2,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "dissemination",
+        "syllables": "dis·sem·i·na·tion",
+        "part_of_speech": "noun",
+        "definition": "The act of spreading something, esp. information, widely; circulation.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/dissemination"
+      }
+    ],
+    "lyrics_lines": [
+      "My true occupation, dissemination of information",
+      "Usin’ both sides of the brain, and I ain’t complacent"
+    ],
+    "artist": "Rass Kass",
+    "song_title": "Van Gogh",
+    "youtube_url": "http://www.youtube.com/watch?v=Ar9hN4S-Org",
+    "youtube_video_id": "Ar9hN4S-Org",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 3,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "insinuate",
+        "syllables": "in·sin·u·ate",
+        "part_of_speech": "verb",
+        "definition": "To hint at (something); to suggest or express an idea indirectly.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/insinuate"
+      }
+    ],
+    "lyrics_lines": [
+      "You see them 4’s crawlin, you see them screens fallin",
+      "The disco ball in my mouth insinuates I’m ballin"
+    ],
+    "artist": "Paul Wall",
+    "song_title": "Drive Slow",
+    "youtube_url": "http://www.youtube.com/watch?v=mWoUCDTfWqA",
+    "youtube_video_id": "mWoUCDTfWqA",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 4,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "insidious",
+        "syllables": "in·sid·i·ous",
+        "part_of_speech": "adjective",
+        "definition": "Proceeding in a gradual, subtle way, but with harmful effects.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/insidious"
+      }
+    ],
+    "lyrics_lines": [
+      "Fuckin up to the chest I bust insidious, Bad Touchin",
+      "Boogie to break to bumrushin"
+    ],
+    "artist": "Company Flow",
+    "song_title": "Collude/Interlude",
+    "youtube_url": "http://www.youtube.com/watch?v=0uAiRNu8D24",
+    "youtube_video_id": "0uAiRNu8D24",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 5,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "vivacious",
+        "syllables": "vi·va·cious",
+        "part_of_speech": "adjective",
+        "definition": "Attractively lively and animated.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/vivacious"
+      },
+      {
+        "word": "ostentatious",
+        "syllables": "os·ten·ta·tious",
+        "part_of_speech": "adjective",
+        "definition": "Characterized by vulgar or pretentious display.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/ostentatious"
+      }
+    ],
+    "lyrics_lines": [
+      "Oh goodness gracious, you better make it spacious",
+      "For the vivacious, ostentatious, who feel courageous?"
+    ],
+    "artist": "Big Daddy Kane",
+    "song_title": "Terra N Ya Era",
+    "youtube_url": "http://www.youtube.com/watch?v=chnw0eI3Qzw",
+    "youtube_video_id": "chnw0eI3Qzw",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 6,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "indigenous",
+        "syllables": "in·dig·e·nous",
+        "part_of_speech": "adjective",
+        "definition": "Originating or occurring naturally in a particular place; native.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/indigenous"
+      },
+      {
+        "word": "omnipotent",
+        "syllables": "om·nip·o·tent",
+        "part_of_speech": "adjective",
+        "definition": "(of a deity) Having unlimited power; able to do anything",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/omnipotent"
+      },
+      {
+        "word": "beneficent",
+        "syllables": "be·nef·i·cent",
+        "part_of_speech": "adjective",
+        "definition": "(of a person) Generous or doing good",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/beneficent"
+      }
+    ],
+    "lyrics_lines": [
+      "for years in this, doin songs with my indigenous",
+      "peers n shit, hit you with the omnipotent gland",
+      "The beneficent stare, write a rhyme to shine light in your ear"
+    ],
+    "artist": "Chace Infinite",
+    "song_title": "Feature Presentation",
+    "youtube_url": "http://www.youtube.com/watch?v=OVwtdmKOls4",
+    "youtube_video_id": "OVwtdmKOls4",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 7,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "subside",
+        "syllables": "sub·side",
+        "part_of_speech": "verb",
+        "definition": "Become less intense, violent, or severe",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/subside"
+      },
+      {
+        "word": "affliction",
+        "syllables": "af·flic·tion",
+        "part_of_speech": "noun",
+        "definition": "Something that causes pain or suffering",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/affliction"
+      }
+    ],
+    "lyrics_lines": [
+      "Sick with the pen nigga no physician, in the world could fix him",
+      "No prescription, you can prescribe to subside his affliction"
+    ],
+    "artist": "Jay-Z",
+    "song_title": "La, La, La",
+    "youtube_url": "http://www.youtube.com/watch?v=aunKge7SUhs",
+    "youtube_video_id": "aunKge7SUhs",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 8,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "usurp",
+        "syllables": "u·surp",
+        "part_of_speech": "verb",
+        "definition": "Take (a position of power or importance) illegally or by force",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/usurp"
+      },
+      {
+        "word": "arthroscopic",
+        "syllables": "ar·thros·co·pic",
+        "part_of_speech": "adjective",
+        "definition": "Of or pertaining to arthroscopy, a minimally invasive operation to repair a damaged joint.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/arthroscopic"
+      }
+    ],
+    "lyrics_lines": [
+      "Chosen by the mystic, mic ways, I rip it",
+      "Usurp it, sharp enough that it can hurt it",
+      "Depth wise, verse wise, ensurin that the surge hits",
+      "Words hit, I do work like arthroscopic",
+      "Surgery, now my rhymes lacked the masonry, kinetic energy"
+    ],
+    "artist": "Afu-Ra",
+    "song_title": "Mic Stance",
+    "youtube_url": "http://www.youtube.com/watch?v=fitNiGg4t-k",
+    "youtube_video_id": "fitNiGg4t-k",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 9,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "indignant",
+        "syllables": "in·dig·nant",
+        "part_of_speech": "adjective",
+        "definition": "Feeling or showing anger or annoyance at what is perceived as unfair",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/indignation"
+      },
+      {
+        "word": "diction",
+        "syllables": "dic·tion",
+        "part_of_speech": "noun",
+        "definition": "The choice and use of words and phrases in speech or writing",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/diction"
+      }
+    ],
+    "lyrics_lines": [
+      "Why I can’t talk to niggas, that’s just so indignant",
+      "People are so ignorant",
+      "Till a wise man sat me down, like ‘Joe listen’",
+      "You can’t 'conversate’ with a nigga with no diction ."
+    ],
+    "artist": "Joe Budden",
+    "song_title": "Cold War",
+    "youtube_url": null,
+    "youtube_video_id": null,
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 10,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "fruition",
+        "syllables": "fru·i·tion",
+        "part_of_speech": "noun",
+        "definition": "The point at which a plan or project is realized.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/fruition"
+      },
+      {
+        "word": "euphoric",
+        "syllables": "eu·phor·ic",
+        "part_of_speech": "adjective",
+        "definition": "Characterized by or feeling intense excitement and happiness",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/euphoric"
+      }
+    ],
+    "lyrics_lines": [
+      "Doc Dre, Bust, Shallah Rae, see the vision?",
+      "Most you niggas still in disbelief, just came into fruition now",
+      "Pop the cork up off this bottle and you pour it",
+      "So euphoric, document this moment, shit is so historic"
+    ],
+    "artist": "Busta Rhymes",
+    "song_title": "About Me",
+    "youtube_url": "http://www.youtube.com/watch?v=HAOGtM2xJTg",
+    "youtube_video_id": "HAOGtM2xJTg",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 11,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "loquacious",
+        "syllables": "lo·qua·cious",
+        "part_of_speech": "adjective",
+        "definition": "Talkative.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/loquacious"
+      },
+      {
+        "word": "gregarious",
+        "syllables": "gre·gar·i·ous",
+        "part_of_speech": "adjective",
+        "definition": "Fond of company; sociable.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/gregarious"
+      }
+    ],
+    "lyrics_lines": [
+      "Vocabularies very, loquacious",
+      "And gregarious, pump that too, go grab the dictionary"
+    ],
+    "artist": "K-Solo",
+    "song_title": "It’s Like That",
+    "youtube_url": "http://www.youtube.com/watch?v=JH0NZi28-lw",
+    "youtube_video_id": "JH0NZi28-lw",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 12,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "impervious",
+        "syllables": "im·per·vi·ous",
+        "part_of_speech": "adjective",
+        "definition": "Unable to be affected by",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/impervious"
+      },
+      {
+        "word": "anoint",
+        "syllables": "a·noint",
+        "part_of_speech": "verb",
+        "definition": "Smear or rub with oil, typically as part of a religious ceremony",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/anoint"
+      }
+    ],
+    "lyrics_lines": [
+      "Block the music and the people out to admire the love",
+      "The nerve of us, impervious to the entire club",
+      "And like marijuana shotguns let’s blow this joint",
+      "It’s pointless to say here, so let me anoint"
+    ],
+    "artist": "Pharoahe Monch",
+    "song_title": "The Light",
+    "youtube_url": "http://www.youtube.com/watch?v=nvevupLi6hk",
+    "youtube_video_id": "nvevupLi6hk",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 13,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "penchant",
+        "syllables": "pen·chant",
+        "part_of_speech": "noun",
+        "definition": "A strong or habitual liking for something or tendency to do something.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/penchant"
+      }
+    ],
+    "lyrics_lines": [
+      "The rhythm just sways, and like a sorceress I slays",
+      "foes, and ri-vals, who wanna come",
+      "this way, they, better pay attention",
+      "or a penchant not to mention suspension",
+      "from the microphone, plus the tension",
+      "Trey-eight oh’s will vacate those",
+      "if there’s drama with my henchmen"
+    ],
+    "artist": "Malik B of The Roots",
+    "song_title": "Swept Away",
+    "youtube_url": "http://www.youtube.com/watch?v=1G8WmG6lLow",
+    "youtube_video_id": "1G8WmG6lLow",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 14,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "listless",
+        "syllables": "list·less",
+        "part_of_speech": "adjective",
+        "definition": "(of a person or their manner) Lacking energy or enthusiasm.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/listless"
+      },
+      {
+        "word": "effigy",
+        "syllables": "ef·fi·gy",
+        "part_of_speech": "noun",
+        "definition": "A roughly made model of a particular person, made in order to be damaged or destroyed as a protest or expression of anger.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/effigy"
+      },
+      {
+        "word": "lethargy",
+        "syllables": "leth·ar·gy",
+        "part_of_speech": "noun",
+        "definition": "A lack of energy and enthusiasm.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/lethargy"
+      },
+      {
+        "word": "dysentery",
+        "syllables": "dys·en·ter·y",
+        "part_of_speech": "noun",
+        "definition": "Infection of the intestines resulting in severe diarrhea with the presence of blood and mucus in the feces.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/dysentery"
+      }
+    ],
+    "lyrics_lines": [
+      "I lob globs of mucus on snobs whose jobs make ‘em listless",
+      "The effigy in lethargy, my weaponry the Christmas",
+      "I crackle like a cracker crumble in your mouth",
+      "Call him hairy dysentery, bloody’s how he’s comin out"
+    ],
+    "artist": "Roughneck Jihad with Kool Keith",
+    "song_title": "Feel Me",
+    "youtube_url": "http://www.youtube.com/watch?v=S_jHCw7yv68",
+    "youtube_video_id": "S_jHCw7yv68",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 15,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "stint",
+        "syllables": "stint",
+        "part_of_speech": "noun",
+        "definition": "A person’s fixed or allotted period of work.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/stint"
+      },
+      {
+        "word": "tenement",
+        "syllables": "ten·e·ment",
+        "part_of_speech": "noun",
+        "definition": "A building that is rented to multiple tenants, especially a low-rent, run-down one.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/tenement"
+      }
+    ],
+    "lyrics_lines": [
+      "Don’t ever shit where you sleep or you’ll smell a stint",
+      "A lot of people sittin in cells from carelessness",
+      "Ruin lives and neutralize the tenements",
+      "I’ve been in this shit since B.I.G. was Chris"
+    ],
+    "artist": "Cormega",
+    "song_title": "Back Against the Wall",
+    "youtube_url": "http://www.youtube.com/watch?v=jLH9-Q11AfA",
+    "youtube_video_id": "jLH9-Q11AfA",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 16,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "ephemeral",
+        "syllables": "e·phem·er·al",
+        "part_of_speech": "adjective",
+        "definition": "Lasting for a very short time.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/ephemeral"
+      }
+    ],
+    "lyrics_lines": [
+      "You got a new horizon, it’s ephemeral style",
+      "A melancholy town where we never smile"
+    ],
+    "artist": "Gorillaz",
+    "song_title": "Feel Good Inc.",
+    "youtube_url": "http://www.youtube.com/watch?v=plvpV9p0ywg",
+    "youtube_video_id": "plvpV9p0ywg",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 17,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "gall",
+        "syllables": "gall",
+        "part_of_speech": "noun",
+        "definition": "Bold, impudent behavior.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/gall"
+      },
+      {
+        "word": "guile",
+        "syllables": "guile",
+        "part_of_speech": "noun",
+        "definition": "Sly or cunning intelligence.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/guile"
+      }
+    ],
+    "lyrics_lines": [
+      "You’ve got gall, you’ve got guile",
+      "To step to me I’m a rap-o-phile"
+    ],
+    "artist": "Beastie Boys",
+    "song_title": "Intergalactic",
+    "youtube_url": "http://www.youtube.com/watch?v=NyDaI0qzywQ",
+    "youtube_video_id": "NyDaI0qzywQ",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 18,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "magnanimous",
+        "syllables": "mag·nan·i·mous",
+        "part_of_speech": "adjective",
+        "definition": "Very generous or forgiving, esp. toward a rival or someone less powerful than oneself.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/magnanimousness"
+      }
+    ],
+    "lyrics_lines": [
+      "My personality is magnanimous",
+      "That’s why the ladies always cause a fuss"
+    ],
+    "artist": "Guru",
+    "song_title": "Something in the Past",
+    "youtube_url": "http://www.youtube.com/watch?v=pIqtUGiNIls",
+    "youtube_video_id": "pIqtUGiNIls",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 19,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "propriety",
+        "syllables": "pro·pri·e·ty",
+        "part_of_speech": "noun",
+        "definition": "The state or quality of conforming to conventionally accepted standards of behavior or morals.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/propriety"
+      }
+    ],
+    "lyrics_lines": [
+      "Picture your menace to your society, soul to your propriety",
+      "Lyricist of the year, and also the cause of you anxiety"
+    ],
+    "artist": "Kardinal Offishall",
+    "song_title": "King of the Hill",
+    "youtube_url": "http://www.youtube.com/watch?v=BNq3Erm4qhg",
+    "youtube_video_id": "BNq3Erm4qhg",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 20,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "benevolent",
+        "syllables": "be·nev·o·lent",
+        "part_of_speech": "adjective",
+        "definition": "Well meaning and kindly.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/benevolent"
+      }
+    ],
+    "lyrics_lines": [
+      "I walk the block like whatever god, my message to y'all feds.",
+      "Who desperate to arrest us young, benevolent hardheads"
+    ],
+    "artist": "Nas",
+    "song_title": "A Message To The Feds, Sincerely, We The People",
+    "youtube_url": "http://www.youtube.com/watch?v=12zywvMAiVw",
+    "youtube_video_id": "12zywvMAiVw",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 21,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "alacrity",
+        "syllables": "a·lac·ri·ty",
+        "part_of_speech": "noun",
+        "definition": "Brisk and cheerful readiness.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/alacrity"
+      }
+    ],
+    "lyrics_lines": [
+      "Serotonin deficient teens demonstrate ease in the modern day uzi purchase",
+      "The foundation of their alacrity makes the umis nervous"
+    ],
+    "artist": "Aesop Rock",
+    "song_title": "NY Electric",
+    "youtube_url": "http://www.youtube.com/watch?v=OcNeYGHbvq4",
+    "youtube_video_id": "OcNeYGHbvq4",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 22,
+    "source": "tumblr_scrape",
+    "words": [],
+    "lyrics_lines": [
+      "Homicide’s illegal and death is the penalty",
+      "What justifies the homicide, when he dies?",
+      "In his own iniquity it’s the",
+      "Master of the Mantis Rapture coming at you"
+    ],
+    "artist": "Masta Killa",
+    "song_title": "Da Mystery of Chessboxin’",
+    "youtube_url": "http://www.youtube.com/watch?v=kl6jwab3HWk",
+    "youtube_video_id": "kl6jwab3HWk",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 23,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "chicanery",
+        "syllables": "chi·can·er·y",
+        "part_of_speech": "noun",
+        "definition": "The use of trickery to achieve a political, financial, or legal purpose.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/chicanery"
+      }
+    ],
+    "lyrics_lines": [
+      "Keep the crowd listening I’m so magnificent",
+      "it even says Finesse on my birth certificate, I’m the",
+      "man of bravery skill and chicanery",
+      "I get the ladies cause I use my brain you see"
+    ],
+    "artist": "Lord Finesse",
+    "song_title": "Funky Technician",
+    "youtube_url": "http://www.youtube.com/watch?v=FHIgrMdtoSg",
+    "youtube_video_id": "FHIgrMdtoSg",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 24,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "ascertain",
+        "syllables": "as·cer·tain",
+        "part_of_speech": "verb",
+        "definition": "Find (something) out for certain; make sure of.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/ascertain"
+      },
+      {
+        "word": "insipid",
+        "syllables": "in·sip·id",
+        "part_of_speech": "adjective",
+        "definition": "Lacking flavor, lacking vigor or interest.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/insipidness"
+      },
+      {
+        "word": "inane",
+        "syllables": "in·ane",
+        "part_of_speech": "adjective",
+        "definition": "Silly; stupid.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/inane"
+      },
+      {
+        "word": "crass",
+        "syllables": "crass",
+        "part_of_speech": "adjective",
+        "definition": "Lacking sensitivity, refinement, or intelligence.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/crass"
+      }
+    ],
+    "lyrics_lines": [
+      "Media dictates",
+      "The mind and rotates",
+      "The way you think",
+      "And syncopates slow pace",
+      "Brains",
+      "Can’t maintain",
+      "Ascertain",
+      "Insipid inane crass rain",
+      "Insane lame",
+      "Traditions",
+      "All praise fame",
+      "Positions"
+    ],
+    "artist": "Kool Moe Dee",
+    "song_title": "Knowledge is King",
+    "youtube_url": "http://www.youtube.com/watch?v=hfFe49R6Rso",
+    "youtube_video_id": "hfFe49R6Rso",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 25,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "stigma",
+        "syllables": "stig·ma",
+        "part_of_speech": "noun",
+        "definition": "a mark of disgrace or infamy; a stain or reproach, as on one’s reputation.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/stigma"
+      }
+    ],
+    "lyrics_lines": [
+      "I’m stereotyped, so I fit the description",
+      "A nigga has the stigma for pushing or pimpin’",
+      "Police harass me and public embarrass me",
+      "They use brutality without asking me"
+    ],
+    "artist": "2 Live Crew",
+    "song_title": "In the Dust",
+    "youtube_url": "http://www.youtube.com/watch?v=W3I4mD6NOi0",
+    "youtube_video_id": "W3I4mD6NOi0",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 26,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "iconoclast",
+        "syllables": "i·con·o·clast",
+        "part_of_speech": "noun",
+        "definition": "A person who attacks cherished beliefs or institutions.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/iconoclast"
+      }
+    ],
+    "lyrics_lines": [
+      "You’re fuckin’ with expansion all-access",
+      "Hard journeys make you treat your mic like a cactus",
+      "Rap iconoclast that loves to sound flash",
+      "And sticky green grass with orange and brown hash"
+    ],
+    "artist": "Dilated Peoples",
+    "song_title": "Hard Hitters",
+    "youtube_url": "http://www.youtube.com/watch?v=202iZDQ0fXU",
+    "youtube_video_id": "202iZDQ0fXU",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 27,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "arduous",
+        "syllables": "ar·du·ous",
+        "part_of_speech": "adjective",
+        "definition": "Involving or requiring strenuous effort; difficult and tiring.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/arduous"
+      }
+    ],
+    "lyrics_lines": [
+      "Love ain’t for the faint of heart",
+      "Start Training, this game is hard",
+      "And arduous, you’re gonna play in the dark like when it rains in the park",
+      "You’re hardly conscious of the stains and scars,"
+    ],
+    "artist": "Tonedeff",
+    "song_title": "Love Ain’t",
+    "youtube_url": "http://www.youtube.com/watch?v=a9TAzc54IEo",
+    "youtube_video_id": "a9TAzc54IEo",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 28,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "sacrilege",
+        "syllables": "sac·ri·lege",
+        "part_of_speech": "noun",
+        "definition": "Violation or misuse of what is regarded as sacred.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/sacrilege"
+      },
+      {
+        "word": "desecrate",
+        "syllables": "des·e·crate",
+        "part_of_speech": "verb",
+        "definition": "Treat (a sacred place or thing) with violent disrespect.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/desecrate"
+      },
+      {
+        "word": "acquiesce",
+        "syllables": "ac·qui·esce",
+        "part_of_speech": "verb",
+        "definition": "Accept something reluctantly but without protest.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/acquiesce"
+      },
+      {
+        "word": "expectorate",
+        "syllables": "ex·pec·to·rate",
+        "part_of_speech": "verb",
+        "definition": "Cough or spit out phlegm from the throat or lungs.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/expectorate"
+      }
+    ],
+    "lyrics_lines": [
+      "It’s sacrilege, steppin in the sanctuary of the sacrosanct",
+      "Do not, desecrate acquiesce",
+      "before I dessicate all your flows and leave you dry as, bones",
+      "It’s awful how I decimate, but also awesome",
+      "People say that they saw somethin they cherished they lives long",
+      "when I expectorate upon a song"
+    ],
+    "artist": "Tajai with Hieroglyphics",
+    "song_title": "Off the Record",
+    "youtube_url": "http://www.youtube.com/watch?v=svbKie861Jc",
+    "youtube_video_id": "svbKie861Jc",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 29,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "piety",
+        "syllables": "pi·e·ty",
+        "part_of_speech": "noun",
+        "definition": "The quality of being religious or reverent.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/piety"
+      }
+    ],
+    "lyrics_lines": [
+      "My attitude a product of society",
+      "So sometimes for gratitude, you know you can’t rely on me",
+      "Niggaz eyein me, with looks of they anxiety",
+      "Wonderin what’s in my heart, velocity or piety",
+      "Yo, it depends on which one, you bring to surface",
+      "At times I get trife, but what to worship is my purpose"
+    ],
+    "artist": "The Roots",
+    "song_title": "The Spark",
+    "youtube_url": "http://www.youtube.com/watch?v=qSh9IGI-8h0",
+    "youtube_video_id": "qSh9IGI-8h0",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 30,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "castigate",
+        "syllables": "cas·ti·gate",
+        "part_of_speech": "verb",
+        "definition": "Reprimand (someone) severely.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/castigate"
+      }
+    ],
+    "lyrics_lines": [
+      "First of all, being a vegetarian should never be associated",
+      "with being a revolutionary or being open minded, that’s a dietary choice",
+      "If someone wants to proliferate the type of ignorance",
+      "we’re supposed to be fighting by thinking that, you’re just fucking yourself",
+      "I don’t go around promoting beef and poultry shoving it in peoples faces",
+      "I don’t castigate people for not eating steak sandwiches"
+    ],
+    "artist": "Immortal Technique",
+    "song_title": "Beef and Broccoli",
+    "youtube_url": "http://www.youtube.com/watch?v=i5vSia_tLeI",
+    "youtube_video_id": "i5vSia_tLeI",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 31,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "dogmatic",
+        "syllables": "dog·mat·ic",
+        "part_of_speech": "adjective",
+        "definition": "Inclined to lay down principles as incontrovertibly true.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/dogmatic"
+      }
+    ],
+    "lyrics_lines": [
+      "Yo I know I’m dogmatic, but yo’ p*ssy walls done had it (that’s right)",
+      "It’s evident that you’ve been f*ckin like a jackrabbit"
+    ],
+    "artist": "Kuniva from D12",
+    "song_title": "Nasty Mind",
+    "youtube_url": "http://www.youtube.com/watch?v=zyDsc0s5vQg",
+    "youtube_video_id": "zyDsc0s5vQg",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 32,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "indigent",
+        "syllables": "in·di·gent",
+        "part_of_speech": "noun",
+        "definition": "A needy person.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/indigent"
+      }
+    ],
+    "lyrics_lines": [
+      "Yo black it’s time to set stage and guidelines",
+      "10 point program, freeze the genocide",
+      "Round the posse to protect the people and",
+      "regulate and keep straight the man",
+      "Clear the way for P-Dog the militant",
+      "Made to steer and care for the indigent"
+    ],
+    "artist": "Paris",
+    "song_title": "Panther Power",
+    "youtube_url": null,
+    "youtube_video_id": null,
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 33,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "subterfuge",
+        "syllables": "sub·ter·fuge",
+        "part_of_speech": "noun",
+        "definition": "Deceit used in order to achieve one’s goal.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/subterfuge"
+      }
+    ],
+    "lyrics_lines": [
+      "Fools is hella talkative, saying how I walk and live",
+      "Always trying to start the kid, wishin that we all can give",
+      "a small interview, just a subterfuge",
+      "Wanna hook up with you so they can say ‘whatchu do’"
+    ],
+    "artist": "Del the Funky Homosapien",
+    "song_title": "Shit Talkers",
+    "youtube_url": null,
+    "youtube_video_id": null,
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 34,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "fusillade",
+        "syllables": "fu·sil·lade",
+        "part_of_speech": "noun",
+        "definition": "A series of shots fired or missiles thrown all at the same time or in quick succession.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/fusillade"
+      }
+    ],
+    "lyrics_lines": [
+      "Please believe the ammo is live",
+      "My fusillade of rhymes fly through your ride and go stream fuselage"
+    ],
+    "artist": "Canibus",
+    "song_title": "Behind Enemy Rhymes",
+    "youtube_url": "http://www.youtube.com/watch?v=V3nu2_9Qmpk",
+    "youtube_video_id": "V3nu2_9Qmpk",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 35,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "temperament",
+        "syllables": "tem·per·a·ment",
+        "part_of_speech": "noun",
+        "definition": "A person’s or animal’s nature, esp. as it permanently affects their behavior.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/temperament"
+      }
+    ],
+    "lyrics_lines": [
+      "This rap may shatter your faith or strengthen it or you will end-er you",
+      "My temperaments foul like tenements I feel you senseless"
+    ],
+    "artist": "Non Phixion",
+    "song_title": "Four W’s",
+    "youtube_url": "http://www.youtube.com/watch?v=OscsUexaBTg",
+    "youtube_video_id": "OscsUexaBTg",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 36,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "mannerism",
+        "syllables": "man·ner·ism",
+        "part_of_speech": "noun",
+        "definition": "A habitual gesture or way of speaking or behaving; an idiosyncrasy",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/mannerism"
+      }
+    ],
+    "lyrics_lines": [
+      "Checkin the track, collectin my scratch, and slammin Cadillac doors",
+      "Countin my stack, spat to them straps",
+      "Directin the mannerisms of these hoes"
+    ],
+    "artist": "E-40",
+    "song_title": "It’s Pimpin'",
+    "youtube_url": null,
+    "youtube_video_id": null,
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 37,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "audacity",
+        "syllables": "au·dac·i·ty",
+        "part_of_speech": "noun",
+        "definition": "The willingness to take bold risks.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/audacious"
+      },
+      {
+        "word": "prevaricate",
+        "syllables": "pre·var·i·cate",
+        "part_of_speech": "verb",
+        "definition": "Speak or act in an evasive way.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/prevarication"
+      },
+      {
+        "word": "disposition",
+        "syllables": "dis·po·si·tion",
+        "part_of_speech": "noun",
+        "definition": "A person’s inherent qualities of mind and character.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/disposition"
+      }
+    ],
+    "lyrics_lines": [
+      "You have the audacity",
+      "To doubt my ferocity",
+      "Or to insinuate the G will prevaricate",
+      "Your disposition is beyond my recognition",
+      "I fail to see the reason for your constant disbelievin"
+    ],
+    "artist": "Chill Rob G",
+    "song_title": "Let The Words Flow",
+    "youtube_url": "http://www.youtube.com/watch?v=sesVv6gfjJc",
+    "youtube_video_id": "sesVv6gfjJc",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 38,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "pedantic",
+        "syllables": "pe·dan·tic",
+        "part_of_speech": "adjective",
+        "definition": "Like a pedant, overly concerned with formal rules and trivial points of learning; Being showy of one’s knowledge, often in a boring manner; Being finicky or picky with language.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/pedantic"
+      }
+    ],
+    "lyrics_lines": [
+      "Although we trans-atlantic we never pedantic",
+      "Check my antic, we most romantic"
+    ],
+    "artist": "Roots Manuva",
+    "song_title": "Join the Dots",
+    "youtube_url": "http://www.youtube.com/watch?v=xYCe9UFh1SI",
+    "youtube_video_id": "xYCe9UFh1SI",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 39,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "ambiguous",
+        "syllables": "am·big·u·ous",
+        "part_of_speech": "adjective",
+        "definition": "(of language) Open to more than one interpretation; having a double meaning.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/ambiguous"
+      }
+    ],
+    "lyrics_lines": [
+      "Politicians are magicians",
+      "Make your vote, they hope your wishin",
+      "Ambiguous words, senseless verbs",
+      "They all amount to crap that’s heard"
+    ],
+    "artist": "A Tribe Called Quest",
+    "song_title": "Youthful Expression",
+    "youtube_url": null,
+    "youtube_video_id": null,
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 40,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "dichotomy",
+        "syllables": "di·chot·o·my",
+        "part_of_speech": "noun",
+        "definition": "A division or contrast between two things that are or are represented as being opposed or entirely different.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/dichotomy"
+      }
+    ],
+    "lyrics_lines": [
+      "Progressing modestly, moderately dichotomy",
+      "Manslaughter sporadically, automatically adequate",
+      "Gang up on myself, by myself, but keep me out of it",
+      "Undoubtedly a lunatic, Battle Axe exclusive",
+      "I’m utterly repulsive and self abusive",
+      "Offerings from the gifted I’m swiftly elusive"
+    ],
+    "artist": "Swollen Members",
+    "song_title": "Strength",
+    "youtube_url": "http://www.youtube.com/watch?v=0YBgoRg4Y1A",
+    "youtube_video_id": "0YBgoRg4Y1A",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 41,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "dissension",
+        "syllables": "dis·sen·sion",
+        "part_of_speech": "noun",
+        "definition": "Strong disagreement; a contention or quarrel; discord.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/dissension"
+      }
+    ],
+    "lyrics_lines": [
+      "No need to worry, don’t even stress",
+      "Look at honey over yonder in the tight black dress",
+      "Damn you ain’t lying no need for dissension",
+      "Now check out my skillz as I get her attention"
+    ],
+    "artist": "Kottonmouth Kings",
+    "song_title": "Night Life",
+    "youtube_url": "http://www.youtube.com/watch?v=EVEdXv4MKhs",
+    "youtube_video_id": "EVEdXv4MKhs",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 42,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "miscreant",
+        "syllables": "mis·cre·ant",
+        "part_of_speech": "adjective",
+        "definition": "(of a person) Behaving badly or in a way that breaks a law or rule.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/miscreant"
+      }
+    ],
+    "lyrics_lines": [
+      "My testament to decimate your auto-torments",
+      "Tournaments is sharpen bargain it wanna sight my need for sense",
+      "Mentals travel the world blockless the prefer miscreant",
+      "You fall if youth depends on the pen you see’s not your friend"
+    ],
+    "artist": "Arsonists",
+    "song_title": "Blacklisted",
+    "youtube_url": "http://www.youtube.com/watch?v=od7v-OTLqK0",
+    "youtube_video_id": "od7v-OTLqK0",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 43,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "phallus",
+        "syllables": "phal·lus",
+        "part_of_speech": "noun",
+        "definition": "A penis, esp. when erect (typically used with reference to male potency or dominance)",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/phallic"
+      },
+      {
+        "word": "retribution",
+        "syllables": "ret·ri·bu·tion",
+        "part_of_speech": "noun",
+        "definition": "Punishment that is considered to be morally right and fully deserved",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/retribution"
+      }
+    ],
+    "lyrics_lines": [
+      "You got no balance, combined with no talent",
+      "Disgraceful, you can catch a face full of phallus",
+      "Color me callused on a retribution tangent",
+      "How’d the love die!? How’d the hell you lose the magic?"
+    ],
+    "artist": "Atmosphere",
+    "song_title": "The Bass and the Movement",
+    "youtube_url": "http://www.youtube.com/watch?v=F-pB8poKipo",
+    "youtube_video_id": "F-pB8poKipo",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 44,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "indict",
+        "syllables": "in·dict",
+        "part_of_speech": "verb",
+        "definition": "Formally accuse of or charge with a serious crime.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/indict"
+      }
+    ],
+    "lyrics_lines": [
+      "These muthafuckas mad that I’m icy",
+      "Stunt so hard make them come and indict me",
+      "I think I’m Big Meech, look at my timepiece",
+      "It’s Audemars, hundred racks at least"
+    ],
+    "artist": "Rick Ross",
+    "song_title": "Blowin’ Money Fast",
+    "youtube_url": "http://www.youtube.com/watch?v=bdTAlbL72W8",
+    "youtube_video_id": "bdTAlbL72W8",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 45,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "dejection",
+        "syllables": "de·jec·tion",
+        "part_of_speech": "noun",
+        "definition": "A sad and depressed state; low spirits.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/dejected"
+      }
+    ],
+    "lyrics_lines": [
+      "One time for the New South’s imminent progression",
+      "Thank the good lord so generous with blessings",
+      "Whenever it was needed he’d send me some direction",
+      "I’d gaze up in the sky and take a minute for reflection",
+      "Is it baby balls or a miniature erection",
+      "It makes you view change with degenerate dejection"
+    ],
+    "artist": "Bubba Sparxxx",
+    "song_title": "Comin’ Round",
+    "youtube_url": "http://www.youtube.com/watch?v=aeuuB2lQPOw",
+    "youtube_video_id": "aeuuB2lQPOw",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 46,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "clout",
+        "syllables": "clout",
+        "part_of_speech": "noun",
+        "definition": "Influence or power, esp. in politics or business.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/clout"
+      }
+    ],
+    "lyrics_lines": [
+      "Aiyyo, you betta flee Hobbes, or get your head flown three blocks",
+      "L keep rapper’s hearts pumpin like Reeboks",
+      "And every year I gain clout and my name sprouts",
+      "Some brothers’d still be large if the crack never came out"
+    ],
+    "artist": "Big L",
+    "song_title": "Put it On",
+    "youtube_url": "http://www.youtube.com/watch?v=iBrzEVJwYFg",
+    "youtube_video_id": "iBrzEVJwYFg",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 47,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "emaciated",
+        "syllables": "e·ma·ci·at·ed",
+        "part_of_speech": "adjective",
+        "definition": "Abnormally thin or weak, esp. because of illness or a lack of food.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/emaciated"
+      }
+    ],
+    "lyrics_lines": [
+      "Gave him his first stroke, he refused his medication",
+      "‘Cause it went against his religion, he’d rather his lord take him",
+      "Through stroke number two and start withering his flesh",
+      "Then lay the emaciated world war two veteran to rest",
+      "Left his family debt turmoil and wreckage",
+      "And his grandson to scatter his ash over the U.S. Intrepid"
+    ],
+    "artist": "Cage",
+    "song_title": "Stripes",
+    "youtube_url": "http://www.youtube.com/watch?v=OBl4_B_DUC4",
+    "youtube_video_id": "OBl4_B_DUC4",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 48,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "predicate",
+        "syllables": "pred·i·cate",
+        "part_of_speech": "verb",
+        "definition": "State, affirm, or assert (something) about the subject of a sentence or an argument of proposition",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/predicate"
+      }
+    ],
+    "lyrics_lines": [
+      "Thats right y'all, if a rap nigga say my name I’m a fight y'all",
+      "Fuck a state, light charge",
+      "My predicate status, irrelevant",
+      "My man got the big rap sheet that’s outweighing two elephants",
+      "Jumbo shits from New Orleans",
+      "Players and Pimps that bit off Fiends"
+    ],
+    "artist": "Ghostface Killah",
+    "song_title": "Clipse of Doom",
+    "youtube_url": "http://www.youtube.com/watch?v=ph_UEzQu1D8",
+    "youtube_video_id": "ph_UEzQu1D8",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 49,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "bigamist",
+        "syllables": "big·a·mist",
+        "part_of_speech": "noun",
+        "definition": "Someone who marries one person while already legally married to another.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/bigamist"
+      }
+    ],
+    "lyrics_lines": [
+      "I find y'all lady weak in this, prompt to her eagerness",
+      "And be fucking her ridiculous, astounded by her fickleness",
+      "The Villianess, pimp polygamist, bigger bigamist",
+      "Intelligent as master of kama sutra cunnilingus"
+    ],
+    "artist": "Chino XL",
+    "song_title": "Chionardo Dicaprio",
+    "youtube_url": null,
+    "youtube_video_id": null,
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 50,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "transgression",
+        "syllables": "trans·gres·sion",
+        "part_of_speech": "noun",
+        "definition": "An act that goes against a law, rule, or code of conduct; an offense.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/transgression"
+      }
+    ],
+    "lyrics_lines": [
+      "Provocative footage, of this lyrical abuse transgression",
+      "from this infectious enemy, they on the loose",
+      "And unstoppable, Daz",
+      "My motherfuckin nigga from back in the past"
+    ],
+    "artist": "Kurupt/Daz as Tha Dogg Pound",
+    "song_title": "Do What I Feel",
+    "youtube_url": "http://www.youtube.com/watch?v=dj9tVwJBU4k",
+    "youtube_video_id": "dj9tVwJBU4k",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 51,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "jubilation",
+        "syllables": "ju·bi·la·tion",
+        "part_of_speech": "noun",
+        "definition": "A feeling of great happiness and triumph.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/jubilation"
+      }
+    ],
+    "lyrics_lines": [
+      "The captain just started our approach into the sunset",
+      "I’ve flown a million miles but the shit still ain’t fun yet",
+      "When this journey is complete, you’ll know by my reaction",
+      "Tears of jubilation as I’m landin back in Athens - thank you Lord"
+    ],
+    "artist": "Bubba Sparxxx",
+    "song_title": "Take Off“",
+    "youtube_url": "http://www.youtube.com/watch?v=bqbcZnNZPy4",
+    "youtube_video_id": "bqbcZnNZPy4",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 52,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "impregnable",
+        "syllables": "im·preg·na·ble",
+        "part_of_speech": "adjective",
+        "definition": "(of a fortified position) Unable to be captured or broken into.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/impregnable"
+      }
+    ],
+    "lyrics_lines": [
+      "You’re like Foghorn Leghorn, Yosemite Sam",
+      "You’re just yellin’ and wildin’ wondering who I am",
+      "With those lies you’re telling you look like Toucan Sam",
+      "But my style’s impregnable like the Hoover Dam"
+    ],
+    "artist": "Beastie Boys",
+    "song_title": "Hey Fuck You!",
+    "youtube_url": "http://www.youtube.com/watch?v=jyF-YQRhNJo",
+    "youtube_video_id": "jyF-YQRhNJo",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 53,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "epitaph",
+        "syllables": "ep·i·taph",
+        "part_of_speech": "noun",
+        "definition": "A phrase or statement written in memory of a person who has died, esp. as an inscription on a tombstone",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/epitaph"
+      }
+    ],
+    "lyrics_lines": [
+      "For your epitaph, niggas laugh, chastity gassed",
+      "your ass, siphonin’ out your cash, seein’ the door, the flash",
+      "While I stay enclosed, walkin’ out in my clothes"
+    ],
+    "artist": "Q-Tip",
+    "song_title": "Won’t Trade",
+    "youtube_url": "http://www.youtube.com/watch?v=_M5x4a82PO8&feature=artist",
+    "youtube_video_id": "_M5x4a82PO8",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 54,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "ideology",
+        "syllables": "i·de·ol·o·gy",
+        "part_of_speech": "noun",
+        "definition": "The ideas and manner of thinking characteristic of a group, social class, or individual",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/ideology"
+      }
+    ],
+    "lyrics_lines": [
+      "Supreme ideology, you claim to hold",
+      "Claimin that we all drug dealers with empty souls",
+      "That used to tempt me to roll, commit to violence",
+      "In the midst of an act of war, witnesses left silent"
+    ],
+    "artist": "2Pac",
+    "song_title": "Everything They Owe",
+    "youtube_url": "http://www.youtube.com/watch?v=jwDZ0mcMUMY",
+    "youtube_video_id": "jwDZ0mcMUMY",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 55,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "piety",
+        "syllables": "pi·e·ty",
+        "part_of_speech": "noun",
+        "definition": "The quality of being religious or reverent.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/piety"
+      }
+    ],
+    "lyrics_lines": [
+      "My attitude a product of society",
+      "So sometimes for gratitude, you know you can’t rely on me",
+      "Niggaz eyein me, with looks of they anxiety",
+      "Wonderin what’s in my heart, velocity or piety",
+      "Yo, it depends on which one, you bring to surface",
+      "At times I get trife, but what to worship is my purpose"
+    ],
+    "artist": "The Roots",
+    "song_title": "The Spark",
+    "youtube_url": "http://www.youtube.com/watch?v=qSh9IGI-8h0",
+    "youtube_video_id": "qSh9IGI-8h0",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 56,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "effeminate",
+        "syllables": "ef·fem·i·nate",
+        "part_of_speech": "adjective",
+        "definition": "(of a man) Having or showing characteristics regarded as typical of a woman; unmanly",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/effeminate"
+      }
+    ],
+    "lyrics_lines": [
+      "Put your trust in me, I never let you down",
+      "I always come up with a way to checkmate these clowns",
+      "I effeminate these clowns, trynna take me down",
+      "Ask Puffy and Nas, who ‘hates me now’"
+    ],
+    "artist": "LL Cool J",
+    "song_title": "Old School New School",
+    "youtube_url": "http://www.youtube.com/watch?v=Eye97LC2Ar0",
+    "youtube_video_id": "Eye97LC2Ar0",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 57,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "rebuke",
+        "syllables": "re·buke",
+        "part_of_speech": "verb",
+        "definition": "Express sharp disapproval or criticism of (someone) because of their behavior or actions.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/rebuke"
+      }
+    ],
+    "lyrics_lines": [
+      "Cause the past don’t matter so kill the chit-chatter",
+      "EPMD reappear like abracadabra",
+      "Spot the devil real quick then rebuke that future backstabber"
+    ],
+    "artist": "EPMD",
+    "song_title": "Bac Stabbers",
+    "youtube_url": "http://www.youtube.com/watch?v=_Ho8bmEzQyc",
+    "youtube_video_id": "_Ho8bmEzQyc",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 58,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "opulence",
+        "syllables": "op·u·lence",
+        "part_of_speech": "noun",
+        "definition": "Great wealth or luxuriousness.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/opulence"
+      }
+    ],
+    "lyrics_lines": [
+      "the definition of opulence",
+      "the jewels drippin we droppin on top and poppin shit (splash)",
+      "who would think that this kid from the projects",
+      "get his neck so cold you would think he’s lethargic (Im froze up)"
+    ],
+    "artist": "Jim Jones",
+    "song_title": "Na Na Nana Na Na",
+    "youtube_url": "http://www.youtube.com/watch?v=UrKcOyl5eNs",
+    "youtube_video_id": "UrKcOyl5eNs",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 59,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "abject",
+        "syllables": "ab·ject",
+        "part_of_speech": "adjective",
+        "definition": "(of a situation or condition) Extremely bad, unpleasant, and degrading",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/abject"
+      }
+    ],
+    "lyrics_lines": [
+      "Though I tried to give you more on this mic when I spitting this",
+      "List some nines, some techs and some abject living",
+      "I'ma have that ribbon in the sky wrapped around my finger",
+      "as a reminder of times, kind of when love lingered"
+    ],
+    "artist": "Murs & Slug",
+    "song_title": "Marvin Gaye",
+    "youtube_url": "http://www.youtube.com/watch?v=qnG2fyed4I4",
+    "youtube_video_id": "qnG2fyed4I4",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 60,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "vernacular",
+        "syllables": "ver·nac·u·lar",
+        "part_of_speech": "noun",
+        "definition": "The language or dialect spoken by the ordinary people in a particular country or region.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/vernacular"
+      }
+    ],
+    "lyrics_lines": [
+      "Satisfy my appetite wit’ something spectacular",
+      "Check ya vernacular, and then I get back to ya",
+      "With diamond-like precision",
+      "Insatiable is what I envision"
+    ],
+    "artist": "Left Eye",
+    "song_title": "No Scrubs (Remix)",
+    "youtube_url": "http://www.youtube.com/watch?v=Y_vAwYP1PbY",
+    "youtube_video_id": "Y_vAwYP1PbY",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 61,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "prowess",
+        "syllables": "prow·ess",
+        "part_of_speech": "noun",
+        "definition": "Skill or expertise in a particular activity or field",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/prowess"
+      }
+    ],
+    "lyrics_lines": [
+      "Prowler, there’s no one fouler; bound ya, that’s how they found ya",
+      "Face down in the tub I drown ya with piles of downers around ya",
+      "Such nostalgia and power, such prowess, look how ya cower",
+      "Jump out on you now like I was Jawa from fuckin Star Wars"
+    ],
+    "artist": "Eminem",
+    "song_title": "Stay Wide Awake",
+    "youtube_url": "http://www.youtube.com/watch?v=6bTXOJ0p5nA",
+    "youtube_video_id": "6bTXOJ0p5nA",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 62,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "discombobulate",
+        "syllables": "dis·com·bob·u·late",
+        "part_of_speech": "verb",
+        "definition": "Disconcert or confuse (someone).",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/discombobulate"
+      }
+    ],
+    "lyrics_lines": [
+      "I pledge allegiance, to paper chasers",
+      "To hustlers who be steady pullin capers",
+      "Peace and blessing, may the sun always shine on you",
+      "I’m servin paper, see ya later",
+      "I guess that’s one mo’ thing, I can’t be fated",
+      "You can test me, get discombobulated",
+      "Ain’t no question I’m gon’ f*ck with this",
+      "I do it for the funk of it"
+    ],
+    "artist": "Nate Dogg",
+    "song_title": "I Pledge Allegiance” (RIP)",
+    "youtube_url": "http://www.youtube.com/watch?v=CSgNwuSCbW0",
+    "youtube_video_id": "CSgNwuSCbW0",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 63,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "perpetuate",
+        "syllables": "per·pet·u·ate",
+        "part_of_speech": "verb",
+        "definition": "Make (something, typically an undesirable situation or an unfounded belief) continue indefinitely.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/perpetuate"
+      }
+    ],
+    "lyrics_lines": [
+      "Cuz if next week the new fad was hiphop fags",
+      "you’d find a lot of hardcore niggaz in DRAG",
+      "Shit is bad and we acknowledge this but at a certain point you only perpetuate it",
+      "So NEXT TIME you rhyme about physically buckin’ somebody",
+      "instead of “nigga” say “whiteboy”",
+      "and see how quick the devil PROTEST it"
+    ],
+    "artist": "Rass Kass",
+    "song_title": "Core Audience",
+    "youtube_url": "http://www.youtube.com/watch?v=TSN927eCes0",
+    "youtube_video_id": "TSN927eCes0",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 64,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "repertoire",
+        "syllables": "rep·er·toire",
+        "part_of_speech": "noun",
+        "definition": "A stock of skills or types of behavior that a person habitually uses.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/repertoire"
+      }
+    ],
+    "lyrics_lines": [
+      "And I’m sorry,",
+      "To every single rapper, Dick and Harry",
+      "Saying they want to spar me",
+      "Cause how thick my repertoire",
+      "And my memoir be",
+      "Reminding me of eating Calamari in the Khalahari with a band ofRhastafari."
+    ],
+    "artist": "Lauryn Hill",
+    "song_title": "Fu-Gee-La",
+    "youtube_url": "http://www.youtube.com/watch?v=BVo5Y_yVdas",
+    "youtube_video_id": "BVo5Y_yVdas",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 65,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "restitution",
+        "syllables": "res·ti·tu·tion",
+        "part_of_speech": "noun",
+        "definition": "Recompense for injury or loss.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/restitute"
+      }
+    ],
+    "lyrics_lines": [
+      "Nigga please, ask yo mamma for some cheese",
+      "Tell her need some restitution like them Vietnamese",
+      "in Vietnam, cause Rahzel drops the bomb",
+      "More complex than texts, in your Holy Qu'ran"
+    ],
+    "artist": "Rahzel",
+    "song_title": "All I Know",
+    "youtube_url": "http://www.youtube.com/watch?v=SOHDAuHHhws",
+    "youtube_video_id": "SOHDAuHHhws",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 66,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "perjury",
+        "syllables": "per·ju·ry",
+        "part_of_speech": "noun",
+        "definition": "The offense of willfully telling an untruth in a court after having taken an oath or affirmation.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/perjury"
+      }
+    ],
+    "lyrics_lines": [
+      "The DJ cuts with a knife like a surgery",
+      "Sayin that the slice aint nice that’s perjury",
+      "The music infiltrates you mutates you",
+      "Grabs you holds you moulds you and let you"
+    ],
+    "artist": "Will Smith",
+    "song_title": "Trapped on the Dancefloor",
+    "youtube_url": "http://www.youtube.com/watch?v=q-BCrEh88Hw",
+    "youtube_video_id": "q-BCrEh88Hw",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 67,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "articulate",
+        "syllables": "ar·tic·u·late",
+        "part_of_speech": "verb",
+        "definition": "Express (an idea or feeling) fluently and coherently.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/articulate"
+      }
+    ],
+    "lyrics_lines": [
+      "It’s like a art the way I articulate",
+      "And break these bitches from state to state",
+      "See, I’ve been the flyest since I came out the gate",
+      "I ain’t ask for it homie I just shake and bake"
+    ],
+    "artist": "Snoop Dogg",
+    "song_title": "Bo$$ Playa",
+    "youtube_url": "http://www.youtube.com/watch?v=20VUMl4Lvlc",
+    "youtube_video_id": "20VUMl4Lvlc",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 68,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "subservient",
+        "syllables": "sub·ser·vi·ent",
+        "part_of_speech": "adjective",
+        "definition": "Prepared to obey others unquestioningly",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/subservient"
+      }
+    ],
+    "lyrics_lines": [
+      "I been observant, I’ll never be subservient",
+      "I guess you get what you deserve in this",
+      "From project hallways to courthouse hallways",
+      "Some prevail, most see jail, this happens always"
+    ],
+    "artist": "Gangstarr",
+    "song_title": "Tha Squeeze",
+    "youtube_url": "http://www.youtube.com/watch?v=8dNFqhFAAZc",
+    "youtube_video_id": "8dNFqhFAAZc",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 69,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "viscosity",
+        "syllables": "vis·cos·i·ty",
+        "part_of_speech": "noun",
+        "definition": "The state of being thick, sticky, and semifluid in consistency, due to internal friction.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/viscosity"
+      },
+      {
+        "word": "animosity",
+        "syllables": "an·i·mos·i·ty",
+        "part_of_speech": "noun",
+        "definition": "Strong hostility.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/animosity"
+      }
+    ],
+    "lyrics_lines": [
+      "Behold my serpents hair like Perseus ill impossibly,",
+      "larceny, broken velocity through lightning speed viscosity",
+      "My philosophy, speak animosity keep shit in a bag like a colostomy",
+      "I’m pro you’re junior varsity."
+    ],
+    "artist": "Chino XL",
+    "song_title": "Nunca",
+    "youtube_url": "http://www.youtube.com/watch?v=PVjsMaQ2ptc",
+    "youtube_video_id": "PVjsMaQ2ptc",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 70,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "caucus",
+        "syllables": "cau·cus",
+        "part_of_speech": "noun",
+        "definition": "A group of people with shared concerns within a political party or larger organization",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/caucus"
+      }
+    ],
+    "lyrics_lines": [
+      "Heavenly, somebody got pissed, at the caucus",
+      "Give me a leaf and let me break down college studies and collars",
+      "Ballers, shot callers, I’m comin up",
+      "Dug up, up out the grave, now pay attention to the thug"
+    ],
+    "artist": "Bizzy Bone",
+    "song_title": "Don’t be Fake",
+    "youtube_url": null,
+    "youtube_video_id": null,
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 71,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "fathom",
+        "syllables": "fath·om",
+        "part_of_speech": "verb",
+        "definition": "Understand (a difficult problem or an enigmatic person) after much thought.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/fathom"
+      },
+      {
+        "word": "demeanor",
+        "syllables": "de·mean·or",
+        "part_of_speech": "noun",
+        "definition": "Outward behavior or bearing.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/demeanor"
+      }
+    ],
+    "lyrics_lines": [
+      "Uh, they just can’t understand or fathom my demeanor",
+      "Unapproachable appearance to how I pack the ninas"
+    ],
+    "artist": "Malice",
+    "song_title": "Cot Damn",
+    "youtube_url": "http://www.youtube.com/watch?v=VCeTMsnjvGw",
+    "youtube_video_id": "VCeTMsnjvGw",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 72,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "seminal",
+        "syllables": "sem·i·nal",
+        "part_of_speech": "adjective",
+        "definition": "(of a work, event, moment, or figure) Strongly influencing later developments",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/seminal"
+      }
+    ],
+    "lyrics_lines": [
+      "Bush robbed all of us, would that make him a criminal?",
+      "And then he cheated in Florida, would that make him a seminal?",
+      "I say and I quote, “We need a miracle”",
+      "And I say a miracle cause this shit is hysterical"
+    ],
+    "artist": "Young Jeezy",
+    "song_title": "My President",
+    "youtube_url": "http://www.youtube.com/watch?v=_ZAuY4ULNcE",
+    "youtube_video_id": "_ZAuY4ULNcE",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 73,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "ideology",
+        "syllables": "i·de·ol·o·gy",
+        "part_of_speech": "noun",
+        "definition": "A system of ideas and ideals, esp. one that forms the basis of economic or political theory and policy",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/ideology"
+      }
+    ],
+    "lyrics_lines": [
+      "Supreme ideology, you claim to hold",
+      "Claimin that we all drug dealers with empty souls",
+      "That used to tempt me to roll, commit to violence",
+      "In the midst of an act of war, witnesses left silent"
+    ],
+    "artist": "2Pac",
+    "song_title": "Everything They Owe",
+    "youtube_url": "http://www.youtube.com/watch?v=jwDZ0mcMUMY",
+    "youtube_video_id": "jwDZ0mcMUMY",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 74,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "semblance",
+        "syllables": "sem·blance",
+        "part_of_speech": "noun",
+        "definition": "The outward appearance or apparent form of something, esp. when the reality is different.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/semblance"
+      }
+    ],
+    "lyrics_lines": [
+      "I don’t even know when it’s comin’, but I expect it",
+      "Lost all semblance of hope, so now I’m left with",
+      "Nervous conditions, addictions, in addition",
+      "to vixens that mixed in with the wrong crowd",
+      "My life is on a flight that’s goin’ down"
+    ],
+    "artist": "The Roots",
+    "song_title": "I Can’t Help It",
+    "youtube_url": "http://www.youtube.com/watch?v=P4k3Hv_RhGE",
+    "youtube_video_id": "P4k3Hv_RhGE",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 75,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "consternation",
+        "syllables": "con·ster·na·tion",
+        "part_of_speech": "noun",
+        "definition": "Feelings of anxiety or dismay, typically at something unexpected.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/consternate"
+      }
+    ],
+    "lyrics_lines": [
+      "Meditation that’s my medication",
+      "Concentration leads to consternation",
+      "And conceptual inception",
+      "Interspersed interjections",
+      "Incite insurmountable insurrections",
+      "In the urban sections"
+    ],
+    "artist": "Souls of Mischief",
+    "song_title": "That Ain’t Life (Climax)",
+    "youtube_url": null,
+    "youtube_video_id": null,
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 76,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "insurmountable",
+        "syllables": "in·sur·mount·a·ble",
+        "part_of_speech": "adjective",
+        "definition": "Too great to be overcome",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/insurmountably"
+      }
+    ],
+    "lyrics_lines": [
+      "Syllable slasher, insurmountable mic gasher",
+      "Quick to vent with intent, you can’t crash us",
+      "Constant link passers, styles’ll skate past ya",
+      "Beats that we present will make you hate like a slave master"
+    ],
+    "artist": "Jurassic 5",
+    "song_title": "Red Hot",
+    "youtube_url": "http://www.youtube.com/watch?v=cDduFLdWXW8",
+    "youtube_video_id": "cDduFLdWXW8",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 77,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "dilapidated",
+        "syllables": "di·lap·i·dat·ed",
+        "part_of_speech": "adjective",
+        "definition": "(of a building or object) In a state of disrepair or ruin as a result of age or neglect.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/dilapidated"
+      }
+    ],
+    "lyrics_lines": [
+      "Friends, Romans, countrymen lend me yo’ eardrums",
+      "It was a beautiful day off in the neighborhood",
+      "Yellows and greens and blues and browns",
+      "and greys and hues that ooze beneath dilapidated woods"
+    ],
+    "artist": "Andre 3000",
+    "song_title": "Black Ice",
+    "youtube_url": "http://www.youtube.com/watch?v=B-HjhxG0SYE",
+    "youtube_video_id": "B-HjhxG0SYE",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 78,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "paramour",
+        "syllables": "par·a·mour",
+        "part_of_speech": "noun",
+        "definition": "A lover, esp. the illicit partner of a married person",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/paramour"
+      }
+    ],
+    "lyrics_lines": [
+      "We give rise to ego, by being insecure",
+      "The advice that we go, desperately searching for",
+      "The subconscious effort, to support our paramour",
+      "To engage in denial, to admit we’re immature"
+    ],
+    "artist": "Lauryn Hill",
+    "song_title": "Mr. Intentional",
+    "youtube_url": "http://www.youtube.com/watch?v=NYYJBR3IYFw",
+    "youtube_video_id": "NYYJBR3IYFw",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 79,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "bereaved",
+        "syllables": "be·reaved",
+        "part_of_speech": "adjective",
+        "definition": "suffering the death of a loved one",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/bereaved"
+      }
+    ],
+    "lyrics_lines": [
+      "Then I heard maybe soon you’ll leave",
+      "Excuse me lord if you have tricks up your sleeve",
+      "I’m not ready to be bereaved"
+    ],
+    "artist": "N.E.R.D.",
+    "song_title": "Run to the Sun",
+    "youtube_url": "http://www.youtube.com/watch?v=qTK3woNke4M",
+    "youtube_video_id": "qTK3woNke4M",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 80,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "remission",
+        "syllables": "re·mis·sion",
+        "part_of_speech": "noun",
+        "definition": "A diminution of the seriousness or intensity of disease or pain; a temporary recovery.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/remission"
+      }
+    ],
+    "lyrics_lines": [
+      "Ignition to remission blast off through the cos",
+      "Most of the voyage I enjoy is just a cause",
+      "I sonic boom when I return back to earth",
+      "Birth of a new rhyme will take no time"
+    ],
+    "artist": "Mista Grimm",
+    "song_title": "Indo Smoke",
+    "youtube_url": "http://www.youtube.com/watch?v=eXrz6rJdMtE",
+    "youtube_video_id": "eXrz6rJdMtE",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 81,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "insurgent",
+        "syllables": "in·sur·gent",
+        "part_of_speech": "noun",
+        "definition": "A rebel or revolutionary",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/insurgent"
+      }
+    ],
+    "lyrics_lines": [
+      "Little Sarah got a gun from her Uncle Sam",
+      "She got armor-piercing rounds and her gun don’t jam",
+      "She got laser-guided rockets, she killing to go to college",
+      "She thought it was an insurgent, it was some old man"
+    ],
+    "artist": "Lupe Fiasco",
+    "song_title": "Heat Under the Baby Seat",
+    "youtube_url": "http://www.youtube.com/watch?v=XIFgACa7Kdc",
+    "youtube_video_id": "XIFgACa7Kdc",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 82,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "contempt",
+        "syllables": "con·tempt",
+        "part_of_speech": "noun",
+        "definition": "The offense of being disobedient to or disrespectful of a court of law and its officers.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/contempt"
+      }
+    ],
+    "lyrics_lines": [
+      "Committ hate crimes, fake crimes, I hold in contempt",
+      "You get state time for fakin like you greater than Him",
+      "So cop a plea to lessen charges, pay your fine at the Desk Sergeant"
+    ],
+    "artist": "Jay-Z",
+    "song_title": "People’s Court",
+    "youtube_url": "http://www.youtube.com/watch?v=ZTlhM2Bfy2o",
+    "youtube_video_id": "ZTlhM2Bfy2o",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 83,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "sinew",
+        "syllables": "sin·ew",
+        "part_of_speech": "noun",
+        "definition": "a tendon.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/sinew"
+      }
+    ],
+    "lyrics_lines": [
+      "Dim lights might prove, to bend eyesights oooh",
+      "Eyelines obscured, skyline’s removed",
+      "I’m fine, and you?",
+      "Fine like sinew",
+      "In arm outstretched",
+      "Inject in you"
+    ],
+    "artist": "Das Racist",
+    "song_title": "Shut Up, Man",
+    "youtube_url": null,
+    "youtube_video_id": null,
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 84,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "unalleviated",
+        "syllables": "un·al·le·vi·at·ed",
+        "part_of_speech": "adjective",
+        "definition": "Not alleviated; relentless: “a time of unalleviated misery”.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/unalleviated"
+      }
+    ],
+    "lyrics_lines": [
+      "I put my heart and soul in this game, I’m feelin’ drained",
+      "Unappreciated, unalleviated",
+      "Tired of comin’ up short, fuck abbreviated"
+    ],
+    "artist": "J. Cole",
+    "song_title": "Sideline Story",
+    "youtube_url": "http://www.youtube.com/watch?v=ffBD_zyIZJE",
+    "youtube_video_id": "ffBD_zyIZJE",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 85,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "vindicate",
+        "syllables": "vin·di·cate",
+        "part_of_speech": "verb",
+        "definition": "Show or prove to be right, reasonable, or justified.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/vindicate"
+      }
+    ],
+    "lyrics_lines": [
+      "You succeeded at your attempts to make me",
+      "Need you desperately to vindicate me"
+    ],
+    "artist": "Nicki Minaj",
+    "song_title": "Catch Me",
+    "youtube_url": "http://www.youtube.com/watch?v=aC9RPZvK0wA",
+    "youtube_video_id": "aC9RPZvK0wA",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 86,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "apprehensible",
+        "syllables": "ap·pre·hen·si·ble",
+        "part_of_speech": "adjective",
+        "definition": "Capable of being understood or perceived.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/apprehensible"
+      }
+    ],
+    "lyrics_lines": [
+      "My whole approach was apprehensible",
+      "Some started thinkin their 15 minutes of fame was extendable",
+      "They dont cherish the moment like they probably should",
+      "Once they star’s submitted they act Hollywood"
+    ],
+    "artist": "Joe Budden",
+    "song_title": "No Idea",
+    "youtube_url": "http://www.youtube.com/watch?v=EcN6eGsY2w8",
+    "youtube_video_id": "EcN6eGsY2w8",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 87,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "apprehensive",
+        "syllables": "ap·pre·hen·sive",
+        "part_of_speech": "adjective",
+        "definition": "Anxious or fearful that something bad or unpleasant will happen.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/apprehensive"
+      }
+    ],
+    "lyrics_lines": [
+      "You see my intentions with you was clear",
+      "I’m learning not to judge a woman by the shit that she wears",
+      "Before you sit and judge a nigga off the shit that you hear",
+      "Get all defensive, apprehensive all because of my career"
+    ],
+    "artist": "J. Cole",
+    "song_title": "Dawn Love",
+    "youtube_url": "http://www.youtube.com/watch?v=ysQlc99oYoo",
+    "youtube_video_id": "ysQlc99oYoo",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 88,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "paltry",
+        "syllables": "pal·try",
+        "part_of_speech": "adjective",
+        "definition": "(of an amount) Small or meager.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/paltry"
+      },
+      {
+        "word": "bawdry",
+        "syllables": "bawd·ry",
+        "part_of_speech": "noun",
+        "definition": "Obscenity in speech or writing.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/bawdry"
+      },
+      {
+        "word": "lauded",
+        "syllables": "laud·ed",
+        "part_of_speech": "verb",
+        "definition": "Praise highly, esp. in a public context.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/laud"
+      }
+    ],
+    "lyrics_lines": [
+      "“YO” said to be the idiom of paltry",
+      "Yeah, the broke fed upon the brilliance of bawdry",
+      "Lauded be, see folks spread – ahead go now",
+      "The quote read by the billions, so pardon me"
+    ],
+    "artist": "Common Market",
+    "song_title": "Nothin’ at All",
+    "youtube_url": "http://www.youtube.com/watch?v=tflhIxd-w-s",
+    "youtube_video_id": "tflhIxd-w-s",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 89,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "cadence",
+        "syllables": "ca·dence",
+        "part_of_speech": "noun",
+        "definition": "A modulation or inflection of the voice.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/cadence"
+      }
+    ],
+    "lyrics_lines": [
+      "I’m only 8, I’m not old enough, guess it’s complicated",
+      "Two parent dwellings, expelling have got so underrated",
+      "I only say this in cadence so it don’t get negated",
+      "I was gon’ save it for later but later look like maybe"
+    ],
+    "artist": "Andre 3000",
+    "song_title": "Sleazy (Remix)",
+    "youtube_url": "http://www.youtube.com/watch?v=j6wPwfGgzNw",
+    "youtube_video_id": "j6wPwfGgzNw",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 90,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "coronation",
+        "syllables": "cor·o·na·tion",
+        "part_of_speech": "noun",
+        "definition": "The ceremony of crowning a sovereign or a sovereign’s consort",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/coronation"
+      }
+    ],
+    "lyrics_lines": [
+      "I’m contemplating that special dedication",
+      "To whoever it concern, my letter of resignation",
+      "Fading back to black, my dark coronation",
+      "The heat of the day, the long robe of muerte"
+    ],
+    "artist": "The Roots",
+    "song_title": "Make My",
+    "youtube_url": "http://www.youtube.com/watch?v=zqYFclG1hdw",
+    "youtube_video_id": "zqYFclG1hdw",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 91,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "inscrutable",
+        "syllables": "in·scru·ta·ble",
+        "part_of_speech": "adjective",
+        "definition": "Impossible to understand or interpret; impenetrable; mysterious",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/inscrutable"
+      }
+    ],
+    "lyrics_lines": [
+      "This ain’t no time where the usual is suitable",
+      "Tonight alive, let’s describe the inscrutable"
+    ],
+    "artist": "Mos Def",
+    "song_title": "Respiration",
+    "youtube_url": "http://www.youtube.com/watch?v=nY6rkPsLiEE",
+    "youtube_video_id": "nY6rkPsLiEE",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 92,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "congruent",
+        "syllables": "con·gru·ent",
+        "part_of_speech": "adjective",
+        "definition": "In agreement or harmony.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/congruent"
+      }
+    ],
+    "lyrics_lines": [
+      "You catch a shell like a Koopa",
+      "And I don’t give a fuck, see my bitches is kama sutra",
+      "One of them bitches is cute, the rest of them congruent",
+      "Why you talking my nigga? Just go and do it"
+    ],
+    "artist": "Wale",
+    "song_title": "Double M Genius",
+    "youtube_url": "http://www.youtube.com/watch?v=up01Z4N9sEE",
+    "youtube_video_id": "up01Z4N9sEE",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 93,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "echelon",
+        "syllables": "ech·e·lon",
+        "part_of_speech": "noun",
+        "definition": "A level or rank in an organization, a profession, or society.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/echelon"
+      }
+    ],
+    "lyrics_lines": [
+      "Im on more than they’re on, cocaine or methadone",
+      "Im on this money these bitches the upper echelon"
+    ],
+    "artist": "Ja Rule",
+    "song_title": "Real Life Fantasy",
+    "youtube_url": "http://www.youtube.com/watch?v=nKyjxzen7xM",
+    "youtube_video_id": "nKyjxzen7xM",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 94,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "intrepid",
+        "syllables": "in·trep·id",
+        "part_of_speech": "adjective",
+        "definition": "Fearless; adventurous.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/intrepid"
+      }
+    ],
+    "lyrics_lines": [
+      "Aware about in ya suit and tie, cruising by",
+      "The intrepid workmen that sharpen ya shooting eye"
+    ],
+    "artist": "GZA",
+    "song_title": "Uncut Material",
+    "youtube_url": "http://www.youtube.com/watch?v=xAS5AqK2120",
+    "youtube_video_id": "xAS5AqK2120",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 95,
+    "source": "tumblr_scrape",
+    "words": [],
+    "lyrics_lines": [
+      "Federal agents mad cause I’m flagrant",
+      "Tap my cell and the phone in the basement."
+    ],
+    "artist": "Notorious B.I.G.",
+    "song_title": "Mo’ Money Mo’ Problems",
+    "youtube_url": "http://www.youtube.com/watch?feature=player_embedded&v=VAOUbr2HEpo",
+    "youtube_video_id": "VAOUbr2HEpo",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 96,
+    "source": "tumblr_scrape",
+    "words": [],
+    "lyrics_lines": [
+      "Vultures got me vergin’ on vomitin’ they vishfullness",
+      "Gets met with visciousness",
+      "Every verb’s visceral",
+      "This is no kiss under the mistletoe"
+    ],
+    "artist": "Del of “Hieroglyphics”",
+    "song_title": "7 Sixes",
+    "youtube_url": "http://www.youtube.com/watch?v=L2qh4gxv5m8",
+    "youtube_video_id": "L2qh4gxv5m8",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 97,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "disparag",
+        "syllables": "dis·par·ag",
+        "part_of_speech": "adjective",
+        "definition": "That disparages; tending to belittle or bring reproach upon.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/disparaging"
+      },
+      {
+        "word": "ing",
+        "syllables": "·ing",
+        "part_of_speech": "adjective",
+        "definition": "That disparages; tending to belittle or bring reproach upon.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/disparaging"
+      }
+    ],
+    "lyrics_lines": [
+      "My grandmama said nope, never, that it’s sacrilege",
+      "Tend to agree because the thought is so disparaging",
+      "The Lord give a load, you got to carry it like Mary did"
+    ],
+    "artist": "Killer Mike",
+    "song_title": "Untitled",
+    "youtube_url": "http://www.youtube.com/watch?v=T7wvg9VHIxg",
+    "youtube_video_id": "T7wvg9VHIxg",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 98,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "plethora",
+        "syllables": "pleth·o·ra",
+        "part_of_speech": "noun",
+        "definition": "An excess of.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/plethora"
+      }
+    ],
+    "lyrics_lines": [
+      "Like my diamonds are her guiding light",
+      "I’m dynamite, K-I-N-G, P-I-M-P, admire me",
+      "A plethora of fine freaks trailing right behind me",
+      "Killin shit dead, turn the club to a crime scene"
+    ],
+    "artist": "T.I.",
+    "song_title": "She Will (Remix)",
+    "youtube_url": "http://www.youtube.com/watch?v=guQa1TT-HQ0",
+    "youtube_video_id": "guQa1TT-HQ0",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 99,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "quintessential",
+        "syllables": "quin·tes·sen·tial",
+        "part_of_speech": "adjective",
+        "definition": "Representing the most perfect or typical example of a quality or class.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/quintessential"
+      }
+    ],
+    "lyrics_lines": [
+      "And I flows like, CK One",
+      "Somethin in they hoes like, she fakes none, aight",
+      "I’m the quintessential, mistress of the instrumental",
+      "Y'all could Wait to Exhale, I'mma vent a little"
+    ],
+    "artist": "Foxy Brown",
+    "song_title": "Foxy’s Bells",
+    "youtube_url": "http://www.youtube.com/watch?v=uXCvtPkY4YY",
+    "youtube_video_id": "uXCvtPkY4YY",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 100,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "placidly",
+        "syllables": "plac·id·ly",
+        "part_of_speech": "adverb",
+        "definition": "in a placid and good-natured manner.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/placidly"
+      }
+    ],
+    "lyrics_lines": [
+      "Rapidly, don’t placidly",
+      "I fabricate the verbal tapestry",
+      "Tap the keg of you conscious",
+      "Navigate niggas like Farrhakan with a compass"
+    ],
+    "artist": "Common Sense",
+    "song_title": "Play Dis (remix)",
+    "youtube_url": "http://www.youtube.com/watch?v=ciQlNRFz7hM",
+    "youtube_video_id": "ciQlNRFz7hM",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 101,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "impediment",
+        "syllables": "im·ped·i·ment",
+        "part_of_speech": "noun",
+        "definition": "A hindrance or obstruction in doing something.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/impediment"
+      }
+    ],
+    "lyrics_lines": [
+      "Get your intel writing intelligence is irrelevant",
+      "But it’s definite I spit more than speech impediments",
+      "Brooklyns the residence, the best and it’s evident",
+      "We got them niggas P-E-Nuts, like they elephants"
+    ],
+    "artist": "Joey Bada$$",
+    "song_title": "Survival Tactics",
+    "youtube_url": "http://www.youtube.com/watch?v=DDWAk8-leVA",
+    "youtube_video_id": "DDWAk8-leVA",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 102,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "undulate",
+        "syllables": "un·du·late",
+        "part_of_speech": "verb",
+        "definition": "Move with a smooth wavelike motion.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/undulate"
+      }
+    ],
+    "lyrics_lines": [
+      "Tigallo and 9th Wonder, maybe",
+      "We got yo girl undulating",
+      "To the rhythm of the drum",
+      "Wet t-shirt lookin’ like a vacation",
+      "Take it off like Monday, baby",
+      "And there will be no underrating"
+    ],
+    "artist": "Phonte",
+    "song_title": "Band Practice Pt. 2",
+    "youtube_url": "http://www.youtube.com/watch?v=kDb7vviQOgw",
+    "youtube_video_id": "kDb7vviQOgw",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 103,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "ostentatious",
+        "syllables": "os·ten·ta·tious",
+        "part_of_speech": "adjective",
+        "definition": "Characterized by vulgar or pretentious display.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/ostentatious"
+      }
+    ],
+    "lyrics_lines": [
+      "The burbs talking like the hood will change with quickness",
+      "Love the skinny model chicks but I prefer the thickness",
+      "So what I rap about my riches and I’m ostentatious",
+      "Get out of gangsta business seen in me you basic"
+    ],
+    "artist": "Nas",
+    "song_title": "Reach Out",
+    "youtube_url": "http://www.youtube.com/watch?v=uAimifh8uco",
+    "youtube_video_id": "uAimifh8uco",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 104,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "multifaceted",
+        "syllables": "mul·ti·fac·et·ed",
+        "part_of_speech": "adjective",
+        "definition": "Having many facets or aspects.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/multifaceted"
+      }
+    ],
+    "lyrics_lines": [
+      "I’ll be on that other shit got that from my other bitch",
+      "She come from an alley nor desert or some tundra shit",
+      "I am multifaceted, bitch I do a ton of shit",
+      "Like I’m diarrhea or whatever sitting under it"
+    ],
+    "artist": "Angel Haze",
+    "song_title": "Werkin’ Girls",
+    "youtube_url": "http://www.youtube.com/watch?v=KpFzopP_BCk",
+    "youtube_video_id": "KpFzopP_BCk",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 105,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "epitome",
+        "syllables": "e·pit·o·me",
+        "part_of_speech": "noun",
+        "definition": "A person or thing that is a perfect example of a particular quality or type.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/epitome"
+      }
+    ],
+    "lyrics_lines": [
+      "Bitch you gotta be kiddin me, Kim’s the epitome",
+      "I’m the ghost of BIG so you could never get rid of me"
+    ],
+    "artist": "Lil’ Kim",
+    "song_title": "Last Day",
+    "youtube_url": "http://www.youtube.com/watch?v=8ABR0ytcsU8",
+    "youtube_video_id": "8ABR0ytcsU8",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 106,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "accrue",
+        "syllables": "ac·crue",
+        "part_of_speech": "verb",
+        "definition": "(of sums of money or benefits) Be received by someone in regular or increasing amounts over time.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/accrue"
+      }
+    ],
+    "lyrics_lines": [
+      "It’s more than clothes can say for you",
+      "When I shop I gotta spend more than a day for you",
+      "I pray for you and us, that we imbue through lust",
+      "And accrue the trust, let’s shake off the dust from the cloth"
+    ],
+    "artist": "Common",
+    "song_title": "Cloth",
+    "youtube_url": "http://www.youtube.com/watch?v=DuUFIBnXj4Q",
+    "youtube_video_id": "DuUFIBnXj4Q",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 107,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "conjugate",
+        "syllables": "con·ju·gate",
+        "part_of_speech": "verb",
+        "definition": "Give the different forms of (a verb in an inflected language) as they vary according to voice, mood, tense, number, and person.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/conjugate"
+      }
+    ],
+    "lyrics_lines": [
+      "You a grown-ass woman, I’m a grown-ass man",
+      "So we both know a lot about the birds and the bees",
+      "Hold up shawty let’s conversate, conjugate, constipate",
+      "Get stuck on each other, you comin up out of yo’ lingerie"
+    ],
+    "artist": "Flo Rida",
+    "song_title": "I Know You Got A Man",
+    "youtube_url": "http://www.youtube.com/watch?v=MXFl5WldThA",
+    "youtube_video_id": "MXFl5WldThA",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 108,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "surly",
+        "syllables": "sur·ly",
+        "part_of_speech": "adjective",
+        "definition": "Bad-tempered and unfriendly.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/surly"
+      },
+      {
+        "word": "gaudy",
+        "syllables": "gaud·y",
+        "part_of_speech": "adjective",
+        "definition": "Extravagantly bright or showy, typically so as to be tasteless.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/gaudy"
+      }
+    ],
+    "lyrics_lines": [
+      "I’m surly, miserable cat that slap shorties",
+      "Looks kinda resemble that, a fat Pauly",
+      "I don’t even clap, young boy, he claps for me",
+      "Chain hang down to my dick, I’m that gaudy"
+    ],
+    "artist": "Jedi Mind Tricks",
+    "song_title": "Animal Rap",
+    "youtube_url": "http://www.youtube.com/watch?v=2Xh-6rwXsU4",
+    "youtube_video_id": "2Xh-6rwXsU4",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 109,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "monotony",
+        "syllables": "mo·not·o·ny",
+        "part_of_speech": "noun",
+        "definition": "Lack of variety and interest; tedious repetition and routine.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/monotony"
+      }
+    ],
+    "lyrics_lines": [
+      "I grew up wishing my life would be like the Cosbys",
+      "I go that extra mile to escape this ghetto monotony",
+      "See how this vicious cycle could fuck wit you psychologically",
+      "You best cooperate with the state or become they property"
+    ],
+    "artist": "Freddie Gibbs",
+    "song_title": "187 Proof",
+    "youtube_url": "http://www.youtube.com/watch?feature=player_embedded&v=g9F8yAHpYCM",
+    "youtube_video_id": "g9F8yAHpYCM",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 110,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "couth",
+        "syllables": "couth",
+        "part_of_speech": "adjective",
+        "definition": "Cultured, refined, and well mannered.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/couth"
+      }
+    ],
+    "lyrics_lines": [
+      "Actions have reactions, don’t be quick to judge",
+      "You may not know the hardships people don’t speak of",
+      "It’s best to step back, and observe with couth",
+      "For we all must meet our moment of truth"
+    ],
+    "artist": "Guru",
+    "song_title": "Moment of Truth",
+    "youtube_url": "http://www.youtube.com/watch?v=lH3hrtp1T84",
+    "youtube_video_id": "lH3hrtp1T84",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 111,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "tenement",
+        "syllables": "ten·e·ment",
+        "part_of_speech": "noun",
+        "definition": "A room or a set of rooms forming a separate residence within a house or block of apartments.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/tenement"
+      }
+    ],
+    "lyrics_lines": [
+      "Large holes in the front door, of a housing tenement",
+      "Allows room to retaliate, so conflict is imminent"
+    ],
+    "artist": "GZA",
+    "song_title": "Street Corner",
+    "youtube_url": "http://www.youtube.com/watch?v=_bNN9bPGoqA",
+    "youtube_video_id": "_bNN9bPGoqA",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 112,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "bespoke",
+        "syllables": "be·spoke",
+        "part_of_speech": "adjective",
+        "definition": "(of goods, esp. clothing) Made to order.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/bespoke"
+      }
+    ],
+    "lyrics_lines": [
+      "Dressed smart like a London bloke, before he speak his suit bespoke",
+      "And you thought he was cute before, look at this pea coat, tell me he’s broke"
+    ],
+    "artist": "Kanye West",
+    "song_title": "American Boy",
+    "youtube_url": "http://www.youtube.com/watch?v=Ic5vxw3eijY",
+    "youtube_video_id": "Ic5vxw3eijY",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 113,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "astringent",
+        "syllables": "as·trin·gent",
+        "part_of_speech": "noun",
+        "definition": "A substance that causes the contraction of body tissues, typically used to reduce bleeding from minor abrasions.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/astringency"
+      }
+    ],
+    "lyrics_lines": [
+      "Two from The Dirty met with mismatched skin",
+      "Acknowledged first that one day this track may end",
+      "When there’s no more steam in that engine",
+      "Yet hopefully clean streams be an astringent"
+    ],
+    "artist": "Cunninlynguist",
+    "song_title": "What’ll You Do",
+    "youtube_url": "http://www.youtube.com/watch?v=432PZ9787n0",
+    "youtube_video_id": "432PZ9787n0",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 114,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "ostracized",
+        "syllables": "ostracized",
+        "part_of_speech": "verb",
+        "definition": "Exclude (someone) from a society or group.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/ostracize"
+      }
+    ],
+    "lyrics_lines": [
+      "Life is amusing, nobody like to see you cruising",
+      "But everybody like to see you losing",
+      "So I stop despise, on top of lies",
+      "And if it prophesized I’ll be ostracized"
+    ],
+    "artist": "Mase",
+    "song_title": "Gotta Survive",
+    "youtube_url": "http://www.youtube.com/watch?v=9RPJddGbyt4",
+    "youtube_video_id": "9RPJddGbyt4",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 115,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "denizen",
+        "syllables": "den·i·zen",
+        "part_of_speech": "noun",
+        "definition": "An inhabitant or occupant of a particular place.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/denizen"
+      },
+      {
+        "word": "firmament",
+        "syllables": "fir·ma·ment",
+        "part_of_speech": "noun",
+        "definition": "The heavens or the sky, esp. when regarded as a tangible thing.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/firmament"
+      }
+    ],
+    "lyrics_lines": [
+      "You just running game nigga, we the fucking tournament",
+      "You a temporary visa to a fucking permanent, resident",
+      "Citizen is evident the denizens",
+      "Took over the big house on some Nat Turner shit",
+      "Shoulders back, hair tied to the fucking firmament"
+    ],
+    "artist": "Phonte",
+    "song_title": "Not Here Anymore",
+    "youtube_url": "http://www.youtube.com/watch?v=1po7KurK564",
+    "youtube_video_id": "1po7KurK564",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 116,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "hapless",
+        "syllables": "hap·less",
+        "part_of_speech": "adjective",
+        "definition": "(esp. of a person) Unfortunate.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/hapless"
+      }
+    ],
+    "lyrics_lines": [
+      "The counteraction is just a helpless action of the hapless flinching",
+      "My supersonics leave you mute like Maggie Simpson"
+    ],
+    "artist": "El-P",
+    "song_title": "Bad Touch Example",
+    "youtube_url": "http://www.youtube.com/watch?v=lbDoh6A9VME",
+    "youtube_video_id": "lbDoh6A9VME",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 117,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "thwart",
+        "syllables": "thwart",
+        "part_of_speech": "verb",
+        "definition": "Prevent (someone) from accomplishing something.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/thwart"
+      }
+    ],
+    "lyrics_lines": [
+      "No mutilation’s paralyzations",
+      "Got no patience when I’m chasin’",
+      "Down a patient",
+      "Tryin’ to thwart assassination"
+    ],
+    "artist": "Three 6 Mafia",
+    "song_title": "Fuckin’ Wit Dis Click",
+    "youtube_url": "http://www.youtube.com/watch?v=CJ8KYoZWzi0",
+    "youtube_video_id": "CJ8KYoZWzi0",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 118,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "provocative",
+        "syllables": "pro·voc·a·tive",
+        "part_of_speech": "adjective",
+        "definition": "Arousing sexual desire or interest, esp. deliberately.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/provocative"
+      },
+      {
+        "word": "atonement",
+        "syllables": "a·tone·ment",
+        "part_of_speech": "noun",
+        "definition": "Reparation for a wrong or injury.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/atonement"
+      }
+    ],
+    "lyrics_lines": [
+      "A provocative plan can bring a knot to my hand",
+      "As the pyramids that stand on top of the sand",
+      "In the heat of the moment, like Farrakhan said we need atonement"
+    ],
+    "artist": "Nas",
+    "song_title": "Nas is Coming",
+    "youtube_url": "http://www.youtube.com/watch?v=b-NFT14kMeQ",
+    "youtube_video_id": "b-NFT14kMeQ",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 119,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "impregnable",
+        "syllables": "im·preg·na·ble",
+        "part_of_speech": "adjective",
+        "definition": "(of a fortified position) unable to be captured or broken into.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/impregnable"
+      }
+    ],
+    "lyrics_lines": [
+      "You’re like Foghorn Leghorn, Yosemite Sam",
+      "You’re just yellin’ and wildin’ wondering who I am",
+      "With those lies you’re telling you’re like Toucan Sam",
+      "But my style’s impregnable like the Hoover Dam"
+    ],
+    "artist": "Beastie Boys",
+    "song_title": "Hey Fuck You",
+    "youtube_url": "https://www.youtube.com/watch?v=mfcefpoCj0M",
+    "youtube_video_id": "mfcefpoCj0M",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 120,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "repugnant",
+        "syllables": "re·pug·nant",
+        "part_of_speech": "adjective",
+        "definition": "extremely distasteful; unacceptable.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/repugnant"
+      }
+    ],
+    "lyrics_lines": [
+      "Human rights come in a hundreth place",
+      "Mass production has always been number one",
+      "New Earth has become a repugnant place",
+      "So it’s time to spread the fear to thunder some"
+    ],
+    "artist": "Del",
+    "song_title": "Virus",
+    "youtube_url": "https://www.youtube.com/watch?v=ijPE7fe4XTg",
+    "youtube_video_id": "ijPE7fe4XTg",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 121,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "rapport",
+        "syllables": "rap·port",
+        "part_of_speech": "noun",
+        "definition": "a close and harmonious relationship in which the people or groups concerned understand each other’s feelings or ideas and communicate well.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/rapport"
+      }
+    ],
+    "lyrics_lines": [
+      "Nigga, you a bitch, where yo’ Honda Accord?",
+      "I’m riding in some shit only I can afford",
+      "Shouldn’t claim the hood til you build a rapport",
+      "Amsterdam state of mind: I just gave you a tour"
+    ],
+    "artist": "Rick Ross",
+    "song_title": "Amsterdam",
+    "youtube_url": "https://www.youtube.com/watch?v=fEHLI0JFab8",
+    "youtube_video_id": "fEHLI0JFab8",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 122,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "chicanery",
+        "syllables": "chi·can·er·y",
+        "part_of_speech": "noun",
+        "definition": "the use of trickery to achieve a political, financial, or legal purpose.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/chicanery"
+      }
+    ],
+    "lyrics_lines": [
+      "Keep the crowd listening I’m so magnificent",
+      "It even says Finesse on my birth certificate, I’m the",
+      "Man of bravery skill and chicanery",
+      "I get the ladies cause I use my brain you see"
+    ],
+    "artist": "Lord Finesse",
+    "song_title": "Funky Technician",
+    "youtube_url": "https://www.youtube.com/watch?v=NZYeXNwd5qM",
+    "youtube_video_id": "NZYeXNwd5qM",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 123,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "requisite",
+        "syllables": "req·ui·site",
+        "part_of_speech": "noun",
+        "definition": "a thing that is necessary for the achievement of a specified end.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/requisite"
+      },
+      {
+        "word": "opulent",
+        "syllables": "op·u·lent",
+        "part_of_speech": "adjective",
+        "definition": "ostentatiously rich and luxurious or lavish.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/opulent"
+      }
+    ],
+    "lyrics_lines": [
+      "They never heard of heat when he used to speak",
+      "Or exquisite, no requisite for appetite",
+      "Spit like an athlete, produce like an apple tree",
+      "And this bastard be casket-free",
+      "Fuck roses, when I die I want a photo shoot",
+      "That lasting greatness you’ll document, I’m opulent"
+    ],
+    "artist": "Hodgy Beats",
+    "song_title": "If Heaven is a Ghetto",
+    "youtube_url": "https://www.youtube.com/watch?v=hKhUvpqExh0",
+    "youtube_video_id": "hKhUvpqExh0",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 124,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "abbreviate",
+        "syllables": "ab·bre·vi·ate",
+        "part_of_speech": "verb",
+        "definition": "shorten (a word, phrase, or text).",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/abbreviate"
+      }
+    ],
+    "lyrics_lines": [
+      "I’m blazin’ I’m flagrant, Im crazy I’m saying",
+      "Too much for the world so they abbreviate him"
+    ],
+    "artist": "Kanye West",
+    "song_title": "Blazin",
+    "youtube_url": "https://www.youtube.com/watch?v=T3VCa_EYZ-w",
+    "youtube_video_id": "T3VCa_EYZ-w",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 125,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "egregious",
+        "syllables": "e·gre·gious",
+        "part_of_speech": "adjective",
+        "definition": "outstandingly bad; shocking.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/egregious"
+      }
+    ],
+    "lyrics_lines": [
+      "I’m Genghis Khan, I’m a genius spawn",
+      "I pillage your village for fun, an egregious con"
+    ],
+    "artist": "Crooked I",
+    "song_title": "Session One",
+    "youtube_url": "https://www.youtube.com/watch?v=s42YGuPrhSw",
+    "youtube_video_id": "s42YGuPrhSw",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 126,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "ubiquitous",
+        "syllables": "u·biq·ui·tous",
+        "part_of_speech": "adjective",
+        "definition": "present, appearing, or found everywhere.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/ubiquitous"
+      }
+    ],
+    "lyrics_lines": [
+      "We get it poppin’ like a hit chorus",
+      "The flow is historic, they can’t get rid of us",
+      "Ubiquitous, and we lay the law like Leviticus",
+      "Ten years ago we made history so they missing us"
+    ],
+    "artist": "Talib Kweli",
+    "song_title": "History",
+    "youtube_url": "https://www.youtube.com/watch?v=t_Z8X_bgEpw",
+    "youtube_video_id": "t_Z8X_bgEpw",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 127,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "nonchalant",
+        "syllables": "non·cha·lant",
+        "part_of_speech": "adjective",
+        "definition": "(of a person or manner) feeling or appearing casually calm and relaxed; not displaying anxiety, interest, or enthusiasm.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/nonchalant"
+      }
+    ],
+    "lyrics_lines": [
+      "Every time your name was brought up",
+      "I would act all nonchalant in front of an audience",
+      "Like if you was just another shorty I put the naughty on",
+      "But uh, truth be told you threw me for a loop, this Hov"
+    ],
+    "artist": "Jay-Z",
+    "song_title": "Frontin’",
+    "youtube_url": "https://www.youtube.com/watch?v=W1268Wxa9Ik",
+    "youtube_video_id": "W1268Wxa9Ik",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 128,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "plenitude",
+        "syllables": "plen·i·tude",
+        "part_of_speech": "noun",
+        "definition": "an abundance.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/plenitude"
+      },
+      {
+        "word": "transcendental",
+        "syllables": "tran·scen·den·tal",
+        "part_of_speech": "adjective",
+        "definition": "of or relating to a spiritual or nonphysical realm.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/transcendent"
+      }
+    ],
+    "lyrics_lines": [
+      "Principles a plenitude, I spit at you, injure you if you step out of line",
+      "A transcendental intellectual",
+      "A marvel to the medical professionals that claim they half wanna test a dude",
+      "Before they understand what I’m equipped to do"
+    ],
+    "artist": "Canibus",
+    "song_title": "Behind Enemy Rhymes",
+    "youtube_url": "https://www.youtube.com/watch?v=HtFPO2MPUCs",
+    "youtube_video_id": "HtFPO2MPUCs",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 129,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "vindicate",
+        "syllables": "vin·di·cate",
+        "part_of_speech": "verb",
+        "definition": "clear (someone) of blame or suspicion.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/vindicated"
+      },
+      {
+        "word": "syndicate",
+        "syllables": "syn·di·cate",
+        "part_of_speech": "verb",
+        "definition": "control or manage by a syndicate. publish or broadcast (material) simultaneously in a number of newspapers, television stations, etc.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/syndicated"
+      }
+    ],
+    "lyrics_lines": [
+      "Cause I’m still hood, Hollywood couldn’t change me",
+      "Shout out to my haters, sorry that you couldn’t faze me",
+      "Ain’t being cocky, we just vindicated",
+      "Best believe that when were done, this moment will be syndicated"
+    ],
+    "artist": "Nicki Minaj",
+    "song_title": "Moment 4 Life",
+    "youtube_url": "https://www.youtube.com/watch?v=D7GW8TYCEG4",
+    "youtube_video_id": "D7GW8TYCEG4",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 130,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "usurp",
+        "syllables": "u·surp",
+        "part_of_speech": "verb",
+        "definition": "take (a position of power or importance) illegally or by force.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/usurp"
+      }
+    ],
+    "lyrics_lines": [
+      "I’m usin fake MC’s for target practice",
+      "To usurp your experts, will be my best work",
+      "I’m takin stripes, might snipe ya, cause I’m hyper",
+      "Will incite the shit too loose, I’ll make it tighter"
+    ],
+    "artist": "Afu-Ra",
+    "song_title": "Mic Stance",
+    "youtube_url": "https://www.youtube.com/watch?v=HA-O4qsQ4ik",
+    "youtube_video_id": "HA-O4qsQ4ik",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 131,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "oligarchy",
+        "syllables": "ol·i·gar·chy",
+        "part_of_speech": "noun",
+        "definition": "a small group of people having control of a country, organization, or institution.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/oligarchy"
+      }
+    ],
+    "lyrics_lines": [
+      "To tell the truth, they don’t tell the truth",
+      "Chocolate nigga, strawberry Benz with the vanilla roof",
+      "Call it Neapolitan",
+      "I poli(tic) against the oligarchy on a mission, composition, start anarchy",
+      "I son y'all niggas like the man Barkley",
+      "Screaming your money or your life this is grand larceny"
+    ],
+    "artist": "Rass Kass",
+    "song_title": "Sushi",
+    "youtube_url": "https://www.youtube.com/watch?v=8Fs_tSFHCaM",
+    "youtube_video_id": "8Fs_tSFHCaM",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 132,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "usury",
+        "syllables": "u·su·ry",
+        "part_of_speech": "noun",
+        "definition": "the illegal action or practice of lending money at unreasonably high rates of interest.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/usury"
+      }
+    ],
+    "lyrics_lines": [
+      "Saying nothing, you confusing me, you losing me",
+      "Your game is twisted, want me enlisted in your usury",
+      "Foolishly, most men join the ranks cluelessly",
+      "Buffoonishly accept the deception, believe the perception"
+    ],
+    "artist": "Mos Def",
+    "song_title": "Thieves in the Night",
+    "youtube_url": "https://www.youtube.com/watch?v=8X7m63nPvsQ",
+    "youtube_video_id": "8X7m63nPvsQ",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 133,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "predicate",
+        "syllables": "pred·i·cate",
+        "part_of_speech": "noun",
+        "definition": "the part of a sentence or clause containing a verb and stating something about the subject.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/predicate"
+      },
+      {
+        "word": "rhetoric",
+        "syllables": "rhet·o·ric",
+        "part_of_speech": "noun",
+        "definition": "the art of effective or persuasive speaking or writing, especially the use of figures of speech and other compositional techniques.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/rhetoric"
+      }
+    ],
+    "lyrics_lines": [
+      "The proper etiquette, when I drop the subject verb",
+      "Then the predicate, with this rich nigga rhetoric",
+      "I’m solid gold, I rap like a mink stole",
+      "I stick pearl tongues your world will never know"
+    ],
+    "artist": "Jay-Z",
+    "song_title": "Cashmere Thoughts",
+    "youtube_url": "https://www.youtube.com/watch?v=3Jx3jGAlKG0",
+    "youtube_video_id": "3Jx3jGAlKG0",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 134,
+    "source": "tumblr_scrape",
+    "words": [
+      {
+        "word": "voracious",
+        "syllables": "vo·ra·cious",
+        "part_of_speech": "adjective",
+        "definition": "wanting or devouring great quantities of food.",
+        "wiktionary_url": "http://en.wiktionary.org/wiki/voracious"
+      }
+    ],
+    "lyrics_lines": [
+      "The streets is too hectic so I stacked then made my exit",
+      "One dough to get focus my thoughts for me to go legit",
+      "Voracious shit, cop a huge cats who on a ocean cliff",
+      "Imagine that a few years back I was baggin cracks, magnet gats"
+    ],
+    "artist": "AZ",
+    "song_title": "Love is Love",
+    "youtube_url": "https://www.youtube.com/watch?v=JMM6I3wlnS4",
+    "youtube_video_id": "JMM6I3wlnS4",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 135,
+    "source": "manual",
+    "words": [
+      {
+        "word": "ambition",
+        "syllables": null,
+        "part_of_speech": "noun",
+        "definition": "a strong desire to achieve something",
+        "wiktionary_url": null
+      }
+    ],
+    "lyrics_lines": [
+      "I got loyalty, got royalty inside my DNA",
+      "I got hustle though, ambition flow inside my DNA"
+    ],
+    "artist": "Kendrick Lamar",
+    "song_title": "DNA.",
+    "youtube_url": "https://www.youtube.com/watch?v=NLZRYQMLDW4",
+    "youtube_video_id": "NLZRYQMLDW4",
+    "tumblr_date": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  }
+]
