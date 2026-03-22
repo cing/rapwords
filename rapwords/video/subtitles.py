@@ -1,0 +1,134 @@
+"""Generate ASS subtitle files with karaoke-style word highlighting."""
+
+from __future__ import annotations
+
+import re
+from pathlib import Path
+
+from rapwords.config import VIDEO_HEIGHT, VIDEO_WIDTH
+from rapwords.models import RapWordsPost
+
+# ASS color format: &HAABBGGRR (alpha, blue, green, red)
+COLOR_WHITE = "&H00FFFFFF"
+COLOR_HIGHLIGHT = "&H0000CCFF"  # gold/yellow in BGR
+COLOR_WORD_GLOW = "&H0000AAFF"  # orange-gold for featured word
+COLOR_SHADOW = "&H80000000"
+COLOR_OUTLINE = "&H00000000"
+
+ASS_HEADER = f"""[Script Info]
+Title: RapWords Karaoke
+ScriptType: v4.00+
+PlayResX: {VIDEO_WIDTH}
+PlayResY: {VIDEO_HEIGHT}
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: WordDef,Arial,48,{COLOR_WHITE},&H000000FF,{COLOR_OUTLINE},{COLOR_SHADOW},-1,0,0,0,100,100,1,0,1,3,2,8,40,40,60,1
+Style: Lyrics,Arial,44,&H40FFFFFF,{COLOR_HIGHLIGHT},{COLOR_OUTLINE},{COLOR_SHADOW},-1,0,0,0,100,100,0,0,1,3,2,2,50,50,300,1
+Style: Attribution,Arial,36,{COLOR_WHITE},&H000000FF,{COLOR_OUTLINE},{COLOR_SHADOW},0,-1,0,0,100,100,0,0,1,2,1,2,40,40,100,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+"""
+
+
+def _format_time(seconds: float) -> str:
+    """Format seconds as H:MM:SS.cc for ASS format."""
+    h = int(seconds // 3600)
+    m = int((seconds % 3600) // 60)
+    s = seconds % 60
+    return f"{h}:{m:02d}:{s:05.2f}"
+
+
+def _is_featured_word(word_text: str, featured_words: list[str]) -> bool:
+    """Check if a word matches any featured word (case-insensitive, ignoring punctuation)."""
+    clean = re.sub(r"[^a-zA-Z]", "", word_text).lower()
+    return any(clean.startswith(fw) or fw.startswith(clean) for fw in featured_words if clean and fw)
+
+
+def generate_ass(post: RapWordsPost, clip_duration: float) -> str:
+    """Generate ASS subtitle content with karaoke highlighting.
+
+    Args:
+        post: The post data with lyrics and featured words.
+        clip_duration: Total clip duration in seconds.
+    """
+    lines = []
+    lines.append(ASS_HEADER.rstrip())
+
+    featured_words = [w.word.lower() for w in post.words]
+
+    # Word definition at top of screen — visible throughout
+    word_defs = []
+    for w in post.words:
+        display_word = (w.syllables or w.word).upper()
+        pos = w.part_of_speech.value
+        defn = w.definition
+        word_defs.append(f"{display_word}\\N{pos} — {defn}")
+
+    def_text = "\\N\\N".join(word_defs)
+    lines.append(
+        f"Dialogue: 0,{_format_time(0.5)},{_format_time(clip_duration - 0.5)},WordDef,,0,0,0,,{def_text}"
+    )
+
+    # Lyrics with karaoke timing
+    num_lines = len(post.lyrics_lines)
+    if num_lines == 0:
+        return "\n".join(lines) + "\n"
+
+    # Leave 1.5s at start and 1s at end for definition to appear alone
+    lyrics_start = 1.5
+    lyrics_end = clip_duration - 1.0
+    total_lyrics_time = lyrics_end - lyrics_start
+
+    # Time per line, with small gaps between lines
+    gap = 0.3  # gap between lines
+    total_gap = gap * (num_lines - 1) if num_lines > 1 else 0
+    time_per_line = (total_lyrics_time - total_gap) / num_lines
+
+    for i, lyric_line in enumerate(post.lyrics_lines):
+        line_start = lyrics_start + i * (time_per_line + gap)
+        line_end = line_start + time_per_line
+
+        # Split line into words for karaoke timing
+        words_in_line = lyric_line.split()
+        if not words_in_line:
+            continue
+
+        # Distribute time equally among words
+        time_per_word = time_per_line / len(words_in_line)
+        centiseconds_per_word = max(1, int(time_per_word * 100))
+
+        # Build karaoke text with \kf (fill) tags
+        karaoke_parts = []
+        for word_text in words_in_line:
+            if _is_featured_word(word_text, featured_words):
+                # Featured word: larger, colored, with glow
+                karaoke_parts.append(
+                    f"{{\\kf{centiseconds_per_word}\\c{COLOR_WORD_GLOW}\\fs52\\bord4}}{word_text}{{\\c\\fs\\bord}}"
+                )
+            else:
+                karaoke_parts.append(f"{{\\kf{centiseconds_per_word}}}{word_text}")
+
+        karaoke_text = " ".join(karaoke_parts)
+        lines.append(
+            f"Dialogue: 1,{_format_time(line_start)},{_format_time(line_end + 1.0)},Lyrics,,0,0,0,,{karaoke_text}"
+        )
+
+    # Attribution at bottom
+    attr_text = f"— {post.artist} \"{post.song_title}\""
+    lines.append(
+        f"Dialogue: 0,{_format_time(lyrics_start)},{_format_time(clip_duration - 0.5)},Attribution,,0,0,0,,{attr_text}"
+    )
+
+    return "\n".join(lines) + "\n"
+
+
+def write_ass_file(post: RapWordsPost, clip_duration: float, output_path: Path) -> Path:
+    """Generate and write an ASS subtitle file."""
+    content = generate_ass(post, clip_duration)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    output_path.write_text(content)
+    return output_path
