@@ -9,6 +9,9 @@ dependencies = [
     "requests>=2.28",
     "beautifulsoup4>=4.12",
     "pydantic>=2.0",
+    "lyricsgenius>=3.0",
+    "pronouncing>=0.2",
+    "wiktionaryparser>=0.0.7",
 ]
 
 [project.optional-dependencies]

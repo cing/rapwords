@@ -550,6 +550,164 @@ def add(artist, song, youtube_url, lyrics, word, pos, definition):
         console.print(f"  YouTube: {post.youtube_url}")
 
 
+@main.command()
+@click.option("--artist", required=True, help="Artist name to search on Genius")
+@click.option("--song", default=None, help="Specific song title (omit to scan multiple songs)")
+@click.option("--max-songs", default=20, type=int, help="Max songs to scan when no --song given")
+@click.option("--auto", is_flag=True, default=False, help="Auto-add all discovered words without prompting")
+def discover(artist, song, max_songs, auto):
+    """Discover new big words in hip-hop lyrics from Genius.
+
+    Examples:
+
+      rapwords discover --artist "Kendrick Lamar" --song "HUMBLE."
+
+      rapwords discover --artist "Aesop Rock" --max-songs 10
+
+      rapwords discover --artist "MF DOOM" --auto
+    """
+    from rapwords.discover.bars import extract_bars
+    from rapwords.discover.definitions import get_definition
+    from rapwords.discover.lyrics import search_artist_songs, search_song
+    from rapwords.discover.words import find_big_words
+    from rapwords.discover.youtube import find_youtube_video
+
+    store = PostStore()
+
+    # Fetch lyrics
+    if song:
+        console.print(f"Searching Genius for [bold]{artist}[/bold] — \"{song}\"...")
+        result = search_song(artist, song)
+        if not result:
+            console.print("[red]Song not found on Genius.[/red]")
+            return
+        songs = [result]
+    else:
+        console.print(f"Searching Genius for [bold]{artist}[/bold] (up to {max_songs} songs)...")
+        with console.status("[bold green]Fetching songs from Genius..."):
+            songs = search_artist_songs(artist, max_songs=max_songs)
+        if not songs:
+            console.print("[red]No songs found on Genius.[/red]")
+            return
+        console.print(f"[green]Found {len(songs)} songs[/green]")
+
+    # Scan each song for big words
+    candidates: list[dict] = []
+    for s in songs:
+        big_words = find_big_words(s.lyrics)
+        for word in big_words:
+            candidates.append({
+                "word": word,
+                "song": s,
+            })
+
+    if not candidates:
+        console.print("[yellow]No big words found in these lyrics.[/yellow]")
+        return
+
+    console.print(f"\n[green]Found {len(candidates)} big word(s) across {len(songs)} song(s)[/green]\n")
+
+    # Display candidates
+    table = Table(title="Discovered Words")
+    table.add_column("#", style="cyan", justify="right")
+    table.add_column("Word", style="bold yellow")
+    table.add_column("Song", style="blue")
+    table.add_column("Artist", style="green")
+
+    for i, c in enumerate(candidates, 1):
+        table.add_row(str(i), c["word"], c["song"].title, c["song"].artist)
+
+    console.print(table)
+    console.print()
+
+    # Process each candidate
+    if auto:
+        selected = list(range(len(candidates)))
+    else:
+        selection = click.prompt(
+            "Enter numbers to add (comma-separated, 'all', or 'none')",
+            default="all",
+        )
+        if selection.strip().lower() == "none":
+            return
+        elif selection.strip().lower() == "all":
+            selected = list(range(len(candidates)))
+        else:
+            try:
+                selected = [int(x.strip()) - 1 for x in selection.split(",")]
+            except ValueError:
+                console.print("[red]Invalid selection.[/red]")
+                return
+
+    added = 0
+    for idx in selected:
+        if idx < 0 or idx >= len(candidates):
+            continue
+        c = candidates[idx]
+        word = c["word"]
+        s = c["song"]
+
+        console.print(f"\n[bold cyan]--- {word} ---[/bold cyan]")
+
+        # Extract bars
+        bars = extract_bars(s.lyrics, word)
+        if bars:
+            console.print("[dim]Bars:[/dim]")
+            for line in bars:
+                if word.lower() in line.lower():
+                    console.print(f"  [bold yellow]{line}[/bold yellow]")
+                else:
+                    console.print(f"  {line}")
+        else:
+            console.print("[yellow]Could not extract bars around this word.[/yellow]")
+            bars = []
+
+        # Get definition
+        context = " ".join(bars) if bars else None
+        defn = get_definition(word, context_sentence=context)
+        if defn:
+            console.print(f"[dim]Definition:[/dim] {defn.part_of_speech} — {defn.definition}")
+            console.print(f"[dim]{defn.wiktionary_url}[/dim]")
+        else:
+            console.print("[yellow]No definition found on Wiktionary.[/yellow]")
+
+        # Find YouTube video
+        with console.status(f"[dim]Searching YouTube for {s.artist} — {s.title}...[/dim]"):
+            yt = find_youtube_video(s.artist, s.title)
+        if yt:
+            console.print(f"[dim]YouTube:[/dim] {yt.title}")
+            console.print(f"[dim]{yt.url}[/dim]")
+        else:
+            console.print("[yellow]No YouTube video found.[/yellow]")
+
+        # Create post
+        featured_word = FeaturedWord(
+            word=word,
+            part_of_speech=PartOfSpeech(defn.part_of_speech) if defn and defn.part_of_speech in [e.value for e in PartOfSpeech] else PartOfSpeech.OTHER,
+            definition=defn.definition if defn else "",
+            wiktionary_url=defn.wiktionary_url if defn else None,
+        )
+
+        post = RapWordsPost(
+            id=store.next_id(),
+            source="discovered",
+            words=[featured_word],
+            lyrics_lines=bars,
+            artist=s.artist,
+            song_title=s.title,
+            youtube_url=yt.url if yt else None,
+            youtube_video_id=yt.video_id if yt else None,
+        )
+
+        store.add(post)
+        added += 1
+        console.print(f"[green]Added as post {post.id}[/green]")
+
+    if added > 0:
+        store.save()
+        console.print(f"\n[green]Added {added} new post(s) to data/posts.json[/green]")
+
+
 def _parse_time(time_str: str) -> float | None:
     """Parse MM:SS or HH:MM:SS to seconds."""
     parts = time_str.strip().split(":")

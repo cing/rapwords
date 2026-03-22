@@ -3629,12 +3629,12 @@
     "youtube_video_id": "Ic5vxw3eijY",
     "tumblr_date": null,
     "flag": null,
-    "start_time": null,
-    "duration": null,
-    "video_downloaded": false,
-    "video_path": null,
-    "output_path": null,
-    "status": "scraped"
+    "start_time": 167.32,
+    "duration": 10.0,
+    "video_downloaded": true,
+    "video_path": "/home/cing/proteinqure/code/playground/rapwords/data/videos/112_Ic5vxw3eijY.mp4",
+    "output_path": "/home/cing/proteinqure/code/playground/rapwords/data/output/112_bespoke.mp4",
+    "status": "processed"
   },
   {
     "id": 113,
@@ -4371,8 +4371,11 @@
       }
     ],
     "lyrics_lines": [
-      "I got loyalty, got royalty inside my DNA",
-      "I got hustle though, ambition flow inside my DNA"
+      "I got, I got, I got, I got",
+      "Loyalty, got royalty inside my DNA",
+      "Cocaine quarter piece, got war, and peace inside my DNA",
+      "I got power, poison, pain, and joy inside my DNA",
+      "I got hustle, though, ambition flow inside my DNA"
     ],
     "artist": "Kendrick Lamar",
     "song_title": "DNA.",
@@ -4380,11 +4383,11 @@
     "youtube_video_id": "NLZRYQMLDW4",
     "tumblr_date": null,
     "flag": null,
-    "start_time": null,
-    "duration": null,
-    "video_downloaded": false,
-    "video_path": null,
-    "output_path": null,
-    "status": "scraped"
+    "start_time": 42.57,
+    "duration": 18.0,
+    "video_downloaded": true,
+    "video_path": "/home/cing/proteinqure/code/playground/rapwords/data/videos/135_NLZRYQMLDW4.mp4",
+    "output_path": "/home/cing/proteinqure/code/playground/rapwords/data/output/135_ambition.mp4",
+    "status": "processed"
   }
 ]
