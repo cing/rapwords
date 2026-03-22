@@ -5,12 +5,27 @@ from __future__ import annotations
 import subprocess
 from pathlib import Path
 
-from rapwords.config import DEFAULT_CLIP_DURATION, OUTPUT_DIR, VIDEO_FPS, VIDEO_HEIGHT, VIDEO_WIDTH
+from rapwords.config import (
+    DEFAULT_CLIP_DURATION,
+    OUTPUT_DIR,
+    VIDEO_FPS,
+    VIDEO_HEIGHT,
+    VIDEO_WIDTH,
+    WATERMARK_BLACK,
+    WATERMARK_OPACITY,
+    WATERMARK_PADDING,
+    WATERMARK_WHITE,
+)
 from rapwords.models import RapWordsPost
 from rapwords.video.subtitles import write_ass_file
 
 
-def process_post(post: RapWordsPost, crop: bool = True, show_attribution: bool = False) -> str | None:
+def process_post(
+    post: RapWordsPost,
+    crop: bool = True,
+    show_attribution: bool = False,
+    watermark: str = "white",
+) -> str | None:
     """Process a post into an Instagram-ready video.
 
     Requires post.video_path, post.start_time, and post.duration to be set.
@@ -18,6 +33,7 @@ def process_post(post: RapWordsPost, crop: bool = True, show_attribution: bool =
     Args:
         crop: If True (default), scale to fill and center-crop to 9:16.
               If False, scale to fit and pad with black bars.
+        watermark: "white", "black", or "none".
     """
     if not post.video_path:
         print("No video file available.")
@@ -59,19 +75,24 @@ def process_post(post: RapWordsPost, crop: bool = True, show_attribution: bool =
     output_path = OUTPUT_DIR / f"{post.id}_{word_slug}.mp4"
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
+    # Resolve watermark path
+    watermark_path = None
+    if watermark == "white" and WATERMARK_WHITE.exists():
+        watermark_path = WATERMARK_WHITE
+    elif watermark == "black" and WATERMARK_BLACK.exists():
+        watermark_path = WATERMARK_BLACK
+
     # Build ffmpeg filter chain
     ass_path_escaped = str(ass_path).replace("\\", "/").replace(":", "\\:")
     if crop:
-        # Scale to fill 9:16 frame (match height, crop width to center)
-        vf = (
+        base_vf = (
             f"scale=-2:{VIDEO_HEIGHT},"
             f"crop={VIDEO_WIDTH}:{VIDEO_HEIGHT},"
             f"eq=brightness=-0.08,"
             f"ass='{ass_path_escaped}'"
         )
     else:
-        # Scale to fit width, pad with black bars top/bottom
-        vf = (
+        base_vf = (
             f"scale={VIDEO_WIDTH}:-2,"
             f"pad={VIDEO_WIDTH}:{VIDEO_HEIGHT}:(ow-iw)/2:(oh-ih)/2:black,"
             f"eq=brightness=-0.08,"
@@ -84,7 +105,22 @@ def process_post(post: RapWordsPost, crop: bool = True, show_attribution: bool =
         "-ss", str(start_time),
         "-t", str(duration),
         "-i", str(video_path),
-        "-vf", vf,
+    ]
+
+    if watermark_path:
+        cmd.extend(["-i", str(watermark_path)])
+        # filter_complex: process video, then overlay watermark with reduced opacity
+        pad = WATERMARK_PADDING
+        fc = (
+            f"[0:v]{base_vf}[vid];"
+            f"[1:v]format=rgba,colorchannelmixer=aa={WATERMARK_OPACITY}[wm];"
+            f"[vid][wm]overlay=W-w-{pad}:H-h-{pad}[out]"
+        )
+        cmd.extend(["-filter_complex", fc, "-map", "[out]", "-map", "0:a?"])
+    else:
+        cmd.extend(["-vf", base_vf])
+
+    cmd.extend([
         "-c:v", "libx264",
         "-preset", "medium",
         "-crf", "23",
@@ -93,7 +129,7 @@ def process_post(post: RapWordsPost, crop: bool = True, show_attribution: bool =
         "-r", str(VIDEO_FPS),
         "-movflags", "+faststart",
         str(output_path),
-    ]
+    ])
 
     try:
         result = subprocess.run(
