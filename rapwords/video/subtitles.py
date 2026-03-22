@@ -95,9 +95,16 @@ def _format_time(seconds: float) -> str:
 
 
 def _is_featured_word(word_text: str, featured_words: list[str]) -> bool:
-    """Check if a word matches any featured word (case-insensitive, ignoring punctuation)."""
+    """Check if a word matches any featured word (case-insensitive, ignoring punctuation).
+
+    Matches inflected forms (e.g. 'insinuates' matches 'insinuate') by
+    checking if the word starts with the featured word, but only when the
+    featured word covers most of the cleaned text (no single-letter matches).
+    """
     clean = re.sub(r"[^a-zA-Z]", "", word_text).lower()
-    return clean in featured_words
+    if not clean:
+        return False
+    return any(clean.startswith(fw) and len(fw) >= len(clean) - 3 for fw in featured_words)
 
 
 def _estimate_syllables(word: str) -> int:
