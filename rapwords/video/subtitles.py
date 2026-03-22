@@ -209,9 +209,15 @@ def generate_ass(
             else:
                 karaoke_parts.append(f"{{\\kf{cs}}}{word_text}")
 
+        # End each line when the next one starts (one line at a time)
+        if i + 1 < len(line_intervals):
+            display_end = line_intervals[i + 1][0]
+        else:
+            display_end = line_end + 1.0
+
         karaoke_text = " ".join(karaoke_parts)
         lines.append(
-            f"Dialogue: 1,{_format_time(line_start)},{_format_time(line_end + 1.0)},Lyrics,,0,0,0,,{karaoke_text}"
+            f"Dialogue: 1,{_format_time(line_start)},{_format_time(display_end)},Lyrics,,0,0,0,,{karaoke_text}"
         )
 
     # Attribution at bottom (optional)
