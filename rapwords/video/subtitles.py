@@ -77,9 +77,9 @@ ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: WordDef,Arial,44,{theme.worddef_primary},&H000000FF,{theme.worddef_outline},{theme.worddef_back},-1,0,0,0,100,100,1,0,3,10,0,8,60,60,60,1
-Style: Lyrics,Arial,48,{theme.lyrics_primary},{theme.lyrics_secondary},{theme.lyrics_outline},{theme.lyrics_back},-1,0,0,0,100,100,2,0,3,12,0,2,80,80,300,1
-Style: Attribution,Arial,36,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,2,1,2,40,40,100,1
+Style: WordDef,Montserrat Bold,44,{theme.worddef_primary},&H000000FF,{theme.worddef_outline},{theme.worddef_back},-1,0,0,0,100,100,1,0,3,10,0,8,60,60,60,1
+Style: Lyrics,Montserrat Bold,48,{theme.lyrics_primary},{theme.lyrics_secondary},{theme.lyrics_outline},{theme.lyrics_back},-1,0,0,0,100,100,2,0,3,12,0,2,80,80,300,1
+Style: Attribution,Montserrat Bold,36,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,2,1,2,40,40,100,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -97,7 +97,7 @@ def _format_time(seconds: float) -> str:
 def _is_featured_word(word_text: str, featured_words: list[str]) -> bool:
     """Check if a word matches any featured word (case-insensitive, ignoring punctuation)."""
     clean = re.sub(r"[^a-zA-Z]", "", word_text).lower()
-    return any(clean.startswith(fw) or fw.startswith(clean) for fw in featured_words if clean and fw)
+    return clean in featured_words
 
 
 def _estimate_syllables(word: str) -> int:
