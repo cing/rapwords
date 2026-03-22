@@ -46,9 +46,10 @@ def _add_static_outro(input_path: Path, output_path: Path) -> bool:
         "-f", "lavfi",
         "-t", str(STATIC_DURATION),
         "-i", f"anoisesrc=color=white:sample_rate=44100:amplitude=0.5",
-        # Scale to fill height (preserving aspect ratio), then center-crop to 9:16
-        "-vf", f"scale=-2:{VIDEO_HEIGHT},crop={VIDEO_WIDTH}:{VIDEO_HEIGHT},fps={VIDEO_FPS}",
-        "-map", "0:v", "-map", "1:a",
+        "-filter_complex",
+        f"[0:v]scale=-2:{VIDEO_HEIGHT},crop={VIDEO_WIDTH}:{VIDEO_HEIGHT},fps={VIDEO_FPS}[v];"
+        f"[1:a]aformat=channel_layouts=stereo[a]",
+        "-map", "[v]", "-map", "[a]",
         "-c:v", "libx264", "-preset", "fast", "-crf", "18",
         "-c:a", "aac", "-b:a", "128k",
         "-r", str(VIDEO_FPS),
@@ -65,7 +66,8 @@ def _add_static_outro(input_path: Path, output_path: Path) -> bool:
             "-i", str(input_path),
             "-i", str(static_segment),
             "-filter_complex",
-            "[0:v][0:a][1:v][1:a]concat=n=2:v=1:a=1[vout][aout]",
+            "[0:v]setsar=1[v0];[1:v]setsar=1[v1];"
+            "[v0][0:a][v1][1:a]concat=n=2:v=1:a=1[vout][aout]",
             "-map", "[vout]", "-map", "[aout]",
             "-c:v", "libx264", "-preset", "medium", "-crf", "23",
             "-c:a", "aac", "-b:a", "128k",
@@ -86,6 +88,7 @@ def process_post(
     watermark_scale: float = 0.7,
     theme: str = "yellow",
     static: bool = True,
+    ass_file: str | None = None,
 ) -> str | None:
     """Process a post into an Instagram-ready video.
 
@@ -96,6 +99,8 @@ def process_post(
               If False, scale to fit and pad with black bars.
         watermark: "white", "black", or "none".
         static: If True (default), add TV static outro effect.
+        ass_file: Path to an existing .ass subtitle file. If provided,
+                  skips subtitle generation and uses this file instead.
     """
     if not post.video_path:
         print("No video file available.")
@@ -109,29 +114,37 @@ def process_post(
     start_time = post.start_time if post.start_time is not None else 0
     duration = post.duration or DEFAULT_CLIP_DURATION
 
-    # Try to get per-line timing from YouTube captions
-    line_timings = None
-    if post.youtube_video_id:
-        try:
-            from rapwords.video.captions import align_lyrics_to_captions, download_captions
-            captions = download_captions(post.youtube_video_id)
-            if captions:
-                line_timings = align_lyrics_to_captions(
-                    captions, post, start_time, duration,
-                )
-                if line_timings:
-                    print(f"  Synced to captions ({len(line_timings)} lines aligned)")
-                else:
-                    print("  Captions available but alignment failed, using syllable-weighted timing")
-            else:
-                print("  No captions, using syllable-weighted timing")
-        except Exception:
-            print("  Caption sync skipped, using syllable-weighted timing")
-
-    # Generate subtitle file
     word_slug = "_".join(w.word for w in post.words)[:30]
-    ass_path = OUTPUT_DIR / f"{post.id}_{word_slug}.ass"
-    write_ass_file(post, duration, ass_path, line_timings=line_timings, show_attribution=show_attribution, theme=theme)
+
+    if ass_file:
+        ass_path = Path(ass_file)
+        if not ass_path.exists():
+            print(f"ASS file not found: {ass_path}")
+            return None
+        print(f"  Using existing subtitle file: {ass_path}")
+    else:
+        # Try to get per-line timing from YouTube captions
+        line_timings = None
+        if post.youtube_video_id:
+            try:
+                from rapwords.video.captions import align_lyrics_to_captions, download_captions
+                captions = download_captions(post.youtube_video_id)
+                if captions:
+                    line_timings = align_lyrics_to_captions(
+                        captions, post, start_time, duration,
+                    )
+                    if line_timings:
+                        print(f"  Synced to captions ({len(line_timings)} lines aligned)")
+                    else:
+                        print("  Captions available but alignment failed, using syllable-weighted timing")
+                else:
+                    print("  No captions, using syllable-weighted timing")
+            except Exception:
+                print("  Caption sync skipped, using syllable-weighted timing")
+
+        # Generate subtitle file
+        ass_path = OUTPUT_DIR / f"{post.id}_{word_slug}.ass"
+        write_ass_file(post, duration, ass_path, line_timings=line_timings, show_attribution=show_attribution, theme=theme)
 
     # Output path
     output_path = OUTPUT_DIR / f"{post.id}_{word_slug}.mp4"

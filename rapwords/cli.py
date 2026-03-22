@@ -320,7 +320,8 @@ def find_time(post_id):
 @click.option("--watermark-scale", type=float, default=0.7, help="Watermark size multiplier (default: 0.7)")
 @click.option("--theme", type=click.Choice(["yellow", "pink", "ice"]), default="yellow", help="Color theme for lyrics (default: yellow)")
 @click.option("--static/--no-static", default=True, help="Add TV static outro effect (default: on)")
-def process(post_id, start_time, duration, crop, attribution, watermark, watermark_scale, theme, static):
+@click.option("--ass-file", type=click.Path(exists=True), default=None, help="Use an existing .ass subtitle file instead of generating one")
+def process(post_id, start_time, duration, crop, attribution, watermark, watermark_scale, theme, static, ass_file):
     """Process a post into an Instagram-ready video with karaoke subtitles."""
     from rapwords.video.downloader import download_video
     from rapwords.video.processor import process_post
@@ -375,7 +376,7 @@ def process(post_id, start_time, duration, crop, attribution, watermark, waterma
     post.duration = duration
 
     console.print(f"\nProcessing: {start_time} + {duration}s ...")
-    output = process_post(post, crop=crop, show_attribution=attribution, watermark=watermark, watermark_scale=watermark_scale, theme=theme, static=static)
+    output = process_post(post, crop=crop, show_attribution=attribution, watermark=watermark, watermark_scale=watermark_scale, theme=theme, static=static, ass_file=ass_file)
     if output:
         post.output_path = output
         post.status = "processed"
