@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import random
 import subprocess
 from pathlib import Path
 
@@ -35,15 +36,18 @@ def _add_static_outro(input_path: Path, output_path: Path) -> bool:
     # Prepare a static segment scaled to match output dimensions,
     # replacing the asset's audio with generated white noise
     static_segment = input_path.with_suffix(".static_seg.mp4")
+    # Random seek into the asset for variety each time
+    seek = round(random.uniform(0.5, 5.0), 2)
     cmd_static = [
         "ffmpeg", "-y",
-        "-ss", "0.5",  # skip into the asset a bit for variety
+        "-ss", str(seek),
         "-t", str(STATIC_DURATION),
         "-i", str(STATIC_ASSET),
         "-f", "lavfi",
         "-t", str(STATIC_DURATION),
         "-i", f"anoisesrc=color=white:sample_rate=44100:amplitude=0.5",
-        "-vf", f"scale={VIDEO_WIDTH}:{VIDEO_HEIGHT},fps={VIDEO_FPS}",
+        # Scale to fill height (preserving aspect ratio), then center-crop to 9:16
+        "-vf", f"scale=-2:{VIDEO_HEIGHT},crop={VIDEO_WIDTH}:{VIDEO_HEIGHT},fps={VIDEO_FPS}",
         "-map", "0:v", "-map", "1:a",
         "-c:v", "libx264", "-preset", "fast", "-crf", "18",
         "-c:a", "aac", "-b:a", "128k",
