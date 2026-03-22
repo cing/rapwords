@@ -1,0 +1,25 @@
+[project]
+name = "rapwords"
+version = "0.1.0"
+description = "Prepare Instagram Reel content from hip-hop vocabulary blog posts"
+requires-python = ">=3.10"
+dependencies = [
+    "click>=8.0",
+    "rich>=13.0",
+    "requests>=2.28",
+    "beautifulsoup4>=4.12",
+    "pydantic>=2.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0", "ruff>=0.1"]
+
+[project.scripts]
+rapwords = "rapwords.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["rapwords*"]
+
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
