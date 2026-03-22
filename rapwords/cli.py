@@ -175,6 +175,75 @@ def download_all():
     console.print(f"\n[green]{success} downloaded[/green], [red]{failed} failed[/red]")
 
 
+@main.command("find-time")
+@click.argument("post_id", type=int)
+def find_time(post_id):
+    """Find lyrics timestamp using YouTube auto-captions."""
+    from rapwords.video.captions import download_captions, find_lyrics_timing, suggest_start_time
+
+    store = PostStore()
+    post = store.get_by_id(post_id)
+
+    if not post:
+        console.print(f"[red]Post {post_id} not found.[/red]")
+        return
+
+    if not post.youtube_video_id:
+        console.print(f"[red]Post {post_id} has no YouTube link.[/red]")
+        return
+
+    words = ", ".join(w.word for w in post.words)
+    console.print(f"Finding timestamp for [bold]{words}[/bold] in {post.artist} — \"{post.song_title}\"")
+    console.print(f"Lyrics to match:")
+    for line in post.lyrics_lines:
+        console.print(f"  [dim]{line}[/dim]")
+    console.print()
+
+    with console.status("[bold green]Downloading captions..."):
+        captions = download_captions(post.youtube_video_id)
+
+    if captions is None:
+        console.print("[red]No auto-captions available for this video.[/red]")
+        console.print("[dim]You'll need to find the timestamp manually by watching the video.[/dim]")
+        return
+
+    console.print(f"[green]Found {len(captions)} caption entries[/green]")
+
+    matches = find_lyrics_timing(captions, post)
+
+    if not matches:
+        console.print("[yellow]Could not match lyrics in captions.[/yellow]")
+        console.print("[dim]The auto-captions may not accurately transcribe this song.[/dim]")
+        console.print()
+        console.print("[dim]Caption text (for manual review):[/dim]")
+        for entry in captions:
+            m = int(entry.start // 60)
+            s = entry.start % 60
+            console.print(f"  [dim]{m:02d}:{s:05.2f}[/dim]  {entry.text}")
+        return
+
+    suggested = suggest_start_time(matches)
+
+    console.print()
+    confidence_colors = {"high": "green", "medium": "yellow", "low": "red"}
+    for m in matches:
+        color = confidence_colors[m.confidence]
+        mins = int(m.start // 60)
+        secs = m.start % 60
+        console.print(
+            f"  [{color}]{m.confidence:6s}[/{color}]  "
+            f"{mins:02d}:{secs:05.2f}  "
+            f"matched [bold]{m.matched_word}[/bold]  "
+            f"[dim]→ \"{m.caption_text}\"[/dim]"
+        )
+
+    if suggested is not None:
+        mins = int(suggested // 60)
+        secs = suggested % 60
+        console.print(f"\n[bold green]Suggested start time: {mins:02d}:{secs:05.2f}[/bold green]")
+        console.print(f"[dim]Usage: rapwords process {post_id} --start-time {mins:02d}:{secs:05.2f}[/dim]")
+
+
 @main.command()
 @click.argument("post_id", type=int)
 @click.option("--start-time", type=str, default=None, help="Start time in video (MM:SS or HH:MM:SS)")
