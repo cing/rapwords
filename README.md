@@ -38,7 +38,25 @@ rapwords download 1
 
 # Process a post into an Instagram-ready video
 rapwords process 1 --start-time 01:23 --duration 20
+
+# Look up all definitions for a word
+rapwords lookup bespoke
+rapwords lookup bespoke --context "before he speak his suit bespoke"
 ```
+
+### Process options
+
+| Option | Default | Effect |
+|---|---|---|
+| `--crop/--no-crop` | on | Crop to fill 9:16 (off = pad with black bars) |
+| `--theme` | yellow | Lyrics color theme: `yellow`, `pink`, or `ice` |
+| `--watermark` | white | Logo watermark: `white`, `black`, or `none` |
+| `--watermark-scale` | 0.7 | Watermark size multiplier |
+| `--static/--no-static` | on | TV static outro with hard cut and white noise |
+| `--ass-file` | — | Use a manually edited `.ass` subtitle file |
+| `--attribution/--no-attribution` | off | Show artist/song text overlay |
+
+To fine-tune subtitle timings: process once to generate the `.ass` file in `data/output/`, edit it, then re-render with `--ass-file`.
 
 ## Discovering new content
 
@@ -97,6 +115,18 @@ rapwords add
 # Flag a post as unsuitable (e.g. no real music video)
 rapwords flag 42 "audio only"
 rapwords unflag 42
+```
+
+## Fonts
+
+Subtitles use **Montserrat Bold**. Install it if not already available:
+
+```bash
+# Fedora
+sudo dnf install julietaula-montserrat-fonts
+
+# Ubuntu/Debian
+sudo apt install fonts-montserrat
 ```
 
 ## Data

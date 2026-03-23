@@ -30,6 +30,7 @@ class RapWordsPost(BaseModel):
     song_title: str = ""
     youtube_url: str | None = None
     youtube_video_id: str | None = None
+    release_year: int | None = None
     tumblr_date: str | None = None
 
     # Flagging

@@ -14,6 +14,7 @@ class SongResult:
     artist: str
     lyrics: str
     genius_url: str | None = None
+    release_year: int | None = None
 
 
 def _get_genius():
@@ -46,6 +47,7 @@ def search_song(artist_name: str, song_title: str) -> SongResult | None:
         artist=song.artist,
         lyrics=song.lyrics,
         genius_url=song.url,
+        release_year=_extract_year(song),
     )
 
 
@@ -67,5 +69,21 @@ def search_artist_songs(
                 artist=song.artist,
                 lyrics=song.lyrics,
                 genius_url=song.url,
+                release_year=_extract_year(song),
             ))
     return results
+
+
+def _extract_year(song) -> int | None:
+    """Extract release year from a lyricsgenius Song object."""
+    try:
+        data = song.to_dict()
+        components = data.get("release_date_components")
+        if components and components.get("year"):
+            return int(components["year"])
+        release_date = data.get("release_date", "")
+        if release_date and len(release_date) >= 4:
+            return int(release_date[:4])
+    except Exception:
+        pass
+    return None

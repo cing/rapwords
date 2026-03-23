@@ -14,6 +14,7 @@ class WordDefinition:
     part_of_speech: str
     definition: str
     wiktionary_url: str
+    syllables: str | None = None
 
 
 # Map NLTK universal POS tags to dictionary POS labels
@@ -64,17 +65,29 @@ def get_definition(word: str, context_sentence: str | None = None) -> WordDefini
     if not all_defs:
         return None
 
+    syllables = _get_syllables(word)
+
     # If we have a context sentence, try to match POS
     if context_sentence:
         target_pos = _get_word_pos(word, context_sentence)
         if target_pos:
             for pos, defn in all_defs:
                 if pos == target_pos:
-                    return WordDefinition(word=word, part_of_speech=pos, definition=defn, wiktionary_url=url)
+                    return WordDefinition(word=word, part_of_speech=pos, definition=defn, wiktionary_url=url, syllables=syllables)
 
     # Fallback: first definition
     pos, defn = all_defs[0]
-    return WordDefinition(word=word, part_of_speech=pos, definition=defn, wiktionary_url=url)
+    return WordDefinition(word=word, part_of_speech=pos, definition=defn, wiktionary_url=url, syllables=syllables)
+
+
+def _get_syllables(word: str) -> str | None:
+    """Get syllable-separated form of a word (e.g. 'in·sin·u·ate')."""
+    try:
+        import pyphen
+        h = pyphen.Pyphen(lang="en_US")
+        return h.inserted(word.lower(), "·")
+    except Exception:
+        return None
 
 
 def _get_word_pos(word: str, sentence: str) -> str | None:

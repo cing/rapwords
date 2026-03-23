@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import re
+import sys
 
 import click
 from rich.console import Console
@@ -42,8 +43,10 @@ def scrape():
 @click.option("--status", "filter_status", default=None, help="Filter by status")
 @click.option("--flagged", is_flag=True, default=False, help="Show only flagged posts")
 @click.option("--usable", is_flag=True, default=False, help="Show only unflagged posts")
-def list_posts(filter_status, flagged, usable):
-    """List all posts."""
+@click.option("--posted", is_flag=True, default=False, help="Show posted posts (hidden by default)")
+@click.option("--all", "show_all", is_flag=True, default=False, help="Show all posts including posted")
+def list_posts(filter_status, flagged, usable, posted, show_all):
+    """List all posts. Hides posted posts by default."""
     store = PostStore()
     posts = store.get_by_status(filter_status) if filter_status else store.get_all()
 
@@ -51,6 +54,10 @@ def list_posts(filter_status, flagged, usable):
         posts = [p for p in posts if p.flag]
     elif usable:
         posts = [p for p in posts if not p.flag]
+    elif posted:
+        posts = [p for p in posts if p.status == "posted"]
+    elif not show_all and not filter_status:
+        posts = [p for p in posts if p.status != "posted" and not p.flag]
 
     if not posts:
         console.print("[yellow]No posts found. Run 'rapwords scrape' first.[/yellow]")
@@ -164,6 +171,46 @@ def unflag(post_id):
     store.save()
     words = ", ".join(w.word for w in post.words)
     console.print(f"[green]Unflagged[/green] post {post_id} ({words}), was: {old_flag}")
+
+
+@main.command(name="mark-posted")
+@click.argument("post_id", type=int)
+def mark_posted(post_id):
+    """Mark a post as posted to Instagram."""
+    store = PostStore()
+    post = store.get_by_id(post_id)
+
+    if not post:
+        console.print(f"[red]Post {post_id} not found.[/red]")
+        return
+
+    post.status = "posted"
+    store.update(post)
+    store.save()
+    words = ", ".join(w.word for w in post.words)
+    console.print(f"[green]Marked as posted:[/green] {post_id} ({words})")
+
+
+@main.command(name="unmark-posted")
+@click.argument("post_id", type=int)
+def unmark_posted(post_id):
+    """Revert a post from posted status back to processed."""
+    store = PostStore()
+    post = store.get_by_id(post_id)
+
+    if not post:
+        console.print(f"[red]Post {post_id} not found.[/red]")
+        return
+
+    if post.status != "posted":
+        console.print(f"[yellow]Post {post_id} is not marked as posted (status: {post.status}).[/yellow]")
+        return
+
+    post.status = "processed"
+    store.update(post)
+    store.save()
+    words = ", ".join(w.word for w in post.words)
+    console.print(f"[green]Reverted to processed:[/green] {post_id} ({words})")
 
 
 @main.command()
@@ -383,8 +430,131 @@ def process(post_id, start_time, duration, crop, attribution, watermark, waterma
         store.update(post)
         store.save()
         console.print(f"[green]Output → {output}[/green]")
+
+        caption_text = _generate_caption(post)
+        console.print()
+        console.print(caption_text)
+        console.print()
+
+        # Copy caption to clipboard if possible
+        try:
+            import subprocess as sp
+            sp.run(["xclip", "-selection", "clipboard"], input=caption_text.encode(), check=True, timeout=5)
+            console.print("[dim]Caption copied to clipboard.[/dim]")
+        except Exception:
+            pass
     else:
         console.print("[red]Processing failed.[/red]")
+
+
+def _generate_caption(post: RapWordsPost) -> str:
+    """Generate an Instagram caption for a post."""
+    lines = []
+
+    for w in post.words:
+        display = (w.syllables or w.word).lower()
+        lines.append(f"{display} ({w.part_of_speech.value}) — {w.definition}")
+
+    lines.append("")
+
+    for line in post.lyrics_lines:
+        lines.append(f'"{line}"')
+
+    if post.artist or post.song_title:
+        attribution = f"— {post.artist}, \"{post.song_title}\""
+        if post.release_year:
+            attribution += f" ({post.release_year})"
+        lines.append(attribution)
+
+    lines.append("")
+    lines.append("#rapwords #hiphop #vocabulary #wordoftheday #lyrics")
+
+    return "\n".join(lines)
+
+
+@main.command()
+@click.argument("post_id", type=int)
+def caption(post_id):
+    """Generate an Instagram caption for a post."""
+    store = PostStore()
+    post = store.get_by_id(post_id)
+
+    if not post:
+        console.print(f"[red]Post {post_id} not found.[/red]")
+        return
+
+    caption_text = _generate_caption(post)
+    console.print()
+    console.print(caption_text)
+    console.print()
+
+    # Copy to clipboard if possible
+    try:
+        import subprocess
+        subprocess.run(["xclip", "-selection", "clipboard"], input=caption_text.encode(), check=True, timeout=5)
+        console.print("[dim]Copied to clipboard.[/dim]")
+    except Exception:
+        pass
+
+
+@main.command()
+@click.argument("word")
+@click.option("--context", type=str, default=None, help="Context sentence for POS matching")
+def lookup(word, context):
+    """Look up all definitions for a word from the Free Dictionary API."""
+    import re
+    import requests
+
+    url = f"https://api.dictionaryapi.dev/api/v2/entries/en/{word.lower()}"
+    try:
+        resp = requests.get(url, timeout=10)
+    except Exception as e:
+        console.print(f"[red]Request failed: {e}[/red]")
+        return
+
+    if resp.status_code != 200:
+        console.print(f"[red]No results for '{word}'[/red]")
+        return
+
+    data = resp.json()
+    if not isinstance(data, list) or not data:
+        console.print(f"[red]No results for '{word}'[/red]")
+        return
+
+    # Show syllable breakdown
+    try:
+        import pyphen
+        h = pyphen.Pyphen(lang="en_US")
+        console.print(f"[bold cyan]{h.inserted(word.lower(), '·')}[/bold cyan]\n")
+    except Exception:
+        pass
+
+    # If context provided, show what POS NLTK would pick
+    if context:
+        try:
+            import nltk
+            tokens = nltk.word_tokenize(context)
+            tagged = nltk.pos_tag(tokens, tagset="universal")
+            for token, pos in tagged:
+                if token.lower() == word.lower():
+                    console.print(f"[dim]NLTK POS in context: {pos}[/dim]\n")
+                    break
+        except Exception:
+            pass
+
+    for entry in data:
+        for meaning in entry.get("meanings", []):
+            pos = meaning.get("partOfSpeech", "")
+            definitions = meaning.get("definitions", [])
+            if pos:
+                console.print(f"[bold cyan]{pos}[/bold cyan]")
+            for i, d in enumerate(definitions, 1):
+                defn = re.sub(r"<[^>]+>", "", d.get("definition", ""))
+                example = d.get("example", "")
+                console.print(f"  {i}. {defn}")
+                if example:
+                    console.print(f"     [dim]\"{example}\"[/dim]")
+            console.print()
 
 
 def _extract_video_id(url: str) -> str | None:
@@ -411,7 +581,8 @@ def _extract_video_id(url: str) -> str | None:
 @click.option("--pos", type=click.Choice(["noun", "verb", "adjective", "adverb", "other"]), default=None, help="Part of speech of first featured word")
 @click.option("--add-word", type=str, default=None, help="Add a new featured word (word:pos:definition)")
 @click.option("--remove-word", type=str, default=None, help="Remove a featured word by name")
-def edit(post_id, youtube_url, artist, song, lyrics, word, definition, pos, add_word, remove_word):
+@click.option("--year", type=int, default=None, help="Song release year")
+def edit(post_id, youtube_url, artist, song, lyrics, word, definition, pos, add_word, remove_word, year):
     """Edit fields of an existing post.
 
     Examples:
@@ -461,9 +632,20 @@ def edit(post_id, youtube_url, artist, song, lyrics, word, definition, pos, add_
         changes.append(f"song_title: {post.song_title} → {song}")
         post.song_title = song
 
+    if year is not None:
+        changes.append(f"release_year: {post.release_year} → {year}")
+        post.release_year = year
+
     if lyrics is not None:
+        old_lines = post.lyrics_lines
         post.lyrics_lines = [line.strip() for line in lyrics.split("|") if line.strip()]
-        changes.append(f"lyrics: {len(post.lyrics_lines)} lines")
+        changes.append(f"lyrics: {len(old_lines)} → {len(post.lyrics_lines)} lines")
+        console.print("\n[dim]Previous lyrics:[/dim]")
+        for line in old_lines:
+            console.print(f"  [red]{line}[/red]")
+        console.print("[dim]New lyrics:[/dim]")
+        for line in post.lyrics_lines:
+            console.print(f"  [green]{line}[/green]")
 
     if word is not None and post.words:
         old_word = post.words[0].word
@@ -553,6 +735,64 @@ def add(artist, song, youtube_url, lyrics, word, pos, definition):
     console.print(f"  {post.artist} — \"{post.song_title}\"")
     if post.youtube_video_id:
         console.print(f"  YouTube: {post.youtube_url}")
+
+
+@main.command(name="backfill-years")
+def backfill_years():
+    """Look up release years from Genius for posts that don't have one."""
+    import io
+    import os
+    import time
+
+    if sys.stdout.encoding is None:
+        sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
+
+    token = os.environ.get("GENIUS_API_TOKEN")
+    if not token:
+        console.print("[red]Set GENIUS_API_TOKEN env var first.[/red]")
+        return
+
+    import lyricsgenius
+    genius = lyricsgenius.Genius(token, verbose=False)
+
+    store = PostStore()
+    posts = store.get_all()
+    missing = [p for p in posts if p.release_year is None and p.artist and p.song_title]
+
+    if not missing:
+        console.print("[green]All posts already have release years.[/green]")
+        return
+
+    console.print(f"Found {len(missing)} posts without release years.\n")
+    updated = 0
+
+    for post in missing:
+        try:
+            song = genius.search_song(post.song_title, post.artist)
+            if song:
+                data = song.to_dict()
+                components = data.get("release_date_components")
+                year = None
+                if components and components.get("year"):
+                    year = int(components["year"])
+                elif data.get("release_date", "") and len(data["release_date"]) >= 4:
+                    year = int(data["release_date"][:4])
+
+                if year:
+                    post.release_year = year
+                    store.update(post)
+                    console.print(f"  [green]{post.id}[/green] {post.artist} — \"{post.song_title}\" → {year}")
+                    updated += 1
+                else:
+                    console.print(f"  [yellow]{post.id}[/yellow] {post.artist} — \"{post.song_title}\" — no date on Genius")
+            else:
+                console.print(f"  [yellow]{post.id}[/yellow] {post.artist} — \"{post.song_title}\" — not found")
+            time.sleep(0.5)  # rate limit
+        except Exception as e:
+            console.print(f"  [red]{post.id}[/red] {post.artist} — \"{post.song_title}\" — error: {e}")
+
+    store.save()
+    console.print(f"\n[green]Updated {updated}/{len(missing)} posts.[/green]")
 
 
 @main.command()
@@ -681,6 +921,8 @@ def discover(artist, song, max_songs, auto, max_freq, min_length):
         context = " ".join(bars) if bars else None
         defn = get_definition(word, context_sentence=context)
         if defn:
+            if defn.syllables:
+                console.print(f"[dim]Syllables:[/dim] {defn.syllables}")
             console.print(f"[dim]Definition:[/dim] {defn.part_of_speech} — {defn.definition}")
             console.print(f"[dim]{defn.wiktionary_url}[/dim]")
         else:
@@ -698,6 +940,7 @@ def discover(artist, song, max_songs, auto, max_freq, min_length):
         # Create post
         featured_word = FeaturedWord(
             word=word,
+            syllables=defn.syllables if defn else None,
             part_of_speech=PartOfSpeech(defn.part_of_speech) if defn and defn.part_of_speech in [e.value for e in PartOfSpeech] else PartOfSpeech.OTHER,
             definition=defn.definition if defn else "",
             wiktionary_url=defn.wiktionary_url if defn else None,
@@ -712,6 +955,7 @@ def discover(artist, song, max_songs, auto, max_freq, min_length):
             song_title=s.title,
             youtube_url=yt.url if yt else None,
             youtube_video_id=yt.video_id if yt else None,
+            release_year=s.release_year,
         )
 
         store.add(post)
