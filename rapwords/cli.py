@@ -368,7 +368,8 @@ def find_time(post_id):
 @click.option("--theme", type=click.Choice(["yellow", "pink", "ice"]), default="yellow", help="Color theme for lyrics (default: yellow)")
 @click.option("--static/--no-static", default=True, help="Add TV static outro effect (default: on)")
 @click.option("--ass-file", type=click.Path(exists=True), default=None, help="Use an existing .ass subtitle file instead of generating one")
-def process(post_id, start_time, duration, crop, attribution, watermark, watermark_scale, theme, static, ass_file):
+@click.option("--align/--no-align", default=True, help="Use whisperX for word-level timing (default: on)")
+def process(post_id, start_time, duration, crop, attribution, watermark, watermark_scale, theme, static, ass_file, align):
     """Process a post into an Instagram-ready video with karaoke subtitles."""
     from rapwords.video.downloader import download_video
     from rapwords.video.processor import process_post
@@ -423,7 +424,7 @@ def process(post_id, start_time, duration, crop, attribution, watermark, waterma
     post.duration = duration
 
     console.print(f"\nProcessing: {start_time} + {duration}s ...")
-    output = process_post(post, crop=crop, show_attribution=attribution, watermark=watermark, watermark_scale=watermark_scale, theme=theme, static=static, ass_file=ass_file)
+    output = process_post(post, crop=crop, show_attribution=attribution, watermark=watermark, watermark_scale=watermark_scale, theme=theme, static=static, ass_file=ass_file, use_align=align)
     if output:
         post.output_path = output
         post.status = "processed"
@@ -740,19 +741,20 @@ def add(artist, song, youtube_url, lyrics, word, pos, definition):
 @main.command(name="backfill-years")
 def backfill_years():
     """Look up release years from Genius for posts that don't have one."""
-    import io
+    import logging
     import os
     import time
-
-    if sys.stdout.encoding is None:
-        sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
 
     token = os.environ.get("GENIUS_API_TOKEN")
     if not token:
         console.print("[red]Set GENIUS_API_TOKEN env var first.[/red]")
         return
 
+    from rapwords.discover.lyrics import _patch_lyricsgenius
+
     import lyricsgenius
+    _patch_lyricsgenius()
+    logging.getLogger("lyricsgenius").setLevel(logging.WARNING)
     genius = lyricsgenius.Genius(token, verbose=False)
 
     store = PostStore()

@@ -2,9 +2,7 @@
 
 from __future__ import annotations
 
-import io
 import os
-import sys
 from dataclasses import dataclass
 
 
@@ -17,13 +15,28 @@ class SongResult:
     release_year: int | None = None
 
 
+def _patch_lyricsgenius():
+    """Patch lyricsgenius's safe_unicode to not crash when sys.stdout.encoding is None."""
+    import lyricsgenius.genius
+    import lyricsgenius.types.artist
+    import lyricsgenius.types.base
+    import lyricsgenius.utils
+
+    _safe = lambda s: s if isinstance(s, str) else str(s)
+    for mod in (lyricsgenius.utils, lyricsgenius.genius,
+                lyricsgenius.types.artist, lyricsgenius.types.base):
+        if hasattr(mod, "safe_unicode"):
+            mod.safe_unicode = _safe
+
+
 def _get_genius():
     """Create a lyricsgenius client using GENIUS_API_TOKEN env var."""
-    # lyricsgenius uses sys.stdout.encoding which can be None in non-TTY contexts
-    if sys.stdout.encoding is None:
-        sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
+    import logging
 
     import lyricsgenius
+
+    _patch_lyricsgenius()
+    logging.getLogger("lyricsgenius").setLevel(logging.WARNING)
 
     token = os.environ.get("GENIUS_API_TOKEN")
     if not token:
@@ -31,7 +44,7 @@ def _get_genius():
             "Set GENIUS_API_TOKEN environment variable. "
             "Get a free token at https://genius.com/api-clients"
         )
-    genius = lyricsgenius.Genius(token, verbose=False, remove_section_headers=True)
+    genius = lyricsgenius.Genius(token, remove_section_headers=True)
     genius.retries = 3
     return genius
 

@@ -89,7 +89,7 @@
     "video_downloaded": true,
     "video_path": "/home/cing/proteinqure/code/playground/rapwords/data/videos/3_xvAFTiP3vzk.mp4",
     "output_path": "/home/cing/proteinqure/code/playground/rapwords/data/output/3_insinuate.mp4",
-    "status": "posted"
+    "status": "processed"
   },
   {
     "id": 4,
@@ -1675,7 +1675,7 @@
     "youtube_video_id": "ph_UEzQu1D8",
     "release_year": 2006,
     "tumblr_date": null,
-    "flag": null,
+    "flag": "audio only",
     "start_time": null,
     "duration": null,
     "video_downloaded": false,
@@ -1803,7 +1803,7 @@
     "youtube_video_id": "jyF-YQRhNJo",
     "release_year": 2004,
     "tumblr_date": null,
-    "flag": null,
+    "flag": "audio only",
     "start_time": null,
     "duration": null,
     "video_downloaded": false,
@@ -1866,7 +1866,7 @@
     "youtube_video_id": "jwDZ0mcMUMY",
     "release_year": 2001,
     "tumblr_date": null,
-    "flag": null,
+    "flag": "audio only",
     "start_time": null,
     "duration": null,
     "video_downloaded": false,
@@ -2562,7 +2562,7 @@
     "youtube_video_id": null,
     "release_year": 2000,
     "tumblr_date": null,
-    "flag": null,
+    "flag": "audio only",
     "start_time": null,
     "duration": null,
     "video_downloaded": false,
@@ -3136,22 +3136,22 @@
       }
     ],
     "lyrics_lines": [
-      "Im on more than they’re on, cocaine or methadone",
-      "Im on this money these bitches the upper echelon"
+      "I'm on more than they're on, cocaine or methadone",
+      "I'm on this money these bitches the upper echelon"
     ],
     "artist": "Ja Rule",
     "song_title": "Real Life Fantasy",
-    "youtube_url": "http://www.youtube.com/watch?v=nKyjxzen7xM",
-    "youtube_video_id": "nKyjxzen7xM",
+    "youtube_url": "https://www.youtube.com/watch?v=MnMixto0oMY",
+    "youtube_video_id": "MnMixto0oMY",
     "release_year": 2012,
     "tumblr_date": null,
     "flag": null,
-    "start_time": null,
-    "duration": null,
-    "video_downloaded": false,
-    "video_path": null,
-    "output_path": null,
-    "status": "scraped"
+    "start_time": 142.8,
+    "duration": 8.2,
+    "video_downloaded": true,
+    "video_path": "/home/cing/proteinqure/code/playground/rapwords/data/videos/93_MnMixto0oMY.mp4",
+    "output_path": "/home/cing/proteinqure/code/playground/rapwords/data/output/93_echelon.mp4",
+    "status": "processed"
   },
   {
     "id": 94,
@@ -3453,7 +3453,7 @@
     "youtube_video_id": "uAimifh8uco",
     "release_year": 2012,
     "tumblr_date": null,
-    "flag": null,
+    "flag": "audio only",
     "start_time": null,
     "duration": null,
     "video_downloaded": false,
@@ -4040,13 +4040,13 @@
     ],
     "artist": "Rick Ross",
     "song_title": "Amsterdam",
-    "youtube_url": "https://www.youtube.com/watch?v=fEHLI0JFab8",
-    "youtube_video_id": "fEHLI0JFab8",
+    "youtube_url": "https://www.youtube.com/watch?v=zf4ZiJPsU3w",
+    "youtube_video_id": "zf4ZiJPsU3w",
     "release_year": 2012,
     "tumblr_date": null,
     "flag": null,
-    "start_time": null,
-    "duration": null,
+    "start_time": 146.17000000000002,
+    "duration": 15.0,
     "video_downloaded": false,
     "video_path": null,
     "output_path": null,
@@ -4215,7 +4215,7 @@
     "video_downloaded": true,
     "video_path": "/home/cing/proteinqure/code/playground/rapwords/data/videos/126_t_Z8X_bgEpw.mp4",
     "output_path": "/home/cing/proteinqure/code/playground/rapwords/data/output/126_ubiquitous.mp4",
-    "status": "posted"
+    "status": "processed"
   },
   {
     "id": 127,
@@ -4528,5 +4528,68 @@
     "video_path": "/home/cing/proteinqure/code/playground/rapwords/data/videos/135_NLZRYQMLDW4.mp4",
     "output_path": "/home/cing/proteinqure/code/playground/rapwords/data/output/135_ambition.mp4",
     "status": "processed"
+  },
+  {
+    "id": 136,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "ignoramuses",
+        "syllables": "ig·no·ra·mus·es",
+        "part_of_speech": "noun",
+        "definition": "A totally ignorant person—unknowledgeable, uneducated, or uninformed; a fool.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/ignoramuses"
+      }
+    ],
+    "lyrics_lines": [
+      "Ignoramuses enlist and sound dumb",
+      "Found 'em drowned in cow's dung, crowns flung"
+    ],
+    "artist": "MF DOOM",
+    "song_title": "That’s That",
+    "youtube_url": "https://www.youtube.com/watch?v=EgEM7xW9pJc",
+    "youtube_video_id": "EgEM7xW9pJc",
+    "release_year": 2009,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 137,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "effervescence",
+        "syllables": "ef·fer·ves·cence",
+        "part_of_speech": "noun",
+        "definition": "The escape of gas from solution in a liquid, especially the escape of carbon dioxide from a carbonated drink.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/effervescence"
+      }
+    ],
+    "lyrics_lines": [
+      "When I was four, I penned \"God Was Born In New York\"",
+      "Back in '77, still got nan in the crescent",
+      "The effervescence of God's presence is thick",
+      "Unlike vapor, Esther Rolle, extra raw, word to the baker",
+      "Peace to the hardworkin' gingerbread makers"
+    ],
+    "artist": "MF DOOM",
+    "song_title": "Potholderz",
+    "youtube_url": "https://www.youtube.com/watch?v=O2vkAvYboZk",
+    "youtube_video_id": "O2vkAvYboZk",
+    "release_year": 2003,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
   }
 ]

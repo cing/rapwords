@@ -44,10 +44,10 @@ THEMES: dict[str, LyricsTheme] = {
         lyrics_secondary="&H00FFFFFF",
         lyrics_outline="&H009933FF",
         lyrics_back="&H009933FF",
-        featured_color="&H00EEFFFF",
+        featured_color="&H00000000",
         worddef_primary="&H00FFFFFF",
-        worddef_outline="&H009933FF",
-        worddef_back="&HC09933FF",
+        worddef_outline="&H00202020",
+        worddef_back="&HC0000000",
     ),
     "ice": LyricsTheme(
         name="ice",
@@ -57,8 +57,8 @@ THEMES: dict[str, LyricsTheme] = {
         lyrics_back="&H00FFDDAA",
         featured_color="&H00CC4400",
         worddef_primary="&H00FFFFFF",
-        worddef_outline="&H00FFDDAA",
-        worddef_back="&HC0FFDDAA",
+        worddef_outline="&H00202020",
+        worddef_back="&HC0000000",
     ),
 }
 
@@ -77,8 +77,8 @@ ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: WordDef,Montserrat Bold,44,{theme.worddef_primary},&H000000FF,{theme.worddef_outline},{theme.worddef_back},-1,0,0,0,100,100,1,0,3,10,0,8,60,60,60,1
-Style: Lyrics,Montserrat Bold,48,{theme.lyrics_primary},{theme.lyrics_secondary},{theme.lyrics_outline},{theme.lyrics_back},-1,0,0,0,100,100,2,0,3,12,0,2,80,80,300,1
+Style: WordDef,Montserrat Bold,68,{theme.worddef_primary},&H000000FF,{theme.worddef_outline},{theme.worddef_back},-1,0,0,0,100,100,1,0,3,10,0,8,60,60,280,1
+Style: Lyrics,Montserrat Bold,72,{theme.lyrics_primary},{theme.lyrics_secondary},{theme.lyrics_outline},{theme.lyrics_back},-1,0,0,0,100,100,2,0,3,12,0,2,80,80,420,1
 Style: Attribution,Montserrat Bold,36,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,2,1,2,40,40,100,1
 
 [Events]
@@ -196,14 +196,27 @@ def generate_ass(
     for i, lyric_line in enumerate(post.lyrics_lines):
         line_start, line_end = line_intervals[i]
 
-        words_in_line = lyric_line.split()
+        words_in_line = lyric_line.upper().split()
         if not words_in_line:
             continue
 
         line_duration = line_end - line_start
 
-        # Distribute time weighted by syllable count
-        cs_per_word = _distribute_time_by_syllables(words_in_line, line_duration)
+        # Get per-word timing: use whisperX word timings if available, else syllable estimate
+        has_word_timings = (
+            line_timings
+            and i < len(line_timings)
+            and hasattr(line_timings[i], "words")
+            and line_timings[i].words
+            and len(line_timings[i].words) == len(words_in_line)
+        )
+        if has_word_timings:
+            # Use real per-word durations from alignment
+            cs_per_word = []
+            for wt in line_timings[i].words:
+                cs_per_word.append(max(1, int((wt.end - wt.start) * 100)))
+        else:
+            cs_per_word = _distribute_time_by_syllables(words_in_line, line_duration)
 
         # Build karaoke text with \kf (fill) tags
         karaoke_parts = []
@@ -211,7 +224,7 @@ def generate_ass(
             cs = cs_per_word[j]
             if _is_featured_word(word_text, featured_words):
                 karaoke_parts.append(
-                    f"{{\\kf{cs}\\c{resolved_theme.featured_color}\\2c{resolved_theme.featured_color}\\fs56}}{word_text}{{\\c\\2c\\fs}}"
+                    f"{{\\kf{cs}\\c{resolved_theme.featured_color}\\2c{resolved_theme.featured_color}}}{word_text}{{\\c\\2c}}"
                 )
             else:
                 karaoke_parts.append(f"{{\\kf{cs}}}{word_text}")

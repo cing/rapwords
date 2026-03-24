@@ -89,6 +89,7 @@ def process_post(
     theme: str = "yellow",
     static: bool = True,
     ass_file: str | None = None,
+    use_align: bool = True,
 ) -> str | None:
     """Process a post into an Instagram-ready video.
 
@@ -101,6 +102,7 @@ def process_post(
         static: If True (default), add TV static outro effect.
         ass_file: Path to an existing .ass subtitle file. If provided,
                   skips subtitle generation and uses this file instead.
+        use_align: If True (default), use whisperX for word-level timing.
     """
     if not post.video_path:
         print("No video file available.")
@@ -123,9 +125,25 @@ def process_post(
             return None
         print(f"  Using existing subtitle file: {ass_path}")
     else:
-        # Try to get per-line timing from YouTube captions
+        # Try to get per-line timing, with word-level alignment
+        # Priority: 1) whisperX forced alignment, 2) YouTube captions, 3) syllable estimation
         line_timings = None
-        if post.youtube_video_id:
+
+        # Try whisperX alignment first (gives word-level timing)
+        if use_align:
+            try:
+                from rapwords.video.align import align_lyrics
+                line_timings = align_lyrics(
+                    post.video_path, post.lyrics_lines, start_time, duration,
+                )
+                if line_timings:
+                    word_count = sum(len(lt.words) for lt in line_timings)
+                    print(f"  whisperX aligned {word_count} words across {len(line_timings)} lines")
+            except Exception as e:
+                print(f"  whisperX skipped: {e}")
+
+        # Fall back to YouTube captions for line-level timing
+        if not line_timings and post.youtube_video_id:
             try:
                 from rapwords.video.captions import align_lyrics_to_captions, download_captions
                 captions = download_captions(post.youtube_video_id)
