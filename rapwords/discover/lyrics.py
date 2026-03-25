@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import os
+import time
 from dataclasses import dataclass
 
 
@@ -44,15 +45,26 @@ def _get_genius():
             "Set GENIUS_API_TOKEN environment variable. "
             "Get a free token at https://genius.com/api-clients"
         )
-    genius = lyricsgenius.Genius(token, remove_section_headers=True)
-    genius.retries = 3
+    genius = lyricsgenius.Genius(token, remove_section_headers=True, timeout=30)
+    genius.retries = 5
     return genius
 
 
 def search_song(artist_name: str, song_title: str) -> SongResult | None:
     """Search for a specific song by artist and title. Returns lyrics or None."""
     genius = _get_genius()
-    song = genius.search_song(song_title, artist_name)
+    for attempt in range(3):
+        try:
+            song = genius.search_song(song_title, artist_name)
+            break
+        except Exception as e:
+            if attempt < 2:
+                wait = 5 * (attempt + 1)
+                print(f"  Timeout, retrying in {wait}s... ({e.__class__.__name__})")
+                time.sleep(wait)
+            else:
+                print(f"  Failed after 3 attempts: {e}")
+                return None
     if not song or not song.lyrics:
         return None
     return SongResult(
@@ -70,7 +82,20 @@ def search_artist_songs(
 ) -> list[SongResult]:
     """Fetch songs for an artist from Genius. Returns list of SongResults with lyrics."""
     genius = _get_genius()
-    artist = genius.search_artist(artist_name, max_songs=max_songs, sort="popularity")
+    for attempt in range(3):
+        try:
+            artist = genius.search_artist(artist_name, max_songs=max_songs, sort="popularity")
+            break
+        except Exception as e:
+            if attempt < 2:
+                wait = 5 * (attempt + 1)
+                print(f"  Timeout, retrying in {wait}s... ({e.__class__.__name__})")
+                time.sleep(wait)
+            else:
+                print(f"  Failed after 3 attempts: {e}")
+                return []
+    else:
+        return []
     if not artist:
         return []
 

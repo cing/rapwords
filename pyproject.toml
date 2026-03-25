@@ -12,6 +12,7 @@ dependencies = [
     "lyricsgenius>=3.0",
     "pronouncing>=0.2",
     "pyphen>=0.14",
+    "wordfreq>=3.0",
     "wiktionaryparser>=0.0.7",
 ]
 

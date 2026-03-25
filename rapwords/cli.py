@@ -215,7 +215,8 @@ def unmark_posted(post_id):
 
 @main.command()
 @click.argument("post_id", type=int)
-def download(post_id):
+@click.option("--cookies", default=None, help="Browser to extract cookies from (e.g. chrome, firefox, brave) for age-restricted videos")
+def download(post_id, cookies):
     """Download YouTube video for a post."""
     from rapwords.video.downloader import download_video
 
@@ -233,7 +234,7 @@ def download(post_id):
     words = ", ".join(w.word for w in post.words)
     console.print(f"Downloading video for [bold]{words}[/bold] — {post.artist} \"{post.song_title}\"")
 
-    result = download_video(post)
+    result = download_video(post, cookies_from_browser=cookies)
     if result:
         post.video_downloaded = True
         post.video_path = result
@@ -246,7 +247,8 @@ def download(post_id):
 
 
 @main.command("download-all")
-def download_all():
+@click.option("--cookies", default=None, help="Browser to extract cookies from (e.g. chrome, firefox, brave) for age-restricted videos")
+def download_all(cookies):
     """Download YouTube videos for all posts."""
     from rapwords.video.downloader import download_video
 
@@ -263,7 +265,7 @@ def download_all():
         words = ", ".join(w.word for w in post.words)
         console.print(f"[{i}/{len(posts)}] {words} — {post.artist}... ", end="")
 
-        result = download_video(post)
+        result = download_video(post, cookies_from_browser=cookies)
         if result:
             post.video_downloaded = True
             post.video_path = result
@@ -369,7 +371,8 @@ def find_time(post_id):
 @click.option("--static/--no-static", default=True, help="Add TV static outro effect (default: on)")
 @click.option("--ass-file", type=click.Path(exists=True), default=None, help="Use an existing .ass subtitle file instead of generating one")
 @click.option("--align/--no-align", default=True, help="Use whisperX for word-level timing (default: on)")
-def process(post_id, start_time, duration, crop, attribution, watermark, watermark_scale, theme, static, ass_file, align):
+@click.option("--cookies", default=None, help="Browser to extract cookies from (e.g. chrome, firefox, brave) for age-restricted videos")
+def process(post_id, start_time, duration, crop, attribution, watermark, watermark_scale, theme, static, ass_file, align, cookies):
     """Process a post into an Instagram-ready video with karaoke subtitles."""
     from rapwords.video.downloader import download_video
     from rapwords.video.processor import process_post
@@ -399,7 +402,7 @@ def process(post_id, start_time, duration, crop, attribution, watermark, waterma
             console.print("[red]No YouTube link for this post.[/red]")
             return
         console.print("Downloading video...")
-        result = download_video(post)
+        result = download_video(post, cookies_from_browser=cookies)
         if not result:
             console.print("[red]Download failed.[/red]")
             return
@@ -755,7 +758,8 @@ def backfill_years():
     import lyricsgenius
     _patch_lyricsgenius()
     logging.getLogger("lyricsgenius").setLevel(logging.WARNING)
-    genius = lyricsgenius.Genius(token, verbose=False)
+    genius = lyricsgenius.Genius(token, verbose=False, timeout=30)
+    genius.retries = 5
 
     store = PostStore()
     posts = store.get_all()
@@ -802,18 +806,20 @@ def backfill_years():
 @click.option("--song", default=None, help="Specific song title (omit to scan multiple songs)")
 @click.option("--max-songs", default=20, type=int, help="Max songs to scan when no --song given")
 @click.option("--auto", is_flag=True, default=False, help="Auto-add all discovered words without prompting")
-@click.option("--max-freq", default=400_000, type=int, help="Max word frequency (lower = rarer words only, default 400000)")
+@click.option("--max-zipf", default=3.5, type=float, help="Max Zipf frequency score (lower = rarer, default 3.5)")
 @click.option("--min-length", default=5, type=int, help="Minimum word length (default 5)")
-def discover(artist, song, max_songs, auto, max_freq, min_length):
+def discover(artist, song, max_songs, auto, max_zipf, min_length):
     """Discover new big words in hip-hop lyrics from Genius.
 
-    Use --max-freq and --min-length to control word rarity:
+    Use --max-zipf and --min-length to control word rarity:
 
-      --max-freq 100000   Only very rare words
+      --max-zipf 3.5    Default — uncommon words ("ubiquitous", "impediment")
 
-      --max-freq 50000    Extremely rare words
+      --max-zipf 3.0    Only rare words ("insinuate", "ameliorate")
 
-      --min-length 7      Only longer words
+      --max-zipf 2.5    Very rare words ("juxtapose", "defenestrate")
+
+      --min-length 7    Only longer words
 
     Examples:
 
@@ -821,7 +827,7 @@ def discover(artist, song, max_songs, auto, max_freq, min_length):
 
       rapwords discover --artist "Aesop Rock" --max-songs 10
 
-      rapwords discover --artist "MF DOOM" --auto --max-freq 100000
+      rapwords discover --artist "MF DOOM" --auto --max-zipf 3.0
     """
     from rapwords.discover.bars import extract_bars
     from rapwords.discover.definitions import get_definition
@@ -851,7 +857,7 @@ def discover(artist, song, max_songs, auto, max_freq, min_length):
     # Scan each song for big words
     candidates: list[dict] = []
     for s in songs:
-        big_words = find_big_words(s.lyrics, max_frequency=max_freq, min_length=min_length)
+        big_words = find_big_words(s.lyrics, max_zipf=max_zipf, min_length=min_length)
         for word in big_words:
             candidates.append({
                 "word": word,

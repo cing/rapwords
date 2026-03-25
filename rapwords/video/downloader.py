@@ -13,8 +13,16 @@ def _video_path(post: RapWordsPost) -> Path:
     return VIDEOS_DIR / f"{post.id}_{post.youtube_video_id}.mp4"
 
 
-def download_video(post: RapWordsPost) -> str | None:
-    """Download the YouTube video for a post. Returns the file path on success."""
+def download_video(
+    post: RapWordsPost,
+    cookies_from_browser: str | None = None,
+) -> str | None:
+    """Download the YouTube video for a post. Returns the file path on success.
+
+    Args:
+        cookies_from_browser: Browser name to extract cookies from (e.g. "chrome",
+            "firefox", "brave", "edge"). Needed for age-restricted or login-gated videos.
+    """
     if not post.youtube_video_id:
         return None
 
@@ -36,8 +44,12 @@ def download_video(post: RapWordsPost) -> str | None:
         "-o", str(output_path),
         "--no-playlist",
         "--no-overwrites",
-        url,
     ]
+
+    if cookies_from_browser:
+        cmd.extend(["--cookies-from-browser", cookies_from_browser])
+
+    cmd.append(url)
 
     try:
         result = subprocess.run(
