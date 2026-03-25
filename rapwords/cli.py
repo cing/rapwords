@@ -801,107 +801,9 @@ def backfill_years():
     console.print(f"\n[green]Updated {updated}/{len(missing)} posts.[/green]")
 
 
-@main.command()
-@click.option("--artist", required=True, help="Artist name to search on Genius")
-@click.option("--song", default=None, help="Specific song title (omit to scan multiple songs)")
-@click.option("--max-songs", default=20, type=int, help="Max songs to scan when no --song given")
-@click.option("--auto", is_flag=True, default=False, help="Auto-add all discovered words without prompting")
-@click.option("--max-zipf", default=3.5, type=float, help="Max Zipf frequency score (lower = rarer, default 3.5)")
-@click.option("--min-length", default=5, type=int, help="Minimum word length (default 5)")
-def discover(artist, song, max_songs, auto, max_zipf, min_length):
-    """Discover new big words in hip-hop lyrics from Genius.
-
-    Use --max-zipf and --min-length to control word rarity:
-
-      --max-zipf 3.5    Default — uncommon words ("ubiquitous", "impediment")
-
-      --max-zipf 3.0    Only rare words ("insinuate", "ameliorate")
-
-      --max-zipf 2.5    Very rare words ("juxtapose", "defenestrate")
-
-      --min-length 7    Only longer words
-
-    Examples:
-
-      rapwords discover --artist "Kendrick Lamar" --song "HUMBLE."
-
-      rapwords discover --artist "Aesop Rock" --max-songs 10
-
-      rapwords discover --artist "MF DOOM" --auto --max-zipf 3.0
-    """
-    from rapwords.discover.bars import extract_bars
-    from rapwords.discover.definitions import get_definition
-    from rapwords.discover.lyrics import search_artist_songs, search_song
-    from rapwords.discover.words import find_big_words
-    from rapwords.discover.youtube import find_youtube_video
-
-    store = PostStore()
-
-    # Fetch lyrics
-    if song:
-        console.print(f"Searching Genius for [bold]{artist}[/bold] — \"{song}\"...")
-        result = search_song(artist, song)
-        if not result:
-            console.print("[red]Song not found on Genius.[/red]")
-            return
-        songs = [result]
-    else:
-        console.print(f"Searching Genius for [bold]{artist}[/bold] (up to {max_songs} songs)...")
-        with console.status("[bold green]Fetching songs from Genius..."):
-            songs = search_artist_songs(artist, max_songs=max_songs)
-        if not songs:
-            console.print("[red]No songs found on Genius.[/red]")
-            return
-        console.print(f"[green]Found {len(songs)} songs[/green]")
-
-    # Scan each song for big words
-    candidates: list[dict] = []
-    for s in songs:
-        big_words = find_big_words(s.lyrics, max_zipf=max_zipf, min_length=min_length)
-        for word in big_words:
-            candidates.append({
-                "word": word,
-                "song": s,
-            })
-
-    if not candidates:
-        console.print("[yellow]No big words found in these lyrics.[/yellow]")
-        return
-
-    console.print(f"\n[green]Found {len(candidates)} big word(s) across {len(songs)} song(s)[/green]\n")
-
-    # Display candidates
-    table = Table(title="Discovered Words")
-    table.add_column("#", style="cyan", justify="right")
-    table.add_column("Word", style="bold yellow")
-    table.add_column("Song", style="blue")
-    table.add_column("Artist", style="green")
-
-    for i, c in enumerate(candidates, 1):
-        table.add_row(str(i), c["word"], c["song"].title, c["song"].artist)
-
-    console.print(table)
-    console.print()
-
-    # Process each candidate
-    if auto:
-        selected = list(range(len(candidates)))
-    else:
-        selection = click.prompt(
-            "Enter numbers to add (comma-separated, 'all', or 'none')",
-            default="all",
-        )
-        if selection.strip().lower() == "none":
-            return
-        elif selection.strip().lower() == "all":
-            selected = list(range(len(candidates)))
-        else:
-            try:
-                selected = [int(x.strip()) - 1 for x in selection.split(",")]
-            except ValueError:
-                console.print("[red]Invalid selection.[/red]")
-                return
-
+def _process_candidates(candidates, selected, store, auto, extract_bars, get_definition,
+                        search_word_in_songs, find_youtube_video, console):
+    """Process selected discover candidates — show details, confirm, and add to store."""
     added = 0
     for idx in selected:
         if idx < 0 or idx >= len(candidates):
@@ -936,6 +838,15 @@ def discover(artist, song, max_songs, auto, max_zipf, min_length):
         else:
             console.print("[yellow]No definition found on Wiktionary.[/yellow]")
 
+        # Show other songs containing this word
+        alt_songs = search_word_in_songs(word)
+        if alt_songs:
+            console.print(f"[dim]Also used in:[/dim]")
+            for alt in alt_songs:
+                marker = " [bold green]*[/bold green]" if alt.artist.lower() == s.artist.lower() and alt.title.lower() == s.title.lower() else ""
+                views = f" [dim]({alt.pageviews:,} views)[/dim]" if alt.pageviews else ""
+                console.print(f"  {alt.artist} — \"{alt.title}\"{marker}{views}")
+
         # Find YouTube video
         with console.status(f"[dim]Searching YouTube for {s.artist} — {s.title}...[/dim]"):
             yt = find_youtube_video(s.artist, s.title)
@@ -944,6 +855,10 @@ def discover(artist, song, max_songs, auto, max_zipf, min_length):
             console.print(f"[dim]{yt.url}[/dim]")
         else:
             console.print("[yellow]No YouTube video found.[/yellow]")
+
+        if not auto:
+            if not click.confirm("Add this post?", default=True):
+                continue
 
         # Create post
         featured_word = FeaturedWord(
@@ -973,6 +888,180 @@ def discover(artist, song, max_songs, auto, max_zipf, min_length):
     if added > 0:
         store.save()
         console.print(f"\n[green]Added {added} new post(s) to data/posts.json[/green]")
+
+
+@main.command()
+@click.option("--artist", required=True, help="Artist name to search on Genius")
+@click.option("--song", default=None, help="Specific song title")
+@click.option("--word", default=None, help="Find a specific word in the artist's lyrics")
+@click.option("--max-songs", default=20, type=int, help="Max songs to scan when no --song given")
+@click.option("--auto", is_flag=True, default=False, help="Auto-add all discovered words without prompting")
+@click.option("--max-zipf", default=3.5, type=float, help="Max Zipf frequency score (lower = rarer, default 3.5)")
+@click.option("--min-length", default=5, type=int, help="Minimum word length (default 5)")
+def discover(artist, song, word, max_songs, auto, max_zipf, min_length):
+    """Discover new big words in hip-hop lyrics from Genius.
+
+    Use --max-zipf and --min-length to control word rarity:
+
+      --max-zipf 3.5    Default — uncommon words ("ubiquitous", "impediment")
+
+      --max-zipf 3.0    Only rare words ("insinuate", "ameliorate")
+
+      --min-length 7    Only longer words
+
+    Use --word to find a specific word in an artist's lyrics:
+
+      rapwords discover --artist "Talib Kweli" --word "ubiquitous"
+
+    Examples:
+
+      rapwords discover --artist "Kendrick Lamar" --song "HUMBLE."
+
+      rapwords discover --artist "Aesop Rock" --max-songs 10
+
+      rapwords discover --artist "MF DOOM" --auto --max-zipf 3.0
+    """
+    from rapwords.discover.bars import extract_bars
+    from rapwords.discover.definitions import get_definition
+    from rapwords.discover.lyrics import search_artist_songs, search_song, search_word_in_songs
+    from rapwords.discover.words import find_big_words
+    from rapwords.discover.youtube import find_youtube_video
+
+    if not artist:
+        console.print("[red]--artist is required.[/red]")
+        return
+    if song and word:
+        console.print("[red]Use --song or --word, not both.[/red]")
+        return
+
+    store = PostStore()
+
+    # Word mode: scan an artist's lyrics for a specific word
+    if word:
+        from wordfreq import zipf_frequency as _zf
+        z = _zf(word.lower(), "en")
+
+        console.print(f"Searching [bold]{artist}[/bold] songs for [bold yellow]{word}[/bold yellow] (zipf={z:.2f})...")
+        with console.status("[bold green]Fetching songs from Genius..."):
+            songs = search_artist_songs(artist, max_songs=max_songs)
+        if not songs:
+            console.print("[red]No songs found on Genius.[/red]")
+            return
+
+        # Find songs whose lyrics contain the word
+        import re
+        pattern = re.compile(r'\b' + re.escape(word.lower()) + r'\w*\b')
+        matching = [s for s in songs if pattern.search(s.lyrics.lower())]
+        if not matching:
+            console.print(f"[yellow]'{word}' not found in any of {len(songs)} songs by {artist}.[/yellow]")
+            return
+
+        console.print(f"[green]Found '{word}' in {len(matching)} song(s)[/green]\n")
+
+        table = Table(title=f'Songs by {artist} containing "{word}"')
+        table.add_column("#", style="cyan", justify="right")
+        table.add_column("Song", style="blue")
+
+        for i, s in enumerate(matching, 1):
+            table.add_row(str(i), s.title)
+
+        console.print(table)
+        console.print()
+
+        selection = click.prompt(
+            "Enter number to use (or 'none' to cancel)",
+            default="1",
+        )
+        if selection.strip().lower() == "none":
+            return
+        try:
+            pick = int(selection.strip()) - 1
+        except ValueError:
+            console.print("[red]Invalid selection.[/red]")
+            return
+        if pick < 0 or pick >= len(matching):
+            console.print("[red]Invalid selection.[/red]")
+            return
+
+        result = matching[pick]
+        candidates = [{"word": word.lower(), "song": result}]
+
+        selected = [0]
+        _process_candidates(candidates, selected, store, auto, extract_bars, get_definition,
+                            search_word_in_songs, find_youtube_video, console)
+        return
+
+    # Artist mode: scan songs for big words
+    if song:
+        console.print(f"Searching Genius for [bold]{artist}[/bold] — \"{song}\"...")
+        result = search_song(artist, song)
+        if not result:
+            console.print("[red]Song not found on Genius.[/red]")
+            return
+        songs = [result]
+    else:
+        console.print(f"Searching Genius for [bold]{artist}[/bold] (up to {max_songs} songs)...")
+        with console.status("[bold green]Fetching songs from Genius..."):
+            songs = search_artist_songs(artist, max_songs=max_songs)
+        if not songs:
+            console.print("[red]No songs found on Genius.[/red]")
+            return
+        console.print(f"[green]Found {len(songs)} songs[/green]")
+
+    # Scan each song for big words
+    candidates: list[dict] = []
+    for s in songs:
+        big_words = find_big_words(s.lyrics, max_zipf=max_zipf, min_length=min_length)
+        for bw in big_words:
+            candidates.append({
+                "word": bw,
+                "song": s,
+            })
+
+    if not candidates:
+        console.print("[yellow]No big words found in these lyrics.[/yellow]")
+        return
+
+    console.print(f"\n[green]Found {len(candidates)} big word(s) across {len(songs)} song(s)[/green]\n")
+
+    # Display candidates
+    from wordfreq import zipf_frequency
+
+    table = Table(title="Discovered Words")
+    table.add_column("#", style="cyan", justify="right")
+    table.add_column("Word", style="bold yellow")
+    table.add_column("Zipf", style="dim", justify="right")
+    table.add_column("Song", style="blue")
+    table.add_column("Artist", style="green")
+
+    for i, c in enumerate(candidates, 1):
+        z = zipf_frequency(c["word"], "en")
+        table.add_row(str(i), c["word"], f"{z:.2f}", c["song"].title, c["song"].artist)
+
+    console.print(table)
+    console.print()
+
+    # Process each candidate
+    if auto:
+        selected = list(range(len(candidates)))
+    else:
+        selection = click.prompt(
+            "Enter numbers to add (comma-separated, 'all', or 'none')",
+            default="all",
+        )
+        if selection.strip().lower() == "none":
+            return
+        elif selection.strip().lower() == "all":
+            selected = list(range(len(candidates)))
+        else:
+            try:
+                selected = [int(x.strip()) - 1 for x in selection.split(",")]
+            except ValueError:
+                console.print("[red]Invalid selection.[/red]")
+                return
+
+    _process_candidates(candidates, selected, store, auto, extract_bars, get_definition,
+                        search_word_in_songs, find_youtube_video, console)
 
 
 def _parse_time(time_str: str) -> float | None:

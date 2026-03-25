@@ -112,6 +112,59 @@ def search_artist_songs(
     return results
 
 
+@dataclass
+class SongHit:
+    title: str
+    artist: str
+    url: str
+    pageviews: int = 0
+
+
+def search_word_in_songs(word: str, max_results: int = 20) -> list[SongHit]:
+    """Search Genius for songs matching a word, sorted by pageviews descending."""
+    import requests
+
+    token = os.environ.get("GENIUS_API_TOKEN")
+    if not token:
+        return []
+
+    all_hits = []
+    try:
+        # Fetch multiple pages to get a wider pool, then sort by popularity
+        pages = max(1, (max_results + 19) // 20)
+        for page in range(1, pages + 1):
+            resp = requests.get(
+                "https://api.genius.com/search",
+                params={"q": word, "per_page": 20, "page": page},
+                headers={"Authorization": f"Bearer {token}"},
+                timeout=30,
+            )
+            resp.raise_for_status()
+            page_hits = resp.json().get("response", {}).get("hits", [])
+            if not page_hits:
+                break
+            all_hits.extend(page_hits)
+
+        # Sort by pageviews descending
+        all_hits.sort(
+            key=lambda h: h.get("result", {}).get("stats", {}).get("pageviews", 0) or 0,
+            reverse=True,
+        )
+    except Exception:
+        return []
+
+    hits = []
+    for hit in all_hits[:max_results]:
+        r = hit.get("result", {})
+        hits.append(SongHit(
+            title=r.get("title", ""),
+            artist=r.get("artist_names", ""),
+            url=r.get("url", ""),
+            pageviews=r.get("stats", {}).get("pageviews", 0) or 0,
+        ))
+    return hits
+
+
 def _extract_year(song) -> int | None:
     """Extract release year from a lyricsgenius Song object."""
     try:
