@@ -364,6 +364,7 @@ def find_time(post_id):
 @click.option("--start-time", type=str, default=None, help="Start time in video (MM:SS or HH:MM:SS)")
 @click.option("--duration", type=float, default=None, help="Clip duration in seconds")
 @click.option("--crop/--no-crop", default=True, help="Crop to fill 9:16 (default) or pad with black bars")
+@click.option("--crop-offset", type=int, default=0, help="Horizontal crop offset in pixels (positive=right, negative=left)")
 @click.option("--attribution/--no-attribution", default=False, help="Show artist/song overlay on video")
 @click.option("--watermark", type=click.Choice(["white", "black", "none"]), default="white", help="Watermark variant (default: white)")
 @click.option("--watermark-scale", type=float, default=0.7, help="Watermark size multiplier (default: 0.7)")
@@ -372,7 +373,7 @@ def find_time(post_id):
 @click.option("--ass-file", type=click.Path(exists=True), default=None, help="Use an existing .ass subtitle file instead of generating one")
 @click.option("--align/--no-align", default=True, help="Use whisperX for word-level timing (default: on)")
 @click.option("--cookies", default=None, help="Browser to extract cookies from (e.g. chrome, firefox, brave) for age-restricted videos")
-def process(post_id, start_time, duration, crop, attribution, watermark, watermark_scale, theme, static, ass_file, align, cookies):
+def process(post_id, start_time, duration, crop, crop_offset, attribution, watermark, watermark_scale, theme, static, ass_file, align, cookies):
     """Process a post into an Instagram-ready video with karaoke subtitles."""
     from rapwords.video.downloader import download_video
     from rapwords.video.processor import process_post
@@ -427,7 +428,7 @@ def process(post_id, start_time, duration, crop, attribution, watermark, waterma
     post.duration = duration
 
     console.print(f"\nProcessing: {start_time} + {duration}s ...")
-    output = process_post(post, crop=crop, show_attribution=attribution, watermark=watermark, watermark_scale=watermark_scale, theme=theme, static=static, ass_file=ass_file, use_align=align)
+    output = process_post(post, crop=crop, crop_offset=crop_offset, show_attribution=attribution, watermark=watermark, watermark_scale=watermark_scale, theme=theme, static=static, ass_file=ass_file, use_align=align)
     if output:
         post.output_path = output
         post.status = "processed"
@@ -583,10 +584,11 @@ def _extract_video_id(url: str) -> str | None:
 @click.option("--word", type=str, default=None, help="Edit/replace first featured word")
 @click.option("--definition", type=str, default=None, help="Edit definition of first featured word")
 @click.option("--pos", type=click.Choice(["noun", "verb", "adjective", "adverb", "other"]), default=None, help="Part of speech of first featured word")
+@click.option("--syllables", type=str, default=None, help="Phonetic spelling with syllable breaks (e.g. 'in·sin·u·ate')")
 @click.option("--add-word", type=str, default=None, help="Add a new featured word (word:pos:definition)")
 @click.option("--remove-word", type=str, default=None, help="Remove a featured word by name")
 @click.option("--year", type=int, default=None, help="Song release year")
-def edit(post_id, youtube_url, artist, song, lyrics, word, definition, pos, add_word, remove_word, year):
+def edit(post_id, youtube_url, artist, song, lyrics, word, definition, pos, syllables, add_word, remove_word, year):
     """Edit fields of an existing post.
 
     Examples:
@@ -663,6 +665,10 @@ def edit(post_id, youtube_url, artist, song, lyrics, word, definition, pos, add_
     if pos is not None and post.words:
         post.words[0].part_of_speech = PartOfSpeech(pos)
         changes.append(f"pos: {pos} for {post.words[0].word}")
+
+    if syllables is not None and post.words:
+        post.words[0].syllables = syllables
+        changes.append(f"syllables: {syllables} for {post.words[0].word}")
 
     if add_word is not None:
         parts = add_word.split(":", 2)

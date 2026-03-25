@@ -230,10 +230,11 @@ def generate_ass(
                 karaoke_parts.append(f"{{\\kf{cs}}}{word_text}")
 
         # End each line when the next one starts (one line at a time)
+        # Clamp to clip_duration so subtitles don't persist into static outro
         if i + 1 < len(line_intervals):
-            display_end = line_intervals[i + 1][0]
+            display_end = min(line_intervals[i + 1][0], clip_duration)
         else:
-            display_end = line_end + 1.0
+            display_end = min(line_end + 1.0, clip_duration)
 
         karaoke_text = " ".join(karaoke_parts)
         lines.append(

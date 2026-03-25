@@ -83,6 +83,7 @@ def _add_static_outro(input_path: Path, output_path: Path) -> bool:
 def process_post(
     post: RapWordsPost,
     crop: bool = True,
+    crop_offset: int = 0,
     show_attribution: bool = False,
     watermark: str = "white",
     watermark_scale: float = 0.7,
@@ -178,9 +179,11 @@ def process_post(
     # Build ffmpeg filter chain
     ass_path_escaped = str(ass_path).replace("\\", "/").replace(":", "\\:")
     if crop:
+        crop_x = f"(iw-{VIDEO_WIDTH})/2+{crop_offset}" if crop_offset else ""
+        crop_expr = f"crop={VIDEO_WIDTH}:{VIDEO_HEIGHT}:{crop_x}" if crop_x else f"crop={VIDEO_WIDTH}:{VIDEO_HEIGHT}"
         base_vf = (
             f"scale=-2:{VIDEO_HEIGHT},"
-            f"crop={VIDEO_WIDTH}:{VIDEO_HEIGHT},"
+            f"{crop_expr},"
             f"eq=brightness=-0.08,"
             f"ass='{ass_path_escaped}'"
         )
