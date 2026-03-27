@@ -808,7 +808,7 @@ def backfill_years():
 
 
 def _process_candidates(candidates, selected, store, auto, extract_bars, get_definition,
-                        search_word_in_songs, find_youtube_video, console):
+                        find_youtube_video, console):
     """Process selected discover candidates — show details, confirm, and add to store."""
     added = 0
     for idx in selected:
@@ -843,15 +843,6 @@ def _process_candidates(candidates, selected, store, auto, extract_bars, get_def
             console.print(f"[dim]{defn.wiktionary_url}[/dim]")
         else:
             console.print("[yellow]No definition found on Wiktionary.[/yellow]")
-
-        # Show other songs containing this word
-        alt_songs = search_word_in_songs(word)
-        if alt_songs:
-            console.print(f"[dim]Also used in:[/dim]")
-            for alt in alt_songs:
-                marker = " [bold green]*[/bold green]" if alt.artist.lower() == s.artist.lower() and alt.title.lower() == s.title.lower() else ""
-                views = f" [dim]({alt.pageviews:,} views)[/dim]" if alt.pageviews else ""
-                console.print(f"  {alt.artist} — \"{alt.title}\"{marker}{views}")
 
         # Find YouTube video
         with console.status(f"[dim]Searching YouTube for {s.artist} — {s.title}...[/dim]"):
@@ -929,7 +920,7 @@ def discover(artist, song, word, max_songs, auto, max_zipf, min_length):
     """
     from rapwords.discover.bars import extract_bars
     from rapwords.discover.definitions import get_definition
-    from rapwords.discover.lyrics import search_artist_songs, search_song, search_word_in_songs
+    from rapwords.discover.lyrics import search_artist_songs, search_song
     from rapwords.discover.words import find_big_words
     from rapwords.discover.youtube import find_youtube_video
 
@@ -994,7 +985,7 @@ def discover(artist, song, word, max_songs, auto, max_zipf, min_length):
 
         selected = [0]
         _process_candidates(candidates, selected, store, auto, extract_bars, get_definition,
-                            search_word_in_songs, find_youtube_video, console)
+                            find_youtube_video, console)
         return
 
     # Artist mode: scan songs for big words
@@ -1067,7 +1058,7 @@ def discover(artist, song, word, max_songs, auto, max_zipf, min_length):
                 return
 
     _process_candidates(candidates, selected, store, auto, extract_bars, get_definition,
-                        search_word_in_songs, find_youtube_video, console)
+                        find_youtube_video, console)
 
 
 def _parse_time(time_str: str) -> float | None:
