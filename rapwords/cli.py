@@ -70,12 +70,16 @@ def list_posts(filter_status, flagged, usable, posted, show_all):
     table.add_column("Song", style="blue")
     table.add_column("Status", style="yellow")
     table.add_column("YT", justify="center")
-    table.add_column("Flag", style="red")
+    table.add_column("Notes", style="dim")
 
     for post in posts:
         words = ", ".join(w.word for w in post.words)
         yt = "[green]✓[/green]" if post.youtube_video_id else "[red]✗[/red]"
-        flag = post.flag or ""
+        notes = ""
+        if post.flag:
+            notes = f"[red]{post.flag}[/red]"
+        elif post.status == "posted":
+            notes = "[green]posted[/green]"
         table.add_row(
             str(post.id),
             words,
@@ -83,7 +87,7 @@ def list_posts(filter_status, flagged, usable, posted, show_all):
             post.song_title,
             post.status,
             yt,
-            flag,
+            notes,
         )
 
     console.print(table)
