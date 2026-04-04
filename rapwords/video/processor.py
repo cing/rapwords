@@ -91,6 +91,7 @@ def process_post(
     static: bool = True,
     ass_file: str | None = None,
     use_align: bool = True,
+    align_model: str = "base",
 ) -> str | None:
     """Process a post into an Instagram-ready video.
 
@@ -136,6 +137,7 @@ def process_post(
                 from rapwords.video.align import align_lyrics
                 line_timings = align_lyrics(
                     post.video_path, post.lyrics_lines, start_time, duration,
+                    model_size=align_model,
                 )
                 if line_timings:
                     word_count = sum(len(lt.words) for lt in line_timings)

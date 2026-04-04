@@ -376,8 +376,9 @@ def find_time(post_id):
 @click.option("--static/--no-static", default=True, help="Add TV static outro effect (default: on)")
 @click.option("--ass-file", type=click.Path(exists=True), default=None, help="Use an existing .ass subtitle file instead of generating one")
 @click.option("--align/--no-align", default=True, help="Use whisperX for word-level timing (default: on)")
+@click.option("--align-model", type=click.Choice(["tiny", "base", "small", "medium"]), default="base", help="Whisper model size for alignment (default: base)")
 @click.option("--cookies", default=None, help="Browser to extract cookies from (e.g. chrome, firefox, brave) for age-restricted videos")
-def process(post_id, start_time, duration, crop, crop_offset, attribution, watermark, watermark_scale, theme, static, ass_file, align, cookies):
+def process(post_id, start_time, duration, crop, crop_offset, attribution, watermark, watermark_scale, theme, static, ass_file, align, align_model, cookies):
     """Process a post into an Instagram-ready video with karaoke subtitles."""
     from rapwords.video.downloader import download_video
     from rapwords.video.processor import process_post
@@ -432,7 +433,7 @@ def process(post_id, start_time, duration, crop, crop_offset, attribution, water
     post.duration = duration
 
     console.print(f"\nProcessing: {start_time} + {duration}s ...")
-    output = process_post(post, crop=crop, crop_offset=crop_offset, show_attribution=attribution, watermark=watermark, watermark_scale=watermark_scale, theme=theme, static=static, ass_file=ass_file, use_align=align)
+    output = process_post(post, crop=crop, crop_offset=crop_offset, show_attribution=attribution, watermark=watermark, watermark_scale=watermark_scale, theme=theme, static=static, ass_file=ass_file, use_align=align, align_model=align_model)
     if output:
         post.output_path = output
         post.status = "processed"
