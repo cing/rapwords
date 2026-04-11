@@ -663,6 +663,32 @@ def edit(post_id, youtube_url, artist, song, lyrics, word, definition, pos, syll
         post.words[0].word = word
         changes.append(f"word: {old_word} → {word}")
 
+    if word is not None and not post.words:
+        from rapwords.discover.definitions import get_definition
+
+        context = ". ".join(post.lyrics_lines) if post.lyrics_lines else None
+        defn = get_definition(word, context_sentence=context)
+        if defn:
+            new_word = FeaturedWord(
+                word=defn.word,
+                part_of_speech=PartOfSpeech(pos or defn.part_of_speech),
+                definition=definition or defn.definition,
+                wiktionary_url=defn.wiktionary_url,
+                syllables=syllables or defn.syllables,
+            )
+        else:
+            new_word = FeaturedWord(
+                word=word,
+                part_of_speech=PartOfSpeech(pos or "other"),
+                definition=definition or "",
+            )
+        post.words.append(new_word)
+        changes.append(f"added word: {new_word.word} ({new_word.part_of_speech.value})")
+        # These were already consumed above, so skip the individual checks below
+        definition = None
+        pos = None
+        syllables = None
+
     if definition is not None and post.words:
         post.words[0].definition = definition
         changes.append(f"definition updated for {post.words[0].word}")
@@ -839,7 +865,7 @@ def _process_candidates(candidates, selected, store, auto, extract_bars, get_def
             bars = []
 
         # Get definition
-        context = " ".join(bars) if bars else None
+        context = ". ".join(bars) if bars else None
         defn = get_definition(word, context_sentence=context)
         if defn:
             if defn.syllables:
