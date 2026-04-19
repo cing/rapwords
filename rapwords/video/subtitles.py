@@ -6,7 +6,7 @@ import re
 from dataclasses import dataclass
 from pathlib import Path
 
-from rapwords.config import VIDEO_HEIGHT, VIDEO_WIDTH
+from rapwords.config import VIDEO_HEIGHT, VIDEO_WIDTH, censor_text
 from rapwords.models import RapWordsPost
 
 
@@ -161,7 +161,7 @@ def generate_ass(
         display_word = (w.syllables or w.word).upper()
         pos = w.part_of_speech.value
         defn = w.definition
-        word_defs.append(f"{display_word}\\N{pos} — {defn}")
+        word_defs.append(f"{censor_text(display_word)}\\N{pos} — {censor_text(defn)}")
 
     def_text = "\\N\\N".join(word_defs)
     lines.append(
@@ -196,7 +196,7 @@ def generate_ass(
     for i, lyric_line in enumerate(post.lyrics_lines):
         line_start, line_end = line_intervals[i]
 
-        words_in_line = lyric_line.upper().split()
+        words_in_line = censor_text(lyric_line).upper().split()
         if not words_in_line:
             continue
 
