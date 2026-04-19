@@ -26,10 +26,12 @@ class RapWordsPost(BaseModel):
     source: str = "tumblr_scrape"
     words: list[FeaturedWord] = []
     lyrics_lines: list[str] = []
+    full_lyrics: str | None = None
     artist: str = ""
     song_title: str = ""
     youtube_url: str | None = None
     youtube_video_id: str | None = None
+    youtube_match_score: int | None = None
     release_year: int | None = None
     tumblr_date: str | None = None
 

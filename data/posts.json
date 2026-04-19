@@ -15,13 +15,15 @@
       "Til God return me to my essence",
       "Cause even as a adolescents, I refuse to be a convalescent"
     ],
+    "full_lyrics": null,
     "artist": "2Pac",
     "song_title": "I Ain’t Mad at Cha",
     "youtube_url": "https://www.youtube.com/watch?v=gyDHmQp6Hek",
     "youtube_video_id": "gyDHmQp6Hek",
+    "youtube_match_score": null,
     "release_year": 1996,
     "tumblr_date": null,
-    "flag": null,
+    "flag": "audio only",
     "start_time": 140.0,
     "duration": 15.0,
     "video_downloaded": true,
@@ -45,10 +47,12 @@
       "My true occupation, dissemination of information",
       "Usin’ both sides of the brain, and I ain’t complacent"
     ],
+    "full_lyrics": null,
     "artist": "Rass Kass",
     "song_title": "Van Gogh",
     "youtube_url": "http://www.youtube.com/watch?v=Ar9hN4S-Org",
     "youtube_video_id": "Ar9hN4S-Org",
+    "youtube_match_score": null,
     "release_year": null,
     "tumblr_date": null,
     "flag": null,
@@ -77,10 +81,12 @@
       "You see them fours crawlin'? You see them screens fallin'?",
       "The disco ball in my mouth insinuates I'm ballin'"
     ],
+    "full_lyrics": null,
     "artist": "Paul Wall",
     "song_title": "Drive Slow",
     "youtube_url": "https://www.youtube.com/watch?v=xvAFTiP3vzk",
     "youtube_video_id": "xvAFTiP3vzk",
+    "youtube_match_score": null,
     "release_year": 2005,
     "tumblr_date": null,
     "flag": null,
@@ -107,10 +113,12 @@
       "Fuckin up to the chest I bust insidious, Bad Touchin",
       "Boogie to break to bumrushin"
     ],
+    "full_lyrics": null,
     "artist": "Company Flow",
     "song_title": "Collude/Interlude",
     "youtube_url": "http://www.youtube.com/watch?v=0uAiRNu8D24",
     "youtube_video_id": "0uAiRNu8D24",
+    "youtube_match_score": null,
     "release_year": null,
     "tumblr_date": null,
     "flag": null,
@@ -144,10 +152,12 @@
       "Oh goodness gracious, you better make it spacious",
       "For the vivacious, ostentatious, who feel courageous?"
     ],
+    "full_lyrics": null,
     "artist": "Big Daddy Kane",
     "song_title": "Terra N Ya Era",
     "youtube_url": "http://www.youtube.com/watch?v=chnw0eI3Qzw",
     "youtube_video_id": "chnw0eI3Qzw",
+    "youtube_match_score": null,
     "release_year": 1998,
     "tumblr_date": null,
     "flag": null,
@@ -189,10 +199,12 @@
       "peers n shit, hit you with the omnipotent gland",
       "The beneficent stare, write a rhyme to shine light in your ear"
     ],
+    "full_lyrics": null,
     "artist": "Chace Infinite",
     "song_title": "Feature Presentation",
     "youtube_url": "http://www.youtube.com/watch?v=OVwtdmKOls4",
     "youtube_video_id": "OVwtdmKOls4",
+    "youtube_match_score": null,
     "release_year": 1998,
     "tumblr_date": null,
     "flag": null,
@@ -208,13 +220,6 @@
     "source": "tumblr_scrape",
     "words": [
       {
-        "word": "subside",
-        "syllables": "sub·side",
-        "part_of_speech": "verb",
-        "definition": "Become less intense, violent, or severe",
-        "wiktionary_url": "http://en.wiktionary.org/wiki/subside"
-      },
-      {
         "word": "affliction",
         "syllables": "af·flic·tion",
         "part_of_speech": "noun",
@@ -223,22 +228,25 @@
       }
     ],
     "lyrics_lines": [
-      "Sick with the pen nigga no physician, in the world could fix him",
-      "No prescription, you can prescribe to subside his affliction"
+      "Sick with the pen, nigga no physician in the world could fix him",
+      "No prescription you can prescribe to subside his affliction",
+      "He's not a sane man, he's more like Rain Man, twitching"
     ],
+    "full_lyrics": null,
     "artist": "Jay-Z",
     "song_title": "La, La, La",
-    "youtube_url": "http://www.youtube.com/watch?v=aunKge7SUhs",
-    "youtube_video_id": "aunKge7SUhs",
+    "youtube_url": "https://www.youtube.com/watch?v=XVGmEPXr5NE",
+    "youtube_video_id": "XVGmEPXr5NE",
+    "youtube_match_score": null,
     "release_year": 2003,
     "tumblr_date": null,
     "flag": null,
-    "start_time": null,
-    "duration": null,
-    "video_downloaded": false,
-    "video_path": null,
-    "output_path": null,
-    "status": "scraped"
+    "start_time": 95.55,
+    "duration": 9.75,
+    "video_downloaded": true,
+    "video_path": "/home/cing/proteinqure/code/playground/rapwords/data/videos/7_XVGmEPXr5NE.mp4",
+    "output_path": "/home/cing/proteinqure/code/playground/rapwords/data/output/7_affliction.mp4",
+    "status": "processed"
   },
   {
     "id": 8,
@@ -266,10 +274,12 @@
       "Words hit, I do work like arthroscopic",
       "Surgery, now my rhymes lacked the masonry, kinetic energy"
     ],
+    "full_lyrics": null,
     "artist": "Afu-Ra",
     "song_title": "Mic Stance",
     "youtube_url": "http://www.youtube.com/watch?v=fitNiGg4t-k",
     "youtube_video_id": "fitNiGg4t-k",
+    "youtube_match_score": null,
     "release_year": 2000,
     "tumblr_date": null,
     "flag": null,
@@ -305,10 +315,12 @@
       "Till a wise man sat me down, like ‘Joe listen’",
       "You can’t 'conversate’ with a nigga with no diction ."
     ],
+    "full_lyrics": null,
     "artist": "Joe Budden",
     "song_title": "Cold War",
     "youtube_url": null,
     "youtube_video_id": null,
+    "youtube_match_score": null,
     "release_year": 2009,
     "tumblr_date": null,
     "flag": null,
@@ -344,10 +356,12 @@
       "Pop the cork up off this bottle and you pour it",
       "So euphoric, document this moment, shit is so historic"
     ],
+    "full_lyrics": null,
     "artist": "Busta Rhymes",
     "song_title": "About Me",
     "youtube_url": "http://www.youtube.com/watch?v=HAOGtM2xJTg",
     "youtube_video_id": "HAOGtM2xJTg",
+    "youtube_match_score": null,
     "release_year": 2009,
     "tumblr_date": null,
     "flag": null,
@@ -381,10 +395,12 @@
       "Vocabularies very, loquacious",
       "And gregarious, pump that too, go grab the dictionary"
     ],
+    "full_lyrics": null,
     "artist": "K-Solo",
     "song_title": "It’s Like That",
     "youtube_url": "http://www.youtube.com/watch?v=JH0NZi28-lw",
     "youtube_video_id": "JH0NZi28-lw",
+    "youtube_match_score": null,
     "release_year": 1996,
     "tumblr_date": null,
     "flag": null,
@@ -420,10 +436,12 @@
       "And like marijuana shotguns let’s blow this joint",
       "It’s pointless to say here, so let me anoint"
     ],
+    "full_lyrics": null,
     "artist": "Pharoahe Monch",
     "song_title": "The Light",
     "youtube_url": "http://www.youtube.com/watch?v=nvevupLi6hk",
     "youtube_video_id": "nvevupLi6hk",
+    "youtube_match_score": null,
     "release_year": 1999,
     "tumblr_date": null,
     "flag": null,
@@ -455,10 +473,12 @@
       "Trey-eight oh’s will vacate those",
       "if there’s drama with my henchmen"
     ],
+    "full_lyrics": null,
     "artist": "Malik B of The Roots",
     "song_title": "Swept Away",
     "youtube_url": "http://www.youtube.com/watch?v=1G8WmG6lLow",
     "youtube_video_id": "1G8WmG6lLow",
+    "youtube_match_score": null,
     "release_year": null,
     "tumblr_date": null,
     "flag": null,
@@ -508,10 +528,12 @@
       "I crackle like a cracker crumble in your mouth",
       "Call him hairy dysentery, bloody’s how he’s comin out"
     ],
+    "full_lyrics": null,
     "artist": "Roughneck Jihad with Kool Keith",
     "song_title": "Feel Me",
     "youtube_url": "http://www.youtube.com/watch?v=S_jHCw7yv68",
     "youtube_video_id": "S_jHCw7yv68",
+    "youtube_match_score": null,
     "release_year": null,
     "tumblr_date": null,
     "flag": null,
@@ -547,10 +569,12 @@
       "Ruin lives and neutralize the tenements",
       "I’ve been in this shit since B.I.G. was Chris"
     ],
+    "full_lyrics": null,
     "artist": "Cormega",
     "song_title": "Back Against the Wall",
     "youtube_url": "http://www.youtube.com/watch?v=jLH9-Q11AfA",
     "youtube_video_id": "jLH9-Q11AfA",
+    "youtube_match_score": null,
     "release_year": 2007,
     "tumblr_date": null,
     "flag": null,
@@ -577,10 +601,12 @@
       "You got a new horizon, it’s ephemeral style",
       "A melancholy town where we never smile"
     ],
+    "full_lyrics": null,
     "artist": "Gorillaz",
     "song_title": "Feel Good Inc.",
     "youtube_url": "http://www.youtube.com/watch?v=plvpV9p0ywg",
     "youtube_video_id": "plvpV9p0ywg",
+    "youtube_match_score": null,
     "release_year": 2005,
     "tumblr_date": null,
     "flag": null,
@@ -614,10 +640,12 @@
       "You’ve got gall, you’ve got guile",
       "To step to me I’m a rap-o-phile"
     ],
+    "full_lyrics": null,
     "artist": "Beastie Boys",
     "song_title": "Intergalactic",
     "youtube_url": "http://www.youtube.com/watch?v=NyDaI0qzywQ",
     "youtube_video_id": "NyDaI0qzywQ",
+    "youtube_match_score": null,
     "release_year": 1998,
     "tumblr_date": null,
     "flag": null,
@@ -644,10 +672,12 @@
       "My personality is magnanimous",
       "That’s why the ladies always cause a fuss"
     ],
+    "full_lyrics": null,
     "artist": "Guru",
     "song_title": "Something in the Past",
     "youtube_url": "http://www.youtube.com/watch?v=pIqtUGiNIls",
     "youtube_video_id": "pIqtUGiNIls",
+    "youtube_match_score": null,
     "release_year": 1995,
     "tumblr_date": null,
     "flag": null,
@@ -674,10 +704,12 @@
       "Picture your menace to your society, soul to your propriety",
       "Lyricist of the year, and also the cause of you anxiety"
     ],
+    "full_lyrics": null,
     "artist": "Kardinal Offishall",
     "song_title": "King of the Hill",
     "youtube_url": "http://www.youtube.com/watch?v=BNq3Erm4qhg",
     "youtube_video_id": "BNq3Erm4qhg",
+    "youtube_match_score": null,
     "release_year": 1997,
     "tumblr_date": null,
     "flag": null,
@@ -704,10 +736,12 @@
       "I walk the block like whatever god, my message to y'all feds.",
       "Who desperate to arrest us young, benevolent hardheads"
     ],
+    "full_lyrics": null,
     "artist": "Nas",
     "song_title": "A Message To The Feds, Sincerely, We The People",
     "youtube_url": "http://www.youtube.com/watch?v=12zywvMAiVw",
     "youtube_video_id": "12zywvMAiVw",
+    "youtube_match_score": null,
     "release_year": 2004,
     "tumblr_date": null,
     "flag": "audio only",
@@ -734,10 +768,12 @@
       "Serotonin deficient teens demonstrate ease in the modern day uzi purchase",
       "The foundation of their alacrity makes the umis nervous"
     ],
+    "full_lyrics": null,
     "artist": "Aesop Rock",
     "song_title": "NY Electric",
     "youtube_url": "http://www.youtube.com/watch?v=OcNeYGHbvq4",
     "youtube_video_id": "OcNeYGHbvq4",
+    "youtube_match_score": null,
     "release_year": 2003,
     "tumblr_date": null,
     "flag": null,
@@ -751,26 +787,36 @@
   {
     "id": 22,
     "source": "tumblr_scrape",
-    "words": [],
+    "words": [
+      {
+        "word": "iniquity",
+        "syllables": "in·iq·ui·ty",
+        "part_of_speech": "noun",
+        "definition": "Deviation from what is right; gross injustice, sin, wickedness.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/iniquity"
+      }
+    ],
     "lyrics_lines": [
       "Homicide’s illegal and death is the penalty",
       "What justifies the homicide, when he dies?",
       "In his own iniquity it’s the",
       "Master of the Mantis Rapture coming at you"
     ],
+    "full_lyrics": null,
     "artist": "Masta Killa",
     "song_title": "Da Mystery of Chessboxin’",
-    "youtube_url": "http://www.youtube.com/watch?v=kl6jwab3HWk",
-    "youtube_video_id": "kl6jwab3HWk",
+    "youtube_url": "https://www.youtube.com/watch?v=pJk0p-98Xzc",
+    "youtube_video_id": "pJk0p-98Xzc",
+    "youtube_match_score": null,
     "release_year": null,
     "tumblr_date": null,
     "flag": null,
-    "start_time": null,
-    "duration": null,
-    "video_downloaded": false,
-    "video_path": null,
-    "output_path": null,
-    "status": "scraped"
+    "start_time": 205.5,
+    "duration": 9.5,
+    "video_downloaded": true,
+    "video_path": "/home/cing/proteinqure/code/playground/rapwords/data/videos/22_pJk0p-98Xzc.mp4",
+    "output_path": "/home/cing/proteinqure/code/playground/rapwords/data/output/22_iniquity.mp4",
+    "status": "posted"
   },
   {
     "id": 23,
@@ -790,10 +836,12 @@
       "man of bravery skill and chicanery",
       "I get the ladies cause I use my brain you see"
     ],
+    "full_lyrics": null,
     "artist": "Lord Finesse",
     "song_title": "Funky Technician",
     "youtube_url": "http://www.youtube.com/watch?v=FHIgrMdtoSg",
     "youtube_video_id": "FHIgrMdtoSg",
+    "youtube_match_score": null,
     "release_year": 1990,
     "tumblr_date": null,
     "flag": null,
@@ -851,10 +899,12 @@
       "All praise fame",
       "Positions"
     ],
+    "full_lyrics": null,
     "artist": "Kool Moe Dee",
     "song_title": "Knowledge is King",
     "youtube_url": "http://www.youtube.com/watch?v=hfFe49R6Rso",
     "youtube_video_id": "hfFe49R6Rso",
+    "youtube_match_score": null,
     "release_year": 1989,
     "tumblr_date": null,
     "flag": null,
@@ -883,10 +933,12 @@
       "Police harass me and public embarrass me",
       "They use brutality without asking me"
     ],
+    "full_lyrics": null,
     "artist": "2 Live Crew",
     "song_title": "In the Dust",
     "youtube_url": "http://www.youtube.com/watch?v=W3I4mD6NOi0",
     "youtube_video_id": "W3I4mD6NOi0",
+    "youtube_match_score": null,
     "release_year": 1991,
     "tumblr_date": null,
     "flag": null,
@@ -915,10 +967,12 @@
       "Rap iconoclast that loves to sound flash",
       "And sticky green grass with orange and brown hash"
     ],
+    "full_lyrics": null,
     "artist": "Dilated Peoples",
     "song_title": "Hard Hitters",
     "youtube_url": "http://www.youtube.com/watch?v=202iZDQ0fXU",
     "youtube_video_id": "202iZDQ0fXU",
+    "youtube_match_score": null,
     "release_year": 2001,
     "tumblr_date": null,
     "flag": null,
@@ -947,10 +1001,12 @@
       "And arduous, you’re gonna play in the dark like when it rains in the park",
       "You’re hardly conscious of the stains and scars,"
     ],
+    "full_lyrics": null,
     "artist": "Tonedeff",
     "song_title": "Love Ain’t",
     "youtube_url": "http://www.youtube.com/watch?v=a9TAzc54IEo",
     "youtube_video_id": "a9TAzc54IEo",
+    "youtube_match_score": null,
     "release_year": null,
     "tumblr_date": null,
     "flag": null,
@@ -1002,10 +1058,12 @@
       "People say that they saw somethin they cherished they lives long",
       "when I expectorate upon a song"
     ],
+    "full_lyrics": null,
     "artist": "Tajai with Hieroglyphics",
     "song_title": "Off the Record",
     "youtube_url": "http://www.youtube.com/watch?v=svbKie861Jc",
     "youtube_video_id": "svbKie861Jc",
+    "youtube_match_score": null,
     "release_year": 1998,
     "tumblr_date": null,
     "flag": null,
@@ -1036,10 +1094,12 @@
       "Yo, it depends on which one, you bring to surface",
       "At times I get trife, but what to worship is my purpose"
     ],
+    "full_lyrics": null,
     "artist": "The Roots",
     "song_title": "The Spark",
     "youtube_url": "http://www.youtube.com/watch?v=qSh9IGI-8h0",
     "youtube_video_id": "qSh9IGI-8h0",
+    "youtube_match_score": null,
     "release_year": 1999,
     "tumblr_date": null,
     "flag": null,
@@ -1070,10 +1130,12 @@
       "I don’t go around promoting beef and poultry shoving it in peoples faces",
       "I don’t castigate people for not eating steak sandwiches"
     ],
+    "full_lyrics": null,
     "artist": "Immortal Technique",
     "song_title": "Beef and Broccoli",
     "youtube_url": "http://www.youtube.com/watch?v=i5vSia_tLeI",
     "youtube_video_id": "i5vSia_tLeI",
+    "youtube_match_score": null,
     "release_year": 2001,
     "tumblr_date": null,
     "flag": null,
@@ -1100,10 +1162,12 @@
       "Yo I know I’m dogmatic, but yo’ p*ssy walls done had it (that’s right)",
       "It’s evident that you’ve been f*ckin like a jackrabbit"
     ],
+    "full_lyrics": null,
     "artist": "Kuniva from D12",
     "song_title": "Nasty Mind",
     "youtube_url": "http://www.youtube.com/watch?v=zyDsc0s5vQg",
     "youtube_video_id": "zyDsc0s5vQg",
+    "youtube_match_score": null,
     "release_year": 2023,
     "tumblr_date": null,
     "flag": null,
@@ -1134,10 +1198,12 @@
       "Clear the way for P-Dog the militant",
       "Made to steer and care for the indigent"
     ],
+    "full_lyrics": null,
     "artist": "Paris",
     "song_title": "Panther Power",
     "youtube_url": null,
     "youtube_video_id": null,
+    "youtube_match_score": null,
     "release_year": 1990,
     "tumblr_date": null,
     "flag": null,
@@ -1166,10 +1232,12 @@
       "a small interview, just a subterfuge",
       "Wanna hook up with you so they can say ‘whatchu do’"
     ],
+    "full_lyrics": null,
     "artist": "Del the Funky Homosapien",
     "song_title": "Shit Talkers",
     "youtube_url": null,
     "youtube_video_id": null,
+    "youtube_match_score": null,
     "release_year": null,
     "tumblr_date": null,
     "flag": null,
@@ -1196,10 +1264,12 @@
       "Please believe the ammo is live",
       "My fusillade of rhymes fly through your ride and go stream fuselage"
     ],
+    "full_lyrics": null,
     "artist": "Canibus",
     "song_title": "Behind Enemy Rhymes",
     "youtube_url": "http://www.youtube.com/watch?v=V3nu2_9Qmpk",
     "youtube_video_id": "V3nu2_9Qmpk",
+    "youtube_match_score": null,
     "release_year": 2002,
     "tumblr_date": null,
     "flag": null,
@@ -1226,10 +1296,12 @@
       "This rap may shatter your faith or strengthen it or you will end-er you",
       "My temperaments foul like tenements I feel you senseless"
     ],
+    "full_lyrics": null,
     "artist": "Non Phixion",
     "song_title": "Four W’s",
     "youtube_url": "http://www.youtube.com/watch?v=OscsUexaBTg",
     "youtube_video_id": "OscsUexaBTg",
+    "youtube_match_score": null,
     "release_year": 1997,
     "tumblr_date": null,
     "flag": null,
@@ -1257,19 +1329,21 @@
       "Countin my stack, spat to them straps",
       "Directin the mannerisms of these hoes"
     ],
+    "full_lyrics": null,
     "artist": "E-40",
     "song_title": "It’s Pimpin'",
     "youtube_url": null,
     "youtube_video_id": null,
+    "youtube_match_score": null,
     "release_year": 2000,
     "tumblr_date": null,
-    "flag": null,
+    "flag": "audio only",
     "start_time": null,
     "duration": null,
     "video_downloaded": false,
     "video_path": null,
     "output_path": null,
-    "status": "scraped"
+    "status": "posted"
   },
   {
     "id": 37,
@@ -1304,10 +1378,12 @@
       "Your disposition is beyond my recognition",
       "I fail to see the reason for your constant disbelievin"
     ],
+    "full_lyrics": null,
     "artist": "Chill Rob G",
     "song_title": "Let The Words Flow",
     "youtube_url": "http://www.youtube.com/watch?v=sesVv6gfjJc",
     "youtube_video_id": "sesVv6gfjJc",
+    "youtube_match_score": null,
     "release_year": 1989,
     "tumblr_date": null,
     "flag": null,
@@ -1334,10 +1410,12 @@
       "Although we trans-atlantic we never pedantic",
       "Check my antic, we most romantic"
     ],
+    "full_lyrics": null,
     "artist": "Roots Manuva",
     "song_title": "Join the Dots",
     "youtube_url": "http://www.youtube.com/watch?v=xYCe9UFh1SI",
     "youtube_video_id": "xYCe9UFh1SI",
+    "youtube_match_score": null,
     "release_year": 2001,
     "tumblr_date": null,
     "flag": null,
@@ -1366,10 +1444,12 @@
       "Ambiguous words, senseless verbs",
       "They all amount to crap that’s heard"
     ],
+    "full_lyrics": null,
     "artist": "A Tribe Called Quest",
     "song_title": "Youthful Expression",
     "youtube_url": null,
     "youtube_video_id": null,
+    "youtube_match_score": null,
     "release_year": 1990,
     "tumblr_date": null,
     "flag": null,
@@ -1400,10 +1480,12 @@
       "I’m utterly repulsive and self abusive",
       "Offerings from the gifted I’m swiftly elusive"
     ],
+    "full_lyrics": null,
     "artist": "Swollen Members",
     "song_title": "Strength",
     "youtube_url": "http://www.youtube.com/watch?v=0YBgoRg4Y1A",
     "youtube_video_id": "0YBgoRg4Y1A",
+    "youtube_match_score": null,
     "release_year": 1999,
     "tumblr_date": null,
     "flag": null,
@@ -1432,10 +1514,12 @@
       "Damn you ain’t lying no need for dissension",
       "Now check out my skillz as I get her attention"
     ],
+    "full_lyrics": null,
     "artist": "Kottonmouth Kings",
     "song_title": "Night Life",
     "youtube_url": "http://www.youtube.com/watch?v=EVEdXv4MKhs",
     "youtube_video_id": "EVEdXv4MKhs",
+    "youtube_match_score": null,
     "release_year": 1999,
     "tumblr_date": null,
     "flag": null,
@@ -1464,10 +1548,12 @@
       "Mentals travel the world blockless the prefer miscreant",
       "You fall if youth depends on the pen you see’s not your friend"
     ],
+    "full_lyrics": null,
     "artist": "Arsonists",
     "song_title": "Blacklisted",
     "youtube_url": "http://www.youtube.com/watch?v=od7v-OTLqK0",
     "youtube_video_id": "od7v-OTLqK0",
+    "youtube_match_score": null,
     "release_year": 1999,
     "tumblr_date": null,
     "flag": null,
@@ -1503,10 +1589,12 @@
       "Color me callused on a retribution tangent",
       "How’d the love die!? How’d the hell you lose the magic?"
     ],
+    "full_lyrics": null,
     "artist": "Atmosphere",
     "song_title": "The Bass and the Movement",
     "youtube_url": "http://www.youtube.com/watch?v=F-pB8poKipo",
     "youtube_video_id": "F-pB8poKipo",
+    "youtube_match_score": null,
     "release_year": 2002,
     "tumblr_date": null,
     "flag": null,
@@ -1535,10 +1623,12 @@
       "I think I’m Big Meech, look at my timepiece",
       "It’s Audemars, hundred racks at least"
     ],
+    "full_lyrics": null,
     "artist": "Rick Ross",
     "song_title": "Blowin’ Money Fast",
     "youtube_url": "http://www.youtube.com/watch?v=bdTAlbL72W8",
     "youtube_video_id": "bdTAlbL72W8",
+    "youtube_match_score": null,
     "release_year": null,
     "tumblr_date": null,
     "flag": null,
@@ -1569,10 +1659,12 @@
       "Is it baby balls or a miniature erection",
       "It makes you view change with degenerate dejection"
     ],
+    "full_lyrics": null,
     "artist": "Bubba Sparxxx",
     "song_title": "Comin’ Round",
     "youtube_url": "http://www.youtube.com/watch?v=aeuuB2lQPOw",
     "youtube_video_id": "aeuuB2lQPOw",
+    "youtube_match_score": null,
     "release_year": 2003,
     "tumblr_date": null,
     "flag": null,
@@ -1596,24 +1688,26 @@
       }
     ],
     "lyrics_lines": [
-      "Aiyyo, you betta flee Hobbes, or get your head flown three blocks",
-      "L keep rapper’s hearts pumpin like Reeboks",
+      "Ayo, you better flee hops, or get your head flown three blocks",
+      "L keep rappers' hearts pumpin' like Reeboks",
       "And every year I gain clout and my name sprouts",
-      "Some brothers’d still be large if the crack never came out"
+      "Some brothers'd still be virgins if crack never came out"
     ],
+    "full_lyrics": null,
     "artist": "Big L",
     "song_title": "Put it On",
-    "youtube_url": "http://www.youtube.com/watch?v=iBrzEVJwYFg",
-    "youtube_video_id": "iBrzEVJwYFg",
+    "youtube_url": "https://www.youtube.com/watch?v=yHhYcoTEbOw",
+    "youtube_video_id": "yHhYcoTEbOw",
+    "youtube_match_score": null,
     "release_year": 1994,
     "tumblr_date": null,
-    "flag": null,
-    "start_time": null,
-    "duration": null,
+    "flag": "audio only",
+    "start_time": 26.15,
+    "duration": 12.0,
     "video_downloaded": false,
     "video_path": null,
     "output_path": null,
-    "status": "scraped"
+    "status": "posted"
   },
   {
     "id": 47,
@@ -1635,10 +1729,12 @@
       "Left his family debt turmoil and wreckage",
       "And his grandson to scatter his ash over the U.S. Intrepid"
     ],
+    "full_lyrics": null,
     "artist": "Cage",
     "song_title": "Stripes",
     "youtube_url": "http://www.youtube.com/watch?v=OBl4_B_DUC4",
     "youtube_video_id": "OBl4_B_DUC4",
+    "youtube_match_score": null,
     "release_year": null,
     "tumblr_date": null,
     "flag": null,
@@ -1669,10 +1765,12 @@
       "Jumbo shits from New Orleans",
       "Players and Pimps that bit off Fiends"
     ],
+    "full_lyrics": null,
     "artist": "Ghostface Killah",
     "song_title": "Clipse of Doom",
     "youtube_url": "http://www.youtube.com/watch?v=ph_UEzQu1D8",
     "youtube_video_id": "ph_UEzQu1D8",
+    "youtube_match_score": null,
     "release_year": 2006,
     "tumblr_date": null,
     "flag": "audio only",
@@ -1701,10 +1799,12 @@
       "The Villianess, pimp polygamist, bigger bigamist",
       "Intelligent as master of kama sutra cunnilingus"
     ],
+    "full_lyrics": null,
     "artist": "Chino XL",
     "song_title": "Chionardo Dicaprio",
     "youtube_url": null,
     "youtube_video_id": null,
+    "youtube_match_score": null,
     "release_year": 2001,
     "tumblr_date": null,
     "flag": null,
@@ -1733,10 +1833,12 @@
       "And unstoppable, Daz",
       "My motherfuckin nigga from back in the past"
     ],
+    "full_lyrics": null,
     "artist": "Kurupt/Daz as Tha Dogg Pound",
     "song_title": "Do What I Feel",
     "youtube_url": "http://www.youtube.com/watch?v=dj9tVwJBU4k",
     "youtube_video_id": "dj9tVwJBU4k",
+    "youtube_match_score": null,
     "release_year": 1995,
     "tumblr_date": null,
     "flag": null,
@@ -1765,10 +1867,12 @@
       "When this journey is complete, you’ll know by my reaction",
       "Tears of jubilation as I’m landin back in Athens - thank you Lord"
     ],
+    "full_lyrics": null,
     "artist": "Bubba Sparxxx",
     "song_title": "Take Off“",
     "youtube_url": "http://www.youtube.com/watch?v=bqbcZnNZPy4",
     "youtube_video_id": "bqbcZnNZPy4",
+    "youtube_match_score": null,
     "release_year": 2001,
     "tumblr_date": null,
     "flag": null,
@@ -1797,10 +1901,12 @@
       "With those lies you’re telling you look like Toucan Sam",
       "But my style’s impregnable like the Hoover Dam"
     ],
+    "full_lyrics": null,
     "artist": "Beastie Boys",
     "song_title": "Hey Fuck You!",
     "youtube_url": "http://www.youtube.com/watch?v=jyF-YQRhNJo",
     "youtube_video_id": "jyF-YQRhNJo",
+    "youtube_match_score": null,
     "release_year": 2004,
     "tumblr_date": null,
     "flag": "audio only",
@@ -1828,10 +1934,12 @@
       "your ass, siphonin’ out your cash, seein’ the door, the flash",
       "While I stay enclosed, walkin’ out in my clothes"
     ],
+    "full_lyrics": null,
     "artist": "Q-Tip",
     "song_title": "Won’t Trade",
     "youtube_url": "http://www.youtube.com/watch?v=_M5x4a82PO8&feature=artist",
     "youtube_video_id": "_M5x4a82PO8",
+    "youtube_match_score": null,
     "release_year": 2008,
     "tumblr_date": null,
     "flag": null,
@@ -1860,10 +1968,12 @@
       "That used to tempt me to roll, commit to violence",
       "In the midst of an act of war, witnesses left silent"
     ],
+    "full_lyrics": null,
     "artist": "2Pac",
     "song_title": "Everything They Owe",
     "youtube_url": "http://www.youtube.com/watch?v=jwDZ0mcMUMY",
     "youtube_video_id": "jwDZ0mcMUMY",
+    "youtube_match_score": null,
     "release_year": 2001,
     "tumblr_date": null,
     "flag": "audio only",
@@ -1894,10 +2004,12 @@
       "Yo, it depends on which one, you bring to surface",
       "At times I get trife, but what to worship is my purpose"
     ],
+    "full_lyrics": null,
     "artist": "The Roots",
     "song_title": "The Spark",
     "youtube_url": "http://www.youtube.com/watch?v=qSh9IGI-8h0",
     "youtube_video_id": "qSh9IGI-8h0",
+    "youtube_match_score": null,
     "release_year": 1999,
     "tumblr_date": null,
     "flag": null,
@@ -1926,10 +2038,12 @@
       "I effeminate these clowns, trynna take me down",
       "Ask Puffy and Nas, who ‘hates me now’"
     ],
+    "full_lyrics": null,
     "artist": "LL Cool J",
     "song_title": "Old School New School",
     "youtube_url": "http://www.youtube.com/watch?v=Eye97LC2Ar0",
     "youtube_video_id": "Eye97LC2Ar0",
+    "youtube_match_score": null,
     "release_year": 2008,
     "tumblr_date": null,
     "flag": null,
@@ -1957,10 +2071,12 @@
       "EPMD reappear like abracadabra",
       "Spot the devil real quick then rebuke that future backstabber"
     ],
+    "full_lyrics": null,
     "artist": "EPMD",
     "song_title": "Bac Stabbers",
     "youtube_url": "http://www.youtube.com/watch?v=_Ho8bmEzQyc",
     "youtube_video_id": "_Ho8bmEzQyc",
+    "youtube_match_score": null,
     "release_year": 2008,
     "tumblr_date": null,
     "flag": null,
@@ -1989,10 +2105,12 @@
       "who would think that this kid from the projects",
       "get his neck so cold you would think he’s lethargic (Im froze up)"
     ],
+    "full_lyrics": null,
     "artist": "Jim Jones",
     "song_title": "Na Na Nana Na Na",
     "youtube_url": "http://www.youtube.com/watch?v=UrKcOyl5eNs",
     "youtube_video_id": "UrKcOyl5eNs",
+    "youtube_match_score": null,
     "release_year": 2009,
     "tumblr_date": null,
     "flag": null,
@@ -2021,10 +2139,12 @@
       "I'ma have that ribbon in the sky wrapped around my finger",
       "as a reminder of times, kind of when love lingered"
     ],
+    "full_lyrics": null,
     "artist": "Murs & Slug",
     "song_title": "Marvin Gaye",
     "youtube_url": "http://www.youtube.com/watch?v=qnG2fyed4I4",
     "youtube_video_id": "qnG2fyed4I4",
+    "youtube_match_score": null,
     "release_year": 2014,
     "tumblr_date": null,
     "flag": null,
@@ -2053,10 +2173,12 @@
       "With diamond-like precision",
       "Insatiable is what I envision"
     ],
+    "full_lyrics": null,
     "artist": "Left Eye",
     "song_title": "No Scrubs (Remix)",
     "youtube_url": "http://www.youtube.com/watch?v=Y_vAwYP1PbY",
     "youtube_video_id": "Y_vAwYP1PbY",
+    "youtube_match_score": null,
     "release_year": 2025,
     "tumblr_date": null,
     "flag": null,
@@ -2085,10 +2207,12 @@
       "Such nostalgia and power, such prowess, look how ya cower",
       "Jump out on you now like I was Jawa from fuckin Star Wars"
     ],
+    "full_lyrics": null,
     "artist": "Eminem",
     "song_title": "Stay Wide Awake",
     "youtube_url": "http://www.youtube.com/watch?v=6bTXOJ0p5nA",
     "youtube_video_id": "6bTXOJ0p5nA",
+    "youtube_match_score": null,
     "release_year": 2009,
     "tumblr_date": null,
     "flag": null,
@@ -2121,13 +2245,15 @@
       "Ain’t no question I’m gon’ f*ck with this",
       "I do it for the funk of it"
     ],
+    "full_lyrics": null,
     "artist": "Nate Dogg",
     "song_title": "I Pledge Allegiance” (RIP)",
     "youtube_url": "http://www.youtube.com/watch?v=CSgNwuSCbW0",
     "youtube_video_id": "CSgNwuSCbW0",
+    "youtube_match_score": null,
     "release_year": 2001,
     "tumblr_date": null,
-    "flag": null,
+    "flag": "audio only",
     "start_time": null,
     "duration": null,
     "video_downloaded": false,
@@ -2155,13 +2281,15 @@
       "instead of “nigga” say “whiteboy”",
       "and see how quick the devil PROTEST it"
     ],
+    "full_lyrics": null,
     "artist": "Rass Kass",
     "song_title": "Core Audience",
     "youtube_url": "http://www.youtube.com/watch?v=TSN927eCes0",
     "youtube_video_id": "TSN927eCes0",
+    "youtube_match_score": null,
     "release_year": null,
     "tumblr_date": null,
-    "flag": null,
+    "flag": "audio only",
     "start_time": null,
     "duration": null,
     "video_downloaded": false,
@@ -2189,10 +2317,12 @@
       "And my memoir be",
       "Reminding me of eating Calamari in the Khalahari with a band ofRhastafari."
     ],
+    "full_lyrics": null,
     "artist": "Lauryn Hill",
     "song_title": "Fu-Gee-La",
     "youtube_url": "http://www.youtube.com/watch?v=BVo5Y_yVdas",
     "youtube_video_id": "BVo5Y_yVdas",
+    "youtube_match_score": null,
     "release_year": null,
     "tumblr_date": null,
     "flag": null,
@@ -2221,10 +2351,12 @@
       "in Vietnam, cause Rahzel drops the bomb",
       "More complex than texts, in your Holy Qu'ran"
     ],
+    "full_lyrics": null,
     "artist": "Rahzel",
     "song_title": "All I Know",
     "youtube_url": "http://www.youtube.com/watch?v=SOHDAuHHhws",
     "youtube_video_id": "SOHDAuHHhws",
+    "youtube_match_score": null,
     "release_year": 1999,
     "tumblr_date": null,
     "flag": null,
@@ -2253,10 +2385,12 @@
       "The music infiltrates you mutates you",
       "Grabs you holds you moulds you and let you"
     ],
+    "full_lyrics": null,
     "artist": "Will Smith",
     "song_title": "Trapped on the Dancefloor",
     "youtube_url": "http://www.youtube.com/watch?v=q-BCrEh88Hw",
     "youtube_video_id": "q-BCrEh88Hw",
+    "youtube_match_score": null,
     "release_year": 2018,
     "tumblr_date": null,
     "flag": null,
@@ -2285,10 +2419,12 @@
       "See, I’ve been the flyest since I came out the gate",
       "I ain’t ask for it homie I just shake and bake"
     ],
+    "full_lyrics": null,
     "artist": "Snoop Dogg",
     "song_title": "Bo$$ Playa",
     "youtube_url": "http://www.youtube.com/watch?v=20VUMl4Lvlc",
     "youtube_video_id": "20VUMl4Lvlc",
+    "youtube_match_score": null,
     "release_year": 2002,
     "tumblr_date": null,
     "flag": null,
@@ -2317,10 +2453,12 @@
       "From project hallways to courthouse hallways",
       "Some prevail, most see jail, this happens always"
     ],
+    "full_lyrics": null,
     "artist": "Gangstarr",
     "song_title": "Tha Squeeze",
     "youtube_url": "http://www.youtube.com/watch?v=8dNFqhFAAZc",
     "youtube_video_id": "8dNFqhFAAZc",
+    "youtube_match_score": null,
     "release_year": 2001,
     "tumblr_date": null,
     "flag": null,
@@ -2356,10 +2494,12 @@
       "My philosophy, speak animosity keep shit in a bag like a colostomy",
       "I’m pro you’re junior varsity."
     ],
+    "full_lyrics": null,
     "artist": "Chino XL",
     "song_title": "Nunca",
     "youtube_url": "http://www.youtube.com/watch?v=PVjsMaQ2ptc",
     "youtube_video_id": "PVjsMaQ2ptc",
+    "youtube_match_score": null,
     "release_year": 2001,
     "tumblr_date": null,
     "flag": null,
@@ -2388,10 +2528,12 @@
       "Ballers, shot callers, I’m comin up",
       "Dug up, up out the grave, now pay attention to the thug"
     ],
+    "full_lyrics": null,
     "artist": "Bizzy Bone",
     "song_title": "Don’t be Fake",
     "youtube_url": null,
     "youtube_video_id": null,
+    "youtube_match_score": null,
     "release_year": null,
     "tumblr_date": null,
     "flag": null,
@@ -2425,10 +2567,12 @@
       "Uh, they just can’t understand or fathom my demeanor",
       "Unapproachable appearance to how I pack the ninas"
     ],
+    "full_lyrics": null,
     "artist": "Malice",
     "song_title": "Cot Damn",
     "youtube_url": "http://www.youtube.com/watch?v=VCeTMsnjvGw",
     "youtube_video_id": "VCeTMsnjvGw",
+    "youtube_match_score": null,
     "release_year": 2002,
     "tumblr_date": null,
     "flag": null,
@@ -2457,10 +2601,12 @@
       "I say and I quote, “We need a miracle”",
       "And I say a miracle cause this shit is hysterical"
     ],
+    "full_lyrics": null,
     "artist": "Young Jeezy",
     "song_title": "My President",
     "youtube_url": "http://www.youtube.com/watch?v=_ZAuY4ULNcE",
     "youtube_video_id": "_ZAuY4ULNcE",
+    "youtube_match_score": null,
     "release_year": 2008,
     "tumblr_date": null,
     "flag": null,
@@ -2489,10 +2635,12 @@
       "That used to tempt me to roll, commit to violence",
       "In the midst of an act of war, witnesses left silent"
     ],
+    "full_lyrics": null,
     "artist": "2Pac",
     "song_title": "Everything They Owe",
     "youtube_url": "http://www.youtube.com/watch?v=jwDZ0mcMUMY",
     "youtube_video_id": "jwDZ0mcMUMY",
+    "youtube_match_score": null,
     "release_year": 2001,
     "tumblr_date": null,
     "flag": null,
@@ -2522,10 +2670,12 @@
       "to vixens that mixed in with the wrong crowd",
       "My life is on a flight that’s goin’ down"
     ],
+    "full_lyrics": null,
     "artist": "The Roots",
     "song_title": "I Can’t Help It",
     "youtube_url": "http://www.youtube.com/watch?v=P4k3Hv_RhGE",
     "youtube_video_id": "P4k3Hv_RhGE",
+    "youtube_match_score": null,
     "release_year": 2008,
     "tumblr_date": null,
     "flag": null,
@@ -2556,10 +2706,12 @@
       "Incite insurmountable insurrections",
       "In the urban sections"
     ],
+    "full_lyrics": null,
     "artist": "Souls of Mischief",
     "song_title": "That Ain’t Life (Climax)",
     "youtube_url": null,
     "youtube_video_id": null,
+    "youtube_match_score": null,
     "release_year": 2000,
     "tumblr_date": null,
     "flag": "audio only",
@@ -2588,10 +2740,12 @@
       "Constant link passers, styles’ll skate past ya",
       "Beats that we present will make you hate like a slave master"
     ],
+    "full_lyrics": null,
     "artist": "Jurassic 5",
     "song_title": "Red Hot",
     "youtube_url": "http://www.youtube.com/watch?v=cDduFLdWXW8",
     "youtube_video_id": "cDduFLdWXW8",
+    "youtube_match_score": null,
     "release_year": 2006,
     "tumblr_date": null,
     "flag": null,
@@ -2620,10 +2774,12 @@
       "Yellows and greens and blues and browns",
       "and greys and hues that ooze beneath dilapidated woods"
     ],
+    "full_lyrics": null,
     "artist": "Andre 3000",
     "song_title": "Black Ice",
     "youtube_url": "http://www.youtube.com/watch?v=B-HjhxG0SYE",
     "youtube_video_id": "B-HjhxG0SYE",
+    "youtube_match_score": null,
     "release_year": 1998,
     "tumblr_date": null,
     "flag": null,
@@ -2652,10 +2808,12 @@
       "The subconscious effort, to support our paramour",
       "To engage in denial, to admit we’re immature"
     ],
+    "full_lyrics": null,
     "artist": "Lauryn Hill",
     "song_title": "Mr. Intentional",
     "youtube_url": "https://www.youtube.com/watch?v=FbYSKdRcKlU",
     "youtube_video_id": "FbYSKdRcKlU",
+    "youtube_match_score": null,
     "release_year": 2002,
     "tumblr_date": null,
     "flag": null,
@@ -2683,10 +2841,12 @@
       "Excuse me lord if you have tricks up your sleeve",
       "I’m not ready to be bereaved"
     ],
+    "full_lyrics": null,
     "artist": "N.E.R.D.",
     "song_title": "Run to the Sun",
     "youtube_url": "http://www.youtube.com/watch?v=qTK3woNke4M",
     "youtube_video_id": "qTK3woNke4M",
+    "youtube_match_score": null,
     "release_year": 2001,
     "tumblr_date": null,
     "flag": null,
@@ -2715,10 +2875,12 @@
       "I sonic boom when I return back to earth",
       "Birth of a new rhyme will take no time"
     ],
+    "full_lyrics": null,
     "artist": "Mista Grimm",
     "song_title": "Indo Smoke",
     "youtube_url": "http://www.youtube.com/watch?v=eXrz6rJdMtE",
     "youtube_video_id": "eXrz6rJdMtE",
+    "youtube_match_score": null,
     "release_year": 1993,
     "tumblr_date": null,
     "flag": null,
@@ -2747,10 +2909,12 @@
       "She got laser-guided rockets, she killing to go to college",
       "She thought it was an insurgent, it was some old man"
     ],
+    "full_lyrics": null,
     "artist": "Lupe Fiasco",
     "song_title": "Heat Under the Baby Seat",
     "youtube_url": "http://www.youtube.com/watch?v=XIFgACa7Kdc",
     "youtube_video_id": "XIFgACa7Kdc",
+    "youtube_match_score": null,
     "release_year": 2006,
     "tumblr_date": null,
     "flag": null,
@@ -2778,10 +2942,12 @@
       "You get state time for fakin like you greater than Him",
       "So cop a plea to lessen charges, pay your fine at the Desk Sergeant"
     ],
+    "full_lyrics": null,
     "artist": "Jay-Z",
     "song_title": "People’s Court",
     "youtube_url": "http://www.youtube.com/watch?v=ZTlhM2Bfy2o",
     "youtube_video_id": "ZTlhM2Bfy2o",
+    "youtube_match_score": null,
     "release_year": 2000,
     "tumblr_date": null,
     "flag": null,
@@ -2812,10 +2978,12 @@
       "In arm outstretched",
       "Inject in you"
     ],
+    "full_lyrics": null,
     "artist": "Das Racist",
     "song_title": "Shut Up, Man",
     "youtube_url": null,
     "youtube_video_id": null,
+    "youtube_match_score": null,
     "release_year": 2011,
     "tumblr_date": null,
     "flag": null,
@@ -2843,10 +3011,12 @@
       "Unappreciated, unalleviated",
       "Tired of comin’ up short, fuck abbreviated"
     ],
+    "full_lyrics": null,
     "artist": "J. Cole",
     "song_title": "Sideline Story",
     "youtube_url": "http://www.youtube.com/watch?v=ffBD_zyIZJE",
     "youtube_video_id": "ffBD_zyIZJE",
+    "youtube_match_score": null,
     "release_year": 2011,
     "tumblr_date": null,
     "flag": null,
@@ -2873,10 +3043,12 @@
       "You succeeded at your attempts to make me",
       "Need you desperately to vindicate me"
     ],
+    "full_lyrics": null,
     "artist": "Nicki Minaj",
     "song_title": "Catch Me",
     "youtube_url": "http://www.youtube.com/watch?v=aC9RPZvK0wA",
     "youtube_video_id": "aC9RPZvK0wA",
+    "youtube_match_score": null,
     "release_year": 2010,
     "tumblr_date": null,
     "flag": null,
@@ -2905,10 +3077,12 @@
       "They dont cherish the moment like they probably should",
       "Once they star’s submitted they act Hollywood"
     ],
+    "full_lyrics": null,
     "artist": "Joe Budden",
     "song_title": "No Idea",
     "youtube_url": "http://www.youtube.com/watch?v=EcN6eGsY2w8",
     "youtube_video_id": "EcN6eGsY2w8",
+    "youtube_match_score": null,
     "release_year": null,
     "tumblr_date": null,
     "flag": null,
@@ -2937,10 +3111,12 @@
       "Before you sit and judge a nigga off the shit that you hear",
       "Get all defensive, apprehensive all because of my career"
     ],
+    "full_lyrics": null,
     "artist": "J. Cole",
     "song_title": "Dawn Love",
     "youtube_url": "http://www.youtube.com/watch?v=ysQlc99oYoo",
     "youtube_video_id": "ysQlc99oYoo",
+    "youtube_match_score": null,
     "release_year": 2015,
     "tumblr_date": null,
     "flag": null,
@@ -2983,10 +3159,12 @@
       "Lauded be, see folks spread – ahead go now",
       "The quote read by the billions, so pardon me"
     ],
+    "full_lyrics": null,
     "artist": "Common Market",
     "song_title": "Nothin’ at All",
     "youtube_url": "http://www.youtube.com/watch?v=tflhIxd-w-s",
     "youtube_video_id": "tflhIxd-w-s",
+    "youtube_match_score": null,
     "release_year": 2008,
     "tumblr_date": null,
     "flag": null,
@@ -3015,10 +3193,12 @@
       "I only say this in cadence so it don’t get negated",
       "I was gon’ save it for later but later look like maybe"
     ],
+    "full_lyrics": null,
     "artist": "Andre 3000",
     "song_title": "Sleazy (Remix)",
     "youtube_url": "http://www.youtube.com/watch?v=j6wPwfGgzNw",
     "youtube_video_id": "j6wPwfGgzNw",
+    "youtube_match_score": null,
     "release_year": 2011,
     "tumblr_date": null,
     "flag": null,
@@ -3047,10 +3227,12 @@
       "Fading back to black, my dark coronation",
       "The heat of the day, the long robe of muerte"
     ],
+    "full_lyrics": null,
     "artist": "The Roots",
     "song_title": "Make My",
     "youtube_url": "http://www.youtube.com/watch?v=zqYFclG1hdw",
     "youtube_video_id": "zqYFclG1hdw",
+    "youtube_match_score": null,
     "release_year": 2011,
     "tumblr_date": null,
     "flag": null,
@@ -3077,10 +3259,12 @@
       "This ain’t no time where the usual is suitable",
       "Tonight alive, let’s describe the inscrutable"
     ],
+    "full_lyrics": null,
     "artist": "Mos Def",
     "song_title": "Respiration",
     "youtube_url": "http://www.youtube.com/watch?v=nY6rkPsLiEE",
     "youtube_video_id": "nY6rkPsLiEE",
+    "youtube_match_score": null,
     "release_year": 1998,
     "tumblr_date": null,
     "flag": null,
@@ -3109,10 +3293,12 @@
       "One of them bitches is cute, the rest of them congruent",
       "Why you talking my nigga? Just go and do it"
     ],
+    "full_lyrics": null,
     "artist": "Wale",
     "song_title": "Double M Genius",
     "youtube_url": "http://www.youtube.com/watch?v=up01Z4N9sEE",
     "youtube_video_id": "up01Z4N9sEE",
+    "youtube_match_score": null,
     "release_year": 2011,
     "tumblr_date": null,
     "flag": null,
@@ -3139,10 +3325,12 @@
       "I'm on more than they're on, cocaine or methadone",
       "I'm on this money these bitches the upper echelon"
     ],
+    "full_lyrics": null,
     "artist": "Ja Rule",
     "song_title": "Real Life Fantasy",
     "youtube_url": "https://www.youtube.com/watch?v=MnMixto0oMY",
     "youtube_video_id": "MnMixto0oMY",
+    "youtube_match_score": null,
     "release_year": 2012,
     "tumblr_date": null,
     "flag": null,
@@ -3169,10 +3357,12 @@
       "Aware about in ya suit and tie, cruising by",
       "The intrepid workmen that sharpen ya shooting eye"
     ],
+    "full_lyrics": null,
     "artist": "GZA",
     "song_title": "Uncut Material",
     "youtube_url": "http://www.youtube.com/watch?v=xAS5AqK2120",
     "youtube_video_id": "xAS5AqK2120",
+    "youtube_match_score": null,
     "release_year": 2002,
     "tumblr_date": null,
     "flag": null,
@@ -3191,10 +3381,12 @@
       "Federal agents mad cause I’m flagrant",
       "Tap my cell and the phone in the basement."
     ],
+    "full_lyrics": null,
     "artist": "Notorious B.I.G.",
     "song_title": "Mo’ Money Mo’ Problems",
     "youtube_url": "http://www.youtube.com/watch?feature=player_embedded&v=VAOUbr2HEpo",
     "youtube_video_id": "VAOUbr2HEpo",
+    "youtube_match_score": null,
     "release_year": 1997,
     "tumblr_date": null,
     "flag": null,
@@ -3215,10 +3407,12 @@
       "Every verb’s visceral",
       "This is no kiss under the mistletoe"
     ],
+    "full_lyrics": null,
     "artist": "Del of “Hieroglyphics”",
     "song_title": "7 Sixes",
     "youtube_url": "http://www.youtube.com/watch?v=L2qh4gxv5m8",
     "youtube_video_id": "L2qh4gxv5m8",
+    "youtube_match_score": null,
     "release_year": null,
     "tumblr_date": null,
     "flag": null,
@@ -3253,10 +3447,12 @@
       "Tend to agree because the thought is so disparaging",
       "The Lord give a load, you got to carry it like Mary did"
     ],
+    "full_lyrics": null,
     "artist": "Killer Mike",
     "song_title": "Untitled",
     "youtube_url": "http://www.youtube.com/watch?v=T7wvg9VHIxg",
     "youtube_video_id": "T7wvg9VHIxg",
+    "youtube_match_score": null,
     "release_year": 2012,
     "tumblr_date": null,
     "flag": null,
@@ -3285,10 +3481,12 @@
       "A plethora of fine freaks trailing right behind me",
       "Killin shit dead, turn the club to a crime scene"
     ],
+    "full_lyrics": null,
     "artist": "T.I.",
     "song_title": "She Will (Remix)",
     "youtube_url": "http://www.youtube.com/watch?v=guQa1TT-HQ0",
     "youtube_video_id": "guQa1TT-HQ0",
+    "youtube_match_score": null,
     "release_year": 2011,
     "tumblr_date": null,
     "flag": null,
@@ -3317,10 +3515,12 @@
       "I’m the quintessential, mistress of the instrumental",
       "Y'all could Wait to Exhale, I'mma vent a little"
     ],
+    "full_lyrics": null,
     "artist": "Foxy Brown",
     "song_title": "Foxy’s Bells",
     "youtube_url": "http://www.youtube.com/watch?v=uXCvtPkY4YY",
     "youtube_video_id": "uXCvtPkY4YY",
+    "youtube_match_score": null,
     "release_year": 1996,
     "tumblr_date": null,
     "flag": null,
@@ -3349,10 +3549,12 @@
       "Tap the keg of you conscious",
       "Navigate niggas like Farrhakan with a compass"
     ],
+    "full_lyrics": null,
     "artist": "Common Sense",
     "song_title": "Play Dis (remix)",
     "youtube_url": "http://www.youtube.com/watch?v=ciQlNRFz7hM",
     "youtube_video_id": "ciQlNRFz7hM",
+    "youtube_match_score": null,
     "release_year": 1997,
     "tumblr_date": null,
     "flag": null,
@@ -3381,10 +3583,12 @@
       "Brooklyns the residence, the best and it’s evident",
       "We got them niggas P-E-Nuts, like they elephants"
     ],
+    "full_lyrics": null,
     "artist": "Joey Bada$$",
     "song_title": "Survival Tactics",
     "youtube_url": "http://www.youtube.com/watch?v=DDWAk8-leVA",
     "youtube_video_id": "DDWAk8-leVA",
+    "youtube_match_score": null,
     "release_year": 2011,
     "tumblr_date": null,
     "flag": null,
@@ -3415,10 +3619,12 @@
       "Take it off like Monday, baby",
       "And there will be no underrating"
     ],
+    "full_lyrics": null,
     "artist": "Phonte",
     "song_title": "Band Practice Pt. 2",
     "youtube_url": "http://www.youtube.com/watch?v=kDb7vviQOgw",
     "youtube_video_id": "kDb7vviQOgw",
+    "youtube_match_score": null,
     "release_year": 2011,
     "tumblr_date": null,
     "flag": null,
@@ -3447,10 +3653,12 @@
       "So what I rap about my riches and I’m ostentatious",
       "Get out of gangsta business seen in me you basic"
     ],
+    "full_lyrics": null,
     "artist": "Nas",
     "song_title": "Reach Out",
     "youtube_url": "http://www.youtube.com/watch?v=uAimifh8uco",
     "youtube_video_id": "uAimifh8uco",
+    "youtube_match_score": null,
     "release_year": 2012,
     "tumblr_date": null,
     "flag": "audio only",
@@ -3479,10 +3687,12 @@
       "I am multifaceted, bitch I do a ton of shit",
       "Like I’m diarrhea or whatever sitting under it"
     ],
+    "full_lyrics": null,
     "artist": "Angel Haze",
     "song_title": "Werkin’ Girls",
     "youtube_url": "http://www.youtube.com/watch?v=KpFzopP_BCk",
     "youtube_video_id": "KpFzopP_BCk",
+    "youtube_match_score": null,
     "release_year": 2012,
     "tumblr_date": null,
     "flag": null,
@@ -3509,10 +3719,12 @@
       "Bitch you gotta be kiddin me, Kim’s the epitome",
       "I’m the ghost of BIG so you could never get rid of me"
     ],
+    "full_lyrics": null,
     "artist": "Lil’ Kim",
     "song_title": "Last Day",
     "youtube_url": "http://www.youtube.com/watch?v=8ABR0ytcsU8",
     "youtube_video_id": "8ABR0ytcsU8",
+    "youtube_match_score": null,
     "release_year": 2005,
     "tumblr_date": null,
     "flag": null,
@@ -3541,10 +3753,12 @@
       "I pray for you and us, that we imbue through lust",
       "And accrue the trust, let’s shake off the dust from the cloth"
     ],
+    "full_lyrics": null,
     "artist": "Common",
     "song_title": "Cloth",
     "youtube_url": "http://www.youtube.com/watch?v=DuUFIBnXj4Q",
     "youtube_video_id": "DuUFIBnXj4Q",
+    "youtube_match_score": null,
     "release_year": 2011,
     "tumblr_date": null,
     "flag": null,
@@ -3573,10 +3787,12 @@
       "Hold up shawty let’s conversate, conjugate, constipate",
       "Get stuck on each other, you comin up out of yo’ lingerie"
     ],
+    "full_lyrics": null,
     "artist": "Flo Rida",
     "song_title": "I Know You Got A Man",
     "youtube_url": "http://www.youtube.com/watch?v=MXFl5WldThA",
     "youtube_video_id": "MXFl5WldThA",
+    "youtube_match_score": null,
     "release_year": 2010,
     "tumblr_date": null,
     "flag": null,
@@ -3612,10 +3828,12 @@
       "I don’t even clap, young boy, he claps for me",
       "Chain hang down to my dick, I’m that gaudy"
     ],
+    "full_lyrics": null,
     "artist": "Jedi Mind Tricks",
     "song_title": "Animal Rap",
     "youtube_url": "http://www.youtube.com/watch?v=2Xh-6rwXsU4",
     "youtube_video_id": "2Xh-6rwXsU4",
+    "youtube_match_score": null,
     "release_year": 2003,
     "tumblr_date": null,
     "flag": null,
@@ -3644,10 +3862,12 @@
       "See how this vicious cycle could fuck wit you psychologically",
       "You best cooperate with the state or become they property"
     ],
+    "full_lyrics": null,
     "artist": "Freddie Gibbs",
     "song_title": "187 Proof",
     "youtube_url": "http://www.youtube.com/watch?feature=player_embedded&v=g9F8yAHpYCM",
     "youtube_video_id": "g9F8yAHpYCM",
+    "youtube_match_score": null,
     "release_year": 2011,
     "tumblr_date": null,
     "flag": null,
@@ -3676,10 +3896,12 @@
       "It’s best to step back, and observe with couth",
       "For we all must meet our moment of truth"
     ],
+    "full_lyrics": null,
     "artist": "Guru",
     "song_title": "Moment of Truth",
     "youtube_url": "http://www.youtube.com/watch?v=lH3hrtp1T84",
     "youtube_video_id": "lH3hrtp1T84",
+    "youtube_match_score": null,
     "release_year": 2004,
     "tumblr_date": null,
     "flag": null,
@@ -3706,10 +3928,12 @@
       "Large holes in the front door, of a housing tenement",
       "Allows room to retaliate, so conflict is imminent"
     ],
+    "full_lyrics": null,
     "artist": "GZA",
     "song_title": "Street Corner",
     "youtube_url": "http://www.youtube.com/watch?v=_bNN9bPGoqA",
     "youtube_video_id": "_bNN9bPGoqA",
+    "youtube_match_score": null,
     "release_year": 2006,
     "tumblr_date": null,
     "flag": null,
@@ -3738,10 +3962,12 @@
       "And you thought he was cute before",
       "Look at this peacoat, tell me he's broke"
     ],
+    "full_lyrics": null,
     "artist": "Kanye West",
     "song_title": "American Boy",
     "youtube_url": "http://www.youtube.com/watch?v=Ic5vxw3eijY",
     "youtube_video_id": "Ic5vxw3eijY",
+    "youtube_match_score": null,
     "release_year": 2008,
     "tumblr_date": null,
     "flag": null,
@@ -3770,10 +3996,12 @@
       "When there’s no more steam in that engine",
       "Yet hopefully clean streams be an astringent"
     ],
+    "full_lyrics": null,
     "artist": "Cunninlynguist",
     "song_title": "What’ll You Do",
     "youtube_url": "http://www.youtube.com/watch?v=432PZ9787n0",
     "youtube_video_id": "432PZ9787n0",
+    "youtube_match_score": null,
     "release_year": 2006,
     "tumblr_date": null,
     "flag": null,
@@ -3802,10 +4030,12 @@
       "So I stop despise, on top of lies",
       "And if it prophesized I’ll be ostracized"
     ],
+    "full_lyrics": null,
     "artist": "Mase",
     "song_title": "Gotta Survive",
     "youtube_url": "http://www.youtube.com/watch?v=9RPJddGbyt4",
     "youtube_video_id": "9RPJddGbyt4",
+    "youtube_match_score": null,
     "release_year": 2004,
     "tumblr_date": null,
     "flag": null,
@@ -3842,10 +4072,12 @@
       "Took over the big house on some Nat Turner shit",
       "Shoulders back, hair tied to the fucking firmament"
     ],
+    "full_lyrics": null,
     "artist": "Phonte",
     "song_title": "Not Here Anymore",
     "youtube_url": "http://www.youtube.com/watch?v=1po7KurK564",
     "youtube_video_id": "1po7KurK564",
+    "youtube_match_score": null,
     "release_year": 2011,
     "tumblr_date": null,
     "flag": null,
@@ -3872,10 +4104,12 @@
       "The counteraction is just a helpless action of the hapless flinching",
       "My supersonics leave you mute like Maggie Simpson"
     ],
+    "full_lyrics": null,
     "artist": "El-P",
     "song_title": "Bad Touch Example",
     "youtube_url": "http://www.youtube.com/watch?v=lbDoh6A9VME",
     "youtube_video_id": "lbDoh6A9VME",
+    "youtube_match_score": null,
     "release_year": 1997,
     "tumblr_date": null,
     "flag": null,
@@ -3904,10 +4138,12 @@
       "Down a patient",
       "Tryin’ to thwart assassination"
     ],
+    "full_lyrics": null,
     "artist": "Three 6 Mafia",
     "song_title": "Fuckin’ Wit Dis Click",
     "youtube_url": "http://www.youtube.com/watch?v=CJ8KYoZWzi0",
     "youtube_video_id": "CJ8KYoZWzi0",
+    "youtube_match_score": null,
     "release_year": 1995,
     "tumblr_date": null,
     "flag": null,
@@ -3942,10 +4178,12 @@
       "As the pyramids that stand on top of the sand",
       "In the heat of the moment, like Farrakhan said we need atonement"
     ],
+    "full_lyrics": null,
     "artist": "Nas",
     "song_title": "Nas is Coming",
     "youtube_url": "http://www.youtube.com/watch?v=b-NFT14kMeQ",
     "youtube_video_id": "b-NFT14kMeQ",
+    "youtube_match_score": null,
     "release_year": 1996,
     "tumblr_date": null,
     "flag": null,
@@ -3974,10 +4212,12 @@
       "With those lies you’re telling you’re like Toucan Sam",
       "But my style’s impregnable like the Hoover Dam"
     ],
+    "full_lyrics": null,
     "artist": "Beastie Boys",
     "song_title": "Hey Fuck You",
     "youtube_url": "https://www.youtube.com/watch?v=mfcefpoCj0M",
     "youtube_video_id": "mfcefpoCj0M",
+    "youtube_match_score": null,
     "release_year": 2004,
     "tumblr_date": null,
     "flag": null,
@@ -4006,10 +4246,12 @@
       "New Earth has become a repugnant place",
       "So it’s time to spread the fear to thunder some"
     ],
+    "full_lyrics": null,
     "artist": "Del",
     "song_title": "Virus",
     "youtube_url": "https://www.youtube.com/watch?v=ijPE7fe4XTg",
     "youtube_video_id": "ijPE7fe4XTg",
+    "youtube_match_score": null,
     "release_year": 2000,
     "tumblr_date": null,
     "flag": null,
@@ -4028,7 +4270,7 @@
         "word": "rapport",
         "syllables": "rap·port",
         "part_of_speech": "noun",
-        "definition": "a close and harmonious relationship in which the people or groups concerned understand each other’s feelings or ideas and communicate well.",
+        "definition": "a relationship of mutual trust and respect.",
         "wiktionary_url": "http://en.wiktionary.org/wiki/rapport"
       }
     ],
@@ -4038,19 +4280,21 @@
       "Shouldn’t claim the hood til you build a rapport",
       "Amsterdam state of mind: I just gave you a tour"
     ],
+    "full_lyrics": null,
     "artist": "Rick Ross",
     "song_title": "Amsterdam",
     "youtube_url": "https://www.youtube.com/watch?v=zf4ZiJPsU3w",
     "youtube_video_id": "zf4ZiJPsU3w",
+    "youtube_match_score": null,
     "release_year": 2012,
     "tumblr_date": null,
     "flag": null,
-    "start_time": 146.17000000000002,
-    "duration": 15.0,
-    "video_downloaded": false,
-    "video_path": null,
-    "output_path": null,
-    "status": "scraped"
+    "start_time": 148.6,
+    "duration": 11.2,
+    "video_downloaded": true,
+    "video_path": "/home/cing/proteinqure/code/playground/rapwords/data/videos/121_zf4ZiJPsU3w.mp4",
+    "output_path": "/home/cing/proteinqure/code/playground/rapwords/data/output/121_rapport.mp4",
+    "status": "posted"
   },
   {
     "id": 122,
@@ -4070,10 +4314,12 @@
       "Man of bravery skill and chicanery",
       "I get the ladies cause I use my brain you see"
     ],
+    "full_lyrics": null,
     "artist": "Lord Finesse",
     "song_title": "Funky Technician",
     "youtube_url": "https://www.youtube.com/watch?v=NZYeXNwd5qM",
     "youtube_video_id": "NZYeXNwd5qM",
+    "youtube_match_score": null,
     "release_year": 1990,
     "tumblr_date": null,
     "flag": null,
@@ -4111,10 +4357,12 @@
       "Fuck roses, when I die I want a photo shoot",
       "That lasting greatness you’ll document, I’m opulent"
     ],
+    "full_lyrics": null,
     "artist": "Hodgy Beats",
     "song_title": "If Heaven is a Ghetto",
     "youtube_url": "https://www.youtube.com/watch?v=hKhUvpqExh0",
     "youtube_video_id": "hKhUvpqExh0",
+    "youtube_match_score": null,
     "release_year": 2012,
     "tumblr_date": null,
     "flag": null,
@@ -4141,10 +4389,12 @@
       "I’m blazin’ I’m flagrant, Im crazy I’m saying",
       "Too much for the world so they abbreviate him"
     ],
+    "full_lyrics": null,
     "artist": "Kanye West",
     "song_title": "Blazin",
     "youtube_url": "https://www.youtube.com/watch?v=T3VCa_EYZ-w",
     "youtube_video_id": "T3VCa_EYZ-w",
+    "youtube_match_score": null,
     "release_year": 2010,
     "tumblr_date": null,
     "flag": null,
@@ -4171,10 +4421,12 @@
       "I’m Genghis Khan, I’m a genius spawn",
       "I pillage your village for fun, an egregious con"
     ],
+    "full_lyrics": null,
     "artist": "Crooked I",
     "song_title": "Session One",
     "youtube_url": "https://www.youtube.com/watch?v=s42YGuPrhSw",
     "youtube_video_id": "s42YGuPrhSw",
+    "youtube_match_score": null,
     "release_year": 2010,
     "tumblr_date": null,
     "flag": null,
@@ -4203,10 +4455,12 @@
       "Ubiquitous, and we lay the law like Leviticus",
       "Ten years ago we made history so they missing us"
     ],
+    "full_lyrics": null,
     "artist": "Talib Kweli",
     "song_title": "History",
     "youtube_url": "https://www.youtube.com/watch?v=t_Z8X_bgEpw",
     "youtube_video_id": "t_Z8X_bgEpw",
+    "youtube_match_score": null,
     "release_year": 2009,
     "tumblr_date": null,
     "flag": null,
@@ -4235,10 +4489,12 @@
       "Like if you was just another shorty I put the naughty on",
       "But uh, truth be told you threw me for a loop, this Hov"
     ],
+    "full_lyrics": null,
     "artist": "Jay-Z",
     "song_title": "Frontin’",
     "youtube_url": "https://www.youtube.com/watch?v=W1268Wxa9Ik",
     "youtube_video_id": "W1268Wxa9Ik",
+    "youtube_match_score": null,
     "release_year": 2003,
     "tumblr_date": null,
     "flag": null,
@@ -4274,10 +4530,12 @@
       "A marvel to the medical professionals that claim they half wanna test a dude",
       "Before they understand what I’m equipped to do"
     ],
+    "full_lyrics": null,
     "artist": "Canibus",
     "song_title": "Behind Enemy Rhymes",
     "youtube_url": "https://www.youtube.com/watch?v=HtFPO2MPUCs",
     "youtube_video_id": "HtFPO2MPUCs",
+    "youtube_match_score": null,
     "release_year": 2002,
     "tumblr_date": null,
     "flag": null,
@@ -4313,10 +4571,12 @@
       "Ain’t being cocky, we just vindicated",
       "Best believe that when were done, this moment will be syndicated"
     ],
+    "full_lyrics": null,
     "artist": "Nicki Minaj",
     "song_title": "Moment 4 Life",
     "youtube_url": "https://www.youtube.com/watch?v=D7GW8TYCEG4",
     "youtube_video_id": "D7GW8TYCEG4",
+    "youtube_match_score": null,
     "release_year": 2010,
     "tumblr_date": null,
     "flag": null,
@@ -4345,10 +4605,12 @@
       "I’m takin stripes, might snipe ya, cause I’m hyper",
       "Will incite the shit too loose, I’ll make it tighter"
     ],
+    "full_lyrics": null,
     "artist": "Afu-Ra",
     "song_title": "Mic Stance",
     "youtube_url": "https://www.youtube.com/watch?v=HA-O4qsQ4ik",
     "youtube_video_id": "HA-O4qsQ4ik",
+    "youtube_match_score": null,
     "release_year": 2000,
     "tumblr_date": null,
     "flag": null,
@@ -4379,10 +4641,12 @@
       "I son y'all niggas like the man Barkley",
       "Screaming your money or your life this is grand larceny"
     ],
+    "full_lyrics": null,
     "artist": "Rass Kass",
     "song_title": "Sushi",
     "youtube_url": "https://www.youtube.com/watch?v=8Fs_tSFHCaM",
     "youtube_video_id": "8Fs_tSFHCaM",
+    "youtube_match_score": null,
     "release_year": 2012,
     "tumblr_date": null,
     "flag": null,
@@ -4411,10 +4675,12 @@
       "Foolishly, most men join the ranks cluelessly",
       "Buffoonishly accept the deception, believe the perception"
     ],
+    "full_lyrics": null,
     "artist": "Mos Def",
     "song_title": "Thieves in the Night",
     "youtube_url": "https://www.youtube.com/watch?v=8X7m63nPvsQ",
     "youtube_video_id": "8X7m63nPvsQ",
+    "youtube_match_score": null,
     "release_year": 1998,
     "tumblr_date": null,
     "flag": null,
@@ -4450,13 +4716,15 @@
       "I’m solid gold, I rap like a mink stole",
       "I stick pearl tongues your world will never know"
     ],
+    "full_lyrics": null,
     "artist": "Jay-Z",
     "song_title": "Cashmere Thoughts",
     "youtube_url": "https://www.youtube.com/watch?v=3Jx3jGAlKG0",
     "youtube_video_id": "3Jx3jGAlKG0",
+    "youtube_match_score": null,
     "release_year": 1996,
     "tumblr_date": null,
-    "flag": null,
+    "flag": "audio only",
     "start_time": null,
     "duration": null,
     "video_downloaded": false,
@@ -4482,10 +4750,12 @@
       "Voracious shit, cop a huge cats who on a ocean cliff",
       "Imagine that a few years back I was baggin cracks, magnet gats"
     ],
+    "full_lyrics": null,
     "artist": "AZ",
     "song_title": "Love is Love",
     "youtube_url": "https://www.youtube.com/watch?v=JMM6I3wlnS4",
     "youtube_video_id": "JMM6I3wlnS4",
+    "youtube_match_score": null,
     "release_year": 1998,
     "tumblr_date": null,
     "flag": null,
@@ -4515,10 +4785,12 @@
       "I got power, poison, pain, and joy inside my DNA",
       "I got hustle, though, ambition flow inside my DNA"
     ],
+    "full_lyrics": null,
     "artist": "Kendrick Lamar",
     "song_title": "DNA.",
     "youtube_url": "https://www.youtube.com/watch?v=NLZRYQMLDW4",
     "youtube_video_id": "NLZRYQMLDW4",
+    "youtube_match_score": null,
     "release_year": 2017,
     "tumblr_date": null,
     "flag": null,
@@ -4545,10 +4817,12 @@
       "Ignoramuses enlist and sound dumb",
       "Found 'em drowned in cow's dung, crowns flung"
     ],
+    "full_lyrics": null,
     "artist": "MF DOOM",
     "song_title": "That’s That",
     "youtube_url": "https://www.youtube.com/watch?v=EgEM7xW9pJc",
     "youtube_video_id": "EgEM7xW9pJc",
+    "youtube_match_score": null,
     "release_year": 2009,
     "tumblr_date": null,
     "flag": null,
@@ -4578,10 +4852,12 @@
       "Unlike vapor, Esther Rolle, extra raw, word to the baker",
       "Peace to the hardworkin' gingerbread makers"
     ],
+    "full_lyrics": null,
     "artist": "MF DOOM",
     "song_title": "Potholderz",
     "youtube_url": "https://www.youtube.com/watch?v=O2vkAvYboZk",
     "youtube_video_id": "O2vkAvYboZk",
+    "youtube_match_score": null,
     "release_year": 2003,
     "tumblr_date": null,
     "flag": null,
@@ -4591,5 +4867,2995 @@
     "video_path": null,
     "output_path": null,
     "status": "scraped"
+  },
+  {
+    "id": 138,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "bubonic",
+        "syllables": "bubon·ic",
+        "part_of_speech": "adjective",
+        "definition": "Of or pertaining to buboes.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/bubonic"
+      }
+    ],
+    "lyrics_lines": [
+      "The year 2002, the battle's filled with the Wu",
+      "Six million devils just died from the Bubonic Flu"
+    ],
+    "full_lyrics": null,
+    "artist": "GZA",
+    "song_title": "4th Chamber",
+    "youtube_url": "https://www.youtube.com/watch?v=8vJRnNXOJEk",
+    "youtube_video_id": "8vJRnNXOJEk",
+    "youtube_match_score": null,
+    "release_year": 1995,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 139,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "vendettas",
+        "syllables": "vendet·tas",
+        "part_of_speech": "noun",
+        "definition": "A bitter, destructive feud, normally between two families, clans or factions, in which each injury or slaying is revenged: a blood feud.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/vendettas"
+      }
+    ],
+    "lyrics_lines": [
+      "Aim at the white shadows with big barrels",
+      "Of Moët-ers, the bald headers milkin' Armarettos",
+      "Who fear none, crushin' all personal vendettas, yo",
+      "They use guns while we angrily shot arrows",
+      "You better keep your eye on the sparrow"
+    ],
+    "full_lyrics": null,
+    "artist": "GZA",
+    "song_title": "Investigative Reports",
+    "youtube_url": "https://www.youtube.com/watch?v=wZ6iG4LudQA",
+    "youtube_video_id": "wZ6iG4LudQA",
+    "youtube_match_score": null,
+    "release_year": 1995,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 140,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "lecherous",
+        "syllables": "lech·er·ous",
+        "part_of_speech": "adjective",
+        "definition": "Given to excessive sexual activity and debauchery.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/lecherous"
+      }
+    ],
+    "lyrics_lines": [
+      "Johnny Treacherous, like Three, I'm supposed to be perpetuous",
+      "Decimate the poetry, get everything that's close to me",
+      "The lecherous, Jona–thon",
+      "King of the seven seas, battle with Leviathan",
+      "The Methodist, polly to your deficit, hit it up"
+    ],
+    "full_lyrics": null,
+    "artist": "RZA",
+    "song_title": "N.Y.C. Everything",
+    "youtube_url": "https://www.youtube.com/watch?v=tuOgxG32IJY",
+    "youtube_video_id": "tuOgxG32IJY",
+    "youtube_match_score": null,
+    "release_year": 1998,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 141,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "hysterectomy",
+        "syllables": "hys·terec·to·my",
+        "part_of_speech": "noun",
+        "definition": "The surgical procedure to remove all of or part of the uterus.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/hysterectomy"
+      }
+    ],
+    "lyrics_lines": [
+      "Mm, give a MC a rectal hysterectomy",
+      "Lecture on removal of the bowels, foul technically",
+      "Don't expect to see the recipe"
+    ],
+    "full_lyrics": null,
+    "artist": "MF DOOM",
+    "song_title": "That’s That",
+    "youtube_url": "https://www.youtube.com/watch?v=Q_mSiKhXqaM",
+    "youtube_video_id": "Q_mSiKhXqaM",
+    "youtube_match_score": null,
+    "release_year": 2009,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 142,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "effervescence",
+        "syllables": "ef·fer·ves·cence",
+        "part_of_speech": "noun",
+        "definition": "The escape of gas from solution in a liquid, especially the escape of carbon dioxide from a carbonated drink.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/effervescence"
+      }
+    ],
+    "lyrics_lines": [
+      "When I was four, I penned \"God Was Born In New York\"",
+      "Back in '77, still got nan in the crescent",
+      "The effervescence of God's presence is thick",
+      "Unlike vapor, Esther Rolle, extra raw, word to the baker",
+      "Peace to the hardworkin' gingerbread makers"
+    ],
+    "full_lyrics": null,
+    "artist": "MF DOOM",
+    "song_title": "Potholderz",
+    "youtube_url": "https://www.youtube.com/watch?v=O2vkAvYboZk",
+    "youtube_video_id": "O2vkAvYboZk",
+    "youtube_match_score": null,
+    "release_year": 2003,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 143,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "premeditate",
+        "syllables": "pre·med·i·tate",
+        "part_of_speech": "verb",
+        "definition": "To meditate, consider, or plan beforehand; to think about and revolve in the mind beforehand.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/premeditate"
+      }
+    ],
+    "lyrics_lines": [
+      "They release shots and premeditate to grab",
+      "And then they jet back to the lab"
+    ],
+    "full_lyrics": null,
+    "artist": "GZA",
+    "song_title": "Investigative Reports",
+    "youtube_url": "https://www.youtube.com/watch?v=wZ6iG4LudQA",
+    "youtube_video_id": "wZ6iG4LudQA",
+    "youtube_match_score": null,
+    "release_year": 1995,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 144,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "posterior",
+        "syllables": "pos·te·ri·or",
+        "part_of_speech": "noun",
+        "definition": "The buttocks.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/posterior"
+      }
+    ],
+    "lyrics_lines": [
+      "All I see is a whole lotta dinner",
+      "I walk around the house butt-naked",
+      "And I stop at every mirror just to stare at my own posterior",
+      "I don't give a fuck who talk behind my back",
+      "'Cause the bitch knew better than to let me hear her (Ah)"
+    ],
+    "full_lyrics": null,
+    "artist": "Megan Thee Stallion",
+    "song_title": "Thot Shit",
+    "youtube_url": "https://www.youtube.com/watch?v=KynkMn5Hv3Q",
+    "youtube_video_id": "KynkMn5Hv3Q",
+    "youtube_match_score": null,
+    "release_year": 2021,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 145,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "cahoots",
+        "syllables": null,
+        "part_of_speech": "other",
+        "definition": "",
+        "wiktionary_url": null
+      }
+    ],
+    "lyrics_lines": [
+      "And if it weren't for me, same week, you would have been indicted (Should've let them lock your ass up)",
+      "You offered M's not to talk, I guess that made my friend excited, hmm",
+      "Now y'all in cahoots, huh (Okay), you a puss in boots",
+      "You shot a 5'10\" bitch with a .22",
+      "Talkin' 'bout bones and tendons like them bullets wasn't pellets"
+    ],
+    "full_lyrics": null,
+    "artist": "Megan Thee Stallion",
+    "song_title": "Shots Fired",
+    "youtube_url": "https://www.youtube.com/watch?v=P8jNPawT-aM",
+    "youtube_video_id": "P8jNPawT-aM",
+    "youtube_match_score": null,
+    "release_year": 2020,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 146,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "narcissist",
+        "syllables": "nar·cis·sist",
+        "part_of_speech": "noun",
+        "definition": "One who shows extreme love and admiration for themselves.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/narcissist"
+      }
+    ],
+    "lyrics_lines": [
+      "Shit is a toxic, catch me in a moshpit, you and your people be fussin' (Fuss)",
+      "Yeah, we just buss it, pour all the sauces in their face if they be bossin' (Boss)",
+      "Call me a narcissist, like a typhoon, be an artist, I'm the oddest (Right)",
+      "Take it out your wallet, sabotage your two ears, I swear if we pause it",
+      "One, two, three, four (One, two, three, four)"
+    ],
+    "full_lyrics": null,
+    "artist": "Megan Thee Stallion",
+    "song_title": "Neva Play",
+    "youtube_url": "https://www.youtube.com/watch?v=TpYTyAaTRts",
+    "youtube_video_id": "TpYTyAaTRts",
+    "youtube_match_score": null,
+    "release_year": 2024,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 147,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "synthesize",
+        "syllables": "syn·the·size",
+        "part_of_speech": "verb",
+        "definition": "To combine two or more things to produce a new product.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/synthesize"
+      }
+    ],
+    "lyrics_lines": [
+      "Mm, synthesize your mind, yeah",
+      "From the sides of PSY, yeah",
+      "Killin' folks with a line, yeah"
+    ],
+    "full_lyrics": null,
+    "artist": "Megan Thee Stallion",
+    "song_title": "Neva Play",
+    "youtube_url": "https://www.youtube.com/watch?v=TpYTyAaTRts",
+    "youtube_video_id": "TpYTyAaTRts",
+    "youtube_match_score": null,
+    "release_year": 2024,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 148,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "ultimatum",
+        "syllables": "ul·ti·ma·tum",
+        "part_of_speech": "noun",
+        "definition": "A final statement of terms or conditions made by one party to another, especially one that expresses a threat of reprisal or war.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/ultimatum"
+      }
+    ],
+    "lyrics_lines": [
+      "I'm runnin' through your nigga house like the Tomb Raider",
+      "You got a pass around nigga, he a hot potato (He a hot potato)",
+      "I told him, “Eat it or get out, that's your ultimatum (Boy, bye)",
+      "But stop licking my pussy hard, that shit aggravating” (Ah, ah, ah)",
+      "Uh, he ain't mine, I just let him eat me out from time to time (Ayy, ayy)"
+    ],
+    "full_lyrics": null,
+    "artist": "Megan Thee Stallion",
+    "song_title": "Freak Nasty",
+    "youtube_url": "https://www.youtube.com/watch?v=DNVuhP8ehdo",
+    "youtube_video_id": "DNVuhP8ehdo",
+    "youtube_match_score": null,
+    "release_year": 2018,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 149,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "onomatopoeia",
+        "syllables": "on·o·mat·o·poe·ia",
+        "part_of_speech": "noun",
+        "definition": "the property of a word of sounding like what it represents.",
+        "wiktionary_url": null
+      }
+    ],
+    "lyrics_lines": [
+      "Your favorite rapper only use onomatopoeias",
+      "You don't wanna hear it 'cause you only wanna see her",
+      "I'ma show you how a real rap bitch tee up",
+      "Get up in the booth and beat the motherfuckin' beat up"
+    ],
+    "full_lyrics": null,
+    "artist": "Megan Thee Stallion",
+    "song_title": "Stalli Freestyle",
+    "youtube_url": "https://www.youtube.com/watch?v=gvSD05Yu7Ig",
+    "youtube_video_id": "gvSD05Yu7Ig",
+    "youtube_match_score": null,
+    "release_year": 2017,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": 54.7,
+    "duration": 7.0,
+    "video_downloaded": true,
+    "video_path": "/home/cing/proteinqure/code/playground/rapwords/data/videos/149_gvSD05Yu7Ig.mp4",
+    "output_path": "/home/cing/proteinqure/code/playground/rapwords/data/output/149_onomatopoeia.mp4",
+    "status": "processed"
+  },
+  {
+    "id": 150,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "saccharine",
+        "syllables": "sac·cha·rine",
+        "part_of_speech": "noun",
+        "definition": "Sentimentalism",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/saccharine"
+      }
+    ],
+    "lyrics_lines": [
+      "Half a mil' for bail 'cause I'm African",
+      "All because this fool was harassin' them",
+      "Tryin' to play the boy like he's saccharine",
+      "But ain't nothin' sweet 'bout how I hold my gun",
+      "I got ninety-nine problems, bein' a bitch ain't one – hit me!"
+    ],
+    "full_lyrics": null,
+    "artist": "JAŸ-Z",
+    "song_title": "99 Problems",
+    "youtube_url": "https://www.youtube.com/watch?v=MzTLMp-vh9s",
+    "youtube_video_id": "MzTLMp-vh9s",
+    "youtube_match_score": null,
+    "release_year": 2004,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 151,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "thespian",
+        "syllables": "thes·pi·an",
+        "part_of_speech": "noun",
+        "definition": "An actor or player.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/thespian"
+      }
+    ],
+    "lyrics_lines": [
+      "Mama had four kids, but she's a lesbian",
+      "Had to pretend so long that she's a thespian"
+    ],
+    "full_lyrics": null,
+    "artist": "JAŸ-Z",
+    "song_title": "Smile",
+    "youtube_url": "https://www.youtube.com/watch?v=SSumXG5_rs8",
+    "youtube_video_id": "SSumXG5_rs8",
+    "youtube_match_score": null,
+    "release_year": 2017,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 152,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "matrimony",
+        "syllables": "mat·ri·mo·ny",
+        "part_of_speech": "noun",
+        "definition": "Marriage; the state of being married.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/matrimony"
+      }
+    ],
+    "lyrics_lines": [
+      "I got what you need",
+      "Hello, hello, hello, hello, white America, assassinate my character",
+      "Money matrimony, yeah, they tryna break the marriage up",
+      "Who gon' act phony or who gon' try to embarrass ya?",
+      "I'ma need a day off, I think I'll call Ferris up"
+    ],
+    "full_lyrics": null,
+    "artist": "JAŸ-Z",
+    "song_title": "Gotta Have It",
+    "youtube_url": "https://www.youtube.com/watch?v=9gCzP3XtWYw",
+    "youtube_video_id": "9gCzP3XtWYw",
+    "youtube_match_score": null,
+    "release_year": 2011,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 153,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "respirator",
+        "syllables": "res·pi·ra·tor",
+        "part_of_speech": "noun",
+        "definition": "A device designed to allow breathing when it would otherwise be hindered, as by a medical condition or the presence of poisonous vapors.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/respirator"
+      }
+    ],
+    "lyrics_lines": [
+      "Your ass lucky if you on respirator",
+      "I'm like Vega rolling with that blade",
+      "Kid don't play, wanna catch that fade?"
+    ],
+    "full_lyrics": null,
+    "artist": "Danny Brown",
+    "song_title": "When It Rain",
+    "youtube_url": "https://www.youtube.com/watch?v=LVyGxlgeAjc",
+    "youtube_video_id": "LVyGxlgeAjc",
+    "youtube_match_score": null,
+    "release_year": 2016,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 154,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "copacetic",
+        "syllables": "cop·a·cet·ic",
+        "part_of_speech": "adjective",
+        "definition": "very satisfactory; in excellent order.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/copacetic"
+      }
+    ],
+    "lyrics_lines": [
+      "Keep it copacetic with your partner",
+      "Blockbuster niggas running 'round with real choppers",
+      "Nigga, what's the color of them bottles?"
+    ],
+    "full_lyrics": null,
+    "artist": "Future",
+    "song_title": "Sh!t",
+    "youtube_url": "https://www.youtube.com/watch?v=Q4_Luckf5bE",
+    "youtube_video_id": "Q4_Luckf5bE",
+    "youtube_match_score": null,
+    "release_year": 2013,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": 202.3,
+    "duration": 6.8,
+    "video_downloaded": true,
+    "video_path": "/home/cing/proteinqure/code/playground/rapwords/data/videos/154_Q4_Luckf5bE.mp4",
+    "output_path": "/home/cing/proteinqure/code/playground/rapwords/data/output/154_copacetic.mp4",
+    "status": "processed"
+  },
+  {
+    "id": 155,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "extravaganza",
+        "syllables": "ex·trav·a·gan·za",
+        "part_of_speech": "noun",
+        "definition": "An extravagant or eccentric piece of music, literature or drama.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/extravaganza"
+      }
+    ],
+    "lyrics_lines": [
+      "Extravaganza, time sits still",
+      "No propaganda, be wary of the skill"
+    ],
+    "full_lyrics": null,
+    "artist": "Ghostface Killah",
+    "song_title": "Winter Warz",
+    "youtube_url": "https://www.youtube.com/watch?v=1DXGzbwoKYM",
+    "youtube_video_id": "1DXGzbwoKYM",
+    "youtube_match_score": null,
+    "release_year": 1996,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 156,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "hyperventilate",
+        "syllables": "hy·per·ven·ti·late",
+        "part_of_speech": "verb",
+        "definition": "To breathe quickly and deeply, especially at an abnormally rapid rate.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/hyperventilate"
+      }
+    ],
+    "lyrics_lines": [
+      "Had the armpit shaved off perfect with the Nair",
+      "Stomach flat as a pancake for her man's sake",
+      "Used to fuck her when she menstruate, but it made her hyperventilate",
+      "Brooklyn! I know, I know, I know, I know",
+      "Queens! I know, I know, I know, I know"
+    ],
+    "full_lyrics": null,
+    "artist": "Ghostface Killah",
+    "song_title": "Nutmeg",
+    "youtube_url": "https://www.youtube.com/watch?v=nn_Wy-_hP48",
+    "youtube_video_id": "nn_Wy-_hP48",
+    "youtube_match_score": null,
+    "release_year": 2000,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 157,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "unsaturated",
+        "syllables": "un·sat·u·rat·ed",
+        "part_of_speech": "adjective",
+        "definition": "(of a solution) Not saturated; capable of dissolving more of a solute at the same temperature.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/unsaturated"
+      }
+    ],
+    "lyrics_lines": [
+      "Yo, I stop producers' careers, the weak spot was their ears",
+      "Scorpion darts hits the mark, pierce the heart with silver spears",
+      "You're bewildered, my unsaturated, low-filtered",
+      "Devils still feel this, shielded lyric built tilted",
+      "MCs upon their axis, their body hazard tactic"
+    ],
+    "full_lyrics": null,
+    "artist": "Ghostface Killah",
+    "song_title": "Assassination Day",
+    "youtube_url": "https://www.youtube.com/watch?v=rWpHdIejgBI",
+    "youtube_video_id": "rWpHdIejgBI",
+    "youtube_match_score": null,
+    "release_year": 1996,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 158,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "ricocheted",
+        "syllables": "ric·o·cheted",
+        "part_of_speech": "verb",
+        "definition": "To rebound off something wildly in a seemingly random direction.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/ricocheted"
+      }
+    ],
+    "lyrics_lines": [
+      "Natural, fucking a white bitch, actual",
+      "Fiends chanting, \"Do your thing, Chef, handle it!\"",
+      "I shot him in the neck, it ricocheted and hit Carolyn",
+      "Ran to the back analyzing, much disguising",
+      "Surprise! He coming in their eyes and tranquilized, then bugging"
+    ],
+    "full_lyrics": null,
+    "artist": "Ghostface Killah",
+    "song_title": "260",
+    "youtube_url": "https://www.youtube.com/watch?v=8AbVZwwTfbs",
+    "youtube_video_id": "8AbVZwwTfbs",
+    "youtube_match_score": null,
+    "release_year": 1996,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 159,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "ecclesiastic",
+        "syllables": "ec·cle·si·as·tic",
+        "part_of_speech": "noun",
+        "definition": "A cleric.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/ecclesiastic"
+      }
+    ],
+    "lyrics_lines": [
+      "Miss the traffic, dumbin' shit, from ecclesiastic",
+      "Cashier holdin' out, 'Vine cut off the plastic"
+    ],
+    "full_lyrics": null,
+    "artist": "Ghostface Killah",
+    "song_title": "Wu Banga 101",
+    "youtube_url": "https://www.youtube.com/watch?v=NOJrZZLdcCY",
+    "youtube_video_id": "NOJrZZLdcCY",
+    "youtube_match_score": null,
+    "release_year": 2000,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 160,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "hysterectomy",
+        "syllables": "hys·terec·to·my",
+        "part_of_speech": "noun",
+        "definition": "The surgical procedure to remove all of or part of the uterus.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/hysterectomy"
+      }
+    ],
+    "lyrics_lines": [
+      "Gorilla medallions like Flavor Flav clock, yo",
+      "Niggas want me dead, but they scared to step to me",
+      "Rip they guts out like a hysterectomy",
+      "When beef collide, look on the flip by the penitentiary kite",
+      "Or get you bumped off from the inside"
+    ],
+    "full_lyrics": null,
+    "artist": "Ghostface Killah",
+    "song_title": "The Champ",
+    "youtube_url": "https://www.youtube.com/watch?v=B1x_POEE3hU",
+    "youtube_video_id": "B1x_POEE3hU",
+    "youtube_match_score": null,
+    "release_year": 2006,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 161,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "celibate",
+        "syllables": "celi·bate",
+        "part_of_speech": "noun",
+        "definition": "One who is not married, especially one who has taken a religious vow not to get married, usually because of being a member of a religious community.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/celibate"
+      }
+    ],
+    "lyrics_lines": [
+      "She elegant, pretty eyes, glasses, intelligent",
+      "Whispered in my ear that she's celibate",
+      "Whispered back to her ear \"We don't have to go there\"",
+      "As I grabbed her hand, sat her politely in the chair"
+    ],
+    "full_lyrics": null,
+    "artist": "Ghostface Killah",
+    "song_title": "Camay",
+    "youtube_url": "https://www.youtube.com/watch?v=H_efUG2gFsw",
+    "youtube_video_id": "H_efUG2gFsw",
+    "youtube_match_score": null,
+    "release_year": 1996,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 162,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "repertoire",
+        "syllables": "rep·er·toire",
+        "part_of_speech": "noun",
+        "definition": "a stock of skills or types of behavior that a person habitually uses.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/repertoire"
+      }
+    ],
+    "lyrics_lines": [
+      "Yo, sistas already know the repertoire",
+      "Step in my car, let's start the ménage à trois, like Escobar",
+      "By far, I'm the best at all sex positions, forget the kissin'",
+      "I'm skippin' the tongue-twistin', TS Tradition"
+    ],
+    "full_lyrics": null,
+    "artist": "Big Pun",
+    "song_title": "I’m Not a Player",
+    "youtube_url": "https://www.youtube.com/watch?v=DtGwr4J2kfA",
+    "youtube_video_id": "DtGwr4J2kfA",
+    "youtube_match_score": null,
+    "release_year": 1997,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": 88.2,
+    "duration": 10.8,
+    "video_downloaded": true,
+    "video_path": "/home/cing/proteinqure/code/playground/rapwords/data/videos/162_DtGwr4J2kfA.mp4",
+    "output_path": "/home/cing/proteinqure/code/playground/rapwords/data/output/162_repertoire.mp4",
+    "status": "processed"
+  },
+  {
+    "id": 163,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "regurgitate",
+        "syllables": "re·gur·gi·tate",
+        "part_of_speech": "verb",
+        "definition": "to eject what has previously been swallowed.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/regurgitate"
+      }
+    ],
+    "lyrics_lines": [
+      "Never sure where the words would take me",
+      "Niggas eat 'em up and regurgitate me",
+      "Shit trump tight never slurred it lazy",
+      "Give a virgin the urge to rape me"
+    ],
+    "full_lyrics": null,
+    "artist": "J. Cole",
+    "song_title": "Apparently",
+    "youtube_url": "https://www.youtube.com/watch?v=eRaFMlZ1YHA",
+    "youtube_video_id": "eRaFMlZ1YHA",
+    "youtube_match_score": null,
+    "release_year": 2014,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": 183.0,
+    "duration": 6.8,
+    "video_downloaded": true,
+    "video_path": "/home/cing/proteinqure/code/playground/rapwords/data/videos/163_eRaFMlZ1YHA.mp4",
+    "output_path": "/home/cing/proteinqure/code/playground/rapwords/data/output/163_regurgitate.mp4",
+    "status": "posted"
+  },
+  {
+    "id": 164,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "percolation",
+        "syllables": "per·​co·​la·​tion",
+        "part_of_speech": "noun",
+        "definition": "the slow passage of a liquid through a filtering medium.",
+        "wiktionary_url": null
+      }
+    ],
+    "lyrics_lines": [
+      "I'm so faded, no exaggeration",
+      "Backs breakin' like a percolation",
+      "Boys to the yard for some hip spankin'",
+      "Where you make it drop down like you in the matrix"
+    ],
+    "full_lyrics": null,
+    "artist": "Missy Elliott",
+    "song_title": "WTF (Where They From)",
+    "youtube_url": "https://www.youtube.com/watch?v=KO_3Qgib6RQ",
+    "youtube_video_id": "KO_3Qgib6RQ",
+    "youtube_match_score": null,
+    "release_year": 2015,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": 42.8,
+    "duration": 8.0,
+    "video_downloaded": true,
+    "video_path": "/home/cing/proteinqure/code/playground/rapwords/data/videos/164_KO_3Qgib6RQ.mp4",
+    "output_path": "/home/cing/proteinqure/code/playground/rapwords/data/output/164_percolation.mp4",
+    "status": "posted"
+  },
+  {
+    "id": 165,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "fabricate",
+        "syllables": "fab·ri·cate",
+        "part_of_speech": "verb",
+        "definition": "To form into a whole by uniting its parts; to construct; to build.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/fabricate"
+      }
+    ],
+    "lyrics_lines": [
+      "Ayy, this shit way too crazy, ayy, you do not amaze me, ayy",
+      "I blew cool from AC, ayy, Obama just paged me, ayy",
+      "I don't fabricate it, ayy, most of y'all be fakin', ayy",
+      "I stay modest 'bout it, ayy, she elaborate it, ayy",
+      "This that Grey Poupon, that Evian, that TED Talk, ayy"
+    ],
+    "full_lyrics": null,
+    "artist": "Kendrick Lamar",
+    "song_title": "HUMBLE.",
+    "youtube_url": "https://www.youtube.com/watch?v=tvTRZJ-4EyI",
+    "youtube_video_id": "tvTRZJ-4EyI",
+    "youtube_match_score": null,
+    "release_year": 2017,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 166,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "immaculate",
+        "syllables": "im·mac·u·late",
+        "part_of_speech": "adjective",
+        "definition": "Having no stain or blemish; spotless, undefiled, clear, clean, pure.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/immaculate"
+      }
+    ],
+    "lyrics_lines": [
+      "I was born like this, since one like this, immaculate conception",
+      "I transform like this, perform like this, was Yeshua new weapon",
+      "I don't contemplate, I meditate, then off your fucking head"
+    ],
+    "full_lyrics": null,
+    "artist": "Kendrick Lamar",
+    "song_title": "DNA.",
+    "youtube_url": "https://www.youtube.com/watch?v=NLZRYQMLDW4",
+    "youtube_video_id": "NLZRYQMLDW4",
+    "youtube_match_score": null,
+    "release_year": 2017,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 167,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "immaculate",
+        "syllables": "im·mac·u·late",
+        "part_of_speech": "adjective",
+        "definition": "Free from flaws or mistakes; perfect.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/immaculate"
+      }
+    ],
+    "lyrics_lines": [
+      "First I talk about how I dress in this",
+      "In diamond necklaces, stretch Lexuses",
+      "The sex is just immaculate from the back",
+      "I get deeper and deeper"
+    ],
+    "full_lyrics": null,
+    "artist": "The Notorious B.I.G.",
+    "song_title": "One More Chance / Stay With Me (Remix)",
+    "youtube_url": "https://www.youtube.com/watch?v=0Ogs_NsXh58",
+    "youtube_video_id": "0Ogs_NsXh58",
+    "youtube_match_score": null,
+    "release_year": 1995,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": 95.22,
+    "duration": 9.85,
+    "video_downloaded": true,
+    "video_path": "/home/cing/proteinqure/code/playground/rapwords/data/videos/167_0Ogs_NsXh58.mp4",
+    "output_path": "/home/cing/proteinqure/code/playground/rapwords/data/output/167_immaculate.mp4",
+    "status": "posted"
+  },
+  {
+    "id": 168,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "interjected",
+        "syllables": "in·ter·ject·ed",
+        "part_of_speech": "verb",
+        "definition": "To insert something between other things.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/interjected"
+      }
+    ],
+    "lyrics_lines": [
+      "They keep on callin' up, it's getting hectic (Brrt)",
+      "Like we projected",
+      "So we cut the plug, he's interjected (Got me goin' crazy)",
+      "Rollin', rollin', rollin', got me stargazin' (Yeah)",
+      "Sippin' on purp, feelin' like the Barre Baby (It's lit)"
+    ],
+    "full_lyrics": null,
+    "artist": "Travis Scott",
+    "song_title": "STARGAZING",
+    "youtube_url": "https://www.youtube.com/watch?v=aQIEnyurC4c",
+    "youtube_video_id": "aQIEnyurC4c",
+    "youtube_match_score": null,
+    "release_year": 2018,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 169,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "residuals",
+        "syllables": "resid·u·als",
+        "part_of_speech": "noun",
+        "definition": "A remainder left over at the end of some process.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/residuals"
+      }
+    ],
+    "lyrics_lines": [
+      "Every song is the book of Genesis, let the sonics boom",
+      "Niggas want the tea on me, well, here's the ginger root",
+      "I generate residuals, bitch, get off my genitals",
+      "They said I couldn't reach Gen Z, you fuckin' dickheads",
+      "You must be full of that ginseng, here comes the jinx, yeah"
+    ],
+    "full_lyrics": null,
+    "artist": "Clipse",
+    "song_title": "Chains & Whips",
+    "youtube_url": "https://www.youtube.com/watch?v=ecIH-4RbbOk",
+    "youtube_video_id": "ecIH-4RbbOk",
+    "youtube_match_score": null,
+    "release_year": 2025,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 170,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "predicate",
+        "syllables": "pred·i·cate",
+        "part_of_speech": "noun",
+        "definition": "(grammar) The part of the sentence (or clause) which states something about the subject or the object of the sentence.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/predicate"
+      }
+    ],
+    "lyrics_lines": [
+      "\"We’re not against rappin', we're against those thugs\" (Ugh)",
+      "Can't be legit when every nigga in your clique sold drugs (Fo' sho')",
+      "Predicate felons in my faculty, real killers can vouch for me",
+      "Teach a kid at the crib or your children might cop an ounce from me (Ugh) and smoke out in the Chevy with us",
+      "Cause in the past, my low-class, black ass would serve my own fucking family members (Ugh)"
+    ],
+    "full_lyrics": null,
+    "artist": "Freddie Gibbs",
+    "song_title": "Thuggin’",
+    "youtube_url": "https://www.youtube.com/watch?v=vbxcPy1qJTU",
+    "youtube_video_id": "vbxcPy1qJTU",
+    "youtube_match_score": null,
+    "release_year": 2011,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 171,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "vilified",
+        "syllables": "vil·i·fied",
+        "part_of_speech": "verb",
+        "definition": "To say defamatory things about someone or something.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/vilified"
+      }
+    ],
+    "lyrics_lines": [
+      "The revolution is the genocide",
+      "Look, your execution will be televised",
+      "Don't cross me like Isiah, that shit be ill-advised",
+      "Dark horse, rap black sheep, they got me vilified"
+    ],
+    "full_lyrics": null,
+    "artist": "Freddie Gibbs",
+    "song_title": "Scottie Beam",
+    "youtube_url": "https://www.youtube.com/watch?v=GT9IWNxHupc",
+    "youtube_video_id": "GT9IWNxHupc",
+    "youtube_match_score": null,
+    "release_year": 2020,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": 36.0,
+    "duration": 11.0,
+    "video_downloaded": true,
+    "video_path": "/home/cing/proteinqure/code/playground/rapwords/data/videos/171_GT9IWNxHupc.mp4",
+    "output_path": "/home/cing/proteinqure/code/playground/rapwords/data/output/171_vilified.mp4",
+    "status": "posted"
+  },
+  {
+    "id": 172,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "uncouth",
+        "syllables": "un·couth",
+        "part_of_speech": "adjective",
+        "definition": "Unfamiliar, strange, foreign.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/uncouth"
+      }
+    ],
+    "lyrics_lines": [
+      "Trying to see a new light at the top of the roof",
+      "Baby, name not Sigel but I speak \"The Truth\"",
+      "I heat the booth – Nelly actin' so uncouth",
+      "Top down, shirt off in the coupe, spreadin' the loot"
+    ],
+    "full_lyrics": null,
+    "artist": "Nelly",
+    "song_title": "#1",
+    "youtube_url": "https://www.youtube.com/watch?v=16BQ0s-rSKE",
+    "youtube_video_id": "16BQ0s-rSKE",
+    "youtube_match_score": null,
+    "release_year": 2001,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": 165.15,
+    "duration": 10.8,
+    "video_downloaded": true,
+    "video_path": "/home/cing/proteinqure/code/playground/rapwords/data/videos/172_16BQ0s-rSKE.mp4",
+    "output_path": "/home/cing/proteinqure/code/playground/rapwords/data/output/172_uncouth.mp4",
+    "status": "processed"
+  },
+  {
+    "id": 173,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "repercussions",
+        "syllables": "re·per·cus·sions",
+        "part_of_speech": "noun",
+        "definition": "A consequence or ensuing result of some action.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/repercussions"
+      }
+    ],
+    "lyrics_lines": [
+      "Now that was the sin that did Jezebel in",
+      "Who you gon' tell when the repercussions spin?",
+      "Showing off your ass 'cause you're thinking it's a trend",
+      "Girlfriend, let me break it down for you again"
+    ],
+    "full_lyrics": null,
+    "artist": "Lauryn Hill",
+    "song_title": "Doo Wop (That Thing)",
+    "youtube_url": "https://www.youtube.com/watch?v=T6QKqFPRZSA",
+    "youtube_video_id": "T6QKqFPRZSA",
+    "youtube_match_score": null,
+    "release_year": 1998,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": 52.8,
+    "duration": 9.8,
+    "video_downloaded": true,
+    "video_path": "/home/cing/proteinqure/code/playground/rapwords/data/videos/173_T6QKqFPRZSA.mp4",
+    "output_path": "/home/cing/proteinqure/code/playground/rapwords/data/output/173_repercussions.mp4",
+    "status": "video_downloaded"
+  },
+  {
+    "id": 174,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "confrontation",
+        "syllables": "con·fronta·tion",
+        "part_of_speech": "noun",
+        "definition": "The act of confronting or challenging another, especially face to face.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/confrontation"
+      }
+    ],
+    "lyrics_lines": [
+      "]",
+      "'Cause you make my earth quake",
+      "I don't want no confrontation, no",
+      "And you don't want my conversation (",
+      "I don't want no conversation"
+    ],
+    "full_lyrics": null,
+    "artist": "Tyler, The Creator",
+    "song_title": "EARFQUAKE",
+    "youtube_url": "https://www.youtube.com/watch?v=HmAsUQEFYGI",
+    "youtube_video_id": "HmAsUQEFYGI",
+    "youtube_match_score": null,
+    "release_year": 2019,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 175,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "condensation",
+        "syllables": "con·den·sa·tion",
+        "part_of_speech": "noun",
+        "definition": "The act or process of condensing or of being condensed",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/condensation"
+      }
+    ],
+    "lyrics_lines": [
+      "Standin' like ovation on business occupation",
+      "Drippin' condensation, gotta whisper conversations"
+    ],
+    "full_lyrics": null,
+    "artist": "Tyler, The Creator",
+    "song_title": "Sticky",
+    "youtube_url": "https://www.youtube.com/watch?v=5_eRCI0Qzw4",
+    "youtube_video_id": "5_eRCI0Qzw4",
+    "youtube_match_score": null,
+    "release_year": 2024,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 176,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "keloid",
+        "syllables": "ke·loid",
+        "part_of_speech": "noun",
+        "definition": "A hard raised growth of scar tissue at the site of an injury.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/keloid"
+      }
+    ],
+    "lyrics_lines": [
+      "See, I'm a Westside nigga from the zone",
+      "Knock, knock, knock, knock, knockin' at the door",
+      "I keep them mink-minks on hip 'cause I keloid my fists",
+      "Nigga, give a fuck 'bout pronouns, I'm that nigga and that bitch"
+    ],
+    "full_lyrics": null,
+    "artist": "Tyler, The Creator",
+    "song_title": "Sticky",
+    "youtube_url": "https://www.youtube.com/watch?v=5_eRCI0Qzw4",
+    "youtube_video_id": "5_eRCI0Qzw4",
+    "youtube_match_score": null,
+    "release_year": 2024,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": 39.3,
+    "duration": 12.02,
+    "video_downloaded": true,
+    "video_path": "/home/cing/proteinqure/code/playground/rapwords/data/videos/176_5_eRCI0Qzw4.mp4",
+    "output_path": "/home/cing/proteinqure/code/playground/rapwords/data/output/176_keloid.mp4",
+    "status": "posted"
+  },
+  {
+    "id": 177,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "accolades",
+        "syllables": "ac·co·lades",
+        "part_of_speech": "noun",
+        "definition": "An expression of approval; praise.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/accolades"
+      }
+    ],
+    "lyrics_lines": [
+      "I don't need no accolades, boy I'm here to act a fool",
+      "Ask about me, had the shotty, robbin' niggas after school"
+    ],
+    "full_lyrics": null,
+    "artist": "Vince Staples",
+    "song_title": "Prima Donna",
+    "youtube_url": "https://www.youtube.com/watch?v=gxw1Zef3EO0",
+    "youtube_video_id": "gxw1Zef3EO0",
+    "youtube_match_score": null,
+    "release_year": 2016,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 178,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "arithmetic",
+        "syllables": "arith·metic",
+        "part_of_speech": "noun",
+        "definition": "The mathematics of numbers (integers, rational numbers, real numbers, or complex numbers) under the operations of addition, subtraction, multiplication, and division.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/arithmetic"
+      }
+    ],
+    "lyrics_lines": [
+      "Skeeted on her face and lip",
+      "Guwop can't fuck no basic bitch",
+      "The teacher teachin' arithmetic",
+      "Show you how to whip a brick",
+      "Learn you how you run your clique"
+    ],
+    "full_lyrics": null,
+    "artist": "Gucci Mane",
+    "song_title": "St. Brick Intro",
+    "youtube_url": "https://www.youtube.com/watch?v=yuBbGyWSc-c",
+    "youtube_video_id": "yuBbGyWSc-c",
+    "youtube_match_score": null,
+    "release_year": 2016,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 179,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "physique",
+        "syllables": "physique",
+        "part_of_speech": "noun",
+        "definition": "The natural constitution, or physical structure, of a person.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/physique"
+      }
+    ],
+    "lyrics_lines": [
+      "Came in the game with a key (Key)",
+      "My pockets blew up, Monique (Monique)",
+      "Ooh, she got that perfect physique (Ooh)",
+      "I'll tape a brick to her cheeks (Brick)",
+      "Now that I'm gettin' this money"
+    ],
+    "full_lyrics": null,
+    "artist": "Gucci Mane",
+    "song_title": "Met Gala",
+    "youtube_url": "https://www.youtube.com/watch?v=3QzUSSKfEeA",
+    "youtube_video_id": "3QzUSSKfEeA",
+    "youtube_match_score": null,
+    "release_year": 2017,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 180,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "lateral",
+        "syllables": "lat·er·al",
+        "part_of_speech": "noun",
+        "definition": "An object, such as a passage or a protrusion, that is situated on the side of something else.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/lateral"
+      }
+    ],
+    "lyrics_lines": [
+      "I take your heart out and shoot your bladder up (Agh)",
+      "Get to the top and we blew the ladder up (Top)",
+      "Ran up my money, I'm talkin' lateral (Bag)",
+      "Got that bitch high off a Perc' and Adderall (High)",
+      "Pull out the fire and you better grab it all (Brr)"
+    ],
+    "full_lyrics": null,
+    "artist": "Gucci Mane",
+    "song_title": "Met Gala",
+    "youtube_url": "https://www.youtube.com/watch?v=3QzUSSKfEeA",
+    "youtube_video_id": "3QzUSSKfEeA",
+    "youtube_match_score": null,
+    "release_year": 2017,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 181,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "characteristic",
+        "syllables": "char·ac·ter·is·tic",
+        "part_of_speech": "noun",
+        "definition": "A distinguishing feature of a person or thing.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/characteristic"
+      }
+    ],
+    "lyrics_lines": [
+      "You short-minded niggas' thoughts is Napoleon",
+      "My furs is Mongolian, my ice brought the goalies in",
+      "I embody every characteristic of the egotistic",
+      "He knows he's so fuckin' gifted"
+    ],
+    "full_lyrics": null,
+    "artist": "Kanye West",
+    "song_title": "POWER",
+    "youtube_url": "https://www.youtube.com/watch?v=ptqV6NmGuSw",
+    "youtube_video_id": "ptqV6NmGuSw",
+    "youtube_match_score": null,
+    "release_year": 2010,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": 107.85,
+    "duration": 12.1,
+    "video_downloaded": true,
+    "video_path": "/home/cing/proteinqure/code/playground/rapwords/data/videos/181_ptqV6NmGuSw.mp4",
+    "output_path": "/home/cing/proteinqure/code/playground/rapwords/data/output/181_characteristic.mp4",
+    "status": "posted"
+  },
+  {
+    "id": 182,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "actuality",
+        "syllables": "ac·tu·al·i·ty",
+        "part_of_speech": "noun",
+        "definition": "The state of existing; existence.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/actuality"
+      }
+    ],
+    "lyrics_lines": [
+      "You know what I'm sayin'?",
+      "Yo, then what, man, what?!",
+      "Visualizin' the realism of life in actuality",
+      "Fuck who's the baddest, a person's status depends on salary",
+      "And my mentality is money-orientated"
+    ],
+    "full_lyrics": null,
+    "artist": "Nas",
+    "song_title": "Life’s a Bitch",
+    "youtube_url": "https://www.youtube.com/watch?v=Y_G-tMaYEs8",
+    "youtube_video_id": "Y_G-tMaYEs8",
+    "youtube_match_score": null,
+    "release_year": 1994,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 183,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "remanded",
+        "syllables": "re·mand·ed",
+        "part_of_speech": "verb",
+        "definition": "To place (a defendant) on bail or in custody.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/remanded"
+      }
+    ],
+    "lyrics_lines": [
+      "I'm the young city bandit, hold myself down single-handed",
+      "For murder raps, I kick my thoughts alone, get remanded",
+      "Born alone, die alone, no crew to keep my crown or throne",
+      "I'm deep by sound alone, caved inside, 1000 miles from home"
+    ],
+    "full_lyrics": null,
+    "artist": "Nas",
+    "song_title": "The World Is Yours",
+    "youtube_url": "https://www.youtube.com/watch?v=e5PnuIRnJW8",
+    "youtube_video_id": "e5PnuIRnJW8",
+    "youtube_match_score": null,
+    "release_year": 1994,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": 178.86,
+    "duration": 11.3,
+    "video_downloaded": true,
+    "video_path": "/home/cing/proteinqure/code/playground/rapwords/data/videos/183_e5PnuIRnJW8.mp4",
+    "output_path": "/home/cing/proteinqure/code/playground/rapwords/data/output/183_remanded.mp4",
+    "status": "processed"
+  },
+  {
+    "id": 184,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "formality",
+        "syllables": "for·mal·i·ty",
+        "part_of_speech": "noun",
+        "definition": "The state of being formal.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/formality"
+      }
+    ],
+    "lyrics_lines": [
+      "Jungle survivor, fuck who's the live-r",
+      "My man put the battery in my back, a difference from Energizer",
+      "Sentence begins indented with formality",
+      "My duration's infinite, money-wise or physiology",
+      "Poetry, that's a part of me, retardedly bop"
+    ],
+    "full_lyrics": null,
+    "artist": "Nas",
+    "song_title": "Memory Lane (Sittin’ In Da Park)",
+    "youtube_url": "https://www.youtube.com/watch?v=9KVuxllwGqE",
+    "youtube_video_id": "9KVuxllwGqE",
+    "youtube_match_score": null,
+    "release_year": 1994,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 185,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "empowerment",
+        "syllables": "em·pow·er·ment",
+        "part_of_speech": "noun",
+        "definition": "The achievement of political, social or economic power by an individual or group.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/empowerment"
+      }
+    ],
+    "lyrics_lines": [
+      "Asians, Arabs, and gave them gold, when",
+      "Gold was converted to money, it all changed",
+      "Money then became empowerment for Europeans",
+      "The Persian military invaded",
+      "They heard about the gold, the teachings, and everything sacred"
+    ],
+    "full_lyrics": null,
+    "artist": "Nas",
+    "song_title": "I Can",
+    "youtube_url": "https://www.youtube.com/watch?v=RvVfgvHucRY",
+    "youtube_video_id": "RvVfgvHucRY",
+    "youtube_match_score": null,
+    "release_year": 2002,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 186,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "gallivant",
+        "syllables": "gal·li·vant",
+        "part_of_speech": "verb",
+        "definition": "To roam about for pleasure without any definite plan.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/gallivant"
+      }
+    ],
+    "lyrics_lines": [
+      "The noise in my head, the curse of the talented",
+      "Strong communicator, vagabond",
+      "I'd gallivant around the Equator, if that would get me off the radar",
+      "It's so intense, I'm on my Lilo & Stitch",
+      "Pour my Pinot Grigio and Cris' with some lime, what is this?"
+    ],
+    "full_lyrics": null,
+    "artist": "Nas",
+    "song_title": "Cherry Wine",
+    "youtube_url": "https://www.youtube.com/watch?v=6903zFUIxoU",
+    "youtube_video_id": "6903zFUIxoU",
+    "youtube_match_score": null,
+    "release_year": 2012,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 187,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "hardheaded",
+        "syllables": "hard·head·ed",
+        "part_of_speech": "adjective",
+        "definition": "Stubborn; wilful.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/hardheaded"
+      }
+    ],
+    "lyrics_lines": [
+      "As the world turns, I spread like germ",
+      "Bless the globe with the pestilence, the hard-headed never learn",
+      "This my testament to those burned",
+      "Play my position in the game of life, standing firm"
+    ],
+    "full_lyrics": null,
+    "artist": "Wu-Tang Clan",
+    "song_title": "Triumph",
+    "youtube_url": "https://www.youtube.com/watch?v=cPRKsKwEdUQ",
+    "youtube_video_id": "cPRKsKwEdUQ",
+    "youtube_match_score": null,
+    "release_year": 1997,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 188,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "ventricle",
+        "syllables": "ven·tri·cle",
+        "part_of_speech": "noun",
+        "definition": "Any small cavity within a body; a hollow part or organ, especially:",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/ventricle"
+      }
+    ],
+    "lyrics_lines": [
+      "Through your spine to the top of your cerebrum cortex",
+      "Make you feel like you bust a nut from raw sex",
+      "Enter through your right ventricle, clog up your bloodstream",
+      "Heart terminal like Grand Central Station",
+      "Program fat bass lines on Novation"
+    ],
+    "full_lyrics": null,
+    "artist": "Wu-Tang Clan",
+    "song_title": "Triumph",
+    "youtube_url": "https://www.youtube.com/watch?v=cPRKsKwEdUQ",
+    "youtube_video_id": "cPRKsKwEdUQ",
+    "youtube_match_score": null,
+    "release_year": 1997,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 189,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "metaphorical",
+        "syllables": "metaphor·i·cal",
+        "part_of_speech": "adjective",
+        "definition": "Pertaining to or characterized by a metaphor; figurative; symbolic.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/metaphorical"
+      }
+    ],
+    "lyrics_lines": [
+      "From metaphorical parables to fertilize the Earth",
+      "Wicked niggas come, try to burglarize the turf"
+    ],
+    "full_lyrics": null,
+    "artist": "Wu-Tang Clan",
+    "song_title": "Reunited",
+    "youtube_url": "https://www.youtube.com/watch?v=40a5UNO5T44",
+    "youtube_video_id": "40a5UNO5T44",
+    "youtube_match_score": null,
+    "release_year": 1997,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 190,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "unparalleled",
+        "syllables": "un·par·al·leled",
+        "part_of_speech": "adjective",
+        "definition": "Having no parallel; without equal; lacking anything similar or worthy of comparison.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/unparalleled"
+      }
+    ],
+    "lyrics_lines": [
+      "Just consider the unparalleled advantage",
+      "Of a natural disaster that's impossible to manage"
+    ],
+    "full_lyrics": null,
+    "artist": "Wu-Tang Clan",
+    "song_title": "Reunited",
+    "youtube_url": "https://www.youtube.com/watch?v=40a5UNO5T44",
+    "youtube_video_id": "40a5UNO5T44",
+    "youtube_match_score": null,
+    "release_year": 1997,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 191,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "brandish",
+        "syllables": "bran·dish",
+        "part_of_speech": "verb",
+        "definition": "The act of flourishing or waving.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/brandish"
+      }
+    ],
+    "lyrics_lines": [
+      "Dance with the mantis, note the slim chances",
+      "Chant this anthem, swing like Pete Sampras",
+      "Taking it straight to Big Man On Campus",
+      "Brandish your weapon or get dropped to the canvas"
+    ],
+    "full_lyrics": null,
+    "artist": "Wu-Tang Clan",
+    "song_title": "Protect Ya Neck (The Jump Off)",
+    "youtube_url": "https://www.youtube.com/watch?v=1_-3Bh1VFI8",
+    "youtube_video_id": "1_-3Bh1VFI8",
+    "youtube_match_score": null,
+    "release_year": 2000,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": 60.2,
+    "duration": 9.1,
+    "video_downloaded": true,
+    "video_path": "/home/cing/proteinqure/code/playground/rapwords/data/videos/191_1_-3Bh1VFI8.mp4",
+    "output_path": "/home/cing/proteinqure/code/playground/rapwords/data/output/191_brandish.mp4",
+    "status": "posted"
+  },
+  {
+    "id": 192,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "elope",
+        "syllables": "elope",
+        "part_of_speech": "verb",
+        "definition": "(of a married person) To run away from home with a paramour.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/elope"
+      }
+    ],
+    "lyrics_lines": [
+      "If my mom don't approve, then I'll just elope",
+      "Let me save the little man from inside the boat"
+    ],
+    "full_lyrics": null,
+    "artist": "A Tribe Called Quest",
+    "song_title": "Electric Relaxation",
+    "youtube_url": "https://www.youtube.com/watch?v=WHRnvjCkTsw",
+    "youtube_video_id": "WHRnvjCkTsw",
+    "youtube_match_score": null,
+    "release_year": 1993,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 193,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "sporadically",
+        "syllables": "spo·rad·i·cal·ly",
+        "part_of_speech": "adverb",
+        "definition": "At an occasional, infrequent, or irregular frequency",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/sporadically"
+      }
+    ],
+    "lyrics_lines": [
+      "The doors have signs with, don't try to rhyme with",
+      "VH1 has a show that you can waste your time with",
+      "Guilty pleasures take the edge off reality",
+      "And for a salary I'd probably do that shit sporadically"
+    ],
+    "full_lyrics": null,
+    "artist": "A Tribe Called Quest",
+    "song_title": "We the People....",
+    "youtube_url": "https://www.youtube.com/watch?v=vO2Su3erRIA",
+    "youtube_video_id": "vO2Su3erRIA",
+    "youtube_match_score": null,
+    "release_year": 2016,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": 44.23,
+    "duration": 10.2,
+    "video_downloaded": true,
+    "video_path": "/home/cing/proteinqure/code/playground/rapwords/data/videos/193_vO2Su3erRIA.mp4",
+    "output_path": "/home/cing/proteinqure/code/playground/rapwords/data/output/193_sporadically.mp4",
+    "status": "processed"
+  },
+  {
+    "id": 194,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "shipshape",
+        "syllables": "ship·shape",
+        "part_of_speech": "adjective",
+        "definition": "(originally nautical) Meticulously neat and tidy.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/shipshape"
+      }
+    ],
+    "lyrics_lines": [
+      "Ship-shape, crushed grapes, apes that play tapes",
+      "Papes make drakes baked for the wakes"
+    ],
+    "full_lyrics": null,
+    "artist": "A Tribe Called Quest",
+    "song_title": "Scenario",
+    "youtube_url": "https://www.youtube.com/watch?v=Q6TLWqn82J4",
+    "youtube_video_id": "Q6TLWqn82J4",
+    "youtube_match_score": null,
+    "release_year": 1991,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 195,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "rebuked",
+        "syllables": "re·buked",
+        "part_of_speech": "verb",
+        "definition": "To criticise harshly; to reprove.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/rebuked"
+      }
+    ],
+    "lyrics_lines": [
+      "and attacked",
+      "Then they rebuked and you had to smack"
+    ],
+    "full_lyrics": null,
+    "artist": "A Tribe Called Quest",
+    "song_title": "Scenario",
+    "youtube_url": "https://www.youtube.com/watch?v=Q6TLWqn82J4",
+    "youtube_video_id": "Q6TLWqn82J4",
+    "youtube_match_score": null,
+    "release_year": 1991,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 196,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "extremity",
+        "syllables": "ex·trem·i·ty",
+        "part_of_speech": "noun",
+        "definition": "The most extreme or furthest point of something.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/extremity"
+      }
+    ],
+    "lyrics_lines": [
+      "Extremity in rhythm, yeah, that's what you heard",
+      "So just clean out your ears and just check the word"
+    ],
+    "full_lyrics": null,
+    "artist": "A Tribe Called Quest",
+    "song_title": "Check the Rhime",
+    "youtube_url": "https://www.youtube.com/watch?v=1QWEPdgS3As",
+    "youtube_video_id": "1QWEPdgS3As",
+    "youtube_match_score": null,
+    "release_year": 1991,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 197,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "beseech",
+        "syllables": "be·seech",
+        "part_of_speech": "verb",
+        "definition": "To beg or implore (a person)",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/beseech"
+      }
+    ],
+    "lyrics_lines": [
+      "Bonita, Bonita, Bonita",
+      "Hey, Bonita, glad to meet ya (Heh)",
+      "For the cunning, stunning you, miss, I must beseech ya (Mmh)",
+      "Hey, being with you is a top priority",
+      "Ain't no need to question the authority (Mhm)"
+    ],
+    "full_lyrics": null,
+    "artist": "A Tribe Called Quest",
+    "song_title": "Bonita Applebum",
+    "youtube_url": "https://www.youtube.com/watch?v=6xE6ZWwJezg",
+    "youtube_video_id": "6xE6ZWwJezg",
+    "youtube_match_score": null,
+    "release_year": 1990,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 198,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "decorum",
+        "syllables": "deco·rum",
+        "part_of_speech": "noun",
+        "definition": "Appropriate social behavior.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/decorum"
+      }
+    ],
+    "lyrics_lines": [
+      "Well, off to better things like a hip-hop forum",
+      "Pass me the rock and I'll score 'em with decorum"
+    ],
+    "full_lyrics": null,
+    "artist": "A Tribe Called Quest",
+    "song_title": "Check the Rhime",
+    "youtube_url": "https://www.youtube.com/watch?v=1QWEPdgS3As",
+    "youtube_video_id": "1QWEPdgS3As",
+    "youtube_match_score": null,
+    "release_year": 1991,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 199,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "nonconformists",
+        "syllables": "non·con·formists",
+        "part_of_speech": "noun",
+        "definition": "A member of a church separated from the Church of England; a Protestant dissenter.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/nonconformists"
+      }
+    ],
+    "lyrics_lines": [
+      "For non-conformists, one hitter quitters",
+      "For Tyson types and Che figures",
+      "Let’s get it together, come on let’s make it",
+      "Gotta make it to make it, to make it, to make it, to make it"
+    ],
+    "full_lyrics": null,
+    "artist": "A Tribe Called Quest",
+    "song_title": "The Space Program",
+    "youtube_url": "https://www.youtube.com/watch?v=qTrqmNieVKI",
+    "youtube_video_id": "qTrqmNieVKI",
+    "youtube_match_score": null,
+    "release_year": 2016,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 200,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "forsaken",
+        "syllables": "for·sak·en",
+        "part_of_speech": "adjective",
+        "definition": "Deserted; abandoned.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/forsaken"
+      }
+    ],
+    "lyrics_lines": [
+      "Molotov the spaceship doors before that bitch is taking off",
+      "It always seems the poorest persons",
+      "Are people forsaken, dawg",
+      "No Washingtons, Jeffersons, Jacksons",
+      "On the captain's log"
+    ],
+    "full_lyrics": null,
+    "artist": "A Tribe Called Quest",
+    "song_title": "The Space Program",
+    "youtube_url": "https://www.youtube.com/watch?v=qTrqmNieVKI",
+    "youtube_video_id": "qTrqmNieVKI",
+    "youtube_match_score": null,
+    "release_year": 2016,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 201,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "predicate",
+        "syllables": "pred·i·cate",
+        "part_of_speech": "noun",
+        "definition": "The part of a sentence or clause containing a verb and stating something about the subject.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/predicate"
+      }
+    ],
+    "lyrics_lines": [
+      "Paper chasin', tell that paper, 'Look, I'm right behind ya'",
+      "Bitch, real G's move in silence like lasagna",
+      "People say I'm borderline crazy, sorta kinda",
+      "Woman of my dreams, I don't sleep, so I can't find her",
+      "You niggas are gelatin, peanuts to an elephant",
+      "I got through that sentence like a subject and a predicate"
+    ],
+    "full_lyrics": null,
+    "artist": "Lil Wayne",
+    "song_title": "6 Foot 7 Foot",
+    "youtube_url": "https://www.youtube.com/watch?v=c7tOAGY59uQ",
+    "youtube_video_id": "c7tOAGY59uQ",
+    "youtube_match_score": null,
+    "release_year": 2010,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": 155.4,
+    "duration": 17.8,
+    "video_downloaded": true,
+    "video_path": "/home/cing/proteinqure/code/playground/rapwords/data/videos/201_c7tOAGY59uQ.mp4",
+    "output_path": "/home/cing/proteinqure/code/playground/rapwords/data/output/201_predicate.mp4",
+    "status": "posted"
+  },
+  {
+    "id": 202,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "exfoliated",
+        "syllables": "ex·fo·li·at·ed",
+        "part_of_speech": "verb",
+        "definition": "To remove the leaves from a plant.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/exfoliated"
+      }
+    ],
+    "lyrics_lines": [
+      "Where the real queens at? Shout out Capone and Noreaga",
+      "We can shoot it out and see who live to tell the story later",
+      "Diamonds in my Rollie face cannot be exfoliated",
+      "They think I'm associated, I'm the one that orchestrated",
+      "Yayo get her ass whipped, whip that ass like horses racin'"
+    ],
+    "full_lyrics": null,
+    "artist": "Lil Wayne",
+    "song_title": "Believe Me",
+    "youtube_url": "https://www.youtube.com/watch?v=dtGAujvrK4Y",
+    "youtube_video_id": "dtGAujvrK4Y",
+    "youtube_match_score": null,
+    "release_year": 2014,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 203,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "venereal",
+        "syllables": "vene·re·al",
+        "part_of_speech": "adjective",
+        "definition": "Of or relating to the genitals or sexual intercourse.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/venereal"
+      }
+    ],
+    "lyrics_lines": [
+      "Tougher than Nigerian hair (Woo)",
+      "My criteria compared to your career just isn't fair",
+      "I'm a venereal disease, like a menstrual bleed",
+      "Through the pencil and leak on the sheet of the tablet in my mind",
+      "'Cause I don't write shit 'cause I ain't got time"
+    ],
+    "full_lyrics": null,
+    "artist": "Lil Wayne",
+    "song_title": "A Milli",
+    "youtube_url": "https://www.youtube.com/watch?v=1Vf4mMCpNY0",
+    "youtube_video_id": "1Vf4mMCpNY0",
+    "youtube_match_score": null,
+    "release_year": 2008,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 204,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "scuffle",
+        "syllables": "scuf·fle",
+        "part_of_speech": "noun",
+        "definition": "A rough, disorderly fight or struggle at close quarters.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/scuffle"
+      }
+    ],
+    "lyrics_lines": [
+      "Aimin' at your head like a buffalo",
+      "Get the fuck though, I don't bluff, bro",
+      "I come out the scuffle without a scuff, woah",
+      "Puff, puff, bro; I don't huff though",
+      "Yellow diamonds up close, catch a sunstroke"
+    ],
+    "full_lyrics": null,
+    "artist": "Lil Wayne",
+    "song_title": "Uproar",
+    "youtube_url": "https://www.youtube.com/watch?v=tF0X2c8HPN8",
+    "youtube_video_id": "tF0X2c8HPN8",
+    "youtube_match_score": null,
+    "release_year": 2018,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 205,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "nauseated",
+        "syllables": "nau·se·at·ed",
+        "part_of_speech": "verb",
+        "definition": "To cause nausea in.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/nauseated"
+      }
+    ],
+    "lyrics_lines": [
+      "Am I talkin' crazy? Too much coffee maybe",
+      "I smell like money, I know broke niggas feel nauseated",
+      "The broads elated, my boys are faded, my car's the latest"
+    ],
+    "full_lyrics": null,
+    "artist": "Lil Wayne",
+    "song_title": "Glory",
+    "youtube_url": "https://www.youtube.com/watch?v=5A8kCZ7Rbfw",
+    "youtube_video_id": "5A8kCZ7Rbfw",
+    "youtube_match_score": null,
+    "release_year": 2015,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 206,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "justifiably",
+        "syllables": "jus·ti·fi·ably",
+        "part_of_speech": "adverb",
+        "definition": "In a justifiable manner; with justification",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/justifiably"
+      }
+    ],
+    "lyrics_lines": [
+      "That's private, tell the pilot, \"Be quiet, we need our privacy\"",
+      "Throw you off this bitch if you wired, justifiably"
+    ],
+    "full_lyrics": null,
+    "artist": "Lil Wayne",
+    "song_title": "Glory",
+    "youtube_url": "https://www.youtube.com/watch?v=5A8kCZ7Rbfw",
+    "youtube_video_id": "5A8kCZ7Rbfw",
+    "youtube_match_score": null,
+    "release_year": 2015,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 207,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "trifle",
+        "syllables": "tri·fle",
+        "part_of_speech": "noun",
+        "definition": "An English dessert made from a mixture of thick custard, fruit, sponge cake, jelly and whipped cream.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/trifle"
+      }
+    ],
+    "lyrics_lines": [
+      "Tricks wanna step to Cube and then they get played",
+      "'Cause they bitchmade, pulling out a switchblade",
+      "That's kinda trifle 'cause that's a knife, ho",
+      "AK-47, Assault Rifle",
+      "Hold the fifty, I'm nifty, pow!"
+    ],
+    "full_lyrics": null,
+    "artist": "Ice Cube",
+    "song_title": "Check Yo Self",
+    "youtube_url": "https://www.youtube.com/watch?v=bueFTrwHFEs",
+    "youtube_video_id": "bueFTrwHFEs",
+    "youtube_match_score": null,
+    "release_year": 1993,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 208,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "altercation",
+        "syllables": "al·ter·ca·tion",
+        "part_of_speech": "noun",
+        "definition": "Heated or angry dispute",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/altercation"
+      }
+    ],
+    "lyrics_lines": [
+      "What started out as a simple altercation",
+      "Turned into a real sticky situation",
+      "Me just thinking on the time that I'm facing"
+    ],
+    "full_lyrics": null,
+    "artist": "Rihanna",
+    "song_title": "Man Down",
+    "youtube_url": "https://www.youtube.com/watch?v=sEhy-RXkNo0",
+    "youtube_video_id": "sEhy-RXkNo0",
+    "youtube_match_score": null,
+    "release_year": 2010,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 209,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "indigent",
+        "syllables": "in·di·gent",
+        "part_of_speech": "noun",
+        "definition": "A person in need, or in poverty.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/indigent"
+      }
+    ],
+    "lyrics_lines": [
+      "Grey Monte Carlo, cocaine 911",
+      "Just hollered at Trav, I'm like the Reverend",
+      "My section ridiculous, watch where you steppin'",
+      "Pockets on indigent, can't be too careful"
+    ],
+    "full_lyrics": null,
+    "artist": "Kevin Gates",
+    "song_title": "Really Really",
+    "youtube_url": "https://www.youtube.com/watch?v=pR0VsbyZxWg",
+    "youtube_video_id": "pR0VsbyZxWg",
+    "youtube_match_score": null,
+    "release_year": 2015,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": 93.35,
+    "duration": 8.15,
+    "video_downloaded": true,
+    "video_path": "/home/cing/proteinqure/code/playground/rapwords/data/videos/209_pR0VsbyZxWg.mp4",
+    "output_path": "/home/cing/proteinqure/code/playground/rapwords/data/output/209_indigent.mp4",
+    "status": "posted"
+  },
+  {
+    "id": 210,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "introvert",
+        "syllables": null,
+        "part_of_speech": "other",
+        "definition": "",
+        "wiktionary_url": null
+      }
+    ],
+    "lyrics_lines": [
+      "I'm a perfect imperfection",
+      "My craft has been perfected",
+      "I just need affection",
+      "Emotionally, I'm a introvert but it comes off as aggression"
+    ],
+    "full_lyrics": null,
+    "artist": "Kevin Gates",
+    "song_title": "Perfect Imperfection",
+    "youtube_url": "https://www.youtube.com/watch?v=CL3wIrcwA9g",
+    "youtube_video_id": "CL3wIrcwA9g",
+    "youtube_match_score": null,
+    "release_year": 2014,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 211,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "homonyms",
+        "syllables": "homonyms",
+        "part_of_speech": "noun",
+        "definition": "(strict sense) A word that both sounds and is spelled the same as another word.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/homonyms"
+      }
+    ],
+    "lyrics_lines": [
+      "Niggas gon' honor my name, boy, I'm a god in this game",
+      "Y'all niggas homonyms, sounding the same",
+      "Not in my lane so I can't complain"
+    ],
+    "full_lyrics": null,
+    "artist": "JID",
+    "song_title": "Off Deez",
+    "youtube_url": "https://www.youtube.com/watch?v=ZiADuDjueJc",
+    "youtube_video_id": "ZiADuDjueJc",
+    "youtube_match_score": null,
+    "release_year": 2018,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 212,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "tremendously",
+        "syllables": "tremen·dous·ly",
+        "part_of_speech": "adverb",
+        "definition": "Greatly; enormously",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/tremendously"
+      }
+    ],
+    "lyrics_lines": [
+      "Tremendously, can't fuck with the mind of a mental fiend",
+      "Who dig deep in the depths when he in too deep",
+      "I crept on the steps where the demon sleeps",
+      "And yell, belch, tell my Lord what he means to me",
+      "\"Oh, my God, don't be mean to me\"",
+      "In the ride with a bean or three"
+    ],
+    "full_lyrics": null,
+    "artist": "JID",
+    "song_title": "NEVER",
+    "youtube_url": "https://www.youtube.com/watch?v=6eFcSesrP6A",
+    "youtube_video_id": "6eFcSesrP6A",
+    "youtube_match_score": null,
+    "release_year": 2016,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 213,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "indubitably",
+        "syllables": null,
+        "part_of_speech": "other",
+        "definition": "",
+        "wiktionary_url": null
+      }
+    ],
+    "lyrics_lines": [
+      "We can fuck around (Woah, shit, woah)",
+      "Hit the music, baby, cut it down (Woah, shit, woah)",
+      "Hit a doobie while you do me indubitably (Woah)",
+      "I feel like I'ma bust now (Woah, shit, woah)",
+      "I feel like a bust down (Woah, shit, woah)"
+    ],
+    "full_lyrics": null,
+    "artist": "JID",
+    "song_title": "Surround Sound",
+    "youtube_url": "https://www.youtube.com/watch?v=Y19q-7VN2WI",
+    "youtube_video_id": "Y19q-7VN2WI",
+    "youtube_match_score": null,
+    "release_year": 2022,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 214,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "kilter",
+        "syllables": "kil·ter",
+        "part_of_speech": "noun",
+        "definition": "(usually in the negative) (Good) condition, form, or order; fettle.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/kilter"
+      }
+    ],
+    "lyrics_lines": [
+      "Lisan al Gaib, I see a tiny line of silver",
+      "A way to make a play, although they say it's unfamiliar",
+      "It's off the kilter, I say the words without a filter"
+    ],
+    "full_lyrics": null,
+    "artist": "JID",
+    "song_title": "Community",
+    "youtube_url": "https://www.youtube.com/watch?v=-V4jiPcNUjg",
+    "youtube_video_id": "-V4jiPcNUjg",
+    "youtube_match_score": null,
+    "release_year": 2025,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 215,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "finagle",
+        "syllables": "fi·na·gle",
+        "part_of_speech": "verb",
+        "definition": "To obtain, arrange, or achieve by indirect, complicated and/or intensive efforts.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/finagle"
+      }
+    ],
+    "lyrics_lines": [
+      "Oh shit, I feel a change and a shift in niggas' thinkin'",
+      "Like Lute, I got the jugg, I'ma say it's quite the finagle"
+    ],
+    "full_lyrics": null,
+    "artist": "JID",
+    "song_title": "D/vision",
+    "youtube_url": "https://www.youtube.com/watch?v=qngQ-mKN5XM",
+    "youtube_video_id": "qngQ-mKN5XM",
+    "youtube_match_score": null,
+    "release_year": 2017,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 216,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "premonitions",
+        "syllables": "pre·mo·ni·tions",
+        "part_of_speech": "noun",
+        "definition": "A clairvoyant or clairaudient experience, such as a dream, which resonates with some event in the future.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/premonitions"
+      }
+    ],
+    "lyrics_lines": [
+      "And the pain pops me another one to the brain",
+      "I let the strain do what you can't, I know it's hard out tryna reach me, huh",
+      "I'm battling addiction, I'm peeping premonitions",
+      "I'm clutching on my last dollars, I'm stretching common sense",
+      "A pressure point a keeper so I question my existence"
+    ],
+    "full_lyrics": null,
+    "artist": "JID",
+    "song_title": "D/vision",
+    "youtube_url": "https://www.youtube.com/watch?v=qngQ-mKN5XM",
+    "youtube_video_id": "qngQ-mKN5XM",
+    "youtube_match_score": null,
+    "release_year": 2017,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 217,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "congregate",
+        "syllables": "con·gre·gate",
+        "part_of_speech": "verb",
+        "definition": "To collect into an assembly or assemblage; to bring into one place, or into a united body",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/congregate"
+      }
+    ],
+    "lyrics_lines": [
+      "They can see that I'm the one, so they hate",
+      "They don't wanna see me shut it down, but I'm on the case",
+      "My enemies, they congregate, and they go on dates",
+      "Talk about me over food and wine, the fuckin' snakes",
+      "Phoned the paparazzi on yourselves, man, I thought you were famous",
+      "Told them exactly where to find you, tryna get in the papers"
+    ],
+    "full_lyrics": null,
+    "artist": "Skepta",
+    "song_title": "No Security",
+    "youtube_url": "https://www.youtube.com/watch?v=f6suaDGWmOo",
+    "youtube_video_id": "f6suaDGWmOo",
+    "youtube_match_score": null,
+    "release_year": 2017,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 218,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "pauper",
+        "syllables": "pau·per",
+        "part_of_speech": "noun",
+        "definition": "One who is extremely poor.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/pauper"
+      }
+    ],
+    "lyrics_lines": [
+      "Don't even talk too much, you're a talker",
+      "Dem man still go halves on a quarter",
+      "Saw me turn from a prince to a pauper",
+      "Two cigarettes and a bottle of water"
+    ],
+    "full_lyrics": null,
+    "artist": "Stormzy",
+    "song_title": "Shut Up",
+    "youtube_url": "https://www.youtube.com/watch?v=RqQGUJK7Na4",
+    "youtube_video_id": "RqQGUJK7Na4",
+    "youtube_match_score": null,
+    "release_year": 2015,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": 164.25,
+    "duration": 7.0,
+    "video_downloaded": true,
+    "video_path": "/home/cing/proteinqure/code/playground/rapwords/data/videos/218_RqQGUJK7Na4.mp4",
+    "output_path": "/home/cing/proteinqure/code/playground/rapwords/data/output/218_pauper.mp4",
+    "status": "processed"
+  },
+  {
+    "id": 219,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "neurologist",
+        "syllables": "neu·rol·o·gist",
+        "part_of_speech": "noun",
+        "definition": "A doctor or scientist who practices or specializes in neurology.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/neurologist"
+      }
+    ],
+    "lyrics_lines": [
+      "I be more hipper than a hippopotamus",
+      "Get off in your head like a neurologist"
+    ],
+    "full_lyrics": null,
+    "artist": "E-40",
+    "song_title": "Sprinkle Me",
+    "youtube_url": "https://www.youtube.com/watch?v=byuQVTdlfos",
+    "youtube_video_id": "byuQVTdlfos",
+    "youtube_match_score": null,
+    "release_year": 1995,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 220,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "actuality",
+        "syllables": "ac·tu·al·i·ty",
+        "part_of_speech": "noun",
+        "definition": "The state of existing; existence.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/actuality"
+      }
+    ],
+    "lyrics_lines": [
+      "\"Hey, hey—look, baby, they playin' our song!\"",
+      "And the crowd goes wild, as if Holyfield has just won the fight",
+      "But, in actuality, it's only about 3 a.m",
+      "And three niggas just done got hauled off in the ambulance (Sliced up)",
+      "Two niggas done started busting (\"Wham! Wham!\")"
+    ],
+    "full_lyrics": null,
+    "artist": "OutKast",
+    "song_title": "SpottieOttieDopaliscious",
+    "youtube_url": "https://www.youtube.com/watch?v=KwhBreZic8I",
+    "youtube_video_id": "KwhBreZic8I",
+    "youtube_match_score": null,
+    "release_year": 1998,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 221,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "rendezvous",
+        "syllables": "ren·dezvous",
+        "part_of_speech": "noun",
+        "definition": "A meeting or date.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/rendezvous"
+      }
+    ],
+    "lyrics_lines": [
+      "Somebody hit me the other day for a rendezvous",
+      "Was it the bitch that fucked the Goodie and the Dungeon crew?"
+    ],
+    "full_lyrics": null,
+    "artist": "OutKast",
+    "song_title": "Da Art of Storytellin’ [Part 1]",
+    "youtube_url": "https://www.youtube.com/watch?v=F0tamp9XdqU",
+    "youtube_video_id": "F0tamp9XdqU",
+    "youtube_match_score": null,
+    "release_year": 1999,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 222,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "actuality",
+        "syllables": "ac·tu·al·i·ty",
+        "part_of_speech": "noun",
+        "definition": "The state of existing; existence.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/actuality"
+      }
+    ],
+    "lyrics_lines": [
+      "Yo Black, I'm not playing",
+      "Need to go with this, or go with this with no delay and",
+      "See, in actuality, wonder can it be",
+      "I made it look easy, because it is to me"
+    ],
+    "full_lyrics": null,
+    "artist": "Black Sheep",
+    "song_title": "The Choice Is Yours",
+    "youtube_url": "https://www.youtube.com/watch?v=K9F5xcpjDMU",
+    "youtube_video_id": "K9F5xcpjDMU",
+    "youtube_match_score": null,
+    "release_year": 1991,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": 97.2,
+    "duration": 8.6,
+    "video_downloaded": true,
+    "video_path": "/home/cing/proteinqure/code/playground/rapwords/data/videos/222_K9F5xcpjDMU.mp4",
+    "output_path": "/home/cing/proteinqure/code/playground/rapwords/data/output/222_actuality.mp4",
+    "status": "processed"
+  },
+  {
+    "id": 223,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "epitome",
+        "syllables": "epit·o·me",
+        "part_of_speech": "noun",
+        "definition": "The embodiment or encapsulation of a class of items.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/epitome"
+      }
+    ],
+    "lyrics_lines": [
+      "We can make it hip to be",
+      "What we are 'cause what we be",
+      "Be the epitome",
+      "Doo-Dah-Dipity",
+      "So now I dwell"
+    ],
+    "full_lyrics": null,
+    "artist": "Black Sheep",
+    "song_title": "The Choice Is Yours",
+    "youtube_url": "https://www.youtube.com/watch?v=K9F5xcpjDMU",
+    "youtube_video_id": "K9F5xcpjDMU",
+    "youtube_match_score": null,
+    "release_year": 1991,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 224,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "hysterectomy",
+        "syllables": "hys·terec·to·my",
+        "part_of_speech": "noun",
+        "definition": "The surgical procedure to remove all of or part of the uterus.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/hysterectomy"
+      }
+    ],
+    "lyrics_lines": [
+      "'Cause I'll be up in that ass like a bike seat",
+      "And when it comes to boning, I'm Mr. Erect, ya see",
+      "Hoes come by the crib for a free hysterectomy",
+      "I've got a dick that I brag about",
+      "I put it in fast, then I drag it out"
+    ],
+    "full_lyrics": null,
+    "artist": "Black Sheep",
+    "song_title": "Pass the 40",
+    "youtube_url": "https://www.youtube.com/watch?v=Zgy-BTfhS6Q",
+    "youtube_video_id": "Zgy-BTfhS6Q",
+    "youtube_match_score": null,
+    "release_year": 1991,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": null,
+    "duration": null,
+    "video_downloaded": false,
+    "video_path": null,
+    "output_path": null,
+    "status": "scraped"
+  },
+  {
+    "id": 225,
+    "source": "discovered",
+    "words": [
+      {
+        "word": "preposterous",
+        "syllables": "pre·pos·ter·ous",
+        "part_of_speech": "adjective",
+        "definition": "Absurd, or contrary to common sense.",
+        "wiktionary_url": "https://en.wiktionary.org/wiki/preposterous"
+      }
+    ],
+    "lyrics_lines": [
+      "Ohh, wee, I see",
+      "your girl ain't a freak like me or Adina",
+      "Can't fade the rhinoceros of rap Lil Kim a rookie",
+      "How proposterous is that"
+    ],
+    "full_lyrics": "Heh, heheheh\nI got, no time for fake niggas\nJust sip some Cristal with these real niggas\nFrom East to West coast spread love niggas (that's right)\nAnd while you niggas talk shit we count bank figures (say what?)\nI got, no time for fake niggas (uh-uh, uh-uh)\nJust sip some Cristal with these real niggas (uh-huh, uh-huh)\nFrom East to West coast spread love niggas (that's right)\nAnd while you niggas talk shit we count bank figures (he-heh)\n(\n\"How you figure that your team can effect my cream?\"\n)\nI got, no time for fake niggas (uh-uh, uh-uh)\nJust sip some Cristal with these real niggas (uh-huh, uh-huh)\n(\n\"I rely on Bed-Stuy to shut it down if I die\"\n)\nFrom East to West coast spread love niggas (ha hahh, that's right)\nAnd while you niggas talk shit we count bank figures (Let's go)\n\nYeahhh, I Momma, Miss Ivana\nUsually rock the Prada, sometimes Gabbana\nStick you for your cream and your riches\nZsa Zsa Gabor, Demi Moore, Prince Diane and all them rich bitches\nPuff Daddy pump the Hummer for the summer\nI follow -- in the E-Class with the goggles\n'96 model, bad clique on the stroll\n(Tell 'em how we roll) cruise control\nNuthin' make a woman feel better\nThan Berettas and Amarettas, butter leathers and mad cheddars\nChillin in a Benz with my ami-gos\nTryin to stick a nigga for his pe-sos\nIf you say so's, then I'm the same chick\nThat you wanna get with, lick up in my twat\nGotta hit the spot, if not don't test the poom poom\nNanny nanny, punani donny, hey\n\nNo time for fake niggas (uh-uh, uh-uh)\nJust sip some Cristal with these real niggas (uh-huh, uh-huh)\nFrom East to West coast spread love niggas (that's right)\nAnd while you niggas talk shit we count bank figures (he heh)\n(\n\"How you figure that your team can effect my cream?\"\n)\nI got, no time for fake niggas (uh-uh, uh-uh)\nJust sip some Cristal with these real niggas (uh-huh, uh-huh)\n(\n\"I rely on Bed-Stuy to shut it down if I die\"\n)\nFrom East to West coast spread love niggas (that's right)\nAnd while you niggas talk shit we count bank figures\n\nHow you like it baby? Uhh, from the front\nUhh, from the back, give that ass a smack\nBet your man won't do it like that\nCan't work the middle, plus his thing too little\nLet me grab your ta-ta's, do the cha-cha\nMake you scream Pa-pa, you da best, Da Da\nNow watch mama, go up and down dick to jaw crazy\nUhh! Say my name baby (okay)\nBefore you nut, I'ma dribble down your butt cheeks\nMake you wiggle, then giggle just a little\nI'm drinkin babies, then I cracks for the Mercedes\nAct shady, and feel my .380 {*gun cocks*}\nOr the raven, oohwee I see\nYour girl ain't a \"Freak Like Me\", or Adina\nHuh, can't fade the rhinoceros of rap (say what?)\nLil' Kim pussy (uhh), how preposterous is that? (ha hah!)\n\nI got no time for fake niggas (uh-uh, uh-uh)\nJust sip some Cristal with these real niggas (uh-huh, uh-huh)\nFrom East to West coast spread love niggas (that's right)\nAnd while you niggas talk shit we count bank figures (he heh)\nI got, no time for fake niggas (uh-uh, uh-uh)\nJust sip some Cristal with these real niggas (uh-huh, uh-huh)\nFrom East to West coast spread love niggas (that's right)\nAnd while you niggas talk shit we count bank figures (c'mon)\n\nUhh, right back at cha, the one Cleopatra (say what?)\nDiggin' in your stash\n(Niggas think they gonna get some ass)\nNo money money\nNo licky licky -- fuck the dicky dicky\nAnd the quickie, gimme your loot\nYour MAC-11 then shoot\nYour game ain't sweet, John Paul peeps\nShouldn't compete, if you can't wet it, forget it\nDon't sweat it, I bet it'd\nMake ya cum smooth if you let it\nHuh, you can't stop a bitch from ballin\nHa-ha to la-la to drive-by's they be callin', and you ain't know\nWhile you be kickin' that old shit (talk to me) we makin hits\nPlatinum and gold shit (we don't stop)\nI stay draped in diamonds and pearls\nBeside every man is a Bad Girl\n(That's right... '96, Bad Boy, c'mon)\n\nI got no time for fake niggas (uh-uh, uh-uh)\nJust sip some Cristal with these real niggas (uh-huh, uh-huh)\nFrom East to West coast spread love niggas (that's right)\nAnd while you niggas talk shit we count bank figures (he heh)\nI got, no time for fake niggas (uh-uh, uh-uh)\nJust sip some Cristal with these real niggas (uh-huh, uh-huh)\nFrom East to West coast spread love niggas (that's right)\nAnd while you niggas talk shit we count bank figures (c'mon)\nAs we proceed, to give you what you need!\nWe continue on!\nUh-uh, uh-uh, c'mon! Hahaha",
+    "artist": "Lil’ Kim",
+    "song_title": "No Time",
+    "youtube_url": "https://www.youtube.com/watch?v=3OOtglCFZtI",
+    "youtube_video_id": "3OOtglCFZtI",
+    "youtube_match_score": 4,
+    "release_year": 1996,
+    "tumblr_date": null,
+    "flag": null,
+    "start_time": 139.05,
+    "duration": 9.4,
+    "video_downloaded": true,
+    "video_path": "/home/cing/proteinqure/code/playground/rapwords/data/videos/225_3OOtglCFZtI.mp4",
+    "output_path": "/home/cing/proteinqure/code/playground/rapwords/data/output/225_preposterous.mp4",
+    "status": "processed"
   }
 ]

@@ -82,3 +82,68 @@ def extract_bars(lyrics: str, target_word: str, context_lines: int = 4) -> list[
         else:
             start = max(0, end - context_lines)
     return lines[start:end]
+
+
+def _split_lyric_lines(full_lyrics: str) -> list[str]:
+    """Split lyrics into stripped non-empty lines (same convention as extract_bars)."""
+    return [l.strip() for l in full_lyrics.split("\n") if l.strip()]
+
+
+def _locate_window(all_lines: list[str], current_bars: list[str]) -> tuple[int, int] | None:
+    """Find [start, end) in all_lines that matches current_bars. None if not found."""
+    if not current_bars:
+        return None
+    first = current_bars[0]
+    last = current_bars[-1]
+    n = len(current_bars)
+
+    # Exact-sequence match first
+    for i in range(len(all_lines) - n + 1):
+        if all_lines[i : i + n] == current_bars:
+            return (i, i + n)
+
+    # Looser: first-line match, then verify last-line position
+    for i, line in enumerate(all_lines):
+        if line == first:
+            for j in range(i, len(all_lines)):
+                if all_lines[j] == last and j >= i:
+                    return (i, j + 1)
+
+    # Last resort: substring match on first line
+    for i, line in enumerate(all_lines):
+        if first in line:
+            # Pick a window the same length as current_bars, clipped to bounds
+            end = min(len(all_lines), i + n)
+            return (i, end)
+
+    return None
+
+
+def nudge_bars(
+    full_lyrics: str,
+    current_bars: list[str],
+    delta_before: int = 0,
+    delta_after: int = 0,
+) -> list[str]:
+    """Return an adjusted bar window, growing/shrinking relative to current_bars.
+
+    - delta_before > 0  prepends that many lines from the song.
+    - delta_before < 0  drops that many lines from the top of the current window.
+    - delta_after  > 0  appends that many lines from the song.
+    - delta_after  < 0  drops that many lines from the bottom of the current window.
+
+    Clipped to song bounds and to always keep at least one line. If the current
+    bars can't be located inside full_lyrics, returns current_bars unchanged.
+    """
+    all_lines = _split_lyric_lines(full_lyrics)
+    located = _locate_window(all_lines, current_bars)
+    if located is None:
+        return current_bars
+
+    start, end = located
+    new_start = max(0, start - delta_before)
+    new_end = min(len(all_lines), end + delta_after)
+    # Guarantee a non-empty window
+    if new_end <= new_start:
+        new_end = min(len(all_lines), new_start + 1)
+    return all_lines[new_start:new_end]

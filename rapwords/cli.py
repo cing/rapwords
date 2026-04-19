@@ -9,6 +9,7 @@ import click
 from rich.console import Console
 from rich.table import Table
 
+from rapwords.config import censor_text
 from rapwords.content.store import PostStore
 from rapwords.models import FeaturedWord, PartOfSpeech, RapWordsPost
 
@@ -468,7 +469,7 @@ def _generate_caption(post: RapWordsPost) -> str:
     lines.append("")
 
     for line in post.lyrics_lines:
-        lines.append(f'"{line}"')
+        lines.append(f'"{censor_text(line)}"')
 
     if post.artist or post.song_title:
         attribution = f"— {post.artist}, \"{post.song_title}\""
@@ -838,9 +839,83 @@ def backfill_years():
     console.print(f"\n[green]Updated {updated}/{len(missing)} posts.[/green]")
 
 
+def _render_candidate(console, word, bars, yt, yt_alt_count):
+    """Render the current bars + chosen YouTube video for the interactive loop."""
+    console.print("[dim]Bars:[/dim]")
+    if bars:
+        for line in bars:
+            if word.lower() in line.lower():
+                console.print(f"  [bold yellow]{line}[/bold yellow]")
+            else:
+                console.print(f"  {line}")
+    else:
+        console.print("  [yellow](empty)[/yellow]")
+
+    if yt:
+        alt_note = f", {yt_alt_count} alt" if yt_alt_count else ""
+        console.print(
+            f"[dim]YouTube:[/dim] {yt.title} "
+            f"[dim](score {yt.score}{alt_note})[/dim]"
+        )
+        console.print(f"[dim]{yt.url}[/dim]")
+    else:
+        console.print("[yellow]No YouTube video found.[/yellow]")
+
+
+def _interactive_nudge(console, word, full_lyrics, bars, yt, nudge_bars):
+    """Prompt loop around a candidate. Returns (action, bars, yt).
+
+    action is one of: "add", "skip", "quit".
+    """
+    video_stack = [yt] if yt else []
+    if yt and yt.alternatives:
+        video_stack.extend(yt.alternatives)
+    video_idx = 0
+
+    # Plain ASCII help — rendered with markup=False so rich doesn't eat the
+    # bracketed keys as style tags.
+    help_lines = [
+        "[enter] add     [p] +prev line   [P] drop top     [v] swap video",
+        "[s] skip        [n] +next line   [N] drop last    [q] quit",
+    ]
+
+    while True:
+        console.print()
+        current_yt = video_stack[video_idx] if video_stack else None
+        alt_count = len(video_stack) - 1 if video_stack else 0
+        _render_candidate(console, word, bars, current_yt, alt_count)
+        for line in help_lines:
+            console.print(line, style="dim", markup=False, highlight=False)
+
+        ch = click.getchar(echo=False)
+        if ch in ("\r", "\n", "a", "A"):
+            return "add", bars, current_yt
+        if ch in ("s", "S"):
+            return "skip", bars, current_yt
+        if ch in ("q", "Q"):
+            return "quit", bars, current_yt
+        if ch == "p":
+            bars = nudge_bars(full_lyrics, bars, delta_before=1, delta_after=0)
+        elif ch == "n":
+            bars = nudge_bars(full_lyrics, bars, delta_before=0, delta_after=1)
+        elif ch == "P":
+            bars = nudge_bars(full_lyrics, bars, delta_before=-1, delta_after=0)
+        elif ch == "N":
+            bars = nudge_bars(full_lyrics, bars, delta_before=0, delta_after=-1)
+        elif ch == "v":
+            if len(video_stack) > 1:
+                video_idx = (video_idx + 1) % len(video_stack)
+            else:
+                console.print("(no alternative videos)", style="yellow", highlight=False)
+        else:
+            console.print(f"(unknown key: {ch!r})", style="yellow", highlight=False)
+
+
 def _process_candidates(candidates, selected, store, auto, extract_bars, get_definition,
                         find_youtube_video, console):
     """Process selected discover candidates — show details, confirm, and add to store."""
+    from rapwords.discover.bars import nudge_bars
+
     added = 0
     for idx in selected:
         if idx < 0 or idx >= len(candidates):
@@ -853,18 +928,11 @@ def _process_candidates(candidates, selected, store, auto, extract_bars, get_def
 
         # Extract bars
         bars = extract_bars(s.lyrics, word)
-        if bars:
-            console.print("[dim]Bars:[/dim]")
-            for line in bars:
-                if word.lower() in line.lower():
-                    console.print(f"  [bold yellow]{line}[/bold yellow]")
-                else:
-                    console.print(f"  {line}")
-        else:
+        if not bars:
             console.print("[yellow]Could not extract bars around this word.[/yellow]")
             bars = []
 
-        # Get definition
+        # Get definition (uses initial bars; user can still nudge after)
         context = ". ".join(bars) if bars else None
         defn = get_definition(word, context_sentence=context)
         if defn:
@@ -875,18 +943,22 @@ def _process_candidates(candidates, selected, store, auto, extract_bars, get_def
         else:
             console.print("[yellow]No definition found on Wiktionary.[/yellow]")
 
-        # Find YouTube video
+        # Find YouTube video (top-N, scored)
         with console.status(f"[dim]Searching YouTube for {s.artist} — {s.title}...[/dim]"):
             yt = find_youtube_video(s.artist, s.title)
-        if yt:
-            console.print(f"[dim]YouTube:[/dim] {yt.title}")
-            console.print(f"[dim]{yt.url}[/dim]")
-        else:
-            console.print("[yellow]No YouTube video found.[/yellow]")
 
-        if not auto:
-            if not click.confirm("Add this post?", default=True):
+        if auto:
+            _render_candidate(console, word, bars, yt, len(yt.alternatives) if yt else 0)
+            chosen_yt = yt
+        else:
+            action, bars, chosen_yt = _interactive_nudge(
+                console, word, s.lyrics, bars, yt, nudge_bars
+            )
+            if action == "skip":
                 continue
+            if action == "quit":
+                console.print("[yellow]Quitting discover.[/yellow]")
+                break
 
         # Create post
         featured_word = FeaturedWord(
@@ -902,10 +974,12 @@ def _process_candidates(candidates, selected, store, auto, extract_bars, get_def
             source="discovered",
             words=[featured_word],
             lyrics_lines=bars,
+            full_lyrics=s.lyrics,
             artist=s.artist,
             song_title=s.title,
-            youtube_url=yt.url if yt else None,
-            youtube_video_id=yt.video_id if yt else None,
+            youtube_url=chosen_yt.url if chosen_yt else None,
+            youtube_video_id=chosen_yt.video_id if chosen_yt else None,
+            youtube_match_score=chosen_yt.score if chosen_yt else None,
             release_year=s.release_year,
         )
 
@@ -926,7 +1000,8 @@ def _process_candidates(candidates, selected, store, auto, extract_bars, get_def
 @click.option("--auto", is_flag=True, default=False, help="Auto-add all discovered words without prompting")
 @click.option("--max-zipf", default=3.5, type=float, help="Max Zipf frequency score (lower = rarer, default 3.5)")
 @click.option("--min-length", default=5, type=int, help="Minimum word length (default 5)")
-def discover(artist, song, word, max_songs, auto, max_zipf, min_length):
+@click.option("--no-slang-filter", is_flag=True, default=False, help="Accept Scrabble-valid words even if absent from NLTK's standard English dict")
+def discover(artist, song, word, max_songs, auto, max_zipf, min_length, no_slang_filter):
     """Discover new big words in hip-hop lyrics from Genius.
 
     Use --max-zipf and --min-length to control word rarity:
@@ -1039,7 +1114,12 @@ def discover(artist, song, word, max_songs, auto, max_zipf, min_length):
     # Scan each song for big words
     candidates: list[dict] = []
     for s in songs:
-        big_words = find_big_words(s.lyrics, max_zipf=max_zipf, min_length=min_length)
+        big_words = find_big_words(
+            s.lyrics,
+            max_zipf=max_zipf,
+            min_length=min_length,
+            slang_filter=not no_slang_filter,
+        )
         for bw in big_words:
             candidates.append({
                 "word": bw,
